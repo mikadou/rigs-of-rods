@@ -9,8 +9,24 @@ endif(COMMAND cmake_policy)
 if (WIN32) 
 	set(CMAKE_CONFIGURATION_TYPES "RelWithDebInfo;Release" CACHE STRING "" FORCE)
 endif()
-	
-project(RoR)
+
+################################################################################
+# Project definition
+################################################################################
+set(PROJECT_NAME_SHORT "RoR")
+set(PROJECT_NAME_LONG  "Rigs of Rods")
+
+project(${PROJECT_NAME_SHORT})
+
+
+################################################################################
+# Available build options
+################################################################################
+option(BUILD_DOC_DOXYGEN "Provide doc-doxygen target for building documentation with Doxygen." OFF)
+
+
+
+
 include(CMakeMacros.txt)
 
 
@@ -107,7 +123,19 @@ ELSEIF(UNIX)
   set(CMAKE_MODULE_LINKER_FLAGS_DEBUG       "${CMAKE_MODULE_LINKER_FLAGS_DEBUG} -Og -ggdb")
 endif(WIN32)
 
+
+################################################################################
+# Check for dependencies
+################################################################################
 include(CMakeDependenciesConfig.txt)
 
+if(BUILD_DOC_DOXYGEN)
+  find_package(Doxygen REQUIRED)
+endif()
 
+
+################################################################################
+# Recurse into subdirectories
+################################################################################
 add_subdirectory(source)
+add_subdirectory(doc)
