@@ -5,6 +5,7 @@ cmake -DROR_USE_MYGUI="TRUE" \
 -DROR_USE_CAELUM="TRUE" \
 -DROR_USE_ANGELSCRIPT="TRUE" \
 -DCMAKE_CXX_FLAGS="-O0" \
+-DBUILD_DOC_DOXYGEN="TRUE"
 .
 
-make -j2
+make doc-doxygen 
