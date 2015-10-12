@@ -21,4 +21,6 @@ cp -R ../doc/doxygen/html/* .
 
 git add -A
 git commit -m "[AUTO] Update documentation."
-git push upstream gh-pages
+
+echo "Pushing updated documentation to remote gh-pages branch."
+git push gh-pages
