@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#ae0f2af92699b413199c31438dd41b84b" title="RoR::RigEditor::Rig::RefreshNodeScreenPosition" alt="" coords="395,59,707,88"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_camera_handler.html#a7b05083877a82e1f236997822f650de5" title="RoR::RigEditor::CameraHandler::ConvertWorldToScreenPosition" alt="" coords="756,5,1156,35"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_node.html#aefebb9cd1a67bbb2afc980b0f8baab12" title="RoR::RigEditor::Node::GetPosition" alt="" coords="843,59,1069,88"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_node.html#a767984547bdd6398423af057bf1346a2" title="RoR::RigEditor::Node::SetScreenPosition" alt="" coords="823,112,1089,141"/>
-</map>

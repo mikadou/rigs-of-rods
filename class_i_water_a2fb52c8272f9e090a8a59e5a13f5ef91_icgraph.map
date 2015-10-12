@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_game_script.html#a7ae240958e42c6a02c3eab5cf1c0002f" title="GameScript::setWaterHeight" alt="" coords="233,5,423,35"/>
-<area shape="rect" id="node5" href="$class_survey_map_texture_creator.html#aeeb03c9272b7b29ff6d346a9f4611dc5" title="SurveyMapTextureCreator::preRenderTargetUpdate" alt="" coords="167,59,489,88"/>
-<area shape="rect" id="node9" href="$class_survey_map_texture_creator.html#aeee3a35731188515be6a257bab889a84" title="SurveyMapTextureCreator::postRenderTargetUpdate" alt="" coords="164,112,492,141"/>
-<area shape="rect" id="node7" href="$class_survey_map_texture_creator.html#a889f0dd0655063c8cb78116cee9e6b1d" title="SurveyMapTextureCreator::update" alt="" coords="543,85,764,115"/>
-</map>

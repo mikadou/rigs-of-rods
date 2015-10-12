@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getSingleton" alt="" coords="188,5,543,35"/>
-<area shape="rect" id="node5" href="$class_beam_factory.html#a5f3755f8cd44e6972e463cc6aaa9f181" title="BeamFactory::getTruckCount" alt="" coords="268,59,463,88"/>
-<area shape="rect" id="node7" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="287,112,444,141"/>
-<area shape="rect" id="node9" href="$class_beam.html#a0550cfe159057ed02364c9425f279265" title="Beam::getTruckName" alt="" coords="291,165,440,195"/>
-<area shape="rect" id="node11" href="$class_beam.html#a7c810f9fc80089c7d43bc799bccf182d" title="Beam::getTruckFileName" alt="" coords="280,219,451,248"/>
-<area shape="rect" id="node13" href="$class_beam.html#a3c6ce454e46f37e33b0e21ff70775af8" title="Beam::getTruckHash" alt="" coords="292,272,439,301"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_beam_factory.html#a508cb7a834236ed7786f780bbe6f84f6" title="BeamFactory::repairTruck" alt="" coords="280,5,453,35"/>
-<area shape="rect" id="node7" href="$class_beam_factory.html#ac8a9a6f08309a8a30f714e0480eaded6" title="BeamFactory::removeTruck" alt="" coords="275,59,459,88"/>
-<area shape="rect" id="node5" href="$class_game_script.html#ae03ec6ab884db49101677f34621651b7" title="GameScript::repairVehicle" alt="" coords="533,5,707,35"/>
-<area shape="rect" id="node9" href="$class_beam_factory.html#afa248b1ef2e676da82dc5aa71a572d32" title="BeamFactory::removeCurrentTruck" alt="" coords="507,59,733,88"/>
-<area shape="rect" id="node15" href="$class_game_script.html#ab2bdcdd885e42e7d5db9c648721708b5" title="GameScript::removeVehicle" alt="" coords="528,112,712,141"/>
-<area shape="rect" id="node11" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::updateEvents" alt="" coords="783,59,1001,88"/>
-<area shape="rect" id="node13" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1052,59,1265,88"/>
-</map>

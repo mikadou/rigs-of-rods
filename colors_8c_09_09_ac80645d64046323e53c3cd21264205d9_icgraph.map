@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$colors_8c_09_09.html#ae53c5b0059bea86328f1bb34ba971eb2" title="libirc_colorparser_applymask" alt="" coords="233,57,423,87"/>
-<area shape="rect" id="node14" href="$colors_8c_09_09.html#a46507748d53fc6cc318314a084bae4a3" title="libirc_colorparser_applycolor" alt="" coords="472,109,659,139"/>
-<area shape="rect" id="node17" href="$libircclient_8h.html#a599daf01d59725e701322bde0cc1dec3" title="Converts all the color codes from libircclient format to mIRC." alt="" coords="243,161,413,191"/>
-<area shape="rect" id="node5" href="$colors_8c_09_09.html#ab7a97ff431e37728d78b23eeafbbba2a" title="libirc_colorparser_closetags" alt="" coords="475,5,656,35"/>
-<area shape="rect" id="node7" href="$colors_8c_09_09.html#a27d1a11ad5032d2753ab8995b25a385b" title="libirc_colorparser_irc2code" alt="" coords="707,57,883,87"/>
-<area shape="rect" id="node9" href="$libircclient_8h.html#aa3c2628e7d6f574446b4fed861b1df4f" title="Removes all the color codes and format options." alt="" coords="940,31,1108,60"/>
-<area shape="rect" id="node11" href="$libircclient_8h.html#a5628715bfbd937bac5f16fc8f9e90c85" title="Converts all the color codes and format options to libircclient colors." alt="" coords="931,84,1117,113"/>
-</map>

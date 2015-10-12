@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$struct_ro_r_1_1_rig_editor_1_1_config.html" title="RoR::RigEditor::Config" alt="" coords="81,317,239,347"/>
-<area shape="rect" id="node4" href="$struct_ro_r_1_1_rig_editor_1_1_gui_panel_position_data.html" title="RoR::RigEditor::GuiPanelPositionData" alt="" coords="5,101,251,131"/>
-<area shape="rect" id="node6" href="$class_ro_r_1_1_rig_editor_1_1_node.html" title="RoR::RigEditor::Node" alt="" coords="293,317,443,347"/>
-<area shape="rect" id="node8" href="$struct_rig_def_1_1_node.html" title="RigDef::Node" alt="" coords="296,101,397,131"/>
-<area shape="rect" id="node10" href="$class_rig_def_1_1_node_1_1_id.html" title="RigDef::Node::Id" alt="" coords="287,5,407,35"/>
-<area shape="rect" id="node12" href="$struct_ro_r_1_1_rig_editor_1_1_vector2t.html" title="RoR::RigEditor::Vector2t\&lt; int \&gt;" alt="" coords="421,101,627,131"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_loading_profiler.html#aa5a5a24ce3478c2ec971d610f2881b43" title="RoR::RigLoadingProfiler::Restart" alt="" coords="265,5,479,35"/>
-<area shape="rect" id="node7" href="$class_precision_timer.html#a99fcefcc051dacc2e47236323b7e0311" title="PrecisionTimer::elapsed" alt="" coords="291,59,453,88"/>
-<area shape="rect" id="node5" href="$class_precision_timer.html#a8433a3ba0af62a025d512c09f2eade3d" title="PrecisionTimer::restart" alt="" coords="528,5,683,35"/>
-</map>

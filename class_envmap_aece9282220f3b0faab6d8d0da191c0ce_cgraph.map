@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_envmap.html#a54ca92bba697de53dfd649b7b1986d3c" title="Envmap::init" alt="" coords="229,5,323,35"/>
-<area shape="rect" id="node5" href="$class_beam.html#a07ff56bd77cb7dc8060ee294132aac06" title="Beam::setMeshVisibility" alt="" coords="195,59,357,88"/>
-<area shape="rect" id="node7" href="$class_beam.html#ad0a27ec953669a94712665977c8aac1f" title="Beam::setBeamVisibility" alt="" coords="193,112,359,141"/>
-<area shape="rect" id="node9" href="$class_terrain_manager.html#a8e6d5a2d56a68ca3cca011a35e8a6301" title="TerrainManager::getSkyManager" alt="" coords="171,165,381,195"/>
-</map>

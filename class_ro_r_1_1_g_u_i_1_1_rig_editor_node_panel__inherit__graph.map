@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_node_panel_layout.html" title="RoR::GUI::RigEditorNodePanelLayout" alt="" coords="5,83,251,112"/>
-<area shape="rect" id="node4" href="$classwraps_1_1_base_layout.html" title="wraps::BaseLayout" alt="" coords="61,5,195,35"/>
-<area shape="rect" id="node6" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html" title="RoR::RigEditor::RigElementGuiPanelBase" alt="" coords="275,83,544,112"/>
-<area shape="rect" id="node8" href="$class_ro_r_1_1_gui_panel_base.html" title="RoR::GuiPanelBase" alt="" coords="340,5,479,35"/>
-</map>

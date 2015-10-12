@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#af6175dd6ee639e86fa8784742819ef1e" title="RoR::RigEditor::Rig::BuildFromModule" alt="" coords="352,59,600,88"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a313a85e2e173bd3d0ea38e5135f68e1b" title="RoR::RigEditor::Rig::Build" alt="" coords="648,59,824,88"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a0ae39993d636eacc5dfe567c5f5ac4b9" title="RoR::RigEditor::Main::LoadRigDefFile" alt="" coords="919,32,1164,61"/>
-<area shape="rect" id="node15" href="$class_ro_r_1_1_rig_editor_1_1_main.html#ad136bb804b1accbfed00705895f86362" title="RoR::RigEditor::Main::CommandCreateNewEmptyRig" alt="" coords="872,85,1211,115"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a35a10d6c23920802442d32fab1a8d470" title="RoR::RigEditor::Main::NotifyFileSelectorEnded" alt="" coords="1259,32,1555,61"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a4f73e9dc5632524ca803864460b82bb5" title="RoR::RigEditor::Main::CommandShowDialogOpenRigFile" alt="" coords="1611,5,1968,35"/>
-<area shape="rect" id="node13" href="$class_ro_r_1_1_rig_editor_1_1_main.html#acb4af1361d9233f5ee2fa658536a7658" title="RoR::RigEditor::Main::CommandShowDialogSaveRigFileAs" alt="" coords="1604,59,1975,88"/>
-</map>

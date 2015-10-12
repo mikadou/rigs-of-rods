@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_hydrax.html#a4f6dfef270938f04d0430eaf8e1fa88f" title="Hydrax::Hydrax::getSceneManager" alt="" coords="203,5,429,35"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_decal.html#a53da5b1cb4fc6d8cd470d23255cbcc7a" title="Hydrax::Decal::setPosition" alt="" coords="227,59,405,88"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_decal.html#ae48299846460ba4022683faba3f826be" title="Hydrax::Decal::setSize" alt="" coords="237,112,395,141"/>
-<area shape="rect" id="node9" href="$class_hydrax_1_1_decal.html#a5dc16dca9688e2bb46f0770a7375902c" title="Hydrax::Decal::setOrientation" alt="" coords="219,165,413,195"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_beams_panel.html#acf990ad13a10ad888caf4ccf5d70d6f4" title="RoR::GUI::RigEditorBeamsPanel::UpdatePlainBeamData" alt="" coords="477,5,835,35"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_commands2_panel.html#ac81fcc6c27abd19991cd38304f72cb2e" title="RoR::GUI::RigEditorCommands2Panel::UpdateCommand2Data" alt="" coords="459,59,853,88"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_hydros_panel.html#a91ea4ea54434620d5ffaa78b2be26ecc" title="RoR::GUI::RigEditorHydrosPanel::UpdateHydrosData" alt="" coords="487,112,825,141"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_node_panel.html#ab0d31f7f00a5f96d192e5d8ed2abcea4" title="RoR::GUI::RigEditorNodePanel::UpdateNodeData" alt="" coords="499,165,813,195"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_shocks2_panel.html#ac0cfc7bc83531ec0337407b6fdba7cc5" title="RoR::GUI::RigEditorShocks2Panel::UpdateShock2Data" alt="" coords="481,219,831,248"/>
-<area shape="rect" id="node13" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_shocks_panel.html#ab6c78ea0ede6a6410a0b151fb6d85dd7" title="RoR::GUI::RigEditorShocksPanel::UpdateShockData" alt="" coords="489,272,823,301"/>
-</map>

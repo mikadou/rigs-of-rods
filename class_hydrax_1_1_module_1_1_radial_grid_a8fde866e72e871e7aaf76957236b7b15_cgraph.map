@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_mesh.html#a2eca9f2fe7879fd541163a5b21b17323" title="Hydrax::Mesh::getSubMesh" alt="" coords="381,5,565,35"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_mesh.html#a429bf7b9c15604e6a2e3a988b2473484" title="Hydrax::Mesh::getHardwareVertexBuffer" alt="" coords="344,59,603,88"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_mesh.html#ab7eee5c0eafda96c493533ae26e73c65" title="Hydrax::Mesh::getHardwareIndexBuffer" alt="" coords="347,112,600,141"/>
-</map>

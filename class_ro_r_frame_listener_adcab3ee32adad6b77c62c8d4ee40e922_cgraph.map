@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_application.html#a59a97190a3dea812d1f28504db82dc95" title="RoR::Application::GetOverlayWrapper" alt="" coords="317,5,560,35"/>
-<area shape="rect" id="node5" href="$class_overlay_wrapper.html#af81f1dc4764b5b656403d27fc484b62a" title="OverlayWrapper::updateStats" alt="" coords="341,59,536,88"/>
-<area shape="rect" id="node9" href="$class_heat_haze.html#a8c17c8bdda8e6500f9684d3dc080188f" title="HeatHaze::update" alt="" coords="375,112,503,141"/>
-<area shape="rect" id="node11" href="$class_ro_r_singleton.html#a18a797fc35bd8cfa8a2affdd197cbfee" title="RoRSingleton\&lt; NetworkStreamManager \&gt;::getSingleton" alt="" coords="265,165,612,195"/>
-<area shape="rect" id="node13" href="$class_network_stream_manager.html#a93660795f66c83d08ca2686b67dc4c3c" title="NetworkStreamManager::update" alt="" coords="333,219,544,248"/>
-<area shape="rect" id="node7" href="$_utils_8cpp.html#a089caf9c0bd4d3e14e1ed8e17d7bc4cc" title="formatBytes" alt="" coords="661,59,755,88"/>
-</map>

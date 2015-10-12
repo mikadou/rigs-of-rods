@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_projected_grid_8cpp.html" title="source/main/gfx/hydrax/ProjectedGrid.cpp" alt="" coords="5,83,272,112"/>
-<area shape="rect" id="node5" href="$_hydrax_water_8h.html" title="source/main/gfx/HydraxWater.h" alt="" coords="296,83,501,112"/>
-<area shape="rect" id="node7" href="$_hydrax_water_8cpp.html" title="source/main/gfx/HydraxWater.cpp" alt="" coords="157,160,379,189"/>
-<area shape="rect" id="node9" href="$_terrain_manager_8cpp.html" title="source/main/terrain/TerrainManager.cpp" alt="" coords="403,160,653,189"/>
-</map>

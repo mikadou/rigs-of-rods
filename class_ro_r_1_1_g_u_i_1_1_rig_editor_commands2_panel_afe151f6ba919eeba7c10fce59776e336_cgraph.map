@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_commands2_panel.html#a19b82e0c8cfc1e6770bb92fed932016d" title="RoR::GUI::RigEditorCommands2Panel::CallbackClick_NeedsEngineChekckbox" alt="" coords="472,5,963,35"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#a812b3d695c48529c4ca8abb38d50dd84" title="RoR::RigEditor::RigElementGuiPanelBase::AlignToScreen" alt="" coords="536,59,899,88"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_gui_panel_base.html#a9d1fac699ff4d79c1007af21c24443e9" title="RoR::GuiPanelBase::GetWidthPixels" alt="" coords="1013,5,1251,35"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_gui_panel_base.html#a0610633a6bb4693e333a260935e9ae3c" title="RoR::GuiPanelBase::GetHeightPixels" alt="" coords="1011,59,1253,88"/>
-<area shape="rect" id="node14" href="$class_ro_r_1_1_gui_panel_base.html#a7e4cd733a76df97224472bdb5fb09842" title="RoR::GuiPanelBase::SetPosition" alt="" coords="1025,112,1239,141"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_gui_panel_base.html#a5e33ecbbdbbc4ea1e9369560a753f938" title="RoR::GuiPanelBase::GetSizePixels" alt="" coords="1303,32,1532,61"/>
-</map>

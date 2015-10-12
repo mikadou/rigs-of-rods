@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_rig_spawner_report_window_layout.html" title="RoR::GUI::RigSpawnerReportWindowLayout" alt="" coords="5,85,291,115"/>
-<area shape="rect" id="node4" href="$classwraps_1_1_base_layout.html" title="wraps::BaseLayout" alt="" coords="81,5,215,35"/>
-<area shape="rect" id="node6" href="$class_ro_r_1_1_gui_panel_base.html" title="RoR::GuiPanelBase" alt="" coords="315,85,453,115"/>
-<area shape="rect" id="node8" href="$class_ro_r_1_1_gui_manager_interface.html" title="RoR::GuiManagerInterface" alt="" coords="477,85,656,115"/>
-</map>

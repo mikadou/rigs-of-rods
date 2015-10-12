@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_application.html#ac5b228d074e3252101179a88c21fcb92" title="RoR::Application::GetMainThreadLogic" alt="" coords="279,5,527,35"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_main_thread.html#a3ef55c04b40996d3344b54ccdfa0c3e7" title="RoR::MainThread::SetNextApplicationState" alt="" coords="265,59,540,88"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_main_thread.html#abaada327351034aa2c1dce8100a43b53" title="RoR::MainThread::RequestExitCurrentLoop" alt="" coords="265,112,540,141"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_shocks_panel.html#abc32eccd8d5d1586caa1d924bb5ca93a" title="Wrapper around Base&#39;s callback &#45; needed to bind." alt="" coords="648,5,1243,35"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#ae33caa4c1e226b864b966993ca6c9060" title="RoR::RigEditor::RigElementGuiPanelBase::SetupEditboxField" alt="" coords="753,59,1137,88"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#a0e5caf4843c1267c9333b90b1cfb976f" title="RoR::RigEditor::RigElementGuiPanelBase::SetupGenericField" alt="" coords="753,112,1137,141"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_shocks_panel.html#a1d31987b03430102a9cc43a3d4900d4a" title="RoR::GUI::RigEditorShocksPanel::RigEditorShocksPanel" alt="" coords="1292,5,1649,35"/>
-</map>

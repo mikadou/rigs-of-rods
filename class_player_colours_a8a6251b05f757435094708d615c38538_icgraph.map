@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_character.html#a86d1a210a197d0e6107963de0efb0d40" title="Character::updateCharacterColour" alt="" coords="251,59,472,88"/>
-<area shape="rect" id="node5" href="$class_character.html#af66e892ae9ab0bc74278e55754400b2d" title="Character::updateNetLabel" alt="" coords="520,59,699,88"/>
-<area shape="rect" id="node7" href="$class_character.html#a2b381f85738c4ede878be18925e1ce81" title="Character::Character" alt="" coords="823,5,967,35"/>
-<area shape="rect" id="node9" href="$class_character_factory.html#aba10150e9cffe503714dca7faaa9b780" title="CharacterFactory::localUserAttributesChanged" alt="" coords="748,59,1041,88"/>
-<area shape="rect" id="node11" href="$class_character_factory.html#a4c9df69b8d726f031d75479ea7bdd326" title="CharacterFactory::netUserAttributesChanged" alt="" coords="752,112,1037,141"/>
-</map>

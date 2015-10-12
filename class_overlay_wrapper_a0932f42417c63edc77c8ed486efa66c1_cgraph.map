@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_aero_engine.html#a3455377c40761670b0b8d1b2b60098b5" title="AeroEngine::getThrottle" alt="" coords="284,5,441,35"/>
-<area shape="rect" id="node5" href="$class_aero_engine.html#a92371208b22f9c2f28c6850a92bbec3d" title="AeroEngine::isFailed" alt="" coords="292,59,433,88"/>
-<area shape="rect" id="node7" href="$class_aero_engine.html#a427f0ecccc7b71c9188f0443448981c8" title="AeroEngine::getRPMpc" alt="" coords="284,112,441,141"/>
-<area shape="rect" id="node9" href="$class_aero_engine.html#a6d67284b994e8fa6b6d2896feee03951" title="AeroEngine::getType" alt="" coords="291,165,435,195"/>
-<area shape="rect" id="node11" href="$class_aero_engine.html#acee24708de2de2dd8491e6d404fa637b" title="AeroEngine::getIgnition" alt="" coords="284,219,441,248"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="RigDef::Parser::AddMessage" alt="" coords="721,26,913,56"/>
-<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#a1e722bd3b7ed5144eecfa1907df2adba" title="RigDef::Parser::_ParseDirectiveAddAnimationMode" alt="" coords="344,26,667,56"/>
-<area shape="rect" id="node8" href="$class_rig_def_1_1_parser.html#a41e502c62d82c50421cfd52cd97744fe" title="RigDef::Parser::_ParseDirectiveAddAnimationSource" alt="" coords="340,80,671,109"/>
-</map>

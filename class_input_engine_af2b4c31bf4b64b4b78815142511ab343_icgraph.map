@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$struct_ro_r_1_1_aircraft_simulation.html#a3db164bd65ba10630912b8a76537f69f" title="RoR::AircraftSimulation::UpdateVehicle" alt="" coords="324,5,577,35"/>
-<area shape="rect" id="node5" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a830e19b0460db3df601abe83096f78d7" title="RoR::LandVehicleSimulation::UpdateVehicle" alt="" coords="309,59,592,88"/>
-<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::updateEvents" alt="" coords="341,112,560,141"/>
-<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="641,112,855,141"/>
-</map>

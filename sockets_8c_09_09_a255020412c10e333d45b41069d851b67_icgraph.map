@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$sockets_8c_09_09.html#a66417bc014d77b4334b377232f3ef095" title="socket_connect" alt="" coords="149,5,264,35"/>
-<area shape="rect" id="node7" href="$sockets_8c_09_09.html#a4eed5bf06bda554efd41f1d5b508e5db" title="socket_accept" alt="" coords="153,59,260,88"/>
-<area shape="rect" id="node11" href="$sockets_8c_09_09.html#a6d8f789d5b1b9cc70c7bff3820df5ee8" title="socket_recv" alt="" coords="160,112,253,141"/>
-<area shape="rect" id="node14" href="$sockets_8c_09_09.html#a37217839c59a831d8665709931438ba3" title="socket_send" alt="" coords="159,165,255,195"/>
-<area shape="rect" id="node5" href="$libircclient_8h.html#a43f747d3b2252109f9d811ea8414745b" title="Accepts a remote DCC CHAT or DCC RECVFILE request." alt="" coords="359,5,468,35"/>
-<area shape="rect" id="node9" href="$dcc_8c_09_09.html#a9a7cc94e78b507f62eb6b8a444c29277" title="libirc_dcc_process_descriptors" alt="" coords="313,112,513,141"/>
-</map>

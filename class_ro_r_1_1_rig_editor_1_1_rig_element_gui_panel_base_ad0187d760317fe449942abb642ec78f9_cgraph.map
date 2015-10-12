@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$struct_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base_1_1_generic_field_spec.html#ae161ba91d864a7d7a65d04d14cc49257" title="RoR::RigEditor::RigElementGuiPanelBase::GenericFieldSpec::IsSourceUniform" alt="" coords="461,5,947,35"/>
-<area shape="rect" id="node5" href="$struct_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base_1_1_generic_field_spec.html#a66468fe1df6d78c0589a47e7111b8594" title="RoR::RigEditor::RigElementGuiPanelBase::GenericFieldSpec::GetSourceFloat" alt="" coords="464,59,944,88"/>
-<area shape="rect" id="node7" href="$struct_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base_1_1_generic_field_spec.html#a192249f405da10c4c7cc797d82899b91" title="RoR::RigEditor::RigElementGuiPanelBase::GenericFieldSpec::GetSourceInt" alt="" coords="471,112,937,141"/>
-<area shape="rect" id="node9" href="$struct_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base_1_1_generic_field_spec.html#a2f140a5e66c648a4b401dfdd4a183095" title="RoR::RigEditor::RigElementGuiPanelBase::GenericFieldSpec::GetSourceString" alt="" coords="461,165,947,195"/>
-<area shape="rect" id="node11" href="$struct_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base_1_1_generic_field_spec.html#aadb1b90882ac5167d0f35e81238c1279" title="RoR::RigEditor::RigElementGuiPanelBase::GenericFieldSpec::GetSourceRawPtr" alt="" coords="457,219,951,248"/>
-<area shape="rect" id="node13" href="$class_rig_def_1_1_node_1_1_id.html#a2e84af09c5b954252ed2af4a4bcfdeeb" title="RigDef::Node::Id::ToString" alt="" coords="615,272,793,301"/>
-</map>

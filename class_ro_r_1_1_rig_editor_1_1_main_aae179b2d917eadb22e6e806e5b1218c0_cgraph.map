@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#acf591ddaa7076f04007851ad52e4c2b5" title="RoR::RigEditor::Rig::SelectedNodesUpdateAttributes" alt="" coords="479,139,812,168"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_node.html#a96df42eb7849b0a74a0332ca22b71993" title="RoR::RigEditor::Node::IsSelected" alt="" coords="913,5,1132,35"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_node.html#a2432fe0284242cabdb2322f67c2010e3" title="RoR::RigEditor::Node::SetDefinitionDetacherGroup" alt="" coords="863,59,1183,88"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_node.html#a43431312db8350d49ffe9689cefe4de6" title="RoR::RigEditor::Node::SetDefinitionLoadWeight" alt="" coords="872,112,1173,141"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_rig_editor_1_1_node.html#ad77cdbf55b590617d90e995c4544c660" title="RoR::RigEditor::Node::GetDefinitionFlags" alt="" coords="889,165,1156,195"/>
-<area shape="rect" id="node13" href="$_bit_flags_8h.html#a63b4d326c379e529b18f9d5a0e792b32" title="Bitmask_SetBool" alt="" coords="961,219,1084,248"/>
-<area shape="rect" id="node15" href="$class_ro_r_1_1_rig_editor_1_1_node.html#a52de861ada45c0c715e92a58a04ab256" title="RoR::RigEditor::Node::SetDefinitionFlags" alt="" coords="891,272,1155,301"/>
-</map>

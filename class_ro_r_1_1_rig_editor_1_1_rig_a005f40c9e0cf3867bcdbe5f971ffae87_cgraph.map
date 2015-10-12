@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_node.html#a96df42eb7849b0a74a0332ca22b71993" title="RoR::RigEditor::Node::IsSelected" alt="" coords="459,5,677,35"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_node.html#abd1eb1699f5c37e793c100d9f6be11ee" title="RoR::RigEditor::Node::SetPosition" alt="" coords="456,59,680,88"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_node.html#ad2b059390b19f01629d62e0621077536" title="RoR::RigEditor::Node::GetDefinitionPosition" alt="" coords="428,112,708,141"/>
-</map>

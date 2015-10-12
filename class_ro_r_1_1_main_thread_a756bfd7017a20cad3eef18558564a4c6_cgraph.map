@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_application.html#a5082701abd55926b3c6eb4b0c933eca5" title="RoR::Application::GetOgreSubsystem" alt="" coords="317,5,560,35"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_ogre_subsystem.html#a2f68e736be01d118cae03e831b38a9df" title="RoR::OgreSubsystem::GetOgreRoot" alt="" coords="321,59,556,88"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_ogre_subsystem.html#a41157fb92ca44184f55fd5fefc6a7e02" title="RoR::OgreSubsystem::GetTimer" alt="" coords="332,112,545,141"/>
-<area shape="rect" id="node9" href="$_utils_8h.html#adf01f31d14c27678973fd6603dae2feb" title="sleepMilliSeconds" alt="" coords="376,165,501,195"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_ogre_subsystem.html#aec5be99797f9add72578fb1fbfec582f" title="RoR::OgreSubsystem::GetRenderWindow" alt="" coords="304,219,573,248"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile_1_1_shader_helper.html#a8d75e688e198777489e38fe9a8642853" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::ShaderHelper::generateVertexProgramSource" alt="" coords="465,5,1049,35"/>
-<area shape="rect" id="node5" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile_1_1_shader_helper.html#a358ed3ca82844d3bf0c0c901e4904c95" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::ShaderHelper::generateFragmentProgramSource" alt="" coords="457,59,1057,88"/>
-<area shape="rect" id="node7" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile_1_1_shader_helper.html#a097f056863a7c0f6a23065bfed11d9f9" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::ShaderHelper::updateVpParams" alt="" coords="504,112,1011,141"/>
-<area shape="rect" id="node9" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile_1_1_shader_helper_cg.html#a4455989ab6e1c73c771f44d0e7a42e48" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::ShaderHelperCg::generateVpHeader" alt="" coords="492,165,1023,195"/>
-<area shape="rect" id="node11" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile_1_1_shader_helper_cg.html#af37481d514eac4b4cf22db170c54756e" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::ShaderHelperCg::generateFpHeader" alt="" coords="492,219,1023,248"/>
-</map>

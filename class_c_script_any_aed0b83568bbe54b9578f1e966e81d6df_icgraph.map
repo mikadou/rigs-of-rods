@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$scriptany_8cpp.html#a44d8402e06648d5420a664e5dbc9dd71" title="ScriptAny_ReleaseAllHandles_Generic" alt="" coords="263,5,511,35"/>
-<area shape="rect" id="node5" href="$scriptany_8h.html#ade7875aa9250cb75598a7bfa20ca8c2d" title="RegisterScriptAny_Generic" alt="" coords="561,5,740,35"/>
-<area shape="rect" id="node7" href="$scriptany_8h.html#a13b8b1995d1ba5f1031f76ac76eea446" title="RegisterScriptAny" alt="" coords="789,5,917,35"/>
-<area shape="rect" id="node9" href="$class_script_engine.html#aec64d59067a79c9fe0b88c150c901147" title="ScriptEngine::init" alt="" coords="967,5,1087,35"/>
-<area shape="rect" id="node11" href="$class_script_engine.html#a05631d095d3ed370791fb2e67344da32" title="ScriptEngine::ScriptEngine" alt="" coords="1136,5,1315,35"/>
-</map>

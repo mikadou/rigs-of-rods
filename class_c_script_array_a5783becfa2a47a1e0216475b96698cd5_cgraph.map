@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_c_script_array.html#a54fe13adf1cdded2aec4ac0b5924891f" title="CScriptArray::Resize" alt="" coords="212,5,359,35"/>
-<area shape="rect" id="node7" href="$class_c_script_array.html#ad84bc1e1fb44fe34fffa5d46c389a09f" title="CScriptArray::SetValue" alt="" coords="207,59,364,88"/>
-<area shape="rect" id="node5" href="$class_c_script_array.html#a7b0f5d403c859b4b3d3af2c6eb1f468c" title="CScriptArray::CheckMaxSize" alt="" coords="413,5,608,35"/>
-<area shape="rect" id="node9" href="$class_c_script_array.html#ac179b031c789763b6d7cecb8c07157f5" title="CScriptArray::At" alt="" coords="452,59,569,88"/>
-</map>

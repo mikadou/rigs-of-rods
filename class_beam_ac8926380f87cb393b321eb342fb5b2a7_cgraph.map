@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_beam_engine.html#a3b4446041b1fa3a222ae52a1f2f41f02" title="BeamEngine::setClutch" alt="" coords="235,5,395,35"/>
-<area shape="rect" id="node5" href="$class_beam_engine.html#a74010b85a774cb7e3bd4c494bd29e315" title="BeamEngine::setAcc" alt="" coords="464,57,608,87"/>
-<area shape="rect" id="node7" href="$class_beam_engine.html#a4a1f822856aacd574f37d13a5ee11589" title="BeamEngine::shift" alt="" coords="251,109,379,139"/>
-<area shape="rect" id="node9" href="$class_beam_engine.html#a7231a53b2dd66a597463fd00cbeabb1f" title="BeamEngine::getNumGears" alt="" coords="444,111,628,140"/>
-</map>

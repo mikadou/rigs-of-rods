@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_beam.html#ac5430b47f97dc513c9e8a0a3caa00cc2" title="Beam::frameStep" alt="" coords="276,32,399,61"/>
-<area shape="rect" id="node5" href="$class_beam_factory.html#a6fa954b906b6dc808a34e69ac2d018d3" title="BeamFactory::calcPhysics" alt="" coords="448,32,627,61"/>
-<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="676,5,889,35"/>
-<area shape="rect" id="node9" href="$class_preview_renderer.html#a5ea6b4611b45965e072266211dc60ba8" title="PreviewRenderer::render" alt="" coords="700,59,865,88"/>
-</map>

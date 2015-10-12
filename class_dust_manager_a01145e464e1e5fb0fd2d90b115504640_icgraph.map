@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_rig_spawner.html#ab809acb388f153ec16f847a4c9147150" title="RigSpawner::InitializeRig" alt="" coords="236,5,404,35"/>
-<area shape="rect" id="node7" href="$class_buoyance.html#a25c837868aa1e005e496a3f009131c9d" title="Buoyance::Buoyance" alt="" coords="247,59,393,88"/>
-<area shape="rect" id="node9" href="$class_screwprop.html#a48deff1b42151adca6992e5aa9ad5782" title="Screwprop::Screwprop" alt="" coords="243,112,397,141"/>
-<area shape="rect" id="node5" href="$class_rig_spawner.html#a67da85dd09bd864df9dc924f6f2a7d49" title="RigSpawner::SpawnRig" alt="" coords="455,5,615,35"/>
-</map>

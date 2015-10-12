@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_hydrax.html#aef185c906434b6dfb7c67a425d678287" title="Hydrax::Hydrax::getCamera" alt="" coords="315,5,501,35"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_hydrax.html#a011da649ae072cce9c6db28620b67a42" title="Hydrax::Hydrax::getPosition" alt="" coords="315,59,501,88"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_hydrax.html#a1532419b2859aed22a63d913c527ce21" title="Hydrax::Hydrax::_isCurrentFrameUnderwater" alt="" coords="265,112,551,141"/>
-<area shape="rect" id="node9" href="$class_hydrax_1_1_hydrax.html#a572279649449549c7be3ef809221fbae" title="Hydrax::Hydrax::getMaterialManager" alt="" coords="291,165,525,195"/>
-<area shape="rect" id="node11" href="$class_hydrax_1_1_material_manager.html#a648e7cd626194ea34c31a4bf422cdf4d" title="Hydrax::MaterialManager::getMaterial" alt="" coords="288,219,528,248"/>
-</map>

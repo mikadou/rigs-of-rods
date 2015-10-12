@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_noise_1_1_perlin.html#a64bbe19643e0a87c08c62d0e73d7aac6" title="Hydrax::Noise::Perlin::getValue" alt="" coords="369,5,575,35"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_noise_1_1_perlin.html#a65e29d30bc42e215b8bf7d86ecd98f0d" title="Hydrax::Noise::Perlin::_getHeigthDual" alt="" coords="624,5,869,35"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_noise_1_1_perlin.html#a9fc3b4c42fc8bcc104f3e480ee0bf967" title="Hydrax::Noise::Perlin::_readTexelLinearDual" alt="" coords="919,5,1199,35"/>
-</map>

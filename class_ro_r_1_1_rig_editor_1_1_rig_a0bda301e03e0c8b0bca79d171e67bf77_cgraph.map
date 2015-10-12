@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a961667e55f0d41fdacab764270939969" title="RoR::RigEditor::Beam::GetNodeA" alt="" coords="337,5,559,35"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a9e107c4bb884aeed653419a8fa5f21ba" title="RoR::RigEditor::Beam::GetNodeB" alt="" coords="337,59,559,88"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_node.html#afa889e9cb11afbad0efa8de446dff40c" title="RoR::RigEditor::Node::UnlinkBeam" alt="" coords="333,112,563,141"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a207d2ac614bc6b07715776729dfa4dbe" title="RoR::RigEditor::Rig::DeleteBeam" alt="" coords="339,165,557,195"/>
-</map>

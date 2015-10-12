@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_terrain_object_manager.html#abf4f588e7e78f18ff4486aefb6679fb6" title="TerrainObjectManager::update" alt="" coords="352,5,549,35"/>
-<area shape="rect" id="node5" href="$class_terrain_manager.html#a5038377a7e0855638b9d8b97e3f5b35d" title="TerrainManager::update" alt="" coords="599,5,756,35"/>
-<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="807,5,1020,35"/>
-</map>

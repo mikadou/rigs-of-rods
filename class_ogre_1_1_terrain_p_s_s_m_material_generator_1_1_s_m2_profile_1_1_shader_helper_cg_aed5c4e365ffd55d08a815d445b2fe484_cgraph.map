@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a3d0e04f70bf9d7cd03f36ccdf0be30d5" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::isLayerNormalMappingEnabled" alt="" coords="579,5,1077,35"/>
-<area shape="rect" id="node5" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a78b5c30932676baec3a399234ab8da9a" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::isLayerParallaxMappingEnabled" alt="" coords="576,59,1080,88"/>
-<area shape="rect" id="node7" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a1366b54a08b204a6023c9a5d76f921e1" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::isLayerSpecularMappingEnabled" alt="" coords="575,112,1081,141"/>
-</map>

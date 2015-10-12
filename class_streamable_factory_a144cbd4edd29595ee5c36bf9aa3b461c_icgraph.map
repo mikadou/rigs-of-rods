@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_streamable_factory.html#a8d5aca4ae1dc52611dd01b127d37f487" title="StreamableFactory\&lt; ChatSystemFactory, ChatSystem \&gt;::removeInstance" alt="" coords="307,5,760,35"/>
-<area shape="rect" id="node5" href="$class_streamable_factory.html#abd513efc55dd1ac6e88967d7ea2dcb59" title="StreamableFactory\&lt; ChatSystemFactory, ChatSystem \&gt;::checkStreamsOK" alt="" coords="301,59,765,88"/>
-<area shape="rect" id="node7" href="$class_streamable_factory.html#a2c4d43eeba1a574e36b132559050629e" title="StreamableFactory\&lt; ChatSystemFactory, ChatSystem \&gt;::checkStreamsResultsChanged" alt="" coords="263,112,804,141"/>
-<area shape="rect" id="node9" href="$class_streamable_factory.html#ac5a1d3863a3962d7067fe0bb880e5cfc" title="StreamableFactory\&lt; ChatSystemFactory, ChatSystem \&gt;::checkStreamsRemoteOK" alt="" coords="279,165,788,195"/>
-<area shape="rect" id="node11" href="$class_streamable_factory.html#a943ef96883db21c42ca0b02c8aaeb39f" title="StreamableFactory\&lt; ChatSystemFactory, ChatSystem \&gt;::addStreamRegistrationResults" alt="" coords="264,219,803,248"/>
-</map>

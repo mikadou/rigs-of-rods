@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_hydrax.html#a6391180e70faf46ee681466620a85f4d" title="Hydrax::Hydrax::getSunPosition" alt="" coords="336,5,547,35"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_hydrax.html#aef185c906434b6dfb7c67a425d678287" title="Hydrax::Hydrax::getCamera" alt="" coords="348,59,535,88"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_hydrax.html#a011da649ae072cce9c6db28620b67a42" title="Hydrax::Hydrax::getPosition" alt="" coords="348,112,535,141"/>
-<area shape="rect" id="node9" href="$class_hydrax_1_1_hydrax.html#abbfe63c58bc4f56ad625872b19b51a60" title="Hydrax::Hydrax::getHeigth" alt="" coords="352,165,531,195"/>
-<area shape="rect" id="node11" href="$class_hydrax_1_1_module_1_1_module.html#ac61f89589d3b1bc7256731ddb7af7d0b" title="Hydrax::Module::Module::getHeigth" alt="" coords="596,165,823,195"/>
-</map>

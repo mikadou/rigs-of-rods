@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_depth_of_field_effect.html#a8dd252e98973405d6c2d55d8d6328bf2" title="DepthOfFieldEffect::getEnabled" alt="" coords="247,5,452,35"/>
-<area shape="rect" id="node5" href="$class_depth_of_field_effect.html#a5a5512cd474f69835e2e77c3818e1ef8" title="DepthOfFieldEffect::setEnabled" alt="" coords="247,59,452,88"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_application.html#a5082701abd55926b3c6eb4b0c933eca5" title="RoR::Application::GetOgreSubsystem" alt="" coords="228,112,471,141"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_ogre_subsystem.html#a2f68e736be01d118cae03e831b38a9df" title="RoR::OgreSubsystem::GetOgreRoot" alt="" coords="232,165,467,195"/>
-</map>

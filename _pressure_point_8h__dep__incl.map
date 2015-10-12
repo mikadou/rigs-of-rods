@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_pressure_point_8cpp.html" title="source/main/gfx/hydrax/PressurePoint.cpp" alt="" coords="5,83,275,112"/>
-<area shape="rect" id="node5" href="$_real_8h.html" title="source/main/gfx/hydrax/Real.h" alt="" coords="299,83,499,112"/>
-<area shape="rect" id="node7" href="$_real_8cpp.html" title="source/main/gfx/hydrax/Real.cpp" alt="" coords="175,160,388,189"/>
-<area shape="rect" id="node9" href="$_hydrax_water_8h.html" title="source/main/gfx/HydraxWater.h" alt="" coords="412,160,617,189"/>
-<area shape="rect" id="node11" href="$_hydrax_water_8cpp.html" title="source/main/gfx/HydraxWater.cpp" alt="" coords="273,237,495,267"/>
-<area shape="rect" id="node13" href="$_terrain_manager_8cpp.html" title="source/main/terrain/TerrainManager.cpp" alt="" coords="519,237,769,267"/>
-</map>

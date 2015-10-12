@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_beam.html#ae2d5b747ad6379629c4b69b4045e3a1a" title="Beam::runThreadTask" alt="" coords="205,5,355,35"/>
-<area shape="rect" id="node5" href="$class_rig_spawner.html#ab809acb388f153ec16f847a4c9147150" title="RigSpawner::InitializeRig" alt="" coords="196,59,364,88"/>
-<area shape="rect" id="node7" href="$class_rig_spawner.html#a67da85dd09bd864df9dc924f6f2a7d49" title="RigSpawner::SpawnRig" alt="" coords="415,59,575,88"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_c_script_array.html#aa41319c81b80f50e2be977db7d2cdb54" title="CScriptArray::Reverse" alt="" coords="189,5,344,35"/>
-<area shape="rect" id="node5" href="$class_c_script_array.html#a14fc0e79b4aa8531d71aada015369b32" title="CScriptArray::Sort" alt="" coords="203,59,331,88"/>
-<area shape="rect" id="node7" href="$class_c_script_array.html#aebf917c3e702d90901eef9f89ffa0e0c" title="CScriptArray::SortAsc" alt="" coords="396,32,548,61"/>
-<area shape="rect" id="node9" href="$class_c_script_array.html#a9d0cb19caa89bdb834af07b1f1e23372" title="CScriptArray::SortDesc" alt="" coords="392,85,552,115"/>
-</map>

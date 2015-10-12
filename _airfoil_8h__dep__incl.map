@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_airfoil_8cpp.html" title="source/main/physics/air/Airfoil.cpp" alt="" coords="5,83,227,112"/>
-<area shape="rect" id="node5" href="$_turbo_prop_8cpp.html" title="source/main/physics/air/TurboProp.cpp" alt="" coords="251,83,499,112"/>
-<area shape="rect" id="node7" href="$_beam_8cpp.html" title="source/main/physics/Beam.cpp" alt="" coords="523,83,728,112"/>
-<area shape="rect" id="node9" href="$_beam_forces_euler_8cpp.html" title="source/main/physics/BeamForcesEuler.cpp" alt="" coords="752,83,1027,112"/>
-<area shape="rect" id="node11" href="$_flex_airfoil_8cpp.html" title="source/main/physics/flex/FlexAirfoil.cpp" alt="" coords="1051,83,1304,112"/>
-<area shape="rect" id="node13" href="$_rig_spawner_8cpp.html" title="Vehicle spawning logic." alt="" coords="1328,83,1645,112"/>
-</map>

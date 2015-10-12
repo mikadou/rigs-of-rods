@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a0d6a07c9b1335e6ccca3c6781b8d9a1e" title="RigDef::Parser::ParseDirectiveSetNodeDefaultsUnsafe" alt="" coords="359,59,703,88"/>
-<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#aa0448d0c351e3163aa33245881947a40" title="RigDef::Parser::_ParseNodeOptions" alt="" coords="823,5,1057,35"/>
-<area shape="rect" id="node12" href="$class_rig_def_1_1_parser.html#afee8962bfcd7a274af3c0315f07aecb1" title="RigDef::Parser::VerifyAndProcessDirectiveSetNodeDefaults" alt="" coords="753,112,1127,141"/>
-<area shape="rect" id="node9" href="$class_rig_def_1_1_parser.html#a9c8f9bcdee727cd331810b865d64c415" title="RigDef::Parser::LogParsedDirectiveSetNodeDefaultsData" alt="" coords="761,59,1119,88"/>
-<area shape="rect" id="node7" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="RigDef::Parser::AddMessage" alt="" coords="1177,32,1369,61"/>
-</map>

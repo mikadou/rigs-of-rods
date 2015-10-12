@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_survey_map_texture_creator.html#a98ae4da9e888b4c59f1bc081f1868d8d" title="SurveyMapTextureCreator::init" alt="" coords="389,59,589,88"/>
-<area shape="rect" id="node5" href="$class_survey_map_texture_creator.html#afbd68bc7e89f4d8ff26a1d40d184f4c7" title="SurveyMapTextureCreator::getTextureName" alt="" coords="639,5,919,35"/>
-<area shape="rect" id="node7" href="$class_survey_map_texture_creator.html#a67ff7e95f71c7d1dac3576df072b3414" title="SurveyMapTextureCreator::getCameraName" alt="" coords="637,59,920,88"/>
-<area shape="rect" id="node9" href="$class_survey_map_texture_creator.html#ae42074cc206044332f5e367d1d97ef72" title="SurveyMapTextureCreator::getMaterialName" alt="" coords="637,112,920,141"/>
-</map>

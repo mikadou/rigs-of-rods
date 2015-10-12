@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_cache_system.html#a48763a6f943698105e8f2947d07e8110" title="CacheSystem::getCacheConfigFilename" alt="" coords="235,5,493,35"/>
-<area shape="rect" id="node5" href="$class_cache_system.html#aa025222e89657b72478453191ee04878" title="CacheSystem::resourceExistsInAllGroups" alt="" coords="231,59,497,88"/>
-<area shape="rect" id="node7" href="$class_cache_system.html#a56c6220bad73c66209212753882d7f82" title="CacheSystem::parseModAttribute" alt="" coords="255,112,473,141"/>
-<area shape="rect" id="node9" href="$class_cache_system.html#aac096285e86a0452ef689f6a50e4b6d8" title="CacheSystem::logBadTruckAttrib" alt="" coords="548,59,764,88"/>
-<area shape="rect" id="node11" href="$scriptstdstring_8cpp.html#ab33d705eee9afd65e8991f82d9c71fe3" title="parseInt" alt="" coords="621,112,691,141"/>
-<area shape="rect" id="node15" href="$class_cache_system.html#a184e43c9fc5e12003e0f3895de93060f" title="CacheSystem::deNormalizeText" alt="" coords="551,165,761,195"/>
-<area shape="rect" id="node13" href="$_approx_math_8h.html#ad685178dbcfdd207c7306561512e1582" title="sign" alt="" coords="815,112,860,141"/>
-</map>

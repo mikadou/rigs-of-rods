@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_application.html#a608003a20ef939a79437a9da8fa76307" title="RoR::Application::GetInputEngine" alt="" coords="232,5,451,35"/>
-<area shape="rect" id="node5" href="$class_input_engine.html#a251be92f16fe445542e240fc121354d8" title="InputEngine::getEventValue" alt="" coords="249,59,433,88"/>
-<area shape="rect" id="node7" href="$class_input_engine.html#a3e63861375a5873297281b885c8aa8f9" title="InputEngine::axisLinearity" alt="" coords="500,32,671,61"/>
-<area shape="rect" id="node9" href="$class_input_engine.html#aaa9f701b9f4420b8e97cf4ae775038c1" title="InputEngine::deadZone" alt="" coords="508,85,663,115"/>
-</map>

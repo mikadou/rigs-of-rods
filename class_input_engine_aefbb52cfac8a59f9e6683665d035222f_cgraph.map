@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_input_engine.html#a31686978ff9fe35d93d467ef33149b10" title="InputEngine::resolveEventName" alt="" coords="224,5,435,35"/>
-<area shape="rect" id="node5" href="$class_input_engine.html#a94995e94c51f95bf1c252b8b0559a5a0" title="InputEngine::newEvent" alt="" coords="251,59,408,88"/>
-<area shape="rect" id="node7" href="$class_input_engine.html#a6e833a491189fdcf9d7efd4e9a44e4d3" title="InputEngine::getEventGroup" alt="" coords="236,112,423,141"/>
-<area shape="rect" id="node9" href="$class_input_engine.html#af92de0a39f0fbbe82bc9e81d25f762d1" title="InputEngine::addEvent" alt="" coords="252,165,407,195"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_character.html#a4806a9150eb30673bab3d0b47e05d135" title="Character::update" alt="" coords="285,31,411,60"/>
-<area shape="rect" id="node12" href="$class_character.html#affc26fe005799c306f4b0194528d5a6d" title="Character::receiveStreamData" alt="" coords="249,84,447,113"/>
-<area shape="rect" id="node5" href="$class_character_factory.html#a70f849028ea8a2372700fe92b44dba7b" title="CharacterFactory::updateCharacters" alt="" coords="496,5,731,35"/>
-<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::updateEvents" alt="" coords="780,32,999,61"/>
-<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1049,32,1263,61"/>
-</map>

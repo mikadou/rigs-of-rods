@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$scriptarray_8cpp.html" title="source/angelscript_addons/scriptarray/scriptarray.cpp" alt="" coords="5,83,336,112"/>
-<area shape="rect" id="node5" href="$scriptstdstring__utils_8cpp.html" title="source/angelscript_addons/scriptstdstring/scriptstdstring_utils.cpp" alt="" coords="360,83,765,112"/>
-<area shape="rect" id="node7" href="$scriptstring__utils_8cpp.html" title="source/angelscript_addons/scriptstring/scriptstring_utils.cpp" alt="" coords="789,83,1157,112"/>
-<area shape="rect" id="node9" href="$_game_script_8cpp.html" title="source/main/scripting/GameScript.cpp" alt="" coords="1181,83,1424,112"/>
-<area shape="rect" id="node11" href="$_script_engine_8cpp.html" title="source/main/scripting/ScriptEngine.cpp" alt="" coords="1448,83,1696,112"/>
-</map>

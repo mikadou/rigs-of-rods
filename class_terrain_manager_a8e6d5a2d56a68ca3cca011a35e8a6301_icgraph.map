@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::updateEvents" alt="" coords="265,5,484,35"/>
-<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="535,57,748,87"/>
-<area shape="rect" id="node8" href="$class_envmap.html#aece9282220f3b0faab6d8d0da191c0ce" title="Envmap::update" alt="" coords="316,109,433,139"/>
-<area shape="rect" id="node11" href="$class_game_script.html#a3ab50ba011a260baf9381c160fc5ed2d" title="GameScript::getCaelumTime" alt="" coords="280,163,469,192"/>
-<area shape="rect" id="node13" href="$class_game_script.html#a4b4ed92127242c059a96e42a4380ef23" title="GameScript::setCaelumTime" alt="" coords="280,216,469,245"/>
-<area shape="rect" id="node15" href="$class_game_script.html#a233230f702dd1b05f49a85e61186ac1c" title="GameScript::getCaelumAvailable" alt="" coords="268,269,481,299"/>
-</map>

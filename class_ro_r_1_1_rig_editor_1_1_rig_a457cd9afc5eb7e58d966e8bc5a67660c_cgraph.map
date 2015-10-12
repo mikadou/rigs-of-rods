@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$struct_ro_r_1_1_rig_editor_1_1_all_wheels_aggregate_data.html#a1f1df3729ee9aa389f868994b8e54ba0" title="RoR::RigEditor::AllWheelsAggregateData::Reset" alt="" coords="373,5,680,35"/>
-<area shape="rect" id="node5" href="$struct_ro_r_1_1_rig_editor_1_1_all_wheels_aggregate_data.html#a33e8e7239504ccf5aaa047e4d7a8a40c" title="RoR::RigEditor::AllWheelsAggregateData::AddWheel" alt="" coords="360,59,693,88"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_land_vehicle_wheel.html#af4d9bd7cad61089c50bdd0dd13d9d75c" title="RoR::RigEditor::LandVehicleWheel::GetType" alt="" coords="783,5,1068,35"/>
-<area shape="rect" id="node9" href="$struct_ro_r_1_1_rig_editor_1_1_mesh_wheel2_aggregate_data.html#a5ce6e294b28f59af7e8845d80f9e1d15" title="RoR::RigEditor::MeshWheel2AggregateData::AddWheel" alt="" coords="751,59,1100,88"/>
-<area shape="rect" id="node13" href="$struct_ro_r_1_1_rig_editor_1_1_flex_body_wheel_aggregate_data.html#a9d40f8da1c3a7b054d7ede7d09a22cb7" title="RoR::RigEditor::FlexBodyWheelAggregateData::AddWheel" alt="" coords="743,112,1108,141"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_rig_editor_1_1_mesh_wheel2.html#a659623f165ed4f6b3738b8558d3ac0eb" title="RoR::RigEditor::MeshWheel2::GetDefinition" alt="" coords="1167,59,1444,88"/>
-<area shape="rect" id="node15" href="$class_ro_r_1_1_rig_editor_1_1_flex_body_wheel.html#ad8d23ca151177972ed35b97156d45c86" title="RoR::RigEditor::FlexBodyWheel::GetDefinition" alt="" coords="1159,112,1452,141"/>
-</map>

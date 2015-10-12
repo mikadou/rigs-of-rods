@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_hydrax.html#a1940a144c486915885ed19026839d381" title="Hydrax::Hydrax::getMesh" alt="" coords="308,5,479,35"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_mesh.html#a4d55461e0da92344146340af91fab715" title="Hydrax::Mesh::getSize" alt="" coords="316,59,471,88"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_hydrax.html#a969555d8f856a43c4ca6c92bb0958bf1" title="Hydrax::Hydrax::getViewport" alt="" coords="299,112,488,141"/>
-<area shape="rect" id="node9" href="$class_hydrax_1_1_rtt_manager.html#ae94c4a88b240d9b7be93aa6c1430d2b6" title="Hydrax::RttManager::getPixelFormat" alt="" coords="276,165,511,195"/>
-<area shape="rect" id="node11" href="$class_hydrax_1_1_hydrax.html#aef185c906434b6dfb7c67a425d678287" title="Hydrax::Hydrax::getCamera" alt="" coords="300,219,487,248"/>
-</map>

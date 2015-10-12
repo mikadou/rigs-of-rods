@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_decal.html#aa517fc153970df9ccabffda04b27892c" title="Hydrax::Decal::unregister" alt="" coords="271,5,441,35"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_hydrax.html#a0ed95597b4ad5e33f2ba7f82f3ac4083" title="Hydrax::Hydrax::getDecalsManager" alt="" coords="241,59,471,88"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_decals_manager.html#ab3ffe8faa2c0f00ef738d7e7ce493aed" title="Hydrax::DecalsManager::_forceToUpdate" alt="" coords="224,112,488,141"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_flex_body_file_i_o.html#a740a4ce57abf708b823cb5f3f196cc9a" title="RoR::FlexBodyFileIO::SaveFile" alt="" coords="265,5,471,35"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_flex_body_file_i_o.html#a15b2a2c4b29760c79423048ddad75d15" title="RoR::FlexBodyFileIO::LoadFile" alt="" coords="267,59,469,88"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_flex_factory.html#a41be7fb73ef6ebf7535855007976b807" title="RoR::FlexFactory::SaveFlexbodiesToCache" alt="" coords="537,5,817,35"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_flex_factory.html#aa9505e5057402e1df1b3b960e7ad6e7c" title="RoR::FlexFactory::CheckAndLoadFlexbodyCache" alt="" coords="520,59,835,88"/>
-</map>

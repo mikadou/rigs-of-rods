@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_chat_system_8cpp.html" title="source/main/gameplay/ChatSystem.cpp" alt="" coords="5,83,259,112"/>
-<area shape="rect" id="node5" href="$_ro_r_frame_listener_8cpp.html" title="source/main/gameplay/RoRFrameListener.cpp" alt="" coords="283,83,573,112"/>
-<area shape="rect" id="node7" href="$_g_u_i___game_chat_box_8cpp.html" title="source/main/gui/panels/GUI_GameChatBox.cpp" alt="" coords="597,83,899,112"/>
-<area shape="rect" id="node9" href="$_main_thread_8cpp.html" title="source/main/main_sim/MainThread.cpp" alt="" coords="923,83,1173,112"/>
-<area shape="rect" id="node11" href="$_beam_factory_8cpp.html" title="source/main/physics/BeamFactory.cpp" alt="" coords="1197,83,1445,112"/>
-</map>

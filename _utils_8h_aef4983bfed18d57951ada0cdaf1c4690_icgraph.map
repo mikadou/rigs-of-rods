@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_character.html#af66e892ae9ab0bc74278e55754400b2d" title="Character::updateNetLabel" alt="" coords="181,59,360,88"/>
-<area shape="rect" id="node11" href="$class_chat_system.html#a9e19f9adf46f8c6d07fe9dd7d2c527a4" title="ChatSystem::receiveStreamData" alt="" coords="164,112,377,141"/>
-<area shape="rect" id="node5" href="$class_character.html#a2b381f85738c4ede878be18925e1ce81" title="Character::Character" alt="" coords="503,5,647,35"/>
-<area shape="rect" id="node7" href="$class_character_factory.html#aba10150e9cffe503714dca7faaa9b780" title="CharacterFactory::localUserAttributesChanged" alt="" coords="428,59,721,88"/>
-<area shape="rect" id="node9" href="$class_character_factory.html#a4c9df69b8d726f031d75479ea7bdd326" title="CharacterFactory::netUserAttributesChanged" alt="" coords="432,112,717,141"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#a14c64d9f8f06ca966e37cb11d63fe28b" title="RoR::GUI::OpenSaveFileDialog::OpenSaveFileDialog" alt="" coords="1175,31,1508,60"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#a9ea53706725c664f1977f406e7bad2d3" title="RoR::GUI::OpenSaveFileDialog::setCurrentFolder" alt="" coords="329,31,641,60"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#a9267253699dd8441295323f62b23afb9" title="RoR::GUI::OpenSaveFileDialog::notifyDirectoryComboAccept" alt="" coords="716,31,1100,60"/>
-<area shape="rect" id="node10" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#a037b18921b0deef4ca97e9f865c6540b" title="RoR::GUI::OpenSaveFileDialog::notifyDirectoryComboChangePosition" alt="" coords="691,84,1125,113"/>
-</map>

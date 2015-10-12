@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_rig_def_1_1_sequential_importer.html#a04d293d8b1f94b9a722e83715911e547" title="RigDef::SequentialImporter::IsEnabled" alt="" coords="217,5,463,35"/>
-<area shape="rect" id="node5" href="$class_rig_def_1_1_sequential_importer.html#a183fb08b25f7dc2b126ce6f8d3ed1c87" title="Traverse whole rig definition and resolve all node references." alt="" coords="223,59,457,88"/>
-<area shape="rect" id="node7" href="$class_rig_def_1_1_sequential_importer.html#ad0999e9ee5429491261b96573c6e36da" title="RigDef::SequentialImporter::ProcessModule" alt="" coords="513,59,791,88"/>
-</map>

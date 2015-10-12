@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_configurator_8cpp.html" title="source/configurator/Configurator.cpp" alt="" coords="5,83,237,112"/>
-<area shape="rect" id="node5" href="$_g_u_i___game_settings_8cpp.html" title="source/main/gui/panels/GUI_GameSettings.cpp" alt="" coords="261,83,560,112"/>
-<area shape="rect" id="node7" href="$_cache_system_8cpp.html" title="source/main/resources/CacheSystem.cpp" alt="" coords="584,83,851,112"/>
-<area shape="rect" id="node9" href="$_local_storage_8h.html" title="source/main/scripting/LocalStorage.h" alt="" coords="875,83,1112,112"/>
-<area shape="rect" id="node11" href="$_local_storage_8cpp.html" title="source/main/scripting/LocalStorage.cpp" alt="" coords="731,160,981,189"/>
-<area shape="rect" id="node13" href="$_script_engine_8cpp.html" title="source/main/scripting/ScriptEngine.cpp" alt="" coords="1005,160,1253,189"/>
-</map>

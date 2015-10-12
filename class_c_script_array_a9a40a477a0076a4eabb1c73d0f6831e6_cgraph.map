@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_c_script_array.html#aad3ec13ab9a83bcec2238b0f5e0da49e" title="CScriptArray::Precache" alt="" coords="252,5,412,35"/>
-<area shape="rect" id="node5" href="$class_c_script_array.html#a7b0f5d403c859b4b3d3af2c6eb1f468c" title="CScriptArray::CheckMaxSize" alt="" coords="235,59,429,88"/>
-<area shape="rect" id="node7" href="$class_c_script_array.html#a4ed53d161ece72db045d1dee83e2957e" title="CScriptArray::CreateBuffer" alt="" coords="243,112,421,141"/>
-<area shape="rect" id="node11" href="$class_c_script_array.html#aceeebde2ef3248973a87add12d140806" title="CScriptArray::GetSize" alt="" coords="256,165,408,195"/>
-<area shape="rect" id="node13" href="$class_c_script_array.html#ad84bc1e1fb44fe34fffa5d46c389a09f" title="CScriptArray::SetValue" alt="" coords="253,219,411,248"/>
-<area shape="rect" id="node9" href="$class_c_script_array.html#a2d7d226b6df50e0e5b77aef8bb85e205" title="CScriptArray::Construct" alt="" coords="477,112,640,141"/>
-<area shape="rect" id="node15" href="$class_c_script_array.html#ac179b031c789763b6d7cecb8c07157f5" title="CScriptArray::At" alt="" coords="500,219,617,248"/>
-</map>

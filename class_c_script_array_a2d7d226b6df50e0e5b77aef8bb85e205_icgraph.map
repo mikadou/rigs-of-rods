@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_c_script_array.html#ae8a62ceca782c341f7a6786c578d3353" title="CScriptArray::Resize" alt="" coords="232,5,379,35"/>
-<area shape="rect" id="node5" href="$class_c_script_array.html#a4ed53d161ece72db045d1dee83e2957e" title="CScriptArray::CreateBuffer" alt="" coords="216,59,395,88"/>
-<area shape="rect" id="node7" href="$class_c_script_array.html#a9b4e1b2726012e83b6426bd1f2863075" title="CScriptArray::operator=" alt="" coords="453,32,613,61"/>
-<area shape="rect" id="node9" href="$class_c_script_array.html#a00a79dba874df4c03b77e9743f23b0d3" title="CScriptArray::CScriptArray" alt="" coords="444,85,623,115"/>
-</map>

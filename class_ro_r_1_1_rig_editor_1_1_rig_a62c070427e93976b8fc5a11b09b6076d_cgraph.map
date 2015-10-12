@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_node.html#a96df42eb7849b0a74a0332ca22b71993" title="RoR::RigEditor::Node::IsSelected" alt="" coords="391,5,609,35"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_node.html#ad68ef59c1263de78a9a726426b10a73d" title="RoR::RigEditor::Node::Translate" alt="" coords="395,59,605,88"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#ae0f2af92699b413199c31438dd41b84b" title="RoR::RigEditor::Rig::RefreshNodeScreenPosition" alt="" coords="344,112,656,141"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_camera_handler.html#a7b05083877a82e1f236997822f650de5" title="RoR::RigEditor::CameraHandler::ConvertWorldToScreenPosition" alt="" coords="705,59,1105,88"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_rig_editor_1_1_node.html#aefebb9cd1a67bbb2afc980b0f8baab12" title="RoR::RigEditor::Node::GetPosition" alt="" coords="792,112,1019,141"/>
-<area shape="rect" id="node13" href="$class_ro_r_1_1_rig_editor_1_1_node.html#a767984547bdd6398423af057bf1346a2" title="RoR::RigEditor::Node::SetScreenPosition" alt="" coords="772,165,1039,195"/>
-</map>

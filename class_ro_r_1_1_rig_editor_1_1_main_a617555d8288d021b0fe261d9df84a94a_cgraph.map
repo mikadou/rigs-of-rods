@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_application.html#a5082701abd55926b3c6eb4b0c933eca5" title="RoR::Application::GetOgreSubsystem" alt="" coords="284,5,527,35"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_ogre_subsystem.html#a2f68e736be01d118cae03e831b38a9df" title="RoR::OgreSubsystem::GetOgreRoot" alt="" coords="288,59,523,88"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_camera_handler.html#af540dff2565986c89085e344ad40977c" title="RoR::RigEditor::CameraHandler::SetOrbitTarget" alt="" coords="255,112,556,141"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_rig_editor_1_1_camera_handler.html#a4fc8f003469b5d9438c41ad906678bd5" title="RoR::RigEditor::CameraHandler::SetOrthoZoomRatio" alt="" coords="239,165,572,195"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_camera_handler.html#a0bae07c9d59a2ae93b04c8b271c034e9" title="RoR::RigEditor::CameraHandler::SetYawPitchDist" alt="" coords="623,112,940,141"/>
-</map>

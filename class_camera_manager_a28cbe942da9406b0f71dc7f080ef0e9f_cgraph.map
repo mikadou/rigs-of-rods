@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_camera_manager.html#a6f50a61b22fd1193ec25c5c2dc8f3ae3" title="CameraManager::switchBehavior" alt="" coords="575,59,788,88"/>
-<area shape="rect" id="node11" href="$class_camera_manager.html#acc8ca4bea6750e8ce6ce1f3710a0ce78" title="CameraManager::switchToNextBehavior" alt="" coords="267,111,525,140"/>
-<area shape="rect" id="node5" href="$class_i_behavior.html#a3d874d52e67bb562c26bf7d99ea5d62d" title="IBehavior::deactivate" alt="" coords="855,5,999,35"/>
-<area shape="rect" id="node7" href="$class_beam.html#a39d38800d5ab3b85b305d94b2c8ea502" title="Beam::GetCameraContext" alt="" coords="839,59,1015,88"/>
-<area shape="rect" id="node9" href="$class_i_behavior.html#a841cc14c0cf10b3434efd66a60d0807a" title="IBehavior::activate" alt="" coords="861,112,992,141"/>
-<area shape="rect" id="node13" href="$class_i_behavior.html#ac1657d6af6e9f66bd927f89ad0fd0bcb" title="IBehavior::switchBehavior" alt="" coords="595,112,768,141"/>
-</map>

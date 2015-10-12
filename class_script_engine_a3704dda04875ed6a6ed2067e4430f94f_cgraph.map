@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_singleton_no_creation.html#a5e7a47f4b2d6d0abaa3a1ea5ca1f216a" title="RoRSingletonNoCreation\&lt; ScriptEngine \&gt;::getSingleton" alt="" coords="240,5,587,35"/>
-<area shape="rect" id="node5" href="$class_script_engine.html#ac68e1af1ce392aae7b8f76619c431fdd" title="ScriptEngine::loadScript" alt="" coords="332,59,495,88"/>
-<area shape="rect" id="node7" href="$class_ogre_script_builder.html#af37a183ce273f5e63e7efc2360accbdc" title="OgreScriptBuilder::getHash" alt="" coords="687,5,868,35"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_application.html#a5082701abd55926b3c6eb4b0c933eca5" title="RoR::Application::GetOgreSubsystem" alt="" coords="656,59,899,88"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_ogre_subsystem.html#a5ad78edb253dc8c811dee7195df3463e" title="RoR::OgreSubsystem::GetTimeSinceStartup" alt="" coords="636,112,919,141"/>
-</map>

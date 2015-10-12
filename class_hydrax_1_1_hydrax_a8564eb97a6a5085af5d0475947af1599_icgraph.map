@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_hydrax.html#aaf840e19208614533a6b344e32965ee2" title="Hydrax::Hydrax::create" alt="" coords="267,5,424,35"/>
-<area shape="rect" id="node9" href="$class_hydrax_1_1_hydrax.html#a2c6e89c89098c1ae2f152b0cac0ecfde" title="Hydrax::Hydrax::setVisible" alt="" coords="256,59,435,88"/>
-<area shape="rect" id="node5" href="$class_hydrax_water.html#aedfd9537f96021b60a195b2bb6a9ee2d" title="HydraxWater::InitHydrax" alt="" coords="484,5,649,35"/>
-<area shape="rect" id="node7" href="$class_hydrax_water.html#a20bb0db860124c8e18903f5d640f88db" title="HydraxWater::HydraxWater" alt="" coords="699,5,883,35"/>
-<area shape="rect" id="node11" href="$class_hydrax_water.html#a21b7f14c1cce1f562a596543dc335a4c" title="HydraxWater::setVisible" alt="" coords="485,59,648,88"/>
-</map>

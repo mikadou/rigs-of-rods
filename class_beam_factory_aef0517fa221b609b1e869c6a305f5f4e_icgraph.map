@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_beam_factory.html#a857d3d8b5a3ff2ff4da15d6e3e671350" title="BeamFactory::predictTruckIntersectionCollAABB" alt="" coords="339,32,645,61"/>
-<area shape="rect" id="node5" href="$class_beam_factory.html#a9603710eb18f67e33a41e42d4e685028" title="BeamFactory::checkForActive" alt="" coords="704,5,901,35"/>
-<area shape="rect" id="node11" href="$class_beam_factory.html#a71e00856377dc0d6e50e0a542b0c7f46" title="BeamFactory::recursiveActivation" alt="" coords="693,59,912,88"/>
-<area shape="rect" id="node7" href="$class_beam_factory.html#ac361e8d624c0fabf070d3b893329cca7" title="BeamFactory::checkSleepingState" alt="" coords="960,32,1184,61"/>
-<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1233,32,1447,61"/>
-</map>

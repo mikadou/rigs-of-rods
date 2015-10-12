@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$scriptany_8cpp.html#a8fa1d5182ad9f0f3970d6a9f6bfe1e59" title="ScriptAny_GetRefCount_Generic" alt="" coords="231,5,444,35"/>
-<area shape="rect" id="node5" href="$scriptany_8h.html#ade7875aa9250cb75598a7bfa20ca8c2d" title="RegisterScriptAny_Generic" alt="" coords="495,5,673,35"/>
-<area shape="rect" id="node7" href="$scriptany_8h.html#a13b8b1995d1ba5f1031f76ac76eea446" title="RegisterScriptAny" alt="" coords="723,5,851,35"/>
-<area shape="rect" id="node9" href="$class_script_engine.html#aec64d59067a79c9fe0b88c150c901147" title="ScriptEngine::init" alt="" coords="900,5,1020,35"/>
-<area shape="rect" id="node11" href="$class_script_engine.html#a05631d095d3ed370791fb2e67344da32" title="ScriptEngine::ScriptEngine" alt="" coords="1069,5,1248,35"/>
-</map>

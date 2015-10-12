@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#a1e91cc99dc0376d460ded48d85e07d82" title="RoRFrameListener::StartRaceTimer" alt="" coords="213,32,445,61"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_application.html#a59a97190a3dea812d1f28504db82dc95" title="RoR::Application::GetOverlayWrapper" alt="" coords="495,5,737,35"/>
-<area shape="rect" id="node7" href="$class_overlay_wrapper.html#a4e3061b7a4ea65d242d96baa040a631c" title="OverlayWrapper::ShowRacingOverlay" alt="" coords="495,59,737,88"/>
-</map>

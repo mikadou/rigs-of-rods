@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_beam_engine.html#af424a6752492c01a4912a871b036d09a" title="BeamEngine::autoShiftSet" alt="" coords="240,5,416,35"/>
-<area shape="rect" id="node7" href="$class_beam_engine.html#a975fb76ba9f8ba31c092b6317de26b4b" title="BeamEngine::autoShiftUp" alt="" coords="241,59,415,88"/>
-<area shape="rect" id="node10" href="$class_beam_engine.html#a97e90e5d479da49939cb4b097fc77ebc" title="BeamEngine::autoShiftDown" alt="" coords="233,112,423,141"/>
-<area shape="rect" id="node5" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a830e19b0460db3df601abe83096f78d7" title="RoR::LandVehicleSimulation::UpdateVehicle" alt="" coords="472,59,755,88"/>
-</map>

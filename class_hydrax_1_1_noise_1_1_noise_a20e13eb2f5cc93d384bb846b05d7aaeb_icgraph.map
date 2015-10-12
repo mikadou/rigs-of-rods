@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_noise_1_1_f_f_t.html#a1d7ec06eb11cda608cc8f73256c35be5" title="Hydrax::Noise::FFT::setOptions" alt="" coords="381,5,589,35"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_noise_1_1_perlin.html#af32b1054557536eb5073e9ad1251a4cf" title="Hydrax::Noise::Perlin::setOptions" alt="" coords="376,59,595,88"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_noise_1_1_f_f_t.html#a64245b9e56eeb8627ac3f5260dc203dd" title="Hydrax::Noise::FFT::loadCfg" alt="" coords="648,5,837,35"/>
-<area shape="rect" id="node9" href="$class_hydrax_1_1_noise_1_1_perlin.html#a3a2dab14cfbda1ccf8fc5de4bb89f124" title="Hydrax::Noise::Perlin::loadCfg" alt="" coords="643,59,843,88"/>
-<area shape="rect" id="node11" href="$class_hydrax_1_1_noise_1_1_real.html#af858ae00b9af27b190ca5653b42bfc7f" title="Hydrax::Noise::Real::loadCfg" alt="" coords="645,112,840,141"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_two_d_replay.html#a4b479652a9394ba9e8b7e08e33dbbb7a" title="TwoDReplay::recordFrame" alt="" coords="187,32,365,61"/>
-<area shape="rect" id="node5" href="$class_two_d_replay.html#abceb8a16da69e16f581128ae0e111a12" title="TwoDReplay::update" alt="" coords="415,32,559,61"/>
-<area shape="rect" id="node7" href="$class_beam_factory.html#a6fa954b906b6dc808a34e69ac2d018d3" title="BeamFactory::calcPhysics" alt="" coords="608,32,787,61"/>
-<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="836,5,1049,35"/>
-<area shape="rect" id="node11" href="$class_preview_renderer.html#a5ea6b4611b45965e072266211dc60ba8" title="PreviewRenderer::render" alt="" coords="860,59,1025,88"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_beam_factory.html#a1be739481d24f2f05c0620c7f176c0a3" title="BeamFactory::findTruckInsideBox" alt="" coords="239,5,457,35"/>
-<area shape="rect" id="node5" href="$class_collisions.html#af4afe6b0f900dcf87cb6bd70e98be890" title="Collisions::isInside" alt="" coords="508,5,639,35"/>
-</map>

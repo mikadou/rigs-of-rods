@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_module_1_1_module.html#a21f60a53a99d72ff00d3fe5565518165" title="Hydrax::Module::Module::remove" alt="" coords="255,32,468,61"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_hydrax.html#a02c9bf8f5576332fc836b4929e738529" title="Hydrax::Hydrax::remove" alt="" coords="527,5,692,35"/>
-<area shape="rect" id="node9" href="$class_hydrax_1_1_hydrax.html#a3f678db49fe45320efb237d145ec63e4" title="Hydrax::Hydrax::setModule" alt="" coords="519,59,700,88"/>
-<area shape="rect" id="node7" href="$class_hydrax_water.html#ac4de588fe8ff6d0df6fec45c19521dd4" title="HydraxWater::~HydraxWater" alt="" coords="749,5,941,35"/>
-<area shape="rect" id="node11" href="$class_hydrax_water.html#aedfd9537f96021b60a195b2bb6a9ee2d" title="HydraxWater::InitHydrax" alt="" coords="763,59,928,88"/>
-<area shape="rect" id="node13" href="$class_hydrax_water.html#a20bb0db860124c8e18903f5d640f88db" title="HydraxWater::HydraxWater" alt="" coords="989,59,1173,88"/>
-</map>

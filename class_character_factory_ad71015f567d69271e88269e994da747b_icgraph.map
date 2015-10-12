@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_main_thread.html#aa3feeebda7f3f4c31a6cb96ea60c09e0" title="RoR::MainThread::SetupGameplayLoop" alt="" coords="255,5,508,35"/>
-<area shape="rect" id="node13" href="$class_ro_r_1_1_main_thread.html#a19637f726d0913e26e0d0548448d8c91" title="RoR::MainThread::UnloadTerrain" alt="" coords="275,59,488,88"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="559,32,708,61"/>
-<area shape="rect" id="node7" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="845,5,896,35"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::RequestRestart" alt="" coords="759,59,983,88"/>
-<area shape="rect" id="node11" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1033,59,1215,88"/>
-</map>

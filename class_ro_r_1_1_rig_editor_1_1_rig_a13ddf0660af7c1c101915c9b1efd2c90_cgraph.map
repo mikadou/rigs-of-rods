@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a961667e55f0d41fdacab764270939969" title="RoR::RigEditor::Beam::GetNodeA" alt="" coords="376,5,597,35"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_node.html#aefebb9cd1a67bbb2afc980b0f8baab12" title="RoR::RigEditor::Node::GetPosition" alt="" coords="373,59,600,88"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#ad280482e0eea91ada6435db2046e4c13" title="RoR::RigEditor::Beam::GetColor" alt="" coords="380,112,593,141"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a9e107c4bb884aeed653419a8fa5f21ba" title="RoR::RigEditor::Beam::GetNodeB" alt="" coords="376,165,597,195"/>
-</map>

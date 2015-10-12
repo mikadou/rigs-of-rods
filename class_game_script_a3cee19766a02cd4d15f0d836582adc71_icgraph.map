@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_game_script.html#acf2cfbdb575b5100135aee8c85a6a256" title="GameScript::setMaterialTextureName" alt="" coords="299,5,541,35"/>
-<area shape="rect" id="node5" href="$class_game_script.html#a15dbd8b035ab7d6102c7e8ef8b1bd8fa" title="GameScript::setMaterialTextureRotate" alt="" coords="297,59,543,88"/>
-<area shape="rect" id="node7" href="$class_game_script.html#a13eec139445554da8cd39aa6e674d503" title="GameScript::setMaterialTextureScroll" alt="" coords="300,112,540,141"/>
-<area shape="rect" id="node9" href="$class_game_script.html#af70b2dfb0ddd3afa5e975bb2d4328171" title="GameScript::setMaterialTextureScale" alt="" coords="300,165,540,195"/>
-</map>

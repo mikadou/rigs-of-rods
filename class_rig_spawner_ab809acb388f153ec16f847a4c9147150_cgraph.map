@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_thread_pool.html#a65dde5de8c8cd0a58edf75897182089e" title="ThreadPool::getSize" alt="" coords="331,5,469,35"/>
-<area shape="rect" id="node5" href="$class_ro_r_singleton_no_creation.html#a5e7a47f4b2d6d0abaa3a1ea5ca1f216a" title="RoRSingletonNoCreation\&lt; DustManager \&gt;::getSingleton" alt="" coords="225,59,575,88"/>
-<area shape="rect" id="node7" href="$class_dust_manager.html#a01145e464e1e5fb0fd2d90b115504640" title="DustManager::getDustPool" alt="" coords="311,112,489,141"/>
-<area shape="rect" id="node9" href="$class_ro_r_singleton.html#a18a797fc35bd8cfa8a2affdd197cbfee" title="RoRSingleton\&lt; Settings \&gt;::getSingleton" alt="" coords="273,165,527,195"/>
-<area shape="rect" id="node11" href="$class_settings.html#a26a86d7eb0e754bc7bf3d13e0b266706" title="Settings::GetFlaresMode" alt="" coords="317,219,483,248"/>
-</map>

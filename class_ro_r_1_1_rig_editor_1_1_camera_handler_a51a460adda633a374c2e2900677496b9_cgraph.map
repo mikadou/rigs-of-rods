@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_camera_handler.html#ae1e2f3505056c9127498e76a62f90eee" title="RoR::RigEditor::CameraHandler::SetStyle" alt="" coords="364,57,631,87"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_camera_handler.html#af540dff2565986c89085e344ad40977c" title="RoR::RigEditor::CameraHandler::SetOrbitTarget" alt="" coords="681,5,983,35"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_camera_handler.html#a0bae07c9d59a2ae93b04c8b271c034e9" title="RoR::RigEditor::CameraHandler::SetYawPitchDist" alt="" coords="1033,32,1351,61"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_camera_handler.html#a2aa9e07ca59c04ec92adbd1cd3229a5f" title="RoR::RigEditor::CameraHandler::ManualStop" alt="" coords="689,109,975,139"/>
-</map>

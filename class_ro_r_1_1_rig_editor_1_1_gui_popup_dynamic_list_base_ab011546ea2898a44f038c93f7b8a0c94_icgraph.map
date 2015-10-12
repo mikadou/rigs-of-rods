@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_gui_popup_dynamic_list_base.html#a44187cba696af08d7a5bf70f2a861d58" title="RoR::RigEditor::GuiPopupDynamicListBase::GuiCallback_MouseFocusGained" alt="" coords="543,32,1023,61"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_gui_popup_dynamic_list_base.html#a6fa40dd68435c7d30e8c0ab2f885c403" title="RoR::RigEditor::GuiPopupDynamicListBase::GuiPopupDynamicListBase" alt="" coords="1073,5,1519,35"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_gui_popup_dynamic_list_base.html#a994f198f45e5fcb2cede5cbb5c6f19c0" title="RoR::RigEditor::GuiPopupDynamicListBase::AddItemToList" alt="" coords="1111,59,1481,88"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_gui_popup_wheels_list.html#afedcd5b2d0c543808d8afc5b5e2f12ff" title="RoR::RigEditor::GuiPopupWheelsList::UpdateWheelsList" alt="" coords="1569,59,1924,88"/>
-</map>

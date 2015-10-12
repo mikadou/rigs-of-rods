@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_hydrax.html#a86467f51a5b69343a97ff6536c922929" title="Hydrax::Hydrax::setSunPosition" alt="" coords="248,59,459,88"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_hydrax.html#a69e3ff9c4de804dec54156453837df95" title="Hydrax::Hydrax::isComponent" alt="" coords="572,5,769,35"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_material_manager.html#af5f8e190d3e26cca04d8503e947ffba5" title="Hydrax::MaterialManager::setGpuProgramParameter" alt="" coords="508,59,833,88"/>
-<area shape="rect" id="node11" href="$class_hydrax_1_1_mesh.html#a999d2b1a4ce0ccc1b23ebe80541e4a97" title="Hydrax::Mesh::getObjectSpacePosition" alt="" coords="545,112,796,141"/>
-<area shape="rect" id="node9" href="$class_hydrax_1_1_material_manager.html#a648e7cd626194ea34c31a4bf422cdf4d" title="Hydrax::MaterialManager::getMaterial" alt="" coords="883,59,1123,88"/>
-<area shape="rect" id="node13" href="$class_hydrax_1_1_hydrax.html#a011da649ae072cce9c6db28620b67a42" title="Hydrax::Hydrax::getPosition" alt="" coords="909,112,1096,141"/>
-</map>

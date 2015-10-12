@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#aa43b14b564f71ee1560874cd8854dfb2" title="RoR::RigEditor::RigElementGuiPanelBase::CallbackClick_FlagCheckboxUpdateValue" alt="" coords="484,5,1009,35"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#a34fdd351f8dcfe94f3c6fa89ce060e83" title="RoR::RigEditor::RigElementGuiPanelBase::CallbackGotMouseFocus_FlagCheckboxShowTooltip" alt="" coords="453,59,1040,88"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#a74693ae47285428edf9646284bd65b0d" title="RoR::RigEditor::RigElementGuiPanelBase::CallbackLostMouseFocus_FlagCheckboxClearTooltip" alt="" coords="452,112,1041,141"/>
-<area shape="rect" id="node5" href="$_bit_flags_8h.html#a63b4d326c379e529b18f9d5a0e792b32" title="Bitmask_SetBool" alt="" coords="1091,5,1213,35"/>
-</map>

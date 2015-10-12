@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_rig_editor___gui_popup_dynamic_list_base_8cpp.html" title="source/main/rig_editor/RigEditor_GuiPopupDynamicListBase.cpp" alt="" coords="67,83,467,112"/>
-<area shape="rect" id="node5" href="$_rig_editor___gui_popup_wheels_list_8h.html" title="source/main/rig_editor/RigEditor_GuiPopupWheelsList.h" alt="" coords="491,83,837,112"/>
-<area shape="rect" id="node7" href="$_g_u_i___rig_editor_menubar_8h.html" title="source/main/gui/panels/GUI_RigEditorMenubar.h" alt="" coords="257,160,564,189"/>
-<area shape="rect" id="node11" href="$_g_u_i___rig_editor_menubar_8cpp.html" title="source/main/gui/panels/GUI_RigEditorMenubar.cpp" alt="" coords="536,237,856,267"/>
-<area shape="rect" id="node16" href="$_rig_editor___gui_popup_wheels_list_8cpp.html" title="source/main/rig_editor/RigEditor_GuiPopupWheelsList.cpp" alt="" coords="701,160,1064,189"/>
-<area shape="rect" id="node9" href="$_g_u_i_manager_8cpp.html" title="source/main/gui/GUIManager.cpp" alt="" coords="5,237,221,267"/>
-<area shape="rect" id="node13" href="$_rig_editor___main_8cpp.html" title="source/main/rig_editor/RigEditor_Main.cpp" alt="" coords="245,237,512,267"/>
-</map>

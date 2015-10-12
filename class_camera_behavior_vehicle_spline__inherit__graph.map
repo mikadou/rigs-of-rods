@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node2" href="$class_camera_behavior_vehicle.html" title="CameraBehaviorVehicle" alt="" coords="72,237,235,267"/>
-<area shape="rect" id="node4" href="$class_camera_behavior_orbit.html" title="CameraBehaviorOrbit" alt="" coords="80,160,227,189"/>
-<area shape="rect" id="node6" href="$class_i_behavior.html" title="IBehavior\&lt; CameraManager::CameraContext \&gt;" alt="" coords="5,83,301,112"/>
-<area shape="rect" id="node8" href="$class_zeroed_memory_allocator.html" title="ZeroedMemoryAllocator" alt="" coords="73,5,233,35"/>
-</map>

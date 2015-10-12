@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_d_o_f_manager.html#a0d3098733bb328d0d63075a10adc325d" title="DOFManager::cleanup" alt="" coords="249,32,401,61"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_application.html#a5082701abd55926b3c6eb4b0c933eca5" title="RoR::Application::GetOgreSubsystem" alt="" coords="452,5,695,35"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_ogre_subsystem.html#a2f68e736be01d118cae03e831b38a9df" title="RoR::OgreSubsystem::GetOgreRoot" alt="" coords="456,59,691,88"/>
-</map>

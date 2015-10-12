@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_land_vehicle_wheel.html#a3a21c94cff727754c599d63d8c14bc3d" title="RoR::RigEditor::LandVehicleWheel::ReGenerateMeshData" alt="" coords="515,5,880,35"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_rig_wheel_visuals.html#ae60f4ac66435cd80a1525111c144e6a8" title="Forces rebuild of dynamic mesh." alt="" coords="477,59,917,88"/>
-<area shape="rect" id="node13" href="$class_ro_r_1_1_rig_editor_1_1_rig_wheel_visuals.html#a06deb34b51ad8f6a9bba185608c42a20" title="Forces update of dynamic mesh." alt="" coords="471,112,924,141"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a76ac08cd1a12eff3e7bdac2fa4701e8f" title="RoR::RigEditor::Main::GetOgreSceneManager" alt="" coords="1008,5,1299,35"/>
-<area shape="rect" id="node9" href="$struct_ro_r_1_1_rig_editor_1_1_land_vehicle_wheel_1_1_edge.html#abc9227066052b2d0a30e1873001dccc2" title="RoR::RigEditor::LandVehicleWheel::Edge::GetColorValue" alt="" coords="975,112,1332,141"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a28a488de1514ae2f5e95e79f73a622b6" title="RoR::RigEditor::Main::GetConfig" alt="" coords="1047,59,1260,88"/>
-</map>

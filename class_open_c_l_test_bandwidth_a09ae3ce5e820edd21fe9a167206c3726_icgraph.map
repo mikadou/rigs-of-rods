@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_open_c_l_test_bandwidth.html#a9921496dfd7b9bad364e29724bec7510" title="OpenCLTestBandwidth::testBandwidthRange" alt="" coords="388,25,673,54"/>
-<area shape="rect" id="node14" href="$class_open_c_l_test_bandwidth.html#a89628442d42754cd11e99ea971f1e0a0" title="OpenCLTestBandwidth::testBandwidthShmoo" alt="" coords="724,78,1012,107"/>
-<area shape="rect" id="node5" href="$class_open_c_l_test_bandwidth.html#a78c9160164beb1100c2d3d06829cb933" title="OpenCLTestBandwidth::testBandwidth" alt="" coords="1061,25,1309,54"/>
-<area shape="rect" id="node11" href="$class_open_c_l_test_bandwidth.html#a45afd5c5834f81ea695d11fad965192e" title="OpenCLTestBandwidth::testBandwidthQuick" alt="" coords="727,25,1009,54"/>
-<area shape="rect" id="node7" href="$class_open_c_l_test_bandwidth.html#a7550fd57c70be3686619a613d557f985" title="OpenCLTestBandwidth::runTest" alt="" coords="1359,25,1567,54"/>
-<area shape="rect" id="node9" href="$class_open_c_l_test_bandwidth.html#a168c0d59269d05973a2c9291b783480b" title="OpenCLTestBandwidth::OpenCLTestBandwidth" alt="" coords="1617,25,1916,54"/>
-</map>

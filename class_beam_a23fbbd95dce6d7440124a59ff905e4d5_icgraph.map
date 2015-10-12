@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_camera_behavior_vehicle_cine_cam.html#a21a3912237dcbc89df32a1e393204cc0" title="CameraBehaviorVehicleCineCam::activate" alt="" coords="236,5,505,35"/>
-<area shape="rect" id="node5" href="$class_camera_behavior_vehicle_cine_cam.html#a58aa453475d7ec367d28112855c7693b" title="CameraBehaviorVehicleCineCam::deactivate" alt="" coords="228,59,513,88"/>
-<area shape="rect" id="node7" href="$class_camera_behavior_vehicle_cine_cam.html#a4fdcc1a78247942c0054953c443e4777" title="CameraBehaviorVehicleCineCam::switchBehavior" alt="" coords="213,112,528,141"/>
-<area shape="rect" id="node9" href="$class_beam.html#ac3b331240d6084f4a5116f6c862b65ad" title="Beam::Beam" alt="" coords="321,165,420,195"/>
-</map>

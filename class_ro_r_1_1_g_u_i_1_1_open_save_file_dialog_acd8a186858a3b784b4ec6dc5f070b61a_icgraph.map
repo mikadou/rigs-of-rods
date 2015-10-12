@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#ade891e7428df4a7a4f99765b0c492361" title="RoR::GUI::OpenSaveFileDialog::notifyEditSelectAccept" alt="" coords="312,5,661,35"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#a8ff36b68147395ca8b37ad485471f79d" title="RoR::GUI::OpenSaveFileDialog::notifyMouseButtonClick" alt="" coords="309,59,664,88"/>
-<area shape="rect" id="node10" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#ae04117018b6a0c82aee604912d9e7831" title="RoR::GUI::OpenSaveFileDialog::notifyListSelectAccept" alt="" coords="313,112,660,141"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#a14c64d9f8f06ca966e37cb11d63fe28b" title="RoR::GUI::OpenSaveFileDialog::OpenSaveFileDialog" alt="" coords="713,59,1047,88"/>
-</map>

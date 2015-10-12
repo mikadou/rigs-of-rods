@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_main.html#abe2179248ae5a8d9fc4a8ed136a18c46" title="RoR::RigEditor::Main::UpdateMainLoop" alt="" coords="491,32,744,61"/>
-<area shape="rect" id="node15" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a2b5781ac3dc16dea6aeace8abfc8824d" title="RoR::RigEditor::Main::CommandRigSelectedShocks2UpdateAttributes" alt="" coords="400,85,835,115"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a8cd11f0150b5e247b6d9f00212d42b0d" title="RoR::RigEditor::Main::EnterMainLoop" alt="" coords="883,32,1125,61"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1175,32,1324,61"/>
-<area shape="rect" id="node9" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1461,5,1512,35"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::RequestRestart" alt="" coords="1375,59,1599,88"/>
-<area shape="rect" id="node13" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1649,59,1831,88"/>
-</map>

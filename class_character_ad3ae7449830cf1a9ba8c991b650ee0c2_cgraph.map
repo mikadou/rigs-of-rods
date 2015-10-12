@@ -1,8 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_ro_r_singleton.html#a18a797fc35bd8cfa8a2affdd197cbfee" title="RoRSingleton\&lt; NetworkStreamManager \&gt;::getSingleton" alt="" coords="780,32,1127,61"/>
-<area shape="rect" id="node5" href="$class_network_stream_manager.html#a207f01cb8d1f1e1114e66d6f4215f6a8" title="NetworkStreamManager::addLocalStream" alt="" coords="247,57,511,87"/>
-<area shape="rect" id="node7" href="$class_streamable.html#a81648886f431e81940e48b698974b577" title="Streamable::setSourceID" alt="" coords="561,31,729,60"/>
-<area shape="rect" id="node9" href="$class_streamable.html#acc7ac6e8f91db534af9bdc4a3e8d7245" title="Streamable::setStreamID" alt="" coords="560,84,731,113"/>
-<area shape="rect" id="node11" href="$class_streamable.html#ad3380f9c932381bb9a862f40177aa58c" title="Streamable::addPacket" alt="" coords="567,137,724,167"/>
-<area shape="rect" id="node14" href="$class_network_stream_manager.html#a35a0f97374d09e9269ac1650932a1e07" title="NetworkStreamManager::triggerSend" alt="" coords="835,137,1072,167"/>
-</map>

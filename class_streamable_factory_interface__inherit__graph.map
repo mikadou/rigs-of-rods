@@ -1,9 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$class_streamable_factory.html" title="StreamableFactory\&lt; T, X \&gt;" alt="" coords="324,5,505,35"/>
-<area shape="rect" id="node5" href="$class_streamable_factory.html" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;" alt="" coords="277,59,552,88"/>
-<area shape="rect" id="node9" href="$class_streamable_factory.html" title="StreamableFactory\&lt; CharacterFactory, Character \&gt;" alt="" coords="253,112,576,141"/>
-<area shape="rect" id="node13" href="$class_streamable_factory.html" title="StreamableFactory\&lt; ChatSystemFactory, ChatSystem \&gt;" alt="" coords="237,165,592,195"/>
-<area shape="rect" id="node7" href="$class_beam_factory.html" title="BeamFactory" alt="" coords="660,59,759,88"/>
-<area shape="rect" id="node11" href="$class_character_factory.html" title="CharacterFactory" alt="" coords="648,112,771,141"/>
-<area shape="rect" id="node15" href="$class_chat_system_factory.html" title="ChatSystemFactory" alt="" coords="640,165,779,195"/>
-</map>
