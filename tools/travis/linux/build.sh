@@ -22,6 +22,9 @@ rm -rf ./*
 cp -R ../doc/doxygen/html/* .
 
 git add index.html
+
+git status
+
 git commit -m "[AUTO] Update documentation."
 
 echo "Pushing updated documentation to remote gh-pages branch."
