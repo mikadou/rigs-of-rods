@@ -1,0 +1,11 @@
+<map id="BeamEngine::getTurboPSI" name="BeamEngine::getTurboPSI">
+<area shape="rect" id="node3" href="$class_beam_engine.html#a8dd9a69eaf18df6ed1cc51491719e2d2" title="BeamEngine::getEnginePower" alt="" coords="233,33,431,62"/>
+<area shape="rect" id="node18" href="$class_out_protocol.html#a04436a996c74893dc5eda26782be06ee" title="OutProtocol::update" alt="" coords="520,86,659,115"/>
+<area shape="rect" id="node21" href="$class_overlay_wrapper.html#af60b94483d2976f1356c3450cc1d70e8" title="OverlayWrapper::UpdateLand\lVehicleHUD" alt="" coords="747,136,941,183"/>
+<area shape="rect" id="node5" href="$class_beam_engine.html#af63778678531a54f46691842a1015e72" title="BeamEngine::update" alt="" coords="991,33,1132,62"/>
+<area shape="rect" id="node13" href="$class_beam_engine.html#ab44a19bd64049dcd338fcf6994e27f1d" title="BeamEngine::getAccToHoldRPM" alt="" coords="481,33,697,62"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#a6fa954b906b6dc808a34e69ac2d018d3" title="BeamFactory::calcPhysics" alt="" coords="1181,33,1360,62"/>
+<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1409,86,1623,115"/>
+<area shape="rect" id="node11" href="$class_preview_renderer.html#a5ea6b4611b45965e072266211dc60ba8" title="PreviewRenderer::render" alt="" coords="1433,33,1599,62"/>
+<area shape="rect" id="node15" href="$class_beam_engine.html#abdc4379a7db428debfe14d05972d808e" title="BeamEngine::getIdleMixture" alt="" coords="751,33,937,62"/>
+</map>

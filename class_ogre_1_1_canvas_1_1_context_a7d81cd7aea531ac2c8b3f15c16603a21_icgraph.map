@@ -1,0 +1,5 @@
+<map id="Ogre::Canvas::Context::beginPath" name="Ogre::Canvas::Context::beginPath">
+<area shape="rect" id="node3" href="$class_ogre_1_1_canvas_1_1_context.html#a5653d348f39001da79c890968f29c5ec" title="Ogre::Canvas::Context\l::reset" alt="" coords="211,5,368,51"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_canvas_1_1_context.html#af6a9988416c5990e31570a7b4cec5430" title="Ogre::Canvas::Context\l::drawImage" alt="" coords="211,74,368,121"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_canvas_1_1_context.html#a2b0781e7cc1cfe165ea17c6750ae1e68" title="Ogre::Canvas::Context\l::stroke" alt="" coords="211,143,368,190"/>
+</map>

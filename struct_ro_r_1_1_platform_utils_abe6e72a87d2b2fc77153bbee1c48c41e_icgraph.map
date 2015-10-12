@@ -1,0 +1,18 @@
+<map id="RoR::PlatformUtils::FileExists" name="RoR::PlatformUtils::FileExists">
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::update\lEvents" alt="" coords="211,5,389,51"/>
+<area shape="rect" id="node7" href="$class_preview_renderer.html#ae52f6b669d010d49ef51ae193d96323d" title="PreviewRenderer::render3dpreview" alt="" coords="188,75,412,104"/>
+<area shape="rect" id="node9" href="$class_cache_system.html#a4439130b97404a54bca3ca9768586c48" title="CacheSystem::incremental\lCacheUpdate" alt="" coords="211,127,389,174"/>
+<area shape="rect" id="node28" href="$class_ro_r_1_1_content_manager.html#a7cbddcf40c0f515169de4d4e6bb8fd11" title="RoR::ContentManager\l::AddResourcePack" alt="" coords="727,198,879,245"/>
+<area shape="rect" id="node37" href="$struct_ro_r_1_1_platform_utils.html#a36beb7cfa2127f7b85376a20f4e5d475" title="RoR::PlatformUtils\l::FileExists" alt="" coords="233,247,367,294"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="463,13,676,43"/>
+<area shape="rect" id="node11" href="$class_cache_system.html#a37e784da57c57f56a428f61a53b4d618" title="CacheSystem::generateCache" alt="" coords="469,115,669,144"/>
+<area shape="rect" id="node13" href="$class_cache_system.html#ae010322c2422bf8f8dbfce904257da31" title="CacheSystem::Startup" alt="" coords="725,108,880,137"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1233,160,1383,189"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_main_thread.html#a50730ae3f8aae89aa0120b4b78b6db29" title="RoR::MainThread::RegenCache" alt="" coords="952,108,1160,137"/>
+<area shape="rect" id="node17" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1499,129,1549,159"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="1433,182,1615,229"/>
+<area shape="rect" id="node19" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1720,129,1792,159"/>
+<area shape="rect" id="node23" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1665,191,1847,220"/>
+<area shape="rect" id="node31" href="$class_ro_r_1_1_main_thread.html#aa3feeebda7f3f4c31a6cb96ea60c09e0" title="RoR::MainThread::SetupGameplayLoop" alt="" coords="929,212,1183,241"/>
+<area shape="rect" id="node34" href="$class_ro_r_1_1_content_manager.html#a3d65ff91e47f235abdea3dcc9db62876" title="RoR::ContentManager\l::init" alt="" coords="980,265,1132,311"/>
+</map>

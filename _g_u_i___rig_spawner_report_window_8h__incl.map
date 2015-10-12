@@ -1,0 +1,13 @@
+<map id="source/main/gui/panels/GUI_RigSpawnerReportWindow.h" name="source/main/gui/panels/GUI_RigSpawnerReportWindow.h">
+<area shape="rect" id="node3" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="5,584,157,613"/>
+<area shape="rect" id="node5" href="$_g_u_i___rig_spawner_report_window_layout_8h.html" title="GUI_RigSpawnerReportWindow\lLayout.h" alt="" coords="927,102,1137,149"/>
+<area shape="rect" id="node57" href="$_gui_manager_interface_8h.html" title="Command interface for GAME/GUI_PANEL &#45;&gt; GUI_MANAGER communication. Reduces compile&#45;time dependencies..." alt="" coords="1213,275,1368,304"/>
+<area shape="rect" id="node60" href="$_gui_panel_base_8h.html" title="GuiPanelBase.h" alt="" coords="2048,111,2163,140"/>
+<area shape="rect" id="node8" href="$_base_layout_8h.html" title="BaseLayout.h" alt="" coords="981,197,1083,227"/>
+<area shape="rect" id="node10" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1141,429,1277,459"/>
+<area shape="rect" id="node50" href="$_wraps_attribute_8h.html" title="WrapsAttribute.h" alt="" coords="1069,275,1189,304"/>
+<area shape="rect" id="node37" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="2019,507,2160,536"/>
+<area shape="rect" id="node40" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="2184,507,2355,536"/>
+<area shape="rect" id="node42" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="2379,507,2525,536"/>
+<area shape="rect" id="node54" href="$_attribute_8h.html" title="Attribute.h" alt="" coords="1168,352,1251,381"/>
+</map>

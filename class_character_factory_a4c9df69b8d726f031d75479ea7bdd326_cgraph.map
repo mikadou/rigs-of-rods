@@ -1,0 +1,14 @@
+<map id="CharacterFactory::netUserAttributesChanged" name="CharacterFactory::netUserAttributesChanged">
+<area shape="rect" id="node3" href="$class_character.html#af66e892ae9ab0bc74278e55754400b2d" title="Character::updateNetLabel" alt="" coords="232,275,411,304"/>
+<area shape="rect" id="node5" href="$_utils_8cpp.html#aef0f4c4a8529a99aa149b9d72aa3a3f4" title="tryConvertUTF" alt="" coords="496,5,605,35"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_movable_text.html#aed27a49ecadb3905afb7b5de4409d799" title="Ogre::MovableText::\lsetFontName" alt="" coords="480,58,621,105"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_movable_text.html#a8fc0b2d13ba89695e53152ad1c435306" title="Ogre::MovableText::\lsetTextAlignment" alt="" coords="480,127,621,174"/>
+<area shape="rect" id="node11" href="$class_ogre_1_1_movable_text.html#a0e4f2340efd854e591e07fb4bebcbeaa" title="Ogre::MovableText::\lsetAdditionalHeight" alt="" coords="480,197,621,243"/>
+<area shape="rect" id="node13" href="$class_ogre_1_1_movable_text.html#a88bb2321dd352795dfeff306928e48bc" title="Ogre::MovableText::\lshowOnTop" alt="" coords="480,266,621,313"/>
+<area shape="rect" id="node15" href="$class_ogre_1_1_movable_text.html#a0562e7c4341e263ae6e9d55f91643ade" title="Ogre::MovableText::\lsetCharacterHeight" alt="" coords="480,335,621,382"/>
+<area shape="rect" id="node17" href="$class_ogre_1_1_movable_text.html#a7ed5e440d32fee6180e6eaa7094b3f5c" title="Ogre::MovableText::\lsetColor" alt="" coords="480,405,621,451"/>
+<area shape="rect" id="node19" href="$class_ogre_1_1_movable_text.html#a9e93f2a29c44474bf8d3408ab6484f6c" title="Ogre::MovableText::\lsetCaption" alt="" coords="480,474,621,521"/>
+<area shape="rect" id="node21" href="$class_character.html#a86d1a210a197d0e6107963de0efb0d40" title="Character::updateCharacter\lColour" alt="" coords="460,543,641,590"/>
+<area shape="rect" id="node23" href="$class_ro_r_singleton.html#a18a797fc35bd8cfa8a2affdd197cbfee" title="RoRSingleton\&lt; PlayerColours\l \&gt;::getSingleton" alt="" coords="691,513,888,559"/>
+<area shape="rect" id="node25" href="$class_player_colours.html#a8a6251b05f757435094708d615c38538" title="PlayerColours::updateMaterial" alt="" coords="691,583,888,612"/>
+</map>

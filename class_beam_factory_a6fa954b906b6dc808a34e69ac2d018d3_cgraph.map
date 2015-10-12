@@ -1,0 +1,51 @@
+<map id="BeamFactory::calcPhysics" name="BeamFactory::calcPhysics">
+<area shape="rect" id="node3" href="$class_beam.html#ac5430b47f97dc513c9e8a0a3caa00cc2" title="Beam::frameStep" alt="" coords="709,539,832,568"/>
+<area shape="rect" id="node43" href="$class_two_d_replay.html#abceb8a16da69e16f581128ae0e111a12" title="TwoDReplay::update" alt="" coords="241,837,385,867"/>
+<area shape="rect" id="node67" href="$class_beam.html#a1f4fdf0a0c05b001b17456e645c1d644" title="Beam::calcNetwork" alt="" coords="245,891,381,920"/>
+<area shape="rect" id="node69" href="$class_beam_engine.html#af63778678531a54f46691842a1015e72" title="BeamEngine::update" alt="" coords="700,1209,841,1239"/>
+<area shape="rect" id="node104" href="$class_beam.html#a5775838873dc77ae441c167114e058df" title="Beam::sendStreamData" alt="" coords="232,995,395,1024"/>
+<area shape="rect" id="node5" href="$class_ro_r_singleton_no_creation.html#a5e7a47f4b2d6d0abaa3a1ea5ca1f216a" title="RoRSingletonNoCreation\l\&lt; ScriptEngine \&gt;::getSingleton" alt="" coords="925,530,1125,577"/>
+<area shape="rect" id="node7" href="$class_script_engine.html#aa965aba73cdaaa20d3ce2f5d112027a3" title="ScriptEngine::triggerEvent" alt="" coords="939,600,1112,629"/>
+<area shape="rect" id="node9" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getSingleton" alt="" coords="947,936,1104,1000"/>
+<area shape="rect" id="node11" href="$class_beam_factory.html#aa7c42481b46a78459831fa0900ab8d67" title="BeamFactory::getTrucks" alt="" coords="943,653,1108,683"/>
+<area shape="rect" id="node13" href="$class_beam_factory.html#a5f3755f8cd44e6972e463cc6aaa9f181" title="BeamFactory::getTruckCount" alt="" coords="928,883,1123,912"/>
+<area shape="rect" id="node15" href="$class_beam.html#a6c440445640a12a8bf52fa0127365708" title="Beam::calcForcesEulerCompute" alt="" coords="920,707,1131,736"/>
+<area shape="rect" id="node17" href="$class_beam.html#a0ec96a72537e15007db1ca57898c4ed5" title="Beam::calcForcesEulerFinal" alt="" coords="932,760,1119,789"/>
+<area shape="rect" id="node19" href="$class_beam.html#af254958b8dc3d3083e1af237297eedb4" title="Beam::intraTruckCollisions\lPrepare" alt="" coords="936,813,1115,859"/>
+<area shape="rect" id="node21" href="$class_beam.html#ab988782104613bfc9a60668c258d3dce" title="Beam::intraTruckCollisions\lCompute" alt="" coords="936,23,1115,70"/>
+<area shape="rect" id="node27" href="$class_beam.html#ac748e4439aae8303fabd401dbaacbc0a" title="Beam::intraTruckCollisions\lFinal" alt="" coords="936,93,1115,139"/>
+<area shape="rect" id="node29" href="$class_beam_factory.html#aba95d975d7ec4c7c61249852f7a80990" title="BeamFactory::_WorkerWait\lForSync" alt="" coords="933,162,1117,209"/>
+<area shape="rect" id="node31" href="$class_beam.html#a305ac27eb231b889a058575508f3d626" title="Beam::SyncReset" alt="" coords="961,232,1089,261"/>
+<area shape="rect" id="node35" href="$class_beam.html#a9e6b7ce9cec6a4741cbaa060754a48c8" title="Beam::updateTruckPosition" alt="" coords="935,285,1116,315"/>
+<area shape="rect" id="node37" href="$class_beam.html#a1ce3e20865aff805981b609c6131de07" title="Beam::moveOrigin" alt="" coords="960,339,1091,368"/>
+<area shape="rect" id="node39" href="$class_beam_factory.html#a2ffa237fe036236ef848a54bc881f027" title="BeamFactory::_WorkerPrepare\lStart" alt="" coords="924,391,1127,438"/>
+<area shape="rect" id="node41" href="$class_beam_factory.html#a78d42aefb9949c9dc9b282e665790753" title="BeamFactory::_WorkerSignal\lStart" alt="" coords="929,461,1121,507"/>
+<area shape="rect" id="node23" href="$_approx_math_8h.html#a88cab057c9c3a7a5cbaa1aebb06bf864" title="fast_normalise" alt="" coords="1235,5,1341,35"/>
+<area shape="rect" id="node25" href="$class_collisions.html#a37fe3226d0a0ad6497c97555f1aa4b31" title="Collisions::primitiveCollision" alt="" coords="1195,59,1381,88"/>
+<area shape="rect" id="node33" href="$namespace_profiler.html#a1f2fdbd66925222007a1461ecd4d01f9" title="Profiler::reset" alt="" coords="1239,232,1337,261"/>
+<area shape="rect" id="node45" href="$class_two_d_replay.html#a4b479652a9394ba9e8b7e08e33dbbb7a" title="TwoDReplay::recordFrame" alt="" coords="443,837,621,867"/>
+<area shape="rect" id="node47" href="$class_two_d_replay.html#aa649099f489cb49888c053700dac1464" title="TwoDReplay::start" alt="" coords="705,971,836,1000"/>
+<area shape="rect" id="node54" href="$class_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="BeamFactory::getCurrentTruck" alt="" coords="669,1024,872,1053"/>
+<area shape="rect" id="node57" href="$class_beam_factory.html#af6019a65ff8a7ed9ea139dc5ab178c68" title="BeamFactory::getPhysFrame" alt="" coords="675,704,867,733"/>
+<area shape="rect" id="node59" href="$class_beam_engine.html#a2a9f0148195ac8b87fd92456743f2c01" title="BeamEngine::getAcc" alt="" coords="699,757,843,787"/>
+<area shape="rect" id="node61" href="$class_beam_engine.html#ab734ee4c4bc73ed000c10ac3aba196eb" title="BeamEngine::getClutch" alt="" coords="691,811,851,840"/>
+<area shape="rect" id="node63" href="$class_beam_engine.html#ae5f87426f9dc96c4f4bf377b53e9936a" title="BeamEngine::getGear" alt="" coords="696,864,845,893"/>
+<area shape="rect" id="node65" href="$class_beam_engine.html#af61666b68be34475314aa68b06af40c0" title="BeamEngine::getAutoMode" alt="" coords="680,917,861,947"/>
+<area shape="rect" id="node51" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="947,1024,1104,1053"/>
+<area shape="rect" id="node73" href="$class_beam_engine.html#abdc4379a7db428debfe14d05972d808e" title="BeamEngine::getIdleMixture" alt="" coords="932,1392,1119,1421"/>
+<area shape="rect" id="node77" href="$class_beam_engine.html#a8dd9a69eaf18df6ed1cc51491719e2d2" title="BeamEngine::getEnginePower" alt="" coords="1447,1419,1644,1448"/>
+<area shape="rect" id="node83" href="$class_beam_engine.html#af3571459f6ea5650b38ced1a5ea148b4" title="BeamEngine::getPrimeMixture" alt="" coords="927,1496,1124,1525"/>
+<area shape="rect" id="node87" href="$_approx_math_8h.html#a5459f6b6b39f9a6b80de7f17c3777ee2" title="frand" alt="" coords="1000,1077,1051,1107"/>
+<area shape="rect" id="node90" href="$class_beam_engine.html#a445dfc6189958e5bcd82d62a3c4a29c8" title="BeamEngine::stop" alt="" coords="961,1131,1089,1160"/>
+<area shape="rect" id="node92" href="$class_beam_engine.html#a74010b85a774cb7e3bd4c494bd29e315" title="BeamEngine::setAcc" alt="" coords="1473,1183,1617,1212"/>
+<area shape="rect" id="node94" href="$class_beam_engine.html#a4a1f822856aacd574f37d13a5ee11589" title="BeamEngine::shift" alt="" coords="1224,1235,1352,1264"/>
+<area shape="rect" id="node99" href="$class_beam_engine.html#a52ad34ee5fa555966eda7d9d0deaf5a4" title="BeamEngine::shiftTo" alt="" coords="953,1235,1097,1264"/>
+<area shape="rect" id="node102" href="$class_beam_engine.html#a76fc148efa45e2da9f8fb7f9e21021d7" title="BeamEngine::updateAudio" alt="" coords="937,1339,1113,1368"/>
+<area shape="rect" id="node75" href="$class_beam_engine.html#ab44a19bd64049dcd338fcf6994e27f1d" title="BeamEngine::getAccToHoldRPM" alt="" coords="1180,1392,1396,1421"/>
+<area shape="rect" id="node79" href="$class_torque_curve.html#ac086875124a09f29072f016ae3c99642" title="TorqueCurve::getEngineTorque" alt="" coords="1693,1392,1896,1421"/>
+<area shape="rect" id="node81" href="$class_beam_engine.html#a97f9e8ae65b27a623c9aefaba01b5a3b" title="BeamEngine::getTurboPSI" alt="" coords="1707,1445,1883,1475"/>
+<area shape="rect" id="node85" href="$class_beam_engine.html#a19e5f9230ce7bfe6cfd001af50be3c10" title="BeamEngine::getCrankFactor" alt="" coords="1191,1496,1385,1525"/>
+<area shape="rect" id="node96" href="$class_beam_engine.html#a7231a53b2dd66a597463fd00cbeabb1f" title="BeamEngine::getNumGears" alt="" coords="1453,1236,1637,1265"/>
+<area shape="rect" id="node106" href="$struct_error_utils.html#aec73b03c7829838888bbecf9acda1b98" title="ErrorUtils::ShowError" alt="" coords="459,1048,605,1077"/>
+<area shape="rect" id="node108" href="$namespace_profiler.html#af79bb59414ef3ba134213bb6f2f2d292" title="Profiler::exit" alt="" coords="487,995,577,1024"/>
+</map>

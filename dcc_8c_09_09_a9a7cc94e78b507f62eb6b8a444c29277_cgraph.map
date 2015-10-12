@@ -1,0 +1,12 @@
+<map id="libirc_dcc_process_descriptors" name="libirc_dcc_process_descriptors">
+<area shape="rect" id="node3" href="$portable_8c_09_09.html#a9646a2024e4129ba4fbb30452f083e33" title="libirc_mutex_lock" alt="" coords="573,164,696,193"/>
+<area shape="rect" id="node5" href="$sockets_8c_09_09.html#a4eed5bf06bda554efd41f1d5b508e5db" title="socket_accept" alt="" coords="195,156,301,185"/>
+<area shape="rect" id="node9" href="$sockets_8c_09_09.html#ad13636246822f43abd7f3c351915435b" title="socket_close" alt="" coords="389,275,488,304"/>
+<area shape="rect" id="node11" href="$portable_8c_09_09.html#a214ac94a66d2c51f5c25f84aa3642699" title="libirc_mutex_unlock" alt="" coords="567,272,703,301"/>
+<area shape="rect" id="node13" href="$dcc_8c_09_09.html#a464aa8105fc2454a8d12c532cdf8413f" title="libirc_dcc_destroy\l_nolock" alt="" coords="185,209,311,255"/>
+<area shape="rect" id="node20" href="$sockets_8c_09_09.html#a6d8f789d5b1b9cc70c7bff3820df5ee8" title="socket_recv" alt="" coords="201,49,295,79"/>
+<area shape="rect" id="node23" href="$utils_8c_09_09.html#a8c2db84e9428172a3cff5cfd29cb4990" title="libirc_findcrorlf" alt="" coords="195,329,301,359"/>
+<area shape="rect" id="node25" href="$sockets_8c_09_09.html#a37217839c59a831d8665709931438ba3" title="socket_send" alt="" coords="200,103,296,132"/>
+<area shape="rect" id="node7" href="$sockets_8c_09_09.html#a255020412c10e333d45b41069d851b67" title="socket_error" alt="" coords="392,103,485,132"/>
+<area shape="rect" id="node15" href="$dcc_8c_09_09.html#aa2d9c696dcb8b122fa25a031f3a72ca9" title="libirc_find_dcc_session" alt="" coords="360,217,517,247"/>
+</map>

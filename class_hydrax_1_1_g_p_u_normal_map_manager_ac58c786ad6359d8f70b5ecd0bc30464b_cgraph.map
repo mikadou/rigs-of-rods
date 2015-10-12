@@ -1,0 +1,13 @@
+<map id="Hydrax::GPUNormalMapManager::setActive" name="Hydrax::GPUNormalMapManager::setActive">
+<area shape="rect" id="node3" href="$class_hydrax_1_1_rtt_manager.html#a774efa00a79ade65e726ed0774d2ac2e" title="Hydrax::RttManager\l::initialize" alt="" coords="273,109,412,155"/>
+<area shape="rect" id="node23" href="$class_hydrax_1_1_rtt_manager.html#a360139ed63706da8ca9ec04716d65574" title="Hydrax::RttManager\l::remove" alt="" coords="273,178,412,225"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_hydrax.html#a4f6dfef270938f04d0430eaf8e1fa88f" title="Hydrax::Hydrax::getScene\lManager" alt="" coords="465,5,641,51"/>
+<area shape="rect" id="node7" href="$class_hydrax_1_1_hydrax.html#a0e0da539fe181e84a115368e97eff0c6" title="Hydrax::Hydrax::getWater\lColor" alt="" coords="467,74,640,121"/>
+<area shape="rect" id="node9" href="$class_hydrax_1_1_hydrax.html#a1532419b2859aed22a63d913c527ce21" title="Hydrax::Hydrax::_isCurrent\lFrameUnderwater" alt="" coords="463,143,644,190"/>
+<area shape="rect" id="node11" href="$class_hydrax_1_1_rtt_manager.html#aab5e7c56ec35030e7410e9ca01f737a1" title="Hydrax::RttManager\l::_initializeRtt" alt="" coords="484,213,623,259"/>
+<area shape="rect" id="node13" href="$class_hydrax_1_1_hydrax.html#a1940a144c486915885ed19026839d381" title="Hydrax::Hydrax::getMesh" alt="" coords="704,115,875,144"/>
+<area shape="rect" id="node15" href="$class_hydrax_1_1_mesh.html#a4d55461e0da92344146340af91fab715" title="Hydrax::Mesh::getSize" alt="" coords="712,168,867,197"/>
+<area shape="rect" id="node17" href="$class_hydrax_1_1_hydrax.html#a969555d8f856a43c4ca6c92bb0958bf1" title="Hydrax::Hydrax::getViewport" alt="" coords="695,221,884,251"/>
+<area shape="rect" id="node19" href="$class_hydrax_1_1_rtt_manager.html#ae94c4a88b240d9b7be93aa6c1430d2b6" title="Hydrax::RttManager\l::getPixelFormat" alt="" coords="720,274,859,321"/>
+<area shape="rect" id="node21" href="$class_hydrax_1_1_hydrax.html#aef185c906434b6dfb7c67a425d678287" title="Hydrax::Hydrax::getCamera" alt="" coords="696,344,883,373"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="CameraBehaviorVehicle::update" name="CameraBehaviorVehicle::update">
+<area shape="rect" id="node3" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getSingleton" alt="" coords="501,5,659,69"/>
+<area shape="rect" id="node5" href="$class_beam_factory.html#a88bba2b2f5459576eae968bd8c61a32f" title="BeamFactory::getThreadingMode" alt="" coords="217,71,431,100"/>
+<area shape="rect" id="node7" href="$class_beam.html#a304819ff3ad7dafc09f7f64e0c908d2e" title="Beam::getMinimalCameraRadius" alt="" coords="217,124,431,153"/>
+<area shape="rect" id="node9" href="$class_beam.html#a1294bf3dfa3848211b06a82020c53e72" title="Beam::getPosition" alt="" coords="260,177,388,207"/>
+<area shape="rect" id="node11" href="$class_camera_behavior_orbit.html#ac2fbf5b905645faf54092ef1c081ef55" title="CameraBehaviorOrbit\l::update" alt="" coords="251,230,397,277"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_application.html#a608003a20ef939a79437a9da8fa76307" title="RoR::Application::GetInput\lEngine" alt="" coords="491,102,669,149"/>
+<area shape="rect" id="node15" href="$class_input_engine.html#a251be92f16fe445542e240fc121354d8" title="InputEngine::getEventValue" alt="" coords="488,172,672,201"/>
+<area shape="rect" id="node21" href="$class_camera_behavior_orbit.html#ac2c38d7776bb50ffb4a0d267c11acb2c" title="CameraBehaviorOrbit\l::reset" alt="" coords="507,225,653,271"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_application.html#ad66b6a7000f93454d75f1150d6959141" title="RoR::Application::GetConsole" alt="" coords="481,295,679,324"/>
+<area shape="rect" id="node25" href="$class_terrain_manager.html#ae63cfc0dda4ab62dc7f6d72eb7845628" title="TerrainManager::getHeight\lFinder" alt="" coords="492,347,668,394"/>
+<area shape="rect" id="node27" href="$class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="492,417,668,447"/>
+<area shape="rect" id="node17" href="$class_input_engine.html#a3e63861375a5873297281b885c8aa8f9" title="InputEngine::axisLinearity" alt="" coords="729,145,900,175"/>
+<area shape="rect" id="node19" href="$class_input_engine.html#aaa9f701b9f4420b8e97cf4ae775038c1" title="InputEngine::deadZone" alt="" coords="737,199,892,228"/>
+</map>

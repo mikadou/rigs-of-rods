@@ -1,0 +1,11 @@
+<map id="Beam::getTruckHash" name="Beam::getTruckHash">
+<area shape="rect" id="node3" href="$class_two_d_replay.html#aa649099f489cb49888c053700dac1464" title="TwoDReplay::start" alt="" coords="247,32,377,61"/>
+<area shape="rect" id="node15" href="$class_game_script.html#a8c02937795d82f6bc0de53d8e939993d" title="GameScript::useOnlineAPIDirectly" alt="" coords="200,85,424,115"/>
+<area shape="rect" id="node5" href="$class_two_d_replay.html#a4b479652a9394ba9e8b7e08e33dbbb7a" title="TwoDReplay::recordFrame" alt="" coords="472,32,651,61"/>
+<area shape="rect" id="node7" href="$class_two_d_replay.html#abceb8a16da69e16f581128ae0e111a12" title="TwoDReplay::update" alt="" coords="716,32,860,61"/>
+<area shape="rect" id="node9" href="$class_beam_factory.html#a6fa954b906b6dc808a34e69ac2d018d3" title="BeamFactory::calcPhysics" alt="" coords="925,32,1104,61"/>
+<area shape="rect" id="node11" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1153,5,1367,35"/>
+<area shape="rect" id="node13" href="$class_preview_renderer.html#a5ea6b4611b45965e072266211dc60ba8" title="PreviewRenderer::render" alt="" coords="1177,59,1343,88"/>
+<area shape="rect" id="node17" href="$_game_script_8cpp.html#aeecefe9a646e48846e0a7f4ee494b624" title="onlineAPIThread" alt="" coords="503,85,620,115"/>
+<area shape="rect" id="node19" href="$class_game_script.html#a57fef318c599e4d2f86aa9b4b7f2ec12" title="GameScript::useOnlineAPI" alt="" coords="699,85,877,115"/>
+</map>

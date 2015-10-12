@@ -1,0 +1,11 @@
+<map id="BeamFactory::createRemoteInstance" name="BeamFactory::createRemoteInstance">
+<area shape="rect" id="node3" href="$class_chat_system.html#a849cc6c4dfafbabeb7ab79547f4e1331" title="ChatSystem::getColouredName" alt="" coords="252,5,460,35"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_application.html#a3db1b8c7dc6bf465f5ed653ef4a8ce9a" title="RoR::Application::GetGui\lManager" alt="" coords="271,58,441,105"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_g_u_i_manager.html#a0058dbdb5b0a32a923781e4750cff8b7" title="RoR::GUIManager::pushMessage\lChatBox" alt="" coords="247,127,465,174"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_application.html#ac58b2c86e17a19b50bf305fbd7daad1a" title="RoR::Application::GetCache\lSystem" alt="" coords="263,197,449,243"/>
+<area shape="rect" id="node11" href="$class_streamable_factory.html#a144cbd4edd29595ee5c36bf9aa3b461c" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getStreams" alt="" coords="277,267,435,331"/>
+<area shape="rect" id="node13" href="$class_beam_factory.html#ad4e3be6a036419a493c187046e7b3f38" title="BeamFactory::getFreeTruckSlot" alt="" coords="252,355,460,384"/>
+<area shape="rect" id="node15" href="$class_streamable.html#a81648886f431e81940e48b698974b577" title="Streamable::setSourceID" alt="" coords="272,408,440,437"/>
+<area shape="rect" id="node17" href="$class_streamable.html#acc7ac6e8f91db534af9bdc4a3e8d7245" title="Streamable::setStreamID" alt="" coords="271,461,441,491"/>
+<area shape="rect" id="node19" href="$class_beam.html#aca6cb152aefc10162410ca53cecf773e" title="Beam::updateNetworkInfo" alt="" coords="269,515,443,544"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="RoR::RigEditor::Rig::SelectedHydrosUpdateAttributes" name="RoR::RigEditor::Rig::SelectedHydrosUpdateAttributes">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_main.html#abe2179248ae5a8d9fc4a8ed136a18c46" title="RoR::RigEditor::Main\l::UpdateMainLoop" alt="" coords="324,27,471,74"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a8f9e8541ceace4ad3f0ce8b74741aaf4" title="RoR::RigEditor::Main\l::CommandRigSelectedHydrosUpdate\lAttributes" alt="" coords="275,97,520,161"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a8cd11f0150b5e247b6d9f00212d42b0d" title="RoR::RigEditor::Main\l::EnterMainLoop" alt="" coords="568,27,715,74"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="764,36,913,65"/>
+<area shape="rect" id="node9" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1029,5,1080,35"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="964,58,1145,105"/>
+<area shape="rect" id="node11" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1251,5,1323,35"/>
+<area shape="rect" id="node15" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1196,67,1377,96"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="AeroEngine::getType" name="AeroEngine::getType">
+<area shape="rect" id="node3" href="$class_overlay_wrapper.html#a0932f42417c63edc77c8ed486efa66c1" title="OverlayWrapper::UpdateAerialHUD" alt="" coords="197,5,427,35"/>
+<area shape="rect" id="node7" href="$class_rig_spawner.html#a28bf30353b7f207de13fb15917993c1f" title="RigSpawner::SetupDefault\lSoundSources" alt="" coords="224,58,400,105"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="476,5,689,35"/>
+<area shape="rect" id="node9" href="$class_beam.html#a866f7eb5e93d6c476fa1bd0a4b7dcdf5" title="Beam::LoadTruck" alt="" coords="520,67,645,96"/>
+<area shape="rect" id="node11" href="$class_beam.html#ac3b331240d6084f4a5116f6c862b65ad" title="Beam::Beam" alt="" coords="739,67,837,96"/>
+</map>

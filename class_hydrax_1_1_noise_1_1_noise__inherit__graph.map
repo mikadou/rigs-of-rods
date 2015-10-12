@@ -1,0 +1,5 @@
+<map id="Hydrax::Noise::Noise" name="Hydrax::Noise::Noise">
+<area shape="rect" id="node3" href="$class_hydrax_1_1_noise_1_1_f_f_t.html" title="Hydrax::Noise::FFT" alt="" coords="5,83,144,112"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_noise_1_1_perlin.html" title="Hydrax::Noise::Perlin" alt="" coords="168,83,315,112"/>
+<area shape="rect" id="node7" href="$class_hydrax_1_1_noise_1_1_real.html" title="This class is a sea elevation module that combines several effects: &#160;Waves, defined by direction..." alt="" coords="339,83,480,112"/>
+</map>

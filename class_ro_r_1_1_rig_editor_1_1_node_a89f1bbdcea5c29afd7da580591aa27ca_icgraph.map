@@ -1,0 +1,16 @@
+<map id="RoR::RigEditor::Node::GetScreenPosition" name="RoR::RigEditor::Node::GetScreenPosition">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a7903b41d8fc63f6d73a4834f19209914" title="RoR::RigEditor::Rig\l::RefreshMouseHoveredNode" alt="" coords="205,93,400,139"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_main.html#abe2179248ae5a8d9fc4a8ed136a18c46" title="RoR::RigEditor::Main\l::UpdateMainLoop" alt="" coords="473,58,620,105"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a7043ad34e928efff290d0b9f2192a613" title="RoR::RigEditor::Main\l::OnNewRigCreatedOrLoaded" alt="" coords="449,127,644,174"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a8cd11f0150b5e247b6d9f00212d42b0d" title="RoR::RigEditor::Main\l::EnterMainLoop" alt="" coords="728,58,875,105"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="968,67,1117,96"/>
+<area shape="rect" id="node11" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1275,5,1325,35"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="1209,58,1391,105"/>
+<area shape="rect" id="node13" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1528,5,1600,35"/>
+<area shape="rect" id="node17" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1473,67,1655,96"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a0ae39993d636eacc5dfe567c5f5ac4b9" title="RoR::RigEditor::Main\l::LoadRigDefFile" alt="" coords="728,127,875,174"/>
+<area shape="rect" id="node29" href="$class_ro_r_1_1_rig_editor_1_1_main.html#ad136bb804b1accbfed00705895f86362" title="RoR::RigEditor::Main\l::CommandCreateNewEmptyRig" alt="" coords="695,197,908,243"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a35a10d6c23920802442d32fab1a8d470" title="RoR::RigEditor::Main\l::NotifyFileSelectorEnded" alt="" coords="957,127,1128,174"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a4f73e9dc5632524ca803864460b82bb5" title="RoR::RigEditor::Main\l::CommandShowDialogOpenRigFile" alt="" coords="1184,127,1416,174"/>
+<area shape="rect" id="node27" href="$class_ro_r_1_1_rig_editor_1_1_main.html#acb4af1361d9233f5ee2fa658536a7658" title="RoR::RigEditor::Main\l::CommandShowDialogSaveRigFileAs" alt="" coords="1177,197,1423,243"/>
+</map>

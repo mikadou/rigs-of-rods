@@ -1,0 +1,9 @@
+<map id="CacheSystem::checkForNewDirectoriesInResourceGroup" name="CacheSystem::checkForNewDirectoriesInResourceGroup">
+<area shape="rect" id="node3" href="$class_cache_system.html#a303add5eb2948feec938ccf89babd747" title="CacheSystem::isDirectory\lUsedInEntries" alt="" coords="273,5,449,51"/>
+<area shape="rect" id="node7" href="$class_cache_system.html#a6930774611a2fb3df326a427c2af3ccb" title="CacheSystem::loadSingleDirectory" alt="" coords="248,75,475,104"/>
+<area shape="rect" id="node5" href="$class_cache_system.html#a12f05687c63beea66a7d560680d0b9f9" title="CacheSystem::getVirtualPath" alt="" coords="796,20,991,49"/>
+<area shape="rect" id="node9" href="$class_cache_system.html#ad423befaee09dd2e45621690907484f1" title="CacheSystem::parseKnownFiles\lOneRGDirectory" alt="" coords="523,65,736,111"/>
+<area shape="rect" id="node14" href="$class_cache_system.html#abb9382582ecfda71e456008e48eef3af" title="CacheSystem::parseKnownFiles\lOneRG" alt="" coords="523,134,736,181"/>
+<area shape="rect" id="node12" href="$class_cache_system.html#a3edd3d66646d444d6065d8dd7e1ac622" title="CacheSystem::addFile" alt="" coords="1051,107,1205,136"/>
+<area shape="rect" id="node16" href="$class_cache_system.html#a6a83b6a74cf941ba418037daf7bc3759" title="CacheSystem::parseFilesOneRG" alt="" coords="785,135,1001,164"/>
+</map>

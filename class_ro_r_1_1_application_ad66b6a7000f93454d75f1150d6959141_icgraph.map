@@ -1,0 +1,26 @@
+<map id="RoR::Application::GetConsole" name="RoR::Application::GetConsole">
+<area shape="rect" id="node3" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a830e19b0460db3df601abe83096f78d7" title="RoR::LandVehicleSimulation\l::UpdateVehicle" alt="" coords="271,5,460,51"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::update\lEvents" alt="" coords="536,95,715,142"/>
+<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#a5f0e897e268eb585d665235fad6c85cd" title="RoRFrameListener::showLoad" alt="" coords="267,195,464,224"/>
+<area shape="rect" id="node13" href="$class_ro_r_frame_listener.html#accf1a2895ee6b67789cfaa570bfa01cb" title="RoRFrameListener::reload\lCurrentTruck" alt="" coords="279,125,452,171"/>
+<area shape="rect" id="node16" href="$class_camera_behavior_fixed.html#a241ef159be15e1eaea2d515e8783e9cf" title="CameraBehaviorFixed\l::activate" alt="" coords="291,247,440,294"/>
+<area shape="rect" id="node18" href="$class_camera_behavior_free.html#a00d41bdbc48a1fdf054e4c49307b6333" title="CameraBehaviorFree\l::activate" alt="" coords="293,317,437,363"/>
+<area shape="rect" id="node20" href="$class_camera_behavior_isometric.html#a87263a46cf14697b5aedfa831e5506f7" title="CameraBehaviorIsometric\l::activate" alt="" coords="279,386,452,433"/>
+<area shape="rect" id="node22" href="$class_camera_behavior_orbit.html#ac2fbf5b905645faf54092ef1c081ef55" title="CameraBehaviorOrbit\l::update" alt="" coords="292,455,439,502"/>
+<area shape="rect" id="node30" href="$class_camera_behavior_vehicle_spline.html#ae30aef518419478d4c3ad73879eae6cd" title="CameraBehaviorVehicleSpline\l::update" alt="" coords="527,515,724,562"/>
+<area shape="rect" id="node33" href="$class_beam.html#a866f7eb5e93d6c476fa1bd0a4b7dcdf5" title="Beam::LoadTruck" alt="" coords="303,576,428,605"/>
+<area shape="rect" id="node37" href="$class_rig_spawner.html#a5396849b5b3d28cdd02a408803e14851" title="RigSpawner::FinalizeRig" alt="" coords="283,629,448,659"/>
+<area shape="rect" id="node41" href="$class_game_script.html#a8d3e1d2eb76012b6b03795caf140a488" title="GameScript::flashMessage" alt="" coords="276,683,455,712"/>
+<area shape="rect" id="node43" href="$class_game_script.html#a1df285262747691657513586dfe94907" title="GameScript::message" alt="" coords="289,736,441,765"/>
+<area shape="rect" id="node45" href="$class_game_script.html#a8c02937795d82f6bc0de53d8e939993d" title="GameScript::useOnlineAPIDirectly" alt="" coords="253,789,477,819"/>
+<area shape="rect" id="node49" href="$class_game_script.html#a57fef318c599e4d2f86aa9b4b7f2ec12" title="GameScript::useOnlineAPI" alt="" coords="792,815,971,844"/>
+<area shape="rect" id="node52" href="$class_script_engine.html#aa3fd180fbea1a6136719de826b59a6d8" title="ScriptEngine::messageLogged" alt="" coords="267,893,464,923"/>
+<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="775,104,988,133"/>
+<area shape="rect" id="node11" href="$class_game_script.html#ab9dbbf8c9c1523efa34cf80781f40ba5" title="GameScript::showChooser" alt="" coords="536,195,715,224"/>
+<area shape="rect" id="node24" href="$class_camera_behavior_character.html#a325a21bfc3a39744a03f9b5c7d4df7ca" title="CameraBehaviorCharacter\l::update" alt="" coords="537,307,713,354"/>
+<area shape="rect" id="node26" href="$class_camera_behavior_vehicle.html#ae4defc34198f6a82cfb86ede290d055f" title="CameraBehaviorVehicle\l::update" alt="" coords="544,377,707,423"/>
+<area shape="rect" id="node28" href="$class_camera_behavior_vehicle_cine_cam.html#a55ece9b32ddd311803bf2f7793d29260" title="CameraBehaviorVehicleCine\lCam::update" alt="" coords="531,446,720,493"/>
+<area shape="rect" id="node35" href="$class_beam.html#ac3b331240d6084f4a5116f6c862b65ad" title="Beam::Beam" alt="" coords="576,585,675,615"/>
+<area shape="rect" id="node39" href="$class_rig_spawner.html#a67da85dd09bd864df9dc924f6f2a7d49" title="RigSpawner::SpawnRig" alt="" coords="545,639,705,668"/>
+<area shape="rect" id="node47" href="$_game_script_8cpp.html#aeecefe9a646e48846e0a7f4ee494b624" title="onlineAPIThread" alt="" coords="567,789,684,819"/>
+</map>

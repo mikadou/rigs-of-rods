@@ -1,0 +1,5 @@
+<map id="Beam::getAllLinkedBeams" name="Beam::getAllLinkedBeams">
+<area shape="rect" id="node3" href="$class_camera_behavior_vehicle_spline.html#ae30aef518419478d4c3ad73879eae6cd" title="CameraBehaviorVehicleSpline\l::update" alt="" coords="479,5,676,51"/>
+<area shape="rect" id="node5" href="$class_camera_behavior_vehicle_spline.html#a4c1bbdd426bd74cd545ec8314ed66c71" title="CameraBehaviorVehicleSpline\l::createSpline" alt="" coords="231,65,428,111"/>
+<area shape="rect" id="node8" href="$class_camera_behavior_vehicle_spline.html#acde6a5bb0ea7e85846a15ee908e28425" title="CameraBehaviorVehicleSpline\l::activate" alt="" coords="479,74,676,121"/>
+</map>

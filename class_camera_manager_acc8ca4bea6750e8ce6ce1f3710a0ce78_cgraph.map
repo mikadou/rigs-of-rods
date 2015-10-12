@@ -1,0 +1,4 @@
+<map id="CameraManager::switchToNextBehavior" name="CameraManager::switchToNextBehavior">
+<area shape="rect" id="node3" href="$class_camera_manager.html#a6f50a61b22fd1193ec25c5c2dc8f3ae3" title="CameraManager::switchBehavior" alt="" coords="263,13,476,43"/>
+<area shape="rect" id="node5" href="$class_beam.html#a39d38800d5ab3b85b305d94b2c8ea502" title="Beam::GetCameraContext" alt="" coords="527,13,703,43"/>
+</map>

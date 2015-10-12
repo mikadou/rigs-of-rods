@@ -1,0 +1,8 @@
+<map id="RoR::RigEditor::Rig::QuerySelectedNodesData" name="RoR::RigEditor::Rig::QuerySelectedNodesData">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_node.html#a96df42eb7849b0a74a0332ca22b71993" title="RoR::RigEditor::Node\l::IsSelected" alt="" coords="260,5,409,51"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_node.html#adb587612f3aa4d4ca876befeca52ec13" title="RoR::RigEditor::Node\l::GetId" alt="" coords="260,74,409,121"/>
+<area shape="rect" id="node7" href="$class_rig_def_1_1_node_1_1_id.html#a2e84af09c5b954252ed2af4a4bcfdeeb" title="RigDef::Node::Id::ToString" alt="" coords="245,144,424,173"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_node.html#a9f510d9e18ce2caa750a7f45a1c276f9" title="RoR::RigEditor::Node\l::GetDefinitionDetacherGroup" alt="" coords="237,197,432,243"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_rig_editor_1_1_node.html#acebe249bb7b0f8f10cb3ac618cef10ff" title="RoR::RigEditor::Node\l::GetDefinitionLoadWeight" alt="" coords="248,266,421,313"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_rig_editor_1_1_node.html#ad77cdbf55b590617d90e995c4544c660" title="RoR::RigEditor::Node\l::GetDefinitionFlags" alt="" coords="260,335,409,382"/>
+</map>

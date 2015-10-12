@@ -1,0 +1,36 @@
+<map id="source/main/rig_editor/RigEditor_IMain.h" name="source/main/rig_editor/RigEditor_IMain.h">
+<area shape="rect" id="node3" href="$_g_u_i___rig_editor_beams_panel_8h.html" title="source/main/gui/panels\l/GUI_RigEditorBeamsPanel.h" alt="" coords="38,110,233,157"/>
+<area shape="rect" id="node9" href="$_g_u_i___rig_editor_delete_menu_8h.html" title="source/main/gui/panels\l/GUI_RigEditorDeleteMenu.h" alt="" coords="322,110,514,157"/>
+<area shape="rect" id="node14" href="$_g_u_i___rig_editor_flex_body_wheels_panel_8h.html" title="source/main/gui/panels\l/GUI_RigEditorFlexBodyWheels\lPanel.h" alt="" coords="545,213,755,277"/>
+<area shape="rect" id="node19" href="$_g_u_i___rig_editor_help_window_8h.html" title="source/main/gui/panels\l/GUI_RigEditorHelpWindow.h" alt="" coords="2147,110,2342,157"/>
+<area shape="rect" id="node21" href="$_g_u_i___rig_editor_help_window_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorHelpWindow.cpp" alt="" coords="2139,222,2350,269"/>
+<area shape="rect" id="node25" href="$_g_u_i___rig_editor_hydros_panel_8h.html" title="source/main/gui/panels\l/GUI_RigEditorHydrosPanel.h" alt="" coords="1926,110,2123,157"/>
+<area shape="rect" id="node30" href="$_g_u_i___rig_editor_menubar_8h.html" title="source/main/gui/panels\l/GUI_RigEditorMenubar.h" alt="" coords="2955,222,3126,269"/>
+<area shape="rect" id="node37" href="$_g_u_i___rig_editor_mesh_wheels2_panel_8h.html" title="source/main/gui/panels\l/GUI_RigEditorMeshWheels2Panel.h" alt="" coords="779,222,1017,269"/>
+<area shape="rect" id="node42" href="$_g_u_i___rig_editor_rig_properties_window_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorRigPropertiesWindow.cpp" alt="" coords="3993,110,4254,157"/>
+<area shape="rect" id="node44" href="$_g_u_i___rig_editor_shocks2_panel_8h.html" title="source/main/gui/panels\l/GUI_RigEditorShocks2Panel.h" alt="" coords="2417,110,2622,157"/>
+<area shape="rect" id="node49" href="$_g_u_i___rig_editor_shocks_panel_8h.html" title="source/main/gui/panels\l/GUI_RigEditorShocksPanel.h" alt="" coords="2675,110,2873,157"/>
+<area shape="rect" id="node54" href="$_rig_editor___gui_popup_wheels_list_8h.html" title="source/main/rig_editor\l/RigEditor_GuiPopupWheelsList.h" alt="" coords="3027,110,3246,157"/>
+<area shape="rect" id="node58" href="$_rig_editor___gui_popup_wheels_list_8cpp.html" title="source/main/rig_editor\l/RigEditor_GuiPopupWheelsList.cpp" alt="" coords="3201,222,3435,269"/>
+<area shape="rect" id="node61" href="$_rig_editor___main_8h.html" title="source/main/rig_editor\l/RigEditor_Main.h" alt="" coords="3819,110,3969,157"/>
+<area shape="rect" id="node74" href="$_rig_editor___rig_wheels_aggregate_data_8h.html" title="source/main/rig_editor\l/RigEditor_RigWheelsAggregate\lData.h" alt="" coords="1222,101,1433,165"/>
+<area shape="rect" id="node86" href="$_rig_editor___rig_wheel_visuals_8h.html" title="source/main/rig_editor\l/RigEditor_RigWheelVisuals.h" alt="" coords="3451,110,3649,157"/>
+<area shape="rect" id="node5" href="$_g_u_i___rig_editor_beams_panel_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorBeamsPanel.cpp" alt="" coords="30,222,241,269"/>
+<area shape="rect" id="node7" href="$_rig_editor___main_8cpp.html" title="source/main/rig_editor\l/RigEditor_Main.cpp" alt="" coords="1977,334,2126,381"/>
+<area shape="rect" id="node11" href="$_g_u_i___rig_editor_delete_menu_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorDeleteMenu.cpp" alt="" coords="315,222,521,269"/>
+<area shape="rect" id="node16" href="$_g_u_i___rig_editor_flex_body_wheels_panel_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorFlexBodyWheels\lPanel.cpp" alt="" coords="541,325,751,389"/>
+<area shape="rect" id="node27" href="$_g_u_i___rig_editor_hydros_panel_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorHydrosPanel.cpp" alt="" coords="1803,222,2014,269"/>
+<area shape="rect" id="node32" href="$_g_u_i_manager_8cpp.html" title="source/main/gui/GUIManager.cpp" alt="" coords="2830,343,3046,372"/>
+<area shape="rect" id="node34" href="$_g_u_i___rig_editor_menubar_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorMenubar.cpp" alt="" coords="3070,334,3257,381"/>
+<area shape="rect" id="node39" href="$_g_u_i___rig_editor_mesh_wheels2_panel_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorMeshWheels2Panel.cpp" alt="" coords="775,334,1026,381"/>
+<area shape="rect" id="node46" href="$_g_u_i___rig_editor_shocks2_panel_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorShocks2Panel.cpp" alt="" coords="2374,222,2593,269"/>
+<area shape="rect" id="node51" href="$_g_u_i___rig_editor_shocks_panel_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorShocksPanel.cpp" alt="" coords="2667,222,2881,269"/>
+<area shape="rect" id="node63" href="$_g_u_i___rig_editor_land_vehicle_properties_window_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorLandVehicleProperties\lWindow.cpp" alt="" coords="3899,213,4139,277"/>
+<area shape="rect" id="node65" href="$_main_thread_8cpp.html" title="source/main/main_sim\l/MainThread.cpp" alt="" coords="4214,222,4366,269"/>
+<area shape="rect" id="node67" href="$_rig_editor___rig_8cpp.html" title="source/main/rig_editor\l/rig_data/RigEditor_Rig.cpp" alt="" coords="3459,222,3641,269"/>
+<area shape="rect" id="node69" href="$_rig_editor___highlight_boxes_dynamic_mesh_8cpp.html" title="source/main/rig_editor\l/RigEditor_HighlightBoxesDynamic\lMesh.cpp" alt="" coords="4390,213,4617,277"/>
+<area shape="rect" id="node72" href="$_rig_editor___rig_wheel_visuals_8cpp.html" title="source/main/rig_editor\l/RigEditor_RigWheelVisuals.cpp" alt="" coords="3665,222,3875,269"/>
+<area shape="rect" id="node78" href="$_rig_editor___flex_body_wheel_8cpp.html" title="source/main/rig_editor\l/rig_data/RigEditor_FlexBody\lWheel.cpp" alt="" coords="1326,213,1518,277"/>
+<area shape="rect" id="node80" href="$_rig_editor___mesh_wheel2_8cpp.html" title="source/main/rig_editor\l/rig_data/RigEditor_MeshWheel2.cpp" alt="" coords="1542,222,1779,269"/>
+<area shape="rect" id="node84" href="$_rig_editor___rig_wheels_aggregate_data_8cpp.html" title="source/main/rig_editor\l/RigEditor_RigWheelsAggregate\lData.cpp" alt="" coords="1091,213,1302,277"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="RigDef::Animator" name="RigDef::Animator">
+<area shape="rect" id="node2" href="$class_rig_def_1_1_node_1_1_ref.html" title="RigDef::Node::Ref" alt="" coords="5,5,136,35"/>
+<area shape="rect" id="node4" href="$struct_rig_def_1_1_aero_animator.html" title="RigDef::AeroAnimator" alt="" coords="160,5,309,35"/>
+</map>

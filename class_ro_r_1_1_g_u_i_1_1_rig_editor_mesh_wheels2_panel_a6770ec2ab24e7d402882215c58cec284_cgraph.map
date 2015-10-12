@@ -1,0 +1,8 @@
+<map id="RoR::GUI::RigEditorMeshWheels2Panel::RigEditorMeshWheels2Panel" name="RoR::GUI::RigEditorMeshWheels2Panel::RigEditorMeshWheels2Panel">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#a812b3d695c48529c4ca8abb38d50dd84" title="RoR::RigEditor::RigElement\lGuiPanelBase::AlignToScreen" alt="" coords="305,74,503,121"/>
+<area shape="rect" id="node14" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#a1d152b1dc5a3e77b06e52e9f8c6c5b23" title="RoR::RigEditor::RigElement\lGuiPanelBase::SetDefaultTextColor" alt="" coords="288,143,520,190"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_gui_panel_base.html#a9d1fac699ff4d79c1007af21c24443e9" title="RoR::GuiPanelBase::\lGetWidthPixels" alt="" coords="569,5,716,51"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_gui_panel_base.html#a0610633a6bb4693e333a260935e9ae3c" title="RoR::GuiPanelBase::\lGetHeightPixels" alt="" coords="569,74,716,121"/>
+<area shape="rect" id="node12" href="$class_ro_r_1_1_gui_panel_base.html#a7e4cd733a76df97224472bdb5fb09842" title="RoR::GuiPanelBase::\lSetPosition" alt="" coords="569,143,716,190"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_gui_panel_base.html#a5e33ecbbdbbc4ea1e9369560a753f938" title="RoR::GuiPanelBase::\lGetSizePixels" alt="" coords="767,39,913,86"/>
+</map>

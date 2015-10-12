@@ -1,0 +1,6 @@
+<map id="RoR::GUI::RigSpawnerReportWindow" name="RoR::GUI::RigSpawnerReportWindow">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_rig_spawner_report_window_layout.html" title="RoR::GUI::RigSpawnerReport\lWindowLayout" alt="" coords="5,86,203,133"/>
+<area shape="rect" id="node4" href="$classwraps_1_1_base_layout.html" title="wraps::BaseLayout" alt="" coords="37,5,171,35"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_gui_panel_base.html" title="RoR::GuiPanelBase" alt="" coords="227,95,365,124"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_gui_manager_interface.html" title="RoR::GuiManagerInterface" alt="" coords="389,95,568,124"/>
+</map>

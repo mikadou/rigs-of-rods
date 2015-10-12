@@ -1,0 +1,14 @@
+<map id="BeamFactory::updateVisual" name="BeamFactory::updateVisual">
+<area shape="rect" id="node3" href="$class_beam.html#a95902b9d8200d3742caf4564cb6fcfdc" title="Beam::updateVisualPrepare" alt="" coords="237,128,421,157"/>
+<area shape="rect" id="node15" href="$class_beam.html#a4b831f16e858e2df6131f84d8e0b593e" title="Beam::updateLabels" alt="" coords="259,185,400,215"/>
+<area shape="rect" id="node19" href="$class_beam.html#ab7bdf2289e7446a21b74bb4283781cae" title="Beam::updateSkidmarks" alt="" coords="247,239,412,268"/>
+<area shape="rect" id="node21" href="$class_beam.html#a896d4c6db3a6a630353cfef781f04b10" title="Beam::updateFlares" alt="" coords="260,292,399,321"/>
+<area shape="rect" id="node26" href="$class_beam.html#a0263514c59475be296ab2db3ba124123" title="Beam::updateVisualFinal" alt="" coords="247,345,412,375"/>
+<area shape="rect" id="node5" href="$class_ro_r_singleton_no_creation.html#a5e7a47f4b2d6d0abaa3a1ea5ca1f216a" title="RoRSingletonNoCreation\l\&lt; DustManager \&gt;::getSingleton" alt="" coords="471,5,673,51"/>
+<area shape="rect" id="node7" href="$class_dust_manager.html#ac2605bc95d8085a778ec4f6800cfad59" title="DustManager::update" alt="" coords="499,75,645,104"/>
+<area shape="rect" id="node9" href="$_approx_math_8h.html#a88cab057c9c3a7a5cbaa1aebb06bf864" title="fast_normalise" alt="" coords="519,128,625,157"/>
+<area shape="rect" id="node13" href="$class_thread_pool.html#adb50af7fc46587f871d93472c5f36f1b" title="ThreadPool::enqueue" alt="" coords="500,181,644,211"/>
+<area shape="rect" id="node11" href="$_approx_math_8h.html#a08e9e14c091640464aae072f3823b855" title="fast_invSqrt" alt="" coords="724,128,815,157"/>
+<area shape="rect" id="node17" href="$struct_vector3.html#a30db3d517cb422cb78a4be0cf52bc89e" title="Vector3::length" alt="" coords="517,235,627,264"/>
+<area shape="rect" id="node24" href="$class_ro_r_1_1_application.html#a608003a20ef939a79437a9da8fa76307" title="RoR::Application::GetInput\lEngine" alt="" coords="483,287,661,334"/>
+</map>

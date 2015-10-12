@@ -1,0 +1,7 @@
+<map id="RigSpawner::CreateRail" name="RigSpawner::CreateRail">
+<area shape="rect" id="node3" href="$class_rail_builder.html#a01ed51af84de0c6bf4e610497185f2c0" title="wrapper method " alt="" coords="245,32,384,61"/>
+<area shape="rect" id="node9" href="$class_rail_builder.html#a7a2bce672a41701e6908a9cea2139df6" title="RailBuilder::pushBack" alt="" coords="240,85,389,115"/>
+<area shape="rect" id="node11" href="$class_rail_builder.html#a4b49db641ae4ab3edf5d5567aeb57386" title="RailBuilder::getCompletedRail" alt="" coords="216,139,413,168"/>
+<area shape="rect" id="node5" href="$class_rail_builder.html#a5252a44e77dbd6a43572bfa012bb3a1f" title="RailBuilder::loopRail" alt="" coords="472,5,611,35"/>
+<area shape="rect" id="node7" href="$class_rail_builder.html#aaa0a96029bfc20711c77db10d7f43083" title="RailBuilder::unLoopRail" alt="" coords="463,59,620,88"/>
+</map>

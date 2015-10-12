@@ -1,0 +1,22 @@
+<map id="source/main/scripting/GameScript.h" name="source/main/scripting/GameScript.h">
+<area shape="rect" id="node3" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1261,488,1397,517"/>
+<area shape="rect" id="node42" href="$_script_engine_8h.html" title="AngelScript interface to the game. " alt="" coords="704,101,811,131"/>
+<area shape="rect" id="node29" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="2168,643,2320,672"/>
+<area shape="rect" id="node31" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="2120,565,2261,595"/>
+<area shape="rect" id="node34" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="2336,565,2507,595"/>
+<area shape="rect" id="node36" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="461,565,608,595"/>
+<area shape="rect" id="node47" href="$_collisions_8h.html" title="Collisions.h" alt="" coords="925,179,1016,208"/>
+<area shape="rect" id="node94" href="$_inter_thread_store_vector_8h.html" title="InterThreadStoreVector.h" alt="" coords="1361,179,1529,208"/>
+<area shape="rect" id="node98" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="1645,333,1731,363"/>
+<area shape="rect" id="node101" href="$scriptdictionary_8h.html" title="scriptdictionary/scriptdictionary.h" alt="" coords="93,179,307,208"/>
+<area shape="rect" id="node109" href="$scriptbuilder_8h.html" title="scriptbuilder/scriptbuilder.h" alt="" coords="331,179,507,208"/>
+<area shape="rect" id="node50" href="$_beam_data_8h.html" title="Core data structures for simulation. " alt="" coords="807,256,900,285"/>
+<area shape="rect" id="node53" href="$rornet_8h.html" title="rornet.h" alt="" coords="1053,333,1120,363"/>
+<area shape="rect" id="node57" href="$_slide_node_8h.html" title="SlideNode.h" alt="" coords="1247,333,1340,363"/>
+<area shape="rect" id="node64" href="$node__t_8h.html" title="datatypes/node_t.h" alt="" coords="432,488,565,517"/>
+<area shape="rect" id="node67" href="$shock__t_8h.html" title="datatypes/shock_t.h" alt="" coords="891,333,1029,363"/>
+<area shape="rect" id="node69" href="$beam__t_8h.html" title="datatypes/beam_t.h" alt="" coords="640,411,776,440"/>
+<area shape="rect" id="node73" href="$wheel__t_8h.html" title="datatypes/wheel_t.h" alt="" coords="800,411,939,440"/>
+<area shape="rect" id="node77" href="$rig__t_8h.html" title="datatypes/rig_t.h" alt="" coords="648,333,765,363"/>
+<area shape="rect" id="node59" href="$_approx_math_8h.html" title="ApproxMath.h" alt="" coords="1235,411,1336,440"/>
+</map>

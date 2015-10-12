@@ -1,0 +1,14 @@
+<map id="source/main/rig_editor/rig_data/RigEditor_MeshWheel.h" name="source/main/rig_editor/rig_data/RigEditor_MeshWheel.h">
+<area shape="rect" id="node3" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="2943,411,3100,440"/>
+<area shape="rect" id="node5" href="$_rig_def___file_8h.html" title="Structures which represent a rig&#45;definition file (1:1 match) " alt="" coords="2493,256,2595,285"/>
+<area shape="rect" id="node31" href="$_rig_editor___land_vehicle_wheel_8h.html" title="RigEditor_LandVehicleWheel.h" alt="" coords="2341,101,2544,131"/>
+<area shape="rect" id="node36" href="$_rig_editor___node_8h.html" title="RigEditor_Node.h" alt="" coords="2179,179,2304,208"/>
+<area shape="rect" id="node7" href="$_bit_flags_8h.html" title="BitFlags.h" alt="" coords="2416,411,2496,440"/>
+<area shape="rect" id="node11" href="$_rig_def___node_8h.html" title="RigDef_Node.h" alt="" coords="2693,333,2805,363"/>
+<area shape="rect" id="node75" href="$_rig_editor___types_8h.html" title="RigEditor_Types.h" alt="" coords="2200,256,2331,285"/>
+<area shape="rect" id="node40" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1359,256,1495,285"/>
+<area shape="rect" id="node73" href="$_rig_editor___forward_declarations_8h.html" title="RigEditor_ForwardDeclarations.h" alt="" coords="1121,256,1335,285"/>
+<area shape="rect" id="node63" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="55,411,207,440"/>
+<area shape="rect" id="node65" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="5,333,147,363"/>
+<area shape="rect" id="node68" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1341,333,1512,363"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="Streamable::addPacket" name="Streamable::addPacket">
+<area shape="rect" id="node3" href="$class_character.html#acc209b1262a3a8d82d5f9f3c7818d499" title="Character::sendStreamData" alt="" coords="217,141,401,171"/>
+<area shape="rect" id="node14" href="$class_character.html#aa761e344c2aa6df9205bfa6bf1d3ea13" title="Character::setBeamCoupling" alt="" coords="215,223,404,252"/>
+<area shape="rect" id="node54" href="$class_chat_system.html#a4f5172578cb12a771bdccbe3ca3029dc" title="ChatSystem::sendChat" alt="" coords="231,276,388,305"/>
+<area shape="rect" id="node56" href="$class_network_stream_manager.html#a207f01cb8d1f1e1114e66d6f4215f6a8" title="NetworkStreamManager\l::addLocalStream" alt="" coords="228,359,391,406"/>
+<area shape="rect" id="node5" href="$class_character.html#a4806a9150eb30673bab3d0b47e05d135" title="Character::update" alt="" coords="748,73,873,103"/>
+<area shape="rect" id="node7" href="$class_character_factory.html#a70f849028ea8a2372700fe92b44dba7b" title="CharacterFactory::update\lCharacters" alt="" coords="975,5,1145,51"/>
+<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::update\lEvents" alt="" coords="1223,115,1401,162"/>
+<area shape="rect" id="node11" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1485,124,1699,153"/>
+<area shape="rect" id="node16" href="$class_character.html#affc26fe005799c306f4b0194528d5a6d" title="Character::receiveStreamData" alt="" coords="459,207,656,236"/>
+<area shape="rect" id="node18" href="$class_ro_r_1_1_main_thread.html#af7d1f53cf02660323c9dfe6cc5a1e7e1" title="RoR::MainThread::Changed\lCurrentVehicle" alt="" coords="465,259,649,306"/>
+<area shape="rect" id="node20" href="$class_beam_factory.html#ac70a8aa131a6709ebf05dc3c0f6dab10" title="BeamFactory::setCurrentTruck" alt="" coords="709,272,912,301"/>
+<area shape="rect" id="node23" href="$class_ro_r_frame_listener.html#abbab3f9d2773790f0d8567ee4434a739" title="RoRFrameListener::InitTrucks" alt="" coords="961,245,1159,275"/>
+<area shape="rect" id="node38" href="$class_ro_r_frame_listener.html#accf1a2895ee6b67789cfaa570bfa01cb" title="RoRFrameListener::reload\lCurrentTruck" alt="" coords="973,175,1147,222"/>
+<area shape="rect" id="node41" href="$class_preview_renderer.html#a5ea6b4611b45965e072266211dc60ba8" title="PreviewRenderer::render" alt="" coords="977,299,1143,328"/>
+<area shape="rect" id="node43" href="$class_beam_factory.html#a49a4ee797005fff135d8f88a085986a0" title="BeamFactory::removeTruck" alt="" coords="968,352,1152,381"/>
+<area shape="rect" id="node45" href="$class_beam_factory.html#a59b66e06ec1f1d1f9adb0d299da15265" title="BeamFactory::p_removeAll\lTrucks" alt="" coords="971,405,1149,451"/>
+<area shape="rect" id="node52" href="$class_beam_factory.html#a297cce523629edad68ff2c05bcaa44ac" title="BeamFactory::enterRescue\lTruck" alt="" coords="969,474,1151,521"/>
+<area shape="rect" id="node26" href="$class_ro_r_1_1_main_thread.html#aa3feeebda7f3f4c31a6cb96ea60c09e0" title="RoR::MainThread::SetupGameplayLoop" alt="" coords="1465,331,1719,360"/>
+<area shape="rect" id="node28" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1769,361,1919,391"/>
+<area shape="rect" id="node30" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2035,331,2085,360"/>
+<area shape="rect" id="node34" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="1969,383,2151,430"/>
+<area shape="rect" id="node32" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="2256,331,2328,360"/>
+<area shape="rect" id="node36" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="2201,392,2383,421"/>
+<area shape="rect" id="node47" href="$class_beam_factory.html#a089236a1b1ee4dc3b6efa157a784d69c" title="BeamFactory::removeAllTrucks" alt="" coords="1209,405,1415,435"/>
+<area shape="rect" id="node49" href="$class_ro_r_1_1_main_thread.html#a19637f726d0913e26e0d0548448d8c91" title="RoR::MainThread::UnloadTerrain" alt="" coords="1485,391,1699,420"/>
+<area shape="rect" id="node58" href="$class_character.html#ad3ae7449830cf1a9ba8c991b650ee0c2" title="Character::sendStreamSetup" alt="" coords="463,329,652,359"/>
+<area shape="rect" id="node62" href="$class_chat_system.html#ae40cb749a8c233c6e7de1016f4cb4bdc" title="ChatSystem::sendStreamSetup" alt="" coords="455,383,660,412"/>
+<area shape="rect" id="node66" href="$class_beam.html#ab360c65fab0802d8bc2074d7278217da" title="Beam::sendStreamSetup" alt="" coords="473,436,641,465"/>
+<area shape="rect" id="node60" href="$class_character.html#a2b381f85738c4ede878be18925e1ce81" title="Character::Character" alt="" coords="739,329,883,359"/>
+<area shape="rect" id="node64" href="$class_chat_system.html#add474b3d3185ca352a7cba42df56e87f" title="ChatSystem::ChatSystem" alt="" coords="723,383,899,412"/>
+<area shape="rect" id="node68" href="$class_beam.html#ac3b331240d6084f4a5116f6c862b65ad" title="Beam::Beam" alt="" coords="761,436,860,465"/>
+</map>

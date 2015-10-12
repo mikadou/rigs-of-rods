@@ -1,0 +1,29 @@
+<map id="CameraManager::switchBehavior" name="CameraManager::switchBehavior">
+<area shape="rect" id="node3" href="$class_camera_manager.html#a399781da9f24ac9c9c3ce1d1c3266cbd" title="CameraManager::update" alt="" coords="805,49,971,78"/>
+<area shape="rect" id="node7" href="$class_camera_manager.html#acc8ca4bea6750e8ce6ce1f3710a0ce78" title="CameraManager::switchToNext\lBehavior" alt="" coords="271,238,476,284"/>
+<area shape="rect" id="node20" href="$class_camera_manager.html#a28cbe942da9406b0f71dc7f080ef0e9f" title="CameraManager::toggleBehavior" alt="" coords="527,412,737,441"/>
+<area shape="rect" id="node24" href="$class_camera_manager.html#a737fe1d8d82faf6d9a3981eb713ec82c" title="CameraManager::NotifyVehicle\lChanged" alt="" coords="272,428,475,475"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1563,153,1776,182"/>
+<area shape="rect" id="node9" href="$class_camera_behavior_character.html#ae8e0c6babfe03eeab9960c9d5b9e359d" title="CameraBehaviorCharacter\l::activate" alt="" coords="544,64,720,111"/>
+<area shape="rect" id="node11" href="$class_camera_behavior_vehicle.html#afa9373e339c7daaa524512dd45944503" title="CameraBehaviorVehicle\l::activate" alt="" coords="551,134,713,180"/>
+<area shape="rect" id="node13" href="$class_camera_behavior_vehicle_cine_cam.html#a21a3912237dcbc89df32a1e393204cc0" title="CameraBehaviorVehicleCine\lCam::activate" alt="" coords="537,203,727,250"/>
+<area shape="rect" id="node15" href="$class_camera_behavior_vehicle_spline.html#ae30aef518419478d4c3ad73879eae6cd" title="CameraBehaviorVehicleSpline\l::update" alt="" coords="533,272,731,319"/>
+<area shape="rect" id="node17" href="$class_camera_behavior_vehicle_spline.html#acde6a5bb0ea7e85846a15ee908e28425" title="CameraBehaviorVehicleSpline\l::activate" alt="" coords="533,342,731,388"/>
+<area shape="rect" id="node26" href="$class_ro_r_1_1_main_thread.html#af7d1f53cf02660323c9dfe6cc5a1e7e1" title="RoR::MainThread::Changed\lCurrentVehicle" alt="" coords="540,464,724,511"/>
+<area shape="rect" id="node28" href="$class_beam_factory.html#ac70a8aa131a6709ebf05dc3c0f6dab10" title="BeamFactory::setCurrentTruck" alt="" coords="787,382,989,412"/>
+<area shape="rect" id="node30" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::update\lEvents" alt="" coords="1300,203,1479,250"/>
+<area shape="rect" id="node33" href="$class_ro_r_frame_listener.html#abbab3f9d2773790f0d8567ee4434a739" title="RoRFrameListener::InitTrucks" alt="" coords="1039,302,1236,332"/>
+<area shape="rect" id="node48" href="$class_ro_r_frame_listener.html#accf1a2895ee6b67789cfaa570bfa01cb" title="RoRFrameListener::reload\lCurrentTruck" alt="" coords="1051,232,1224,279"/>
+<area shape="rect" id="node51" href="$class_preview_renderer.html#a5ea6b4611b45965e072266211dc60ba8" title="PreviewRenderer::render" alt="" coords="1055,356,1220,385"/>
+<area shape="rect" id="node53" href="$class_beam_factory.html#a49a4ee797005fff135d8f88a085986a0" title="BeamFactory::removeTruck" alt="" coords="1045,409,1229,438"/>
+<area shape="rect" id="node55" href="$class_beam_factory.html#a59b66e06ec1f1d1f9adb0d299da15265" title="BeamFactory::p_removeAll\lTrucks" alt="" coords="1048,462,1227,508"/>
+<area shape="rect" id="node62" href="$class_beam_factory.html#a297cce523629edad68ff2c05bcaa44ac" title="BeamFactory::enterRescue\lTruck" alt="" coords="1047,531,1228,578"/>
+<area shape="rect" id="node36" href="$class_ro_r_1_1_main_thread.html#aa3feeebda7f3f4c31a6cb96ea60c09e0" title="RoR::MainThread::SetupGameplayLoop" alt="" coords="1543,388,1796,417"/>
+<area shape="rect" id="node38" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1847,418,1996,448"/>
+<area shape="rect" id="node40" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2112,388,2163,417"/>
+<area shape="rect" id="node44" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="2047,440,2228,487"/>
+<area shape="rect" id="node42" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="2333,388,2405,417"/>
+<area shape="rect" id="node46" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="2279,449,2460,478"/>
+<area shape="rect" id="node57" href="$class_beam_factory.html#a089236a1b1ee4dc3b6efa157a784d69c" title="BeamFactory::removeAllTrucks" alt="" coords="1287,462,1492,492"/>
+<area shape="rect" id="node59" href="$class_ro_r_1_1_main_thread.html#a19637f726d0913e26e0d0548448d8c91" title="RoR::MainThread::UnloadTerrain" alt="" coords="1563,448,1776,477"/>
+</map>

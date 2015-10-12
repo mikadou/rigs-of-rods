@@ -1,0 +1,22 @@
+<map id="source/main/gfx/hydrax/Hydrax.h" name="source/main/gfx/hydrax/Hydrax.h">
+<area shape="rect" id="node3" href="$_prerequisites_8h.html" title="Prerequisites.h" alt="" coords="1835,565,1944,595"/>
+<area shape="rect" id="node7" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1747,256,1883,285"/>
+<area shape="rect" id="node46" href="$_enums_8h.html" title="Enums.h" alt="" coords="248,488,323,517"/>
+<area shape="rect" id="node49" href="$_help_8h.html" title="Help.h" alt="" coords="3475,488,3533,517"/>
+<area shape="rect" id="node52" href="$_mesh_8h.html" title="Mesh.h" alt="" coords="3424,333,3488,363"/>
+<area shape="rect" id="node56" href="$_image_8h.html" title="Image.h" alt="" coords="3405,411,3475,440"/>
+<area shape="rect" id="node61" href="$_material_manager_8h.html" title="MaterialManager.h" alt="" coords="144,256,272,285"/>
+<area shape="rect" id="node65" href="$_rtt_manager_8h.html" title="RttManager.h" alt="" coords="323,411,424,440"/>
+<area shape="rect" id="node70" href="$_texture_manager_8h.html" title="TextureManager.h" alt="" coords="3275,333,3400,363"/>
+<area shape="rect" id="node75" href="$_god_rays_manager_8h.html" title="GodRaysManager.h" alt="" coords="1852,101,1991,131"/>
+<area shape="rect" id="node83" href="$_g_p_u_normal_map_manager_8h.html" title="GPUNormalMapManager.h" alt="" coords="296,333,475,363"/>
+<area shape="rect" id="node91" href="$_decals_manager_8h.html" title="DecalsManager.h" alt="" coords="3701,101,3824,131"/>
+<area shape="rect" id="node95" href="$_cfg_file_manager_8h.html" title="CfgFileManager.h" alt="" coords="3600,411,3725,440"/>
+<area shape="rect" id="node99" href="$_module_8h.html" title="Module.h" alt="" coords="545,179,620,208"/>
+<area shape="rect" id="node33" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="931,411,1083,440"/>
+<area shape="rect" id="node35" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="771,333,912,363"/>
+<area shape="rect" id="node38" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1211,333,1381,363"/>
+<area shape="rect" id="node40" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="600,333,747,363"/>
+<area shape="rect" id="node78" href="$_perlin_8h.html" title="Perlin.h" alt="" coords="1888,179,1955,208"/>
+<area shape="rect" id="node80" href="$_noise_8h.html" title="Noise.h" alt="" coords="549,256,616,285"/>
+</map>

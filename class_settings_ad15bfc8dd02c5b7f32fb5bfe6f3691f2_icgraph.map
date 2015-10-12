@@ -1,0 +1,11 @@
+<map id="Settings::getSetting" name="Settings::getSetting">
+<area shape="rect" id="node3" href="$class_beam.html#a866f7eb5e93d6c476fa1bd0a4b7dcdf5" title="Beam::LoadTruck" alt="" coords="211,5,336,35"/>
+<area shape="rect" id="node7" href="$class_settings.html#acf93b9b9c4a568bb73c16045f1f243ef" title="Settings::getUTFSetting" alt="" coords="192,59,355,88"/>
+<area shape="rect" id="node9" href="$class_settings.html#a67ce273a5ea909d27e836ed5c829cc0d" title="Settings::checkGUID" alt="" coords="600,153,747,183"/>
+<area shape="rect" id="node15" href="$class_settings.html#a4c5d90390125e939d5e6299340e586a1" title="Settings::saveSettings" alt="" coords="196,163,351,192"/>
+<area shape="rect" id="node20" href="$class_settings.html#a2224a2a47e4247288a09564bed4587cb" title="Settings::get_system\l_paths" alt="" coords="600,206,747,253"/>
+<area shape="rect" id="node5" href="$class_beam.html#ac3b331240d6084f4a5116f6c862b65ad" title="Beam::Beam" alt="" coords="428,5,527,35"/>
+<area shape="rect" id="node11" href="$class_settings.html#a3610937cea22837c48e59a1c9493f295" title="Settings::loadSettings" alt="" coords="796,156,945,185"/>
+<area shape="rect" id="node13" href="$class_settings.html#af1c188c95e0b9fe09d369a58259a9ddc" title="Settings::setupPaths" alt="" coords="995,184,1139,213"/>
+<area shape="rect" id="node17" href="$class_settings.html#a1d75b7014ae8afb02730c3695710d34b" title="Settings::createGUID" alt="" coords="404,163,551,192"/>
+</map>

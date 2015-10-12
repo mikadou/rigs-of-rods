@@ -1,0 +1,8 @@
+<map id="Road2::addQuad" name="Road2::addQuad">
+<area shape="rect" id="node3" href="$class_road2.html#aa511f1f1ee168547950f505271f10f3b" title="Road2::textureFit" alt="" coords="204,5,327,35"/>
+<area shape="rect" id="node5" href="$class_collisions.html#a7840c7d5b2b56b4cc8f41778c0edb7a7" title="Collisions::getGroundModel\lByString" alt="" coords="175,58,356,105"/>
+<area shape="rect" id="node7" href="$class_road2.html#ade752b3c6e9e9251bbea2833eb6e4731" title="Road2::addCollisionQuad" alt="" coords="180,128,351,157"/>
+<area shape="rect" id="node9" href="$class_collisions.html#a44e7f403a680e597a54209b2873b6e28" title="Collisions::addCollisionTri" alt="" coords="405,128,579,157"/>
+<area shape="rect" id="node11" href="$class_collisions.html#ab8dc3b86fee4e2aa47927bfeabe2ddfe" title="Collisions::hash_add" alt="" coords="628,128,769,157"/>
+<area shape="rect" id="node13" href="$class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Collisions::hashfunc" alt="" coords="820,128,959,157"/>
+</map>

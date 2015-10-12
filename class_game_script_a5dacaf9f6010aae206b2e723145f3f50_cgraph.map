@@ -1,0 +1,5 @@
+<map id="GameScript::getCurrentTruck" name="GameScript::getCurrentTruck">
+<area shape="rect" id="node3" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getSingleton" alt="" coords="271,5,428,69"/>
+<area shape="rect" id="node5" href="$class_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="BeamFactory::getCurrentTruck" alt="" coords="248,93,451,123"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="500,93,657,123"/>
+</map>

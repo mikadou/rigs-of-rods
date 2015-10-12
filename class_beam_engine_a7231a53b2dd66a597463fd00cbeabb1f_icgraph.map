@@ -1,0 +1,12 @@
+<map id="BeamEngine::getNumGears" name="BeamEngine::getNumGears">
+<area shape="rect" id="node3" href="$class_beam_engine.html#a4a1f822856aacd574f37d13a5ee11589" title="BeamEngine::shift" alt="" coords="292,80,420,109"/>
+<area shape="rect" id="node21" href="$class_beam_engine.html#a6d1f4d70c287f90e63cbc2d3a36b44d7" title="BeamEngine::getNumGearsRanges" alt="" coords="241,183,471,212"/>
+<area shape="rect" id="node24" href="$class_overlay_wrapper.html#af60b94483d2976f1356c3450cc1d70e8" title="OverlayWrapper::UpdateLand\lVehicleHUD" alt="" coords="987,151,1181,198"/>
+<area shape="rect" id="node5" href="$class_beam_engine.html#af63778678531a54f46691842a1015e72" title="BeamEngine::update" alt="" coords="773,24,915,53"/>
+<area shape="rect" id="node13" href="$class_beam_engine.html#a52ad34ee5fa555966eda7d9d0deaf5a4" title="BeamEngine::shiftTo" alt="" coords="539,28,683,57"/>
+<area shape="rect" id="node16" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a830e19b0460db3df601abe83096f78d7" title="RoR::LandVehicleSimulation\l::UpdateVehicle" alt="" coords="749,77,939,123"/>
+<area shape="rect" id="node19" href="$class_beam.html#ac8926380f87cb393b321eb342fb5b2a7" title="Beam::engineTriggerHelper" alt="" coords="521,132,700,161"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#a6fa954b906b6dc808a34e69ac2d018d3" title="BeamFactory::calcPhysics" alt="" coords="995,61,1173,91"/>
+<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1231,137,1444,167"/>
+<area shape="rect" id="node11" href="$class_preview_renderer.html#a5ea6b4611b45965e072266211dc60ba8" title="PreviewRenderer::render" alt="" coords="1255,61,1420,91"/>
+</map>

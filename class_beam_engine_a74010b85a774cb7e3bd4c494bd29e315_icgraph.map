@@ -1,0 +1,24 @@
+<map id="BeamEngine::setAcc" name="BeamEngine::setAcc">
+<area shape="rect" id="node3" href="$class_beam_engine.html#af63778678531a54f46691842a1015e72" title="BeamEngine::update" alt="" coords="696,401,837,431"/>
+<area shape="rect" id="node11" href="$class_beam_engine.html#ae9e67ae5371b9cb2e1fc12167d3b8979" title="BeamEngine::start" alt="" coords="463,67,593,96"/>
+<area shape="rect" id="node35" href="$class_beam_engine.html#a87bbe4383e26c13a8297866c97e2db18" title="BeamEngine::setstarter" alt="" coords="449,120,607,149"/>
+<area shape="rect" id="node38" href="$class_beam_engine.html#a03100b0e01ef921e210733044cdb71a6" title="BeamEngine::autoSetAcc" alt="" coords="209,172,380,201"/>
+<area shape="rect" id="node41" href="$class_beam_engine.html#a4a1f822856aacd574f37d13a5ee11589" title="BeamEngine::shift" alt="" coords="231,376,359,405"/>
+<area shape="rect" id="node49" href="$class_beam.html#ac8926380f87cb393b321eb342fb5b2a7" title="Beam::engineTriggerHelper" alt="" coords="439,480,617,509"/>
+<area shape="rect" id="node51" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a20e0e3bfb3deaa213ffb06d283ae81c8" title="RoR::LandVehicleSimulation\l::UpdateCruiseControl" alt="" coords="200,225,389,271"/>
+<area shape="rect" id="node54" href="$struct_ro_r_1_1_land_vehicle_simulation.html#aeb311b9e9cb93cb4a55f58af0cf8c8a8" title="RoR::LandVehicleSimulation\l::CheckSpeedLimit" alt="" coords="200,294,389,341"/>
+<area shape="rect" id="node5" href="$class_beam_factory.html#a6fa954b906b6dc808a34e69ac2d018d3" title="BeamFactory::calcPhysics" alt="" coords="953,301,1132,331"/>
+<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1220,195,1433,224"/>
+<area shape="rect" id="node9" href="$class_preview_renderer.html#a5ea6b4611b45965e072266211dc60ba8" title="PreviewRenderer::render" alt="" coords="1244,301,1409,331"/>
+<area shape="rect" id="node13" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a830e19b0460db3df601abe83096f78d7" title="RoR::LandVehicleSimulation\l::UpdateVehicle" alt="" coords="672,214,861,261"/>
+<area shape="rect" id="node15" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::update\lEvents" alt="" coords="953,133,1132,179"/>
+<area shape="rect" id="node18" href="$class_ro_r_frame_listener.html#abbab3f9d2773790f0d8567ee4434a739" title="RoRFrameListener::InitTrucks" alt="" coords="668,36,865,65"/>
+<area shape="rect" id="node33" href="$class_beam.html#ac3b331240d6084f4a5116f6c862b65ad" title="Beam::Beam" alt="" coords="717,89,816,119"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_main_thread.html#aa3feeebda7f3f4c31a6cb96ea60c09e0" title="RoR::MainThread::SetupGameplayLoop" alt="" coords="916,36,1169,65"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1252,36,1401,65"/>
+<area shape="rect" id="node25" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1549,5,1600,35"/>
+<area shape="rect" id="node29" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="1484,58,1665,105"/>
+<area shape="rect" id="node27" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1771,5,1843,35"/>
+<area shape="rect" id="node31" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1716,67,1897,96"/>
+<area shape="rect" id="node44" href="$class_beam_engine.html#a52ad34ee5fa555966eda7d9d0deaf5a4" title="BeamEngine::shiftTo" alt="" coords="456,376,600,405"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CameraBehaviorStatic::update" name="CameraBehaviorStatic::update">
+<area shape="rect" id="node3" href="$class_beam.html#a1294bf3dfa3848211b06a82020c53e72" title="Beam::getPosition" alt="" coords="233,5,361,35"/>
+<area shape="rect" id="node5" href="$class_character.html#a2c056adebe0e35330a3eae862667f1d4" title="Character::getPosition" alt="" coords="221,59,373,88"/>
+<area shape="rect" id="node7" href="$class_terrain_manager.html#ae63cfc0dda4ab62dc7f6d72eb7845628" title="TerrainManager::getHeight\lFinder" alt="" coords="209,111,385,158"/>
+<area shape="rect" id="node9" href="$class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="209,181,385,211"/>
+</map>

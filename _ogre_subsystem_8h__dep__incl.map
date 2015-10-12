@@ -1,0 +1,19 @@
+<map id="source/main/gfx/OgreSubsystem.h" name="source/main/gfx/OgreSubsystem.h">
+<area shape="rect" id="node3" href="$_application_8cpp.html" title="source/main/Application.cpp" alt="" coords="5,92,192,121"/>
+<area shape="rect" id="node5" href="$_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="216,83,376,130"/>
+<area shape="rect" id="node7" href="$_depth_of_field_effect_8cpp.html" title="source/main/gfx/dof\l/DepthOfFieldEffect.cpp" alt="" coords="400,83,563,130"/>
+<area shape="rect" id="node9" href="$_hydrax_water_8cpp.html" title="source/main/gfx/HydraxWater.cpp" alt="" coords="587,92,808,121"/>
+<area shape="rect" id="node11" href="$_ogre_subsystem_8cpp.html" title="source/main/gfx/OgreSubsystem.cpp" alt="" coords="832,92,1069,121"/>
+<area shape="rect" id="node13" href="$_preview_renderer_8cpp.html" title="source/main/gfx/PreviewRenderer.cpp" alt="" coords="1093,92,1336,121"/>
+<area shape="rect" id="node15" href="$_water_8cpp.html" title="source/main/gfx/Water.cpp" alt="" coords="1360,92,1539,121"/>
+<area shape="rect" id="node17" href="$_g_u_i_manager_8cpp.html" title="source/main/gui/GUIManager.cpp" alt="" coords="1563,92,1779,121"/>
+<area shape="rect" id="node19" href="$_overlay_wrapper_8cpp.html" title="source/main/gui/OverlayWrapper.cpp" alt="" coords="1803,92,2040,121"/>
+<area shape="rect" id="node21" href="$_g_u_i___game_chat_box_8cpp.html" title="source/main/gui/panels\l/GUI_GameChatBox.cpp" alt="" coords="2064,83,2232,130"/>
+<area shape="rect" id="node23" href="$_g_u_i___game_settings_8cpp.html" title="source/main/gui/panels\l/GUI_GameSettings.cpp" alt="" coords="2256,83,2421,130"/>
+<area shape="rect" id="node25" href="$_g_u_i___sim_utils_8cpp.html" title="source/main/gui/panels\l/GUI_SimUtils.cpp" alt="" coords="2445,83,2600,130"/>
+<area shape="rect" id="node27" href="$_main_thread_8cpp.html" title="source/main/main_sim\l/MainThread.cpp" alt="" coords="2624,83,2776,130"/>
+<area shape="rect" id="node29" href="$_rig_editor___main_8cpp.html" title="source/main/rig_editor\l/RigEditor_Main.cpp" alt="" coords="2800,83,2949,130"/>
+<area shape="rect" id="node31" href="$_game_script_8cpp.html" title="source/main/scripting\l/GameScript.cpp" alt="" coords="2973,83,3120,130"/>
+<area shape="rect" id="node33" href="$_script_engine_8cpp.html" title="source/main/scripting\l/ScriptEngine.cpp" alt="" coords="3144,83,3291,130"/>
+<area shape="rect" id="node35" href="$_input_engine_8cpp.html" title="source/main/utils/InputEngine.cpp" alt="" coords="3315,92,3533,121"/>
+</map>

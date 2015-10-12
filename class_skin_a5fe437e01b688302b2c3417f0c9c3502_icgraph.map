@@ -1,0 +1,13 @@
+<map id="Skin::stripMaterialNameUniqueNess" name="Skin::stripMaterialNameUniqueNess">
+<area shape="rect" id="node3" href="$class_skin.html#abb45aaeb94a3f8665d400d1b707a719d" title="Skin::hasReplacementForMaterial" alt="" coords="288,5,507,35"/>
+<area shape="rect" id="node5" href="$class_skin.html#aca931d6b0e07ee87a98f5febe2dc335d" title="Skin::getReplacementForMaterial" alt="" coords="289,59,505,88"/>
+<area shape="rect" id="node7" href="$class_skin.html#a71fc9fb4b831906e7ee3c4bce8e6a541" title="Skin::replaceMeshMaterials" alt="" coords="307,112,488,141"/>
+<area shape="rect" id="node9" href="$class_turbojet.html#a6d7c3d2e2e6458b9fe76b9ba0e372d80" title="Turbojet::Turbojet" alt="" coords="603,32,725,61"/>
+<area shape="rect" id="node11" href="$class_flex_body.html#a590bcdb5dedad3d0cd1ed7206f50a4f9" title="FlexBody::FlexBody" alt="" coords="595,85,733,115"/>
+<area shape="rect" id="node13" href="$class_flex_mesh_wheel.html#a68533fd453ab44574afe883ab4f53080" title="FlexMeshWheel::FlexMeshWheel" alt="" coords="555,139,773,168"/>
+<area shape="rect" id="node15" href="$class_mesh_object.html#a02f1d3412dfdec5ab09967f8ab86486c" title="MeshObject::postProcess" alt="" coords="577,192,751,221"/>
+<area shape="rect" id="node17" href="$class_mesh_object.html#a2ecf1021e258cb843eecd7c0484dbe6d" title="MeshObject::loadMesh" alt="" coords="852,139,1007,168"/>
+<area shape="rect" id="node21" href="$class_mesh_object.html#adafd2452c6d82739b9a4d569dfb9bffd" title="MeshObject::operationCompleted" alt="" coords="821,192,1037,221"/>
+<area shape="rect" id="node23" href="$class_mesh_object.html#a97794c4557396380be2a6aea5b8d9f16" title="MeshObject::loadingComplete" alt="" coords="831,245,1028,275"/>
+<area shape="rect" id="node19" href="$class_mesh_object.html#a871620a2562475355049b17748674571" title="MeshObject::MeshObject" alt="" coords="1085,139,1256,168"/>
+</map>

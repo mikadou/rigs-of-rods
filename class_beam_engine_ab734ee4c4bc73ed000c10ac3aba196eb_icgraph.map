@@ -1,0 +1,9 @@
+<map id="BeamEngine::getClutch" name="BeamEngine::getClutch">
+<area shape="rect" id="node3" href="$class_out_protocol.html#a04436a996c74893dc5eda26782be06ee" title="OutProtocol::update" alt="" coords="444,72,583,101"/>
+<area shape="rect" id="node7" href="$class_two_d_replay.html#a4b479652a9394ba9e8b7e08e33dbbb7a" title="TwoDReplay::recordFrame" alt="" coords="213,124,392,153"/>
+<area shape="rect" id="node16" href="$class_overlay_wrapper.html#af60b94483d2976f1356c3450cc1d70e8" title="OverlayWrapper::UpdateLand\lVehicleHUD" alt="" coords="635,5,829,51"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="879,72,1092,101"/>
+<area shape="rect" id="node9" href="$class_two_d_replay.html#abceb8a16da69e16f581128ae0e111a12" title="TwoDReplay::update" alt="" coords="441,125,585,155"/>
+<area shape="rect" id="node11" href="$class_beam_factory.html#a6fa954b906b6dc808a34e69ac2d018d3" title="BeamFactory::calcPhysics" alt="" coords="643,125,821,155"/>
+<area shape="rect" id="node14" href="$class_preview_renderer.html#a5ea6b4611b45965e072266211dc60ba8" title="PreviewRenderer::render" alt="" coords="903,125,1068,155"/>
+</map>

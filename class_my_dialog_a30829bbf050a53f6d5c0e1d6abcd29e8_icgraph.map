@@ -1,0 +1,5 @@
+<map id="MyDialog::SetDefaults" name="MyDialog::SetDefaults">
+<area shape="rect" id="node3" href="$class_my_dialog.html#a730ceb49055449013bde3aff7119870f" title="MyDialog::MyDialog" alt="" coords="223,5,361,35"/>
+<area shape="rect" id="node7" href="$class_my_dialog.html#afa8e7d3e2cd36f78d391eed394413fc5" title="MyDialog::OnButRestore" alt="" coords="208,59,376,88"/>
+<area shape="rect" id="node5" href="$class_my_app.html#a79fa75d1155f0e85e20f2869538296d6" title="MyApp::OnInit" alt="" coords="424,5,531,35"/>
+</map>

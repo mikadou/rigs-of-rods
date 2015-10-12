@@ -1,0 +1,8 @@
+<map id="source/main/rig_editor/RigEditor_Main.h" name="source/main/rig_editor/RigEditor_Main.h">
+<area shape="rect" id="node3" href="$_g_u_i___rig_editor_land_vehicle_properties_window_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorLandVehicleProperties\lWindow.cpp" alt="" coords="5,101,245,165"/>
+<area shape="rect" id="node5" href="$_main_thread_8cpp.html" title="source/main/main_sim\l/MainThread.cpp" alt="" coords="269,110,421,157"/>
+<area shape="rect" id="node7" href="$_rig_editor___rig_8cpp.html" title="source/main/rig_editor\l/rig_data/RigEditor_Rig.cpp" alt="" coords="445,110,627,157"/>
+<area shape="rect" id="node9" href="$_rig_editor___highlight_boxes_dynamic_mesh_8cpp.html" title="source/main/rig_editor\l/RigEditor_HighlightBoxesDynamic\lMesh.cpp" alt="" coords="651,101,877,165"/>
+<area shape="rect" id="node11" href="$_rig_editor___main_8cpp.html" title="source/main/rig_editor\l/RigEditor_Main.cpp" alt="" coords="901,110,1051,157"/>
+<area shape="rect" id="node13" href="$_rig_editor___rig_wheel_visuals_8cpp.html" title="source/main/rig_editor\l/RigEditor_RigWheelVisuals.cpp" alt="" coords="1075,110,1285,157"/>
+</map>

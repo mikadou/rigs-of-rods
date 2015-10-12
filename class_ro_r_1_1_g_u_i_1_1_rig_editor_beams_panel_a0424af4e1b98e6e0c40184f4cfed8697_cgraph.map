@@ -1,0 +1,4 @@
+<map id="RoR::GUI::RigEditorBeamsPanel::HideAndReset" name="RoR::GUI::RigEditorBeamsPanel::HideAndReset">
+<area shape="rect" id="node3" href="$struct_ro_r_1_1_rig_editor_1_1_rig_aggregate_plain_beams_data.html#a985faacc58a24154b413fa5a3714d5b5" title="RoR::RigEditor::RigAggregate\lPlainBeamsData::Reset" alt="" coords="239,5,436,51"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_gui_panel_base.html#a892310a2b92bdafbb83287b0c906b3a8" title="RoR::GuiPanelBase::Hide" alt="" coords="251,75,424,104"/>
+</map>

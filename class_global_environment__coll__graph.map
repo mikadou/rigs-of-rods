@@ -1,0 +1,47 @@
+<map id="GlobalEnvironment" name="GlobalEnvironment">
+<area shape="rect" id="node2" href="$class_camera_manager.html" title="CameraManager" alt="" coords="1388,611,1505,640"/>
+<area shape="rect" id="node4" href="$class_i_behavior_manager.html" title="IBehaviorManager" alt="" coords="1065,676,1191,705"/>
+<area shape="rect" id="node6" href="$class_i_manager.html" title="IManager" alt="" coords="720,764,795,793"/>
+<area shape="rect" id="node111" href="$class_terrain_manager.html" title="TerrainManager" alt="" coords="1391,1284,1503,1313"/>
+<area shape="rect" id="node119" href="$class_terrain_object_manager.html" title="TerrainObjectManager" alt="" coords="1657,1228,1807,1257"/>
+<area shape="rect" id="node130" href="$class_terrain_geometry_manager.html" title="TerrainGeometryManager" alt="" coords="1948,1191,2116,1220"/>
+<area shape="rect" id="node8" href="$class_zeroed_memory_allocator.html" title="ZeroedMemoryAllocator" alt="" coords="5,693,165,723"/>
+<area shape="rect" id="node10" href="$class_i_behavior.html" title="IBehavior\&lt; CameraManager\l::CameraContext \&gt;" alt="" coords="455,581,639,627"/>
+<area shape="rect" id="node15" href="$class_d_o_f_manager.html" title="DOFManager" alt="" coords="708,360,807,389"/>
+<area shape="rect" id="node20" href="$class_lens.html" title="Lens" alt="" coords="297,279,348,308"/>
+<area shape="rect" id="node23" href="$class_depth_of_field_effect.html" title="DepthOfFieldEffect" alt="" coords="256,332,389,361"/>
+<area shape="rect" id="node28" href="$class_i_thread_task.html" title="IThreadTask" alt="" coords="276,1120,369,1149"/>
+<area shape="rect" id="node39" href="$class_dust_pool.html" title="DustPool" alt="" coords="285,1335,360,1364"/>
+<area shape="rect" id="node42" href="$class_replay.html" title="Replay" alt="" coords="292,1479,353,1508"/>
+<area shape="rect" id="node52" href="$class_position_storage.html" title="PositionStorage" alt="" coords="265,1067,380,1096"/>
+<area shape="rect" id="node55" href="$class_ro_r_frame_listener.html" title="RoRFrameListener" alt="" coords="1063,231,1193,260"/>
+<area shape="rect" id="node62" href="$class_heat_haze.html" title="HeatHaze" alt="" coords="717,175,797,204"/>
+<area shape="rect" id="node65" href="$class_heat_haze_listener.html" title="HeatHazeListener" alt="" coords="260,225,385,255"/>
+<area shape="rect" id="node68" href="$class_force_feedback.html" title="ForceFeedback" alt="" coords="491,64,603,93"/>
+<area shape="rect" id="node74" href="$class_dashboard.html" title="Dashboard" alt="" coords="715,657,800,687"/>
+<area shape="rect" id="node77" href="$class_dashboard_listener.html" title="DashboardListener" alt="" coords="257,641,388,671"/>
+<area shape="rect" id="node80" href="$class_chat_system.html" title="ChatSystem" alt="" coords="711,433,804,463"/>
+<area shape="rect" id="node84" href="$class_collisions.html" title="Collisions" alt="" coords="1089,1008,1167,1037"/>
+<area shape="rect" id="node87" href="$class_landusemap.html" title="Landusemap" alt="" coords="709,1121,805,1151"/>
+<area shape="rect" id="node102" href="$class_thread_pool.html" title="ThreadPool" alt="" coords="891,520,979,549"/>
+<area shape="rect" id="node105" href="$class_character.html" title="Character" alt="" coords="1089,1284,1167,1313"/>
+<area shape="rect" id="node116" href="$class_shadow_manager.html" title="ShadowManager" alt="" coords="876,1627,993,1656"/>
+<area shape="rect" id="node137" href="$class_h_d_r_listener.html" title="HDRListener" alt="" coords="497,1821,596,1851"/>
+<area shape="rect" id="node140" href="$class_envmap.html" title="Envmap" alt="" coords="900,1765,969,1795"/>
+<area shape="rect" id="node13" href="$class_camera_manager_1_1_camera_context.html" title="CameraManager::CameraContext" alt="" coords="1019,623,1237,652"/>
+<area shape="rect" id="node26" href="$class_beam.html" title="Beam" alt="" coords="729,1284,785,1313"/>
+<area shape="rect" id="node31" href="$structrig__t.html" title="rig_t" alt="" coords="300,1173,345,1203"/>
+<area shape="rect" id="node33" href="$class_streamable.html" title="Streamable" alt="" coords="279,1013,367,1043"/>
+<area shape="rect" id="node35" href="$structoob__t.html" title="oob_t" alt="" coords="296,1245,349,1275"/>
+<area shape="rect" id="node37" href="$struct_ro_r_1_1_per_vehicle_camera_context.html" title="RoR::PerVehicleCameraContext" alt="" coords="217,1425,428,1455"/>
+<area shape="rect" id="node45" href="$structground__model__t.html" title="ground_model_t" alt="" coords="265,823,380,852"/>
+<area shape="rect" id="node91" href="$struct_collisions_1_1collision__tri__t.html" title="Collisions::collision\l_tri_t" alt="" coords="691,1051,824,1098"/>
+<area shape="rect" id="node48" href="$class_ogre_1_1_movable_text.html" title="Ogre::MovableText" alt="" coords="256,1687,389,1716"/>
+<area shape="rect" id="node72" href="$structcollision__box__t.html" title="collision_box_t" alt="" coords="704,711,811,740"/>
+<area shape="rect" id="node94" href="$structeventsource__t.html" title="eventsource_t" alt="" coords="705,828,809,857"/>
+<area shape="rect" id="node96" href="$struct_collisions_1_1hash__t.html" title="Collisions::hash_t" alt="" coords="695,999,820,1028"/>
+<area shape="rect" id="node100" href="$class_i_height_finder.html" title="IHeightFinder" alt="" coords="708,487,807,516"/>
+<area shape="rect" id="node114" href="$class_ro_r_1_1_config_file.html" title="RoR::ConfigFile" alt="" coords="1071,1888,1185,1917"/>
+<area shape="rect" id="node124" href="$class_hydrax_water.html" title="HydraxWater" alt="" coords="1079,1573,1177,1603"/>
+<area shape="rect" id="node126" href="$class_i_water.html" title="IWater" alt="" coords="727,1719,788,1748"/>
+</map>

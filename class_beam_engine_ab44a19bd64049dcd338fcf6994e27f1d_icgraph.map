@@ -1,0 +1,7 @@
+<map id="BeamEngine::getAccToHoldRPM" name="BeamEngine::getAccToHoldRPM">
+<area shape="rect" id="node3" href="$class_beam_engine.html#abdc4379a7db428debfe14d05972d808e" title="BeamEngine::getIdleMixture" alt="" coords="272,32,459,61"/>
+<area shape="rect" id="node5" href="$class_beam_engine.html#af63778678531a54f46691842a1015e72" title="BeamEngine::update" alt="" coords="508,32,649,61"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#a6fa954b906b6dc808a34e69ac2d018d3" title="BeamFactory::calcPhysics" alt="" coords="699,32,877,61"/>
+<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="927,5,1140,35"/>
+<area shape="rect" id="node11" href="$class_preview_renderer.html#a5ea6b4611b45965e072266211dc60ba8" title="PreviewRenderer::render" alt="" coords="951,59,1116,88"/>
+</map>

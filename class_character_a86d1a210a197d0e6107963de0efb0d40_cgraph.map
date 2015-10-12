@@ -1,0 +1,4 @@
+<map id="Character::updateCharacterColour" name="Character::updateCharacterColour">
+<area shape="rect" id="node3" href="$class_ro_r_singleton.html#a18a797fc35bd8cfa8a2affdd197cbfee" title="RoRSingleton\&lt; PlayerColours\l \&gt;::getSingleton" alt="" coords="237,5,435,51"/>
+<area shape="rect" id="node5" href="$class_player_colours.html#a8a6251b05f757435094708d615c38538" title="PlayerColours::updateMaterial" alt="" coords="237,75,435,104"/>
+</map>

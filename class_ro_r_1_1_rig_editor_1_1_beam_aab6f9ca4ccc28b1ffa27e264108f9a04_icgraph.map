@@ -1,0 +1,13 @@
+<map id="RoR::RigEditor::Beam::GetDefinitionCommand2" name="RoR::RigEditor::Beam::GetDefinitionCommand2">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a764684782f54dfeffee4a7c6d112b15b" title="RoR::RigEditor::Rig\l::QuerySelectedBeamsData" alt="" coords="261,5,445,51"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a3ecc59a5f44f8b27ecc5f2bc66f21a38" title="RoR::RigEditor::Rig\l::SelectedMixedBeamsUpdate\lAttributes" alt="" coords="255,75,452,139"/>
+<area shape="rect" id="node22" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#ab9b0d933fd613ade496b73b2bffb6a7c" title="RoR::RigEditor::Rig\l::SelectedCommands2UpdateAttributes" alt="" coords="227,162,480,209"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_main.html#abe2179248ae5a8d9fc4a8ed136a18c46" title="RoR::RigEditor::Main\l::UpdateMainLoop" alt="" coords="572,83,719,130"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a8cd11f0150b5e247b6d9f00212d42b0d" title="RoR::RigEditor::Main\l::EnterMainLoop" alt="" coords="811,83,957,130"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1007,92,1156,121"/>
+<area shape="rect" id="node11" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1272,61,1323,91"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="1207,114,1388,161"/>
+<area shape="rect" id="node13" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1493,61,1565,91"/>
+<area shape="rect" id="node17" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1439,123,1620,152"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a1abd6df2d66916d21c59e0b41a27b8bf" title="RoR::RigEditor::Main\l::CommandRigSelectedCommands2\lUpdateAttributes" alt="" coords="528,153,763,217"/>
+</map>

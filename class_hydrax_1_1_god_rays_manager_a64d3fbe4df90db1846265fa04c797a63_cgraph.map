@@ -1,0 +1,6 @@
+<map id="Hydrax::GodRaysManager::_updateProjector" name="Hydrax::GodRaysManager::_updateProjector">
+<area shape="rect" id="node3" href="$class_hydrax_1_1_hydrax.html#a6391180e70faf46ee681466620a85f4d" title="Hydrax::Hydrax::getSunPosition" alt="" coords="232,5,443,35"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_hydrax.html#aef185c906434b6dfb7c67a425d678287" title="Hydrax::Hydrax::getCamera" alt="" coords="244,59,431,88"/>
+<area shape="rect" id="node7" href="$class_hydrax_1_1_hydrax.html#a011da649ae072cce9c6db28620b67a42" title="Hydrax::Hydrax::getPosition" alt="" coords="244,112,431,141"/>
+<area shape="rect" id="node9" href="$class_hydrax_1_1_hydrax.html#abbfe63c58bc4f56ad625872b19b51a60" title="Hydrax::Hydrax::getHeigth" alt="" coords="248,165,427,195"/>
+</map>

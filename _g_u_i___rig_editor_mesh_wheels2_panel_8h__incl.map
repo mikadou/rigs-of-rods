@@ -1,0 +1,22 @@
+<map id="source/main/gui/panels/GUI_RigEditorMeshWheels2Panel.h" name="source/main/gui/panels/GUI_RigEditorMeshWheels2Panel.h">
+<area shape="rect" id="node3" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="508,776,660,805"/>
+<area shape="rect" id="node5" href="$_g_u_i___rig_editor_mesh_wheels2_panel_layout_8h.html" title="GUI_RigEditorMeshWheels2\lPanelLayout.h" alt="" coords="1309,275,1499,322"/>
+<area shape="rect" id="node57" href="$_rig_editor___forward_declarations_8h.html" title="RigEditor_ForwardDeclarations.h" alt="" coords="2136,621,2349,651"/>
+<area shape="rect" id="node59" href="$_rig_editor___rig_element_gui_panel_base_8h.html" title="RigEditor_RigElementGuiPanel\lBase.h" alt="" coords="932,526,1135,573"/>
+<area shape="rect" id="node75" href="$_rig_editor___i_main_8h.html" title="RigEditor_IMain.h" alt="" coords="1931,197,2056,227"/>
+<area shape="rect" id="node78" href="$_rig_editor___rig_wheels_aggregate_data_8h.html" title="RigEditor_RigWheelsAggregate\lData.h" alt="" coords="2336,102,2541,149"/>
+<area shape="rect" id="node8" href="$_base_layout_8h.html" title="BaseLayout.h" alt="" coords="1665,371,1767,400"/>
+<area shape="rect" id="node10" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1633,621,1769,651"/>
+<area shape="rect" id="node50" href="$_wraps_attribute_8h.html" title="WrapsAttribute.h" alt="" coords="1656,448,1776,477"/>
+<area shape="rect" id="node37" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1779,699,1920,728"/>
+<area shape="rect" id="node40" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="672,699,843,728"/>
+<area shape="rect" id="node42" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="2920,699,3067,728"/>
+<area shape="rect" id="node54" href="$_attribute_8h.html" title="Attribute.h" alt="" coords="1675,535,1757,564"/>
+<area shape="rect" id="node63" href="$_gui_panel_base_8h.html" title="GuiPanelBase.h" alt="" coords="273,621,388,651"/>
+<area shape="rect" id="node80" href="$_config_file_8h.html" title="ConfigFile.h" alt="" coords="2459,621,2549,651"/>
+<area shape="rect" id="node86" href="$_g_u_i___open_save_file_dialog_8h.html" title="GUI_OpenSaveFileDialog.h" alt="" coords="2080,197,2261,227"/>
+<area shape="rect" id="node93" href="$_rig_def___node_8h.html" title="RigDef_Node.h" alt="" coords="3140,621,3252,651"/>
+<area shape="rect" id="node96" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="3467,699,3624,728"/>
+<area shape="rect" id="node103" href="$_rig_def___file_8h.html" title="Structures which represent a rig&#45;definition file (1:1 match) " alt="" coords="2889,535,2991,564"/>
+<area shape="rect" id="node89" href="$_dialog_8h.html" title="Dialog.h" alt="" coords="2031,284,2100,313"/>
+</map>

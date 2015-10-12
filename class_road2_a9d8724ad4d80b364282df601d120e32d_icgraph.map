@@ -1,0 +1,5 @@
+<map id="Road2::computePoints" name="Road2::computePoints">
+<area shape="rect" id="node3" href="$class_road2.html#a9a8d8af3d830d58c09b2cea742e42832" title="Road2::finish" alt="" coords="220,5,319,35"/>
+<area shape="rect" id="node7" href="$class_road2.html#af1ed3f3e7283f49faad7101f0908ad19" title="Road2::addBlock" alt="" coords="208,59,331,88"/>
+<area shape="rect" id="node5" href="$class_procedural_manager.html#a63f800c4fe54872d67b0a3e3b1361927" title="ProceduralManager::\lupdateObject" alt="" coords="380,23,521,70"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="RoR::ContentManager::AddResourcePack" name="RoR::ContentManager::AddResourcePack">
+<area shape="rect" id="node3" href="$struct_ro_r_1_1_platform_utils.html#abe6e72a87d2b2fc77153bbee1c48c41e" title="RoR::PlatformUtils\l::FileExists" alt="" coords="208,5,341,51"/>
+<area shape="rect" id="node5" href="$struct_ro_r_1_1_platform_utils.html#a032cf48d300650f569ec2c12f751293f" title="RoR::PlatformUtils\l::FolderExists" alt="" coords="208,74,341,121"/>
+</map>

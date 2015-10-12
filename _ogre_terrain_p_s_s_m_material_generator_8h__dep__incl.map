@@ -1,0 +1,36 @@
+<map id="source/main/terrain/OgreTerrainPSSMMaterialGenerator.h" name="source/main/terrain/OgreTerrainPSSMMaterialGenerator.h">
+<area shape="rect" id="node3" href="$_shadow_manager_8h.html" title="source/main/gfx/ShadowManager.h" alt="" coords="277,111,504,140"/>
+<area shape="rect" id="node9" href="$_terrain_geometry_manager_8cpp.html" title="source/main/terrain\l/TerrainGeometryManager.cpp" alt="" coords="292,198,489,245"/>
+<area shape="rect" id="node13" href="$_ogre_terrain_p_s_s_m_material_generator_8cpp.html" title="source/main/terrain\l/OgreTerrainPSSMMaterialGenerator.cpp" alt="" coords="3023,102,3281,149"/>
+<area shape="rect" id="node15" href="$_terrain_manager_8h.html" title="source/main/terrain\l/TerrainManager.h" alt="" coords="2865,102,2999,149"/>
+<area shape="rect" id="node5" href="$_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="513,198,673,245"/>
+<area shape="rect" id="node7" href="$_shadow_manager_8cpp.html" title="source/main/gfx/ShadowManager.cpp" alt="" coords="28,207,268,236"/>
+<area shape="rect" id="node11" href="$_terrain_manager_8cpp.html" title="source/main/terrain\l/TerrainManager.cpp" alt="" coords="3848,294,3989,341"/>
+<area shape="rect" id="node17" href="$_auto_pilot_8cpp.html" title="source/main/gameplay\l/AutoPilot.cpp" alt="" coords="3956,198,4108,245"/>
+<area shape="rect" id="node19" href="$_character_8cpp.html" title="source/main/gameplay\l/Character.cpp" alt="" coords="4132,198,4284,245"/>
+<area shape="rect" id="node21" href="$_landusemap_8cpp.html" title="source/main/gameplay\l/Landusemap.cpp" alt="" coords="4308,198,4460,245"/>
+<area shape="rect" id="node23" href="$_road2_8cpp.html" title="source/main/gameplay\l/Road2.cpp" alt="" coords="4484,198,4636,245"/>
+<area shape="rect" id="node26" href="$_camera_behavior_free_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorFree.cpp" alt="" coords="4660,198,4833,245"/>
+<area shape="rect" id="node28" href="$_camera_behavior_orbit_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorOrbit.cpp" alt="" coords="4857,198,5033,245"/>
+<area shape="rect" id="node30" href="$_camera_behavior_static_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorStatic.cpp" alt="" coords="5287,198,5468,245"/>
+<area shape="rect" id="node32" href="$_dust_pool_8cpp.html" title="source/main/gfx/DustPool.cpp" alt="" coords="5492,207,5689,236"/>
+<area shape="rect" id="node34" href="$_environment_map_8cpp.html" title="source/main/gfx/Environment\lMap.cpp" alt="" coords="5713,198,5905,245"/>
+<area shape="rect" id="node36" href="$_hydrax_water_8h.html" title="source/main/gfx/HydraxWater.h" alt="" coords="5057,207,5263,236"/>
+<area shape="rect" id="node41" href="$_water_8cpp.html" title="source/main/gfx/Water.cpp" alt="" coords="697,207,876,236"/>
+<area shape="rect" id="node43" href="$_g_u_i_manager_8cpp.html" title="source/main/gui/GUIManager.cpp" alt="" coords="900,207,1116,236"/>
+<area shape="rect" id="node45" href="$_overlay_wrapper_8cpp.html" title="source/main/gui/OverlayWrapper.cpp" alt="" coords="1140,207,1377,236"/>
+<area shape="rect" id="node47" href="$_g_u_i___game_settings_8cpp.html" title="source/main/gui/panels\l/GUI_GameSettings.cpp" alt="" coords="1401,198,1567,245"/>
+<area shape="rect" id="node49" href="$_main_thread_8cpp.html" title="source/main/main_sim\l/MainThread.cpp" alt="" coords="1591,198,1743,245"/>
+<area shape="rect" id="node51" href="$_beam_8cpp.html" title="source/main/physics\l/Beam.cpp" alt="" coords="1767,198,1908,245"/>
+<area shape="rect" id="node53" href="$_beam_forces_euler_8cpp.html" title="source/main/physics\l/BeamForcesEuler.cpp" alt="" coords="1932,198,2087,245"/>
+<area shape="rect" id="node55" href="$_collisions_8cpp.html" title="source/main/physics\l/collision/Collisions.cpp" alt="" coords="2111,198,2268,245"/>
+<area shape="rect" id="node57" href="$_rig_spawner_8cpp.html" title="Vehicle spawning logic. " alt="" coords="2292,198,2489,245"/>
+<area shape="rect" id="node59" href="$_buoyance_8cpp.html" title="source/main/physics\l/water/Buoyance.cpp" alt="" coords="2513,198,2657,245"/>
+<area shape="rect" id="node61" href="$_screw_prop_8cpp.html" title="source/main/physics\l/water/ScrewProp.cpp" alt="" coords="2681,198,2831,245"/>
+<area shape="rect" id="node63" href="$_cache_system_8cpp.html" title="source/main/resources\l/CacheSystem.cpp" alt="" coords="2855,198,3009,245"/>
+<area shape="rect" id="node65" href="$_game_script_8cpp.html" title="source/main/scripting\l/GameScript.cpp" alt="" coords="3033,198,3180,245"/>
+<area shape="rect" id="node67" href="$_survey_map_texture_creator_8cpp.html" title="source/main/terrain\l/map/SurveyMapTextureCreator.cpp" alt="" coords="3204,198,3436,245"/>
+<area shape="rect" id="node71" href="$_terrain_object_manager_8cpp.html" title="source/main/terrain\l/TerrainObjectManager.cpp" alt="" coords="3460,198,3639,245"/>
+<area shape="rect" id="node73" href="$_mesh_object_8cpp.html" title="source/main/utils/MeshObject.cpp" alt="" coords="3663,207,3881,236"/>
+<area shape="rect" id="node38" href="$_hydrax_water_8cpp.html" title="source/main/gfx/HydraxWater.cpp" alt="" coords="5049,303,5271,332"/>
+</map>

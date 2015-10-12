@@ -1,0 +1,6 @@
+<map id="RigDef::Parser::ParseDirectiveSetNodeDefaultsUnsafe" name="RigDef::Parser::ParseDirectiveSetNodeDefaultsUnsafe">
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#aa0448d0c351e3163aa33245881947a40" title="RigDef::Parser::_ParseNode\lOptions" alt="" coords="273,5,463,51"/>
+<area shape="rect" id="node7" href="$class_rig_def_1_1_parser.html#a9c8f9bcdee727cd331810b865d64c415" title="RigDef::Parser::LogParsed\lDirectiveSetNodeDefaultsData" alt="" coords="267,74,469,121"/>
+<area shape="rect" id="node10" href="$class_rig_def_1_1_parser.html#afee8962bfcd7a274af3c0315f07aecb1" title="RigDef::Parser::VerifyAnd\lProcessDirectiveSetNodeDefaults" alt="" coords="257,143,479,190"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="RigDef::Parser::AddMessage" alt="" coords="529,48,721,77"/>
+</map>

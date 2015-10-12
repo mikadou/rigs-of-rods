@@ -1,0 +1,14 @@
+<map id="fixRenderWindowIcon" name="fixRenderWindowIcon">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_ogre_subsystem.html#adac15fe2de5856cb1a1befa681eec2e6" title="RoR::OgreSubsystem\l::Configure" alt="" coords="207,30,356,77"/>
+<area shape="rect" id="node19" href="$class_video_camera.html#aacd8901bb3d47b1960f057d61ce2dc5f" title="VideoCamera::init" alt="" coords="219,101,344,131"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_ogre_subsystem.html#a0f2d050c3ab94d88c1c92750c744d264" title="RoR::OgreSubsystem\l::StartOgre" alt="" coords="407,29,556,75"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_application.html#a86952e2d8958b73638b328cf6132618c" title="RoR::Application::StartOgre\lSubsystem" alt="" coords="607,27,791,74"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="847,36,996,65"/>
+<area shape="rect" id="node11" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1117,5,1168,35"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="1052,58,1233,105"/>
+<area shape="rect" id="node13" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1339,5,1411,35"/>
+<area shape="rect" id="node17" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1284,67,1465,96"/>
+<area shape="rect" id="node21" href="$class_video_camera.html#a8268fb8cb1546ba2f78a2179c6a763c2" title="VideoCamera::Setup" alt="" coords="411,101,552,131"/>
+<area shape="rect" id="node23" href="$class_rig_spawner.html#ac40a82ded5f7e9199428c228d4c5cd89" title="RigSpawner::ProcessVideo\lCamera" alt="" coords="608,97,789,143"/>
+<area shape="rect" id="node25" href="$class_rig_spawner.html#a67da85dd09bd864df9dc924f6f2a7d49" title="RigSpawner::SpawnRig" alt="" coords="841,105,1001,135"/>
+</map>

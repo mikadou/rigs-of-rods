@@ -1,0 +1,37 @@
+<map id="RigDef::Node::Id::ToString" name="RigDef::Node::Id::ToString">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a313a85e2e173bd3d0ea38e5135f68e1b" title="RoR::RigEditor::Rig\l::Build" alt="" coords="281,57,420,103"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a2afce2c7c3d30813cbc2e50bd56e8cad" title="RoR::RigEditor::Rig\l::QuerySelectedNodesData" alt="" coords="260,253,441,299"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_rig_editor_1_1_main.html#abe2179248ae5a8d9fc4a8ed136a18c46" title="RoR::RigEditor::Main\l::UpdateMainLoop" alt="" coords="583,195,729,242"/>
+<area shape="rect" id="node32" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#ad0187d760317fe449942abb642ec78f9" title="RoR::RigEditor::RigElement\lGuiPanelBase::EditboxRestoreValue" alt="" coords="233,542,468,589"/>
+<area shape="rect" id="node65" href="$class_rig_def_1_1_sequential_importer.html#a23b668fd32d05ecca23cdbf3e842dba5" title="RigDef::SequentialImporter\l::IterateAndPrintAllNodes" alt="" coords="261,611,440,658"/>
+<area shape="rect" id="node67" href="$class_rig_def_1_1_serializer.html#a3380d217628f4e98d4b83db314de6fae" title="RigDef::Serializer\l::ProcessNode" alt="" coords="288,130,413,177"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a0ae39993d636eacc5dfe567c5f5ac4b9" title="RoR::RigEditor::Main\l::LoadRigDefFile" alt="" coords="1144,5,1291,51"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_rig_editor_1_1_main.html#ad136bb804b1accbfed00705895f86362" title="RoR::RigEditor::Main\l::CommandCreateNewEmptyRig" alt="" coords="549,57,763,103"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a35a10d6c23920802442d32fab1a8d470" title="RoR::RigEditor::Main\l::NotifyFileSelectorEnded" alt="" coords="1369,73,1540,119"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a4f73e9dc5632524ca803864460b82bb5" title="RoR::RigEditor::Main\l::CommandShowDialogOpenRigFile" alt="" coords="1603,25,1835,71"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_rig_editor_1_1_main.html#acb4af1361d9233f5ee2fa658536a7658" title="RoR::RigEditor::Main\l::CommandShowDialogSaveRigFileAs" alt="" coords="1596,94,1841,141"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a8cd11f0150b5e247b6d9f00212d42b0d" title="RoR::RigEditor::Main\l::EnterMainLoop" alt="" coords="884,195,1031,242"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1143,204,1292,233"/>
+<area shape="rect" id="node23" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1429,191,1480,220"/>
+<area shape="rect" id="node27" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="1364,243,1545,290"/>
+<area shape="rect" id="node25" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1683,191,1755,220"/>
+<area shape="rect" id="node29" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1628,252,1809,281"/>
+<area shape="rect" id="node34" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_beams_panel.html#acf990ad13a10ad888caf4ccf5d70d6f4" title="RoR::GUI::RigEditorBeams\lPanel::UpdatePlainBeamData" alt="" coords="559,265,753,311"/>
+<area shape="rect" id="node36" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_beams_panel.html#a866090a44ee49d8fdac5a5d32952ba63" title="RoR::GUI::RigEditorBeams\lPanel::UpdateMixedBeamData" alt="" coords="555,334,757,381"/>
+<area shape="rect" id="node38" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_commands2_panel.html#ac81fcc6c27abd19991cd38304f72cb2e" title="RoR::GUI::RigEditorCommands2\lPanel::UpdateCommand2Data" alt="" coords="548,403,764,450"/>
+<area shape="rect" id="node40" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_flex_body_wheels_panel.html#a8af40ce06f55deb291cc16b01d227e55" title="RoR::GUI::RigEditorFlexBody\lWheelsPanel::UpdateFlexBodyWheelsData" alt="" coords="519,473,793,519"/>
+<area shape="rect" id="node42" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_hydros_panel.html#a91ea4ea54434620d5ffaa78b2be26ecc" title="RoR::GUI::RigEditorHydros\lPanel::UpdateHydrosData" alt="" coords="564,542,748,589"/>
+<area shape="rect" id="node44" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_mesh_wheels2_panel.html#aaaa01dcd8dd7f9ee300a825c735626a0" title="RoR::GUI::RigEditorMeshWheels2\lPanel::UpdateMeshWheels2Data" alt="" coords="543,611,769,658"/>
+<area shape="rect" id="node46" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_node_panel.html#ab0d31f7f00a5f96d192e5d8ed2abcea4" title="RoR::GUI::RigEditorNodePanel\l::UpdateNodeData" alt="" coords="553,681,759,727"/>
+<area shape="rect" id="node48" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_shocks2_panel.html#ac0cfc7bc83531ec0337407b6fdba7cc5" title="RoR::GUI::RigEditorShocks2\lPanel::UpdateShock2Data" alt="" coords="559,750,753,797"/>
+<area shape="rect" id="node50" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_shocks_panel.html#ab6c78ea0ede6a6410a0b151fb6d85dd7" title="RoR::GUI::RigEditorShocks\lPanel::UpdateShockData" alt="" coords="563,819,749,866"/>
+<area shape="rect" id="node52" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#aecc5223516083d5529b24652b8af2505" title="RoR::RigEditor::RigElement\lGuiPanelBase::CallbackKeyFocus\lGained_RestorePreviousFieldValue" alt="" coords="543,889,769,953"/>
+<area shape="rect" id="node62" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#a70f4e50c90bab3156125d952d64fc08b" title="RoR::RigEditor::RigElement\lGuiPanelBase::CallbackKeyPress\l_EnterCommitsEscapeRestores" alt="" coords="545,977,767,1041"/>
+<area shape="rect" id="node54" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_shocks_panel.html#abc32eccd8d5d1586caa1d924bb5ca93a" title="Wrapper around Base&#39;s callback &#45; needed to bind. " alt="" coords="844,820,1071,884"/>
+<area shape="rect" id="node58" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#ae33caa4c1e226b864b966993ca6c9060" title="RoR::RigEditor::RigElement\lGuiPanelBase::SetupEditboxField" alt="" coords="848,981,1067,1027"/>
+<area shape="rect" id="node60" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#a0e5caf4843c1267c9333b90b1cfb976f" title="RoR::RigEditor::RigElement\lGuiPanelBase::SetupGenericField" alt="" coords="848,907,1067,954"/>
+<area shape="rect" id="node56" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_shocks_panel.html#a1d31987b03430102a9cc43a3d4900d4a" title="RoR::GUI::RigEditorShocks\lPanel::RigEditorShocksPanel" alt="" coords="1120,829,1315,875"/>
+<area shape="rect" id="node69" href="$class_rig_def_1_1_serializer.html#a8c9186f75ca10d02b4557395a8076f02" title="RigDef::Serializer\l::ProcessNodes" alt="" coords="593,126,719,173"/>
+<area shape="rect" id="node71" href="$class_rig_def_1_1_serializer.html#a0d25ba7124bac77109b3251d0d5014ec" title="RigDef::Serializer\l::Serialize" alt="" coords="895,97,1020,143"/>
+<area shape="rect" id="node73" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a9e367d1e6cc15d9481e2cf07e178b074" title="RoR::RigEditor::Main\l::SaveRigDefFile" alt="" coords="1144,89,1291,135"/>
+</map>

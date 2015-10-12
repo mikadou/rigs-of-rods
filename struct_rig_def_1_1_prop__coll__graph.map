@@ -1,0 +1,6 @@
+<map id="RigDef::Prop" name="RigDef::Prop">
+<area shape="rect" id="node2" href="$struct_rig_def_1_1_prop_1_1_steering_wheel_special.html" title="RigDef::Prop::SteeringWheel\lSpecial" alt="" coords="8,14,197,61"/>
+<area shape="rect" id="node4" href="$class_rig_def_1_1_node_1_1_ref.html" title="RigDef::Node::Ref" alt="" coords="37,103,168,132"/>
+<area shape="rect" id="node6" href="$struct_rig_def_1_1_prop_1_1_beacon_special.html" title="RigDef::Prop::BeaconSpecial" alt="" coords="7,156,199,185"/>
+<area shape="rect" id="node8" href="$struct_rig_def_1_1_camera_settings.html" title="RigDef::CameraSettings" alt="" coords="20,209,185,239"/>
+</map>

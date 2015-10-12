@@ -1,0 +1,9 @@
+<map id="RoR::ContentManager::init" name="RoR::ContentManager::init">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_content_manager.html#a7cbddcf40c0f515169de4d4e6bb8fd11" title="RoR::ContentManager\l::AddResourcePack" alt="" coords="237,39,389,86"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_content_manager.html#a967e4cb5d26e2d9a81397b28ae5d3a22" title="RoR::ContentManager\l::exploreFolders" alt="" coords="237,109,389,155"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_content_manager.html#acc058d32e8c4efec19fdc3473fd32af9" title="RoR::ContentManager\l::exploreZipFolders" alt="" coords="237,178,389,225"/>
+<area shape="rect" id="node13" href="$class_ro_r_singleton.html#a18a797fc35bd8cfa8a2affdd197cbfee" title="RoRSingleton\&lt; LanguageEngine\l \&gt;::getSingleton" alt="" coords="208,247,419,294"/>
+<area shape="rect" id="node15" href="$class_language_engine.html#ab3a04f5d4e10d2d6153adda7ca14226b" title="LanguageEngine::postSetup" alt="" coords="221,317,405,347"/>
+<area shape="rect" id="node5" href="$struct_ro_r_1_1_platform_utils.html#abe6e72a87d2b2fc77153bbee1c48c41e" title="RoR::PlatformUtils\l::FileExists" alt="" coords="467,5,600,51"/>
+<area shape="rect" id="node7" href="$struct_ro_r_1_1_platform_utils.html#a032cf48d300650f569ec2c12f751293f" title="RoR::PlatformUtils\l::FolderExists" alt="" coords="467,74,600,121"/>
+</map>
