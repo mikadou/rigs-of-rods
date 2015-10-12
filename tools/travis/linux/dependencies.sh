@@ -9,7 +9,9 @@ libx11-dev libxt-dev libxaw7-dev libxrandr-dev \
 libssl-dev libcurl4-openssl-dev libgtk2.0-dev libwxgtk3.0-dev
 
 sudo add-apt-repository ppa:libreoffice/ppa -y
-sudo apt-get install doxygen graphviz
+sudo apt-get install doxygen=1.8.7~precise1 graphviz
+
+doxygen --version
 
 cd ~/
 mkdir ~/ror-deps
