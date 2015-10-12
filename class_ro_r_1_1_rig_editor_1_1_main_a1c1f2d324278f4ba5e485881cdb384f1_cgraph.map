@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a4e9ceeb031f661d90ee6220ffc994377" title="RoR::RigEditor::Main::HideAllNodeBeamGuiPanels" alt="" coords="463,32,785,61"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a202ab00e9660d370f25d6887d6653a70" title="RoR::RigEditor::Rig::DeleteSelectedNodes" alt="" coords="487,85,761,115"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a13ddf0660af7c1c101915c9b1efd2c90" title="RoR::RigEditor::Rig::RefreshBeamsDynamicMesh" alt="" coords="465,192,783,221"/>
+<area shape="rect" id="node27" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a717b168d21a24ac0338f2c6ae60c881b" title="RoR::RigEditor::Rig::RefreshNodesDynamicMeshes" alt="" coords="460,139,788,168"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_node.html#a96df42eb7849b0a74a0332ca22b71993" title="RoR::RigEditor::Node::IsSelected" alt="" coords="868,85,1087,115"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a0bda301e03e0c8b0bca79d171e67bf77" title="RoR::RigEditor::Rig::DeleteAttachedBeams" alt="" coords="839,32,1116,61"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a961667e55f0d41fdacab764270939969" title="RoR::RigEditor::Beam::GetNodeA" alt="" coords="1169,241,1391,271"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a9e107c4bb884aeed653419a8fa5f21ba" title="RoR::RigEditor::Beam::GetNodeB" alt="" coords="1169,137,1391,167"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_rig_editor_1_1_node.html#afa889e9cb11afbad0efa8de446dff40c" title="RoR::RigEditor::Node::UnlinkBeam" alt="" coords="1165,5,1395,35"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a207d2ac614bc6b07715776729dfa4dbe" title="RoR::RigEditor::Rig::DeleteBeam" alt="" coords="1171,59,1389,88"/>
+<area shape="rect" id="node22" href="$class_ro_r_1_1_rig_editor_1_1_node.html#aefebb9cd1a67bbb2afc980b0f8baab12" title="RoR::RigEditor::Node::GetPosition" alt="" coords="864,139,1091,168"/>
+<area shape="rect" id="node24" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#ad280482e0eea91ada6435db2046e4c13" title="RoR::RigEditor::Beam::GetColor" alt="" coords="871,192,1084,221"/>
+</map>

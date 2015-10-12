@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_content_manager.html#a3d65ff91e47f235abdea3dcc9db62876" title="RoR::ContentManager::init" alt="" coords="240,32,419,61"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="468,32,617,61"/>
+<area shape="rect" id="node7" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="755,5,805,35"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::RequestRestart" alt="" coords="668,59,892,88"/>
+<area shape="rect" id="node11" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="943,59,1124,88"/>
+</map>

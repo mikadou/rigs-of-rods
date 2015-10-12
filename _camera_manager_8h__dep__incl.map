@@ -1,0 +1,27 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_character_8cpp.html" title="source/main/gameplay/Character.cpp" alt="" coords="23,83,260,112"/>
+<area shape="rect" id="node5" href="$_ro_r_frame_listener_8cpp.html" title="source/main/gameplay/RoRFrameListener.cpp" alt="" coords="284,83,575,112"/>
+<area shape="rect" id="node7" href="$_scene_mouse_8cpp.html" title="source/main/gameplay/SceneMouse.cpp" alt="" coords="599,83,857,112"/>
+<area shape="rect" id="node9" href="$_camera_behavior_orbit_8h.html" title="source/main/gfx/camera/CameraBehaviorOrbit.h" alt="" coords="1283,83,1584,112"/>
+<area shape="rect" id="node15" href="$_camera_manager_8cpp.html" title="source/main/gfx/camera/CameraManager.cpp" alt="" coords="1511,315,1796,344"/>
+<area shape="rect" id="node23" href="$_camera_behavior_vehicle_cine_cam_8h.html" title="source/main/gfx/camera/CameraBehaviorVehicleCineCam.h" alt="" coords="20,237,391,267"/>
+<area shape="rect" id="node35" href="$_camera_behavior_fixed_8h.html" title="source/main/gfx/camera/CameraBehaviorFixed.h" alt="" coords="2781,83,3088,112"/>
+<area shape="rect" id="node40" href="$_camera_behavior_free_8h.html" title="source/main/gfx/camera/CameraBehaviorFree.h" alt="" coords="2459,83,2757,112"/>
+<area shape="rect" id="node45" href="$_camera_behavior_isometric_8h.html" title="source/main/gfx/camera/CameraBehaviorIsometric.h" alt="" coords="1723,83,2051,112"/>
+<area shape="rect" id="node50" href="$_camera_behavior_static_8h.html" title="source/main/gfx/camera/CameraBehaviorStatic.h" alt="" coords="2128,83,2435,112"/>
+<area shape="rect" id="node57" href="$_g_u_i___game_pause_menu_8cpp.html" title="source/main/gui/panels/GUI_GamePauseMenu.cpp" alt="" coords="3112,83,3432,112"/>
+<area shape="rect" id="node59" href="$_main_thread_8cpp.html" title="source/main/main_sim/MainThread.cpp" alt="" coords="3456,83,3707,112"/>
+<area shape="rect" id="node61" href="$_beam_8cpp.html" title="source/main/physics/Beam.cpp" alt="" coords="3731,83,3936,112"/>
+<area shape="rect" id="node11" href="$_camera_behavior_character_8h.html" title="source/main/gfx/camera/CameraBehaviorCharacter.h" alt="" coords="921,160,1252,189"/>
+<area shape="rect" id="node17" href="$_camera_behavior_orbit_8cpp.html" title="source/main/gfx/camera/CameraBehaviorOrbit.cpp" alt="" coords="1276,160,1591,189"/>
+<area shape="rect" id="node19" href="$_camera_behavior_vehicle_8h.html" title="source/main/gfx/camera/CameraBehaviorVehicle.h" alt="" coords="580,160,897,189"/>
+<area shape="rect" id="node13" href="$_camera_behavior_character_8cpp.html" title="source/main/gfx/camera/CameraBehaviorCharacter.cpp" alt="" coords="1196,237,1540,267"/>
+<area shape="rect" id="node21" href="$_camera_behavior_vehicle_8cpp.html" title="source/main/gfx/camera/CameraBehaviorVehicle.cpp" alt="" coords="791,237,1121,267"/>
+<area shape="rect" id="node28" href="$_camera_behavior_vehicle_spline_8h.html" title="source/main/gfx/camera/CameraBehaviorVehicleSpline.h" alt="" coords="415,237,767,267"/>
+<area shape="rect" id="node25" href="$_camera_behavior_vehicle_cine_cam_8cpp.html" title="source/main/gfx/camera/CameraBehaviorVehicleCineCam.cpp" alt="" coords="5,315,392,344"/>
+<area shape="rect" id="node30" href="$_camera_behavior_vehicle_spline_8cpp.html" title="source/main/gfx/camera/CameraBehaviorVehicleSpline.cpp" alt="" coords="416,315,781,344"/>
+<area shape="rect" id="node37" href="$_camera_behavior_fixed_8cpp.html" title="source/main/gfx/camera/CameraBehaviorFixed.cpp" alt="" coords="2969,160,3289,189"/>
+<area shape="rect" id="node42" href="$_camera_behavior_free_8cpp.html" title="source/main/gfx/camera/CameraBehaviorFree.cpp" alt="" coords="2529,160,2844,189"/>
+<area shape="rect" id="node47" href="$_camera_behavior_isometric_8cpp.html" title="source/main/gfx/camera/CameraBehaviorIsometric.cpp" alt="" coords="1716,160,2057,189"/>
+<area shape="rect" id="node52" href="$_camera_behavior_static_8cpp.html" title="source/main/gfx/camera/CameraBehaviorStatic.cpp" alt="" coords="2183,160,2505,189"/>
+</map>

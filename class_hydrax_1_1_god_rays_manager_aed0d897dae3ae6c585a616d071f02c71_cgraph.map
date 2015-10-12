@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_hydrax_1_1_hydrax.html#a4f6dfef270938f04d0430eaf8e1fa88f" title="Hydrax::Hydrax::getSceneManager" alt="" coords="711,5,937,35"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_god_rays_manager.html#ab60cb054a3c4948b82c0b1c3736d17b3" title="Hydrax::GodRaysManager::_createGodRays" alt="" coords="349,57,632,87"/>
+<area shape="rect" id="node8" href="$class_hydrax_1_1_hydrax.html#a1532419b2859aed22a63d913c527ce21" title="Hydrax::Hydrax::_isCurrentFrameUnderwater" alt="" coords="681,59,967,88"/>
+</map>

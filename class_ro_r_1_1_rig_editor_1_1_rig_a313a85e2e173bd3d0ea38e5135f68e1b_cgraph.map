@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a28a488de1514ae2f5e95e79f73a622b6" title="RoR::RigEditor::Main::GetConfig" alt="" coords="309,5,523,35"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_rig_building_report.html#aba8d9410064dbf5e0a4df736a36e5be8" title="RoR::RigEditor::RigBuildingReport::SetCurrentModuleName" alt="" coords="231,59,601,88"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_rig_building_report.html#afe05a3e8007fb87e055d731c8d58dbd7" title="RoR::RigEditor::RigBuildingReport::SetCurrentSectionName" alt="" coords="657,213,1031,243"/>
+<area shape="rect" id="node9" href="$class_rig_def_1_1_node_1_1_id.html#a83e169095cd7d288c1b94fb952a83f9b" title="RigDef::Node::Id::Str" alt="" coords="343,369,489,399"/>
+<area shape="rect" id="node11" href="$class_rig_def_1_1_node_1_1_id.html#a2e84af09c5b954252ed2af4a4bcfdeeb" title="RigDef::Node::Id::ToString" alt="" coords="327,423,505,452"/>
+<area shape="rect" id="node13" href="$class_rig_def_1_1_node_1_1_id.html#a30fc558c055857280fb2adba21a08eea" title="RigDef::Node::Id::SetStr" alt="" coords="333,476,499,505"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_rig_editor_1_1_rig_building_report.html#a39c7562120900835f3c11406c5dfd082" title="RoR::RigEditor::RigBuildingReport::AddMessage" alt="" coords="1679,237,1985,267"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a2b9836af34cbc69b9822f190abdf2bed" title="RoR::RigEditor::Rig::FindNode" alt="" coords="1415,315,1617,344"/>
+<area shape="rect" id="node24" href="$class_rig_def_1_1_node_1_1_id.html#a0c74f13391cb2b7dd03b0810766a0c7d" title="RigDef::Node::Id::SetNum" alt="" coords="328,529,504,559"/>
+<area shape="rect" id="node26" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#aa772c5fe338c44feab7a2bd92d88de17" title="RoR::RigEditor::Beam::SetColor" alt="" coords="311,583,521,612"/>
+<area shape="rect" id="node28" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#af6175dd6ee639e86fa8784742819ef1e" title="RoR::RigEditor::Rig::BuildFromModule" alt="" coords="292,265,540,295"/>
+<area shape="rect" id="node37" href="$class_ro_r_1_1_rig_editor_1_1_node.html#aefebb9cd1a67bbb2afc980b0f8baab12" title="RoR::RigEditor::Node::GetPosition" alt="" coords="1403,472,1629,501"/>
+<area shape="rect" id="node46" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a76ac08cd1a12eff3e7bdac2fa4701e8f" title="RoR::RigEditor::Main::GetOgreSceneManager" alt="" coords="271,636,561,665"/>
+<area shape="rect" id="node48" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a961667e55f0d41fdacab764270939969" title="RoR::RigEditor::Beam::GetNodeA" alt="" coords="305,689,527,719"/>
+<area shape="rect" id="node51" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#ad280482e0eea91ada6435db2046e4c13" title="RoR::RigEditor::Beam::GetColor" alt="" coords="309,743,523,772"/>
+<area shape="rect" id="node53" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a9e107c4bb884aeed653419a8fa5f21ba" title="RoR::RigEditor::Beam::GetNodeB" alt="" coords="305,796,527,825"/>
+<area shape="rect" id="node19" href="$class_rig_def_1_1_node_1_1_ref.html#a80f06d82da5ac28617eca47baa590821" title="RigDef::Node::Ref::Str" alt="" coords="1755,315,1909,344"/>
+<area shape="rect" id="node22" href="$class_rig_def_1_1_node_1_1_ref.html#a141e4a4770a737736436a3746a31f3ea" title="RigDef::Node::Ref::ToString" alt="" coords="1739,395,1925,424"/>
+<area shape="rect" id="node31" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a17da4731c9ac80ccae4a1f275173d611" title="RoR::RigEditor::Rig::GetWheelDefinitionNodes" alt="" coords="695,320,993,349"/>
+<area shape="rect" id="node44" href="$class_ro_r_1_1_rig_editor_1_1_rig_building_report.html#a7567344d56b867dca08cb0dbad8dbd4e" title="RoR::RigEditor::RigBuildingReport::ClearCurrentSectionName" alt="" coords="652,267,1036,296"/>
+<area shape="rect" id="node33" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a7ddf6f38d4e9a8c4f36a8bc7c859538d" title="RoR::RigEditor::Rig::GetWheelAxisNodes" alt="" coords="1085,264,1355,293"/>
+<area shape="rect" id="node39" href="$class_rig_def_1_1_node_1_1_ref.html#a5912183c0dfa018a32190a5bc89b53c8" title="RigDef::Node::Ref::IsValidAnyState" alt="" coords="1104,368,1336,397"/>
+</map>

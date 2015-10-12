@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a38e4135df406da0cc2f0fc4afb34ddb3" title="RigDef::Parser::_ParseNodeRef" alt="" coords="309,5,520,35"/>
+<area shape="rect" id="node9" href="$class_rig_def_1_1_parser.html#a5bac969579361161e98cf4c6bcc66a1f" title="RigDef::Parser::_ParseCabOptions" alt="" coords="301,59,528,88"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_sequential_importer.html#a04d293d8b1f94b9a722e83715911e547" title="RigDef::SequentialImporter::IsEnabled" alt="" coords="577,5,823,35"/>
+<area shape="rect" id="node7" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="RigDef::Parser::AddMessage" alt="" coords="604,59,796,88"/>
+</map>

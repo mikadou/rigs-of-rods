@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_open_c_l_test_bandwidth.html#a45afd5c5834f81ea695d11fad965192e" title="OpenCLTestBandwidth::testBandwidthQuick" alt="" coords="301,36,584,65"/>
+<area shape="rect" id="node5" href="$class_open_c_l_test_bandwidth.html#a9921496dfd7b9bad364e29724bec7510" title="OpenCLTestBandwidth::testBandwidthRange" alt="" coords="635,85,920,115"/>
+<area shape="rect" id="node22" href="$class_open_c_l_test_bandwidth.html#a89628442d42754cd11e99ea971f1e0a0" title="OpenCLTestBandwidth::testBandwidthShmoo" alt="" coords="633,139,921,168"/>
+<area shape="rect" id="node7" href="$class_open_c_l_test_bandwidth.html#ab4d61c6e3c251f76ec1dae50b63e783d" title="OpenCLTestBandwidth::createQueue" alt="" coords="1019,59,1256,88"/>
+<area shape="rect" id="node9" href="$class_open_c_l_test_bandwidth.html#ac8a21d2f7943c75d050c6a4f15f442d8" title="OpenCLTestBandwidth::testDeviceToHostTransfer" alt="" coords="979,112,1296,141"/>
+<area shape="rect" id="node13" href="$class_open_c_l_test_bandwidth.html#ae22962730e3c3c0006807695e9d2e57b" title="OpenCLTestBandwidth::testHostToDeviceTransfer" alt="" coords="979,165,1296,195"/>
+<area shape="rect" id="node16" href="$class_open_c_l_test_bandwidth.html#a09ae3ce5e820edd21fe9a167206c3726" title="OpenCLTestBandwidth::testDeviceToDeviceTransfer" alt="" coords="972,219,1303,248"/>
+<area shape="rect" id="node19" href="$class_open_c_l_test_bandwidth.html#ab10b817ca0fab5c1255ce286eb87101e" title="OpenCLTestBandwidth::printResultsReadable" alt="" coords="992,5,1283,35"/>
+<area shape="rect" id="node11" href="$class_open_c_l_test_bandwidth.html#a9f830c655ad570bd6fd0e3256bd38e18" title="OpenCLTestBandwidth::ownCheckError" alt="" coords="1353,165,1607,195"/>
+</map>

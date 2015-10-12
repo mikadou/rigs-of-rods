@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getSingleton" alt="" coords="241,5,596,35"/>
+<area shape="rect" id="node5" href="$class_beam_factory.html#ac8a9a6f08309a8a30f714e0480eaded6" title="BeamFactory::removeTruck" alt="" coords="327,59,511,88"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#a1be739481d24f2f05c0620c7f176c0a3" title="BeamFactory::findTruckInsideBox" alt="" coords="647,59,865,88"/>
+<area shape="rect" id="node9" href="$class_collisions.html#af4afe6b0f900dcf87cb6bd70e98be890" title="Collisions::isInside" alt="" coords="916,59,1047,88"/>
+</map>

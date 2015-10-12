@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_beam.html#a39d38800d5ab3b85b305d94b2c8ea502" title="Beam::GetCameraContext" alt="" coords="387,5,563,35"/>
+<area shape="rect" id="node5" href="$class_beam.html#a3304824c3e7285047f007c956318de09" title="Beam::prepareInside" alt="" coords="404,59,545,88"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_application.html#a59a97190a3dea812d1f28504db82dc95" title="RoR::Application::GetOverlayWrapper" alt="" coords="353,112,596,141"/>
+<area shape="rect" id="node9" href="$class_overlay_wrapper.html#a086d876abbbac640d88b09b2bbfe7d0f" title="OverlayWrapper::showDashboardOverlays" alt="" coords="340,165,609,195"/>
+<area shape="rect" id="node11" href="$class_beam.html#a23fbbd95dce6d7440124a59ff905e4d5" title="Beam::changedCamera" alt="" coords="396,219,553,248"/>
+</map>

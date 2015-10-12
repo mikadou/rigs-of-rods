@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_g_u_i___rig_editor_rig_properties_window_8h.html" title="GUI_RigEditorRigPropertiesWindow.h" alt="" coords="1384,83,1627,112"/>
+<area shape="rect" id="node12" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1744,469,1880,499"/>
+<area shape="rect" id="node90" href="$_rig_editor___i_main_8h.html" title="RigEditor_IMain.h" alt="" coords="1688,83,1813,112"/>
+<area shape="rect" id="node93" href="$_rig_editor___rig_properties_8h.html" title="RigEditor_RigProperties.h" alt="" coords="611,315,784,344"/>
+<area shape="rect" id="node101" href="$_utils_8h.html" title="Utils.h" alt="" coords="3040,83,3099,112"/>
+<area shape="rect" id="node5" href="$_forward_declarations_8h.html" title="Global forward declarations." alt="" coords="2116,624,2268,653"/>
+<area shape="rect" id="node7" href="$_g_u_i___rig_editor_rig_properties_window_layout_8h.html" title="GUI_RigEditorRigPropertiesWindowLayout.h" alt="" coords="1716,160,1999,189"/>
+<area shape="rect" id="node59" href="$_gui_panel_base_8h.html" title="GuiPanelBase.h" alt="" coords="1237,160,1352,189"/>
+<area shape="rect" id="node66" href="$_rig_def___file_8h.html" title="Structures which represent a rig&#45;definition file (1:1 match)" alt="" coords="616,392,717,421"/>
+<area shape="rect" id="node72" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="5,547,163,576"/>
+<area shape="rect" id="node88" href="$_rig_editor___forward_declarations_8h.html" title="RigEditor_ForwardDeclarations.h" alt="" coords="1399,392,1612,421"/>
+<area shape="rect" id="node10" href="$_base_layout_8h.html" title="BaseLayout.h" alt="" coords="1807,237,1908,267"/>
+<area shape="rect" id="node52" href="$_wraps_attribute_8h.html" title="WrapsAttribute.h" alt="" coords="1797,315,1917,344"/>
+<area shape="rect" id="node39" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1245,547,1387,576"/>
+<area shape="rect" id="node42" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1635,547,1805,576"/>
+<area shape="rect" id="node44" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="563,547,709,576"/>
+<area shape="rect" id="node56" href="$_attribute_8h.html" title="Attribute.h" alt="" coords="1771,392,1853,421"/>
+<area shape="rect" id="node69" href="$_rig_def___node_8h.html" title="RigDef_Node.h" alt="" coords="363,469,475,499"/>
+</map>

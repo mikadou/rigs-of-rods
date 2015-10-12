@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a313a85e2e173bd3d0ea38e5135f68e1b" title="RoR::RigEditor::Rig::Build" alt="" coords="303,85,479,115"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a4795b1722f94f9584b91c0074c62161d" title="RoR::RigEditor::Rig::CreateNewBeam" alt="" coords="268,139,513,168"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a0ae39993d636eacc5dfe567c5f5ac4b9" title="RoR::RigEditor::Main::LoadRigDefFile" alt="" coords="609,32,855,61"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_rig_editor_1_1_main.html#ad136bb804b1accbfed00705895f86362" title="RoR::RigEditor::Main::CommandCreateNewEmptyRig" alt="" coords="563,85,901,115"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a35a10d6c23920802442d32fab1a8d470" title="RoR::RigEditor::Main::NotifyFileSelectorEnded" alt="" coords="949,32,1245,61"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a4f73e9dc5632524ca803864460b82bb5" title="RoR::RigEditor::Main::CommandShowDialogOpenRigFile" alt="" coords="1301,5,1659,35"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_rig_editor_1_1_main.html#acb4af1361d9233f5ee2fa658536a7658" title="RoR::RigEditor::Main::CommandShowDialogSaveRigFileAs" alt="" coords="1295,59,1665,88"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a3c57ce426944230414c3b6bc6afad637" title="RoR::RigEditor::Rig::ExtrudeSelectedNodes" alt="" coords="592,139,872,168"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_rig_editor_1_1_main.html#abe2179248ae5a8d9fc4a8ed136a18c46" title="RoR::RigEditor::Main::UpdateMainLoop" alt="" coords="971,139,1224,168"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a8cd11f0150b5e247b6d9f00212d42b0d" title="RoR::RigEditor::Main::EnterMainLoop" alt="" coords="1359,139,1601,168"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1716,139,1865,168"/>
+<area shape="rect" id="node25" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2003,112,2053,141"/>
+<area shape="rect" id="node27" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::RequestRestart" alt="" coords="1916,165,2140,195"/>
+<area shape="rect" id="node29" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="2191,165,2372,195"/>
+</map>

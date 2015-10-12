@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#a5f0e897e268eb585d665235fad6c85cd" title="RoRFrameListener::showLoad" alt="" coords="233,299,431,328"/>
+<area shape="rect" id="node5" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getSingleton" alt="" coords="481,5,836,35"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#a5f3755f8cd44e6972e463cc6aaa9f181" title="BeamFactory::getTruckCount" alt="" coords="561,59,756,88"/>
+<area shape="rect" id="node9" href="$class_beam_factory.html#aa7c42481b46a78459831fa0900ab8d67" title="BeamFactory::getTrucks" alt="" coords="576,112,741,141"/>
+<area shape="rect" id="node11" href="$class_collisions.html#a0994fca40d7b1d9d2bf81b2dc2dda8f3" title="Collisions::getBox" alt="" coords="595,165,723,195"/>
+<area shape="rect" id="node13" href="$class_collisions.html#af4afe6b0f900dcf87cb6bd70e98be890" title="Collisions::isInside" alt="" coords="593,219,724,248"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_application.html#ad66b6a7000f93454d75f1150d6959141" title="RoR::Application::GetConsole" alt="" coords="560,272,757,301"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_application.html#a3db1b8c7dc6bf465f5ed653ef4a8ce9a" title="RoR::Application::GetGuiManager" alt="" coords="549,325,768,355"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_g_u_i_manager.html#ae4edd69226416a7be139959fd71319ea" title="RoR::GUIManager::PushNotification" alt="" coords="541,379,776,408"/>
+<area shape="rect" id="node21" href="$class_collisions.html#ad12c4976773ee3a8034b02fe1cd0212d" title="Collisions::clearEventCache" alt="" coords="565,432,752,461"/>
+<area shape="rect" id="node23" href="$class_collisions.html#a3a6b7172dd9d63a46d03ecd9ee61a1fe" title="Collisions::getPosition" alt="" coords="583,485,735,515"/>
+<area shape="rect" id="node25" href="$class_collisions.html#a4241fcc92d9a9deccd5ff450059ad0f1" title="Collisions::getDirection" alt="" coords="580,539,737,568"/>
+<area shape="rect" id="node27" href="$class_ro_r_frame_listener.html#ac3781516d790b1076e5af2278e996596" title="RoRFrameListener::hideMap" alt="" coords="564,592,753,621"/>
+</map>

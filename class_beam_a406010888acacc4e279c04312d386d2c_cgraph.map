@@ -1,0 +1,27 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_terrain_manager.html#a1d0227a71a4e114099797646ff6756b7" title="TerrainManager::getWater" alt="" coords="183,85,356,115"/>
+<area shape="rect" id="node5" href="$class_collisions.html#af1028e2b9de09140265d02b66654f78f" title="Collisions::groundCollision" alt="" coords="181,139,357,168"/>
+<area shape="rect" id="node25" href="$class_collisions.html#a7d672022c769ed5db3ea6aaf08117212" title="Collisions::nodeCollision" alt="" coords="187,219,352,248"/>
+<area shape="rect" id="node46" href="$_approx_math_8h.html#a490412854eb41c73cdb44120e33cb2f4" title="approx_sqrt" alt="" coords="224,272,315,301"/>
+<area shape="rect" id="node48" href="$_approx_math_8h.html#a935ee6fdb8b4bb87c69a20ca0cc6601f" title="frand_11" alt="" coords="233,325,305,355"/>
+<area shape="rect" id="node50" href="$class_i_water.html#a0d07fdfe2dadf9e7e7ebc9266c0bd4a0" title="IWater::isUnderWater" alt="" coords="195,379,344,408"/>
+<area shape="rect" id="node52" href="$class_i_water.html#ad2499255884025d55a940eb24ecd8e4d" title="IWater::getHeight" alt="" coords="207,432,332,461"/>
+<area shape="rect" id="node7" href="$class_landusemap.html#ae1674c54ecba0ba42db48a919eda4ba1" title="Landusemap::getGroundModelAt" alt="" coords="408,5,619,35"/>
+<area shape="rect" id="node13" href="$class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="425,59,601,88"/>
+<area shape="rect" id="node15" href="$class_i_height_finder.html#a1e72a8b431fcce239ab01e7d77235aab" title="IHeightFinder::getNormalAt" alt="" coords="423,112,604,141"/>
+<area shape="rect" id="node17" href="$class_collisions.html#a37fe3226d0a0ad6497c97555f1aa4b31" title="Collisions::primitiveCollision" alt="" coords="420,165,607,195"/>
+<area shape="rect" id="node9" href="$class_terrain_manager.html#a41fdd66a57990a5fb33d253213fd04e3" title="TerrainManager::getMaxTerrainSize" alt="" coords="733,5,963,35"/>
+<area shape="rect" id="node11" href="$class_terrain_geometry_manager.html#afead68b5ff7a0b77395065ab8ea855e3" title="TerrainGeometryManager::getMaxTerrainSize" alt="" coords="1076,5,1361,35"/>
+<area shape="rect" id="node19" href="$_approx_math_8h.html#aa827078e74a2a2b87a97a834d2359e88" title="approx_pow" alt="" coords="803,59,893,88"/>
+<area shape="rect" id="node21" href="$_approx_math_8h.html#a08e9e14c091640464aae072f3823b855" title="fast_invSqrt" alt="" coords="803,112,893,141"/>
+<area shape="rect" id="node23" href="$_approx_math_8h.html#a9f32a288dbece202a4eaa1808aad5506" title="approx_exp" alt="" coords="804,165,892,195"/>
+<area shape="rect" id="node27" href="$class_collisions.html#a4d438eb211fe0953343dc39f478e14e0" title="Collisions::hash_find" alt="" coords="443,219,584,248"/>
+<area shape="rect" id="node31" href="$class_collisions.html#a169c711864e32721fb5daab7d7d01df4" title="Collisions::permitEvent" alt="" coords="435,272,592,301"/>
+<area shape="rect" id="node39" href="$class_collisions.html#afab554d00436aa9157c93a4eaecf8d74" title="Collisions::envokeScriptCallback" alt="" coords="407,325,620,355"/>
+<area shape="rect" id="node44" href="$struct_vector3.html#a30db3d517cb422cb78a4be0cf52bc89e" title="Vector3::length" alt="" coords="459,379,568,408"/>
+<area shape="rect" id="node29" href="$class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Collisions::hashfunc" alt="" coords="779,219,917,248"/>
+<area shape="rect" id="node33" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getSingleton" alt="" coords="671,272,1025,301"/>
+<area shape="rect" id="node35" href="$class_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="BeamFactory::getCurrentTruck" alt="" coords="747,325,949,355"/>
+<area shape="rect" id="node37" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="1140,325,1297,355"/>
+<area shape="rect" id="node41" href="$class_ro_r_singleton_no_creation.html#a5e7a47f4b2d6d0abaa3a1ea5ca1f216a" title="RoRSingletonNoCreation\&lt; ScriptEngine \&gt;::getSingleton" alt="" coords="675,379,1021,408"/>
+</map>

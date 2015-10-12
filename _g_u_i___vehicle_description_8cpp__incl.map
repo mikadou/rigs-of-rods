@@ -1,0 +1,27 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_g_u_i___vehicle_description_8h.html" title="GUI_VehicleDescription.h" alt="" coords="2939,237,3113,267"/>
+<area shape="rect" id="node10" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1530,315,1666,344"/>
+<area shape="rect" id="node46" href="$_beam_8h.html" title="Beam.h" alt="" coords="825,160,891,189"/>
+<area shape="rect" id="node63" href="$rornet_8h.html" title="rornet.h" alt="" coords="170,315,237,344"/>
+<area shape="rect" id="node76" href="$_beam_factory_8h.html" title="BeamFactory.h" alt="" coords="1103,83,1213,112"/>
+<area shape="rect" id="node88" href="$_utils_8h.html" title="Utils.h" alt="" coords="1321,237,1379,267"/>
+<area shape="rect" id="node94" href="$_ro_r_version_8h.html" title="RoRVersion.h" alt="" coords="2574,83,2678,112"/>
+<area shape="rect" id="node97" href="$_language_8h.html" title="Language.h" alt="" coords="1811,160,1899,189"/>
+<area shape="rect" id="node107" href="$_g_u_i_manager_8h.html" title="GUIManager.h" alt="" coords="2342,160,2449,189"/>
+<area shape="rect" id="node122" href="$_application_8h.html" title="Central object manager and communications hub." alt="" coords="1566,83,1662,112"/>
+<area shape="rect" id="node5" href="$_forward_declarations_8h.html" title="Global forward declarations." alt="" coords="2799,469,2951,499"/>
+<area shape="rect" id="node7" href="$_g_u_i___vehicle_description_layout_8h.html" title="GUI_VehicleDescriptionLayout.h" alt="" coords="2801,315,3011,344"/>
+<area shape="rect" id="node37" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="2751,392,2893,421"/>
+<area shape="rect" id="node40" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="2167,392,2338,421"/>
+<area shape="rect" id="node42" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="2362,392,2509,421"/>
+<area shape="rect" id="node56" href="$_per_vehicle_camera_context_8h.html" title="PerVehicleCameraContext.h" alt="" coords="513,237,699,267"/>
+<area shape="rect" id="node58" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="723,237,881,267"/>
+<area shape="rect" id="node60" href="$_beam_data_8h.html" title="Core data structures for simulation." alt="" coords="905,237,998,267"/>
+<area shape="rect" id="node67" href="$_i_thread_task_8h.html" title="IThreadTask.h" alt="" coords="1403,237,1510,267"/>
+<area shape="rect" id="node70" href="$_streamable_8h.html" title="Streamable.h" alt="" coords="163,237,262,267"/>
+<area shape="rect" id="node80" href="$_streamable_factory_8h.html" title="StreamableFactory.h" alt="" coords="1155,237,1297,267"/>
+<area shape="rect" id="node84" href="$_two_d_replay_8h.html" title="TwoDReplay.h" alt="" coords="971,160,1081,189"/>
+<area shape="rect" id="node100" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="1963,237,2049,267"/>
+<area shape="rect" id="node109" href="$_g_u_i_input_manager_8h.html" title="GUIInputManager.h" alt="" coords="2513,237,2649,267"/>
+<area shape="rect" id="node111" href="$_gui_manager_interface_8h.html" title="Command interface for GAME/GUI_PANEL &#45;&gt; GUI_MANAGER communication. Reduces compile&#45;time dependencies..." alt="" coords="2073,237,2227,267"/>
+</map>

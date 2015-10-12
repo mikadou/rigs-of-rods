@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_c_script_any.html#a6cc41e567e9764b38da4657ab4d619a1" title="CScriptAny::operator=" alt="" coords="244,32,396,61"/>
+<area shape="rect" id="node5" href="$class_c_script_any.html#a8d17d3d97b10fda993991e3782757483" title="CScriptAny::~CScriptAny" alt="" coords="235,85,405,115"/>
+<area shape="rect" id="node7" href="$class_c_script_any.html#ad136241bde0ebda30442a84a984e96c4" title="CScriptAny::Store" alt="" coords="256,139,384,168"/>
+<area shape="rect" id="node29" href="$class_c_script_any.html#aed0b83568bbe54b9578f1e966e81d6df" title="CScriptAny::ReleaseAllHandles" alt="" coords="216,219,424,248"/>
+<area shape="rect" id="node9" href="$scriptany_8cpp.html#a1a6bd7c33472d5ba530322db546cc6d6" title="ScriptAny_Store_Generic" alt="" coords="513,5,681,35"/>
+<area shape="rect" id="node19" href="$scriptany_8cpp.html#ac83eb1f9846171d00c82374de90bf7ce" title="ScriptAny_StoreInt_Generic" alt="" coords="505,59,689,88"/>
+<area shape="rect" id="node22" href="$scriptany_8cpp.html#ad8b547d092e230ab032c7e91404c4144" title="ScriptAny_StoreFlt_Generic" alt="" coords="505,112,689,141"/>
+<area shape="rect" id="node25" href="$class_c_script_any.html#aa0f632d704d4e89d31049777526356c6" title="CScriptAny::CScriptAny" alt="" coords="516,165,679,195"/>
+<area shape="rect" id="node27" href="$class_c_script_any.html#a82ea775ef3afbdf31d23b029dd02bb5c" title="CScriptAny::Store" alt="" coords="533,219,661,248"/>
+<area shape="rect" id="node11" href="$scriptany_8h.html#ade7875aa9250cb75598a7bfa20ca8c2d" title="RegisterScriptAny_Generic" alt="" coords="772,85,951,115"/>
+<area shape="rect" id="node13" href="$scriptany_8h.html#a13b8b1995d1ba5f1031f76ac76eea446" title="RegisterScriptAny" alt="" coords="1000,85,1128,115"/>
+<area shape="rect" id="node15" href="$class_script_engine.html#aec64d59067a79c9fe0b88c150c901147" title="ScriptEngine::init" alt="" coords="1177,85,1297,115"/>
+<area shape="rect" id="node17" href="$class_script_engine.html#a05631d095d3ed370791fb2e67344da32" title="ScriptEngine::ScriptEngine" alt="" coords="1347,85,1525,115"/>
+<area shape="rect" id="node31" href="$scriptany_8cpp.html#a44d8402e06648d5420a664e5dbc9dd71" title="ScriptAny_ReleaseAllHandles_Generic" alt="" coords="473,272,721,301"/>
+</map>

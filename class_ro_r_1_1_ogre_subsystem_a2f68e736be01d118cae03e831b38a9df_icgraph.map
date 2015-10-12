@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_d_o_f_manager.html#ab3b5acf9b74aba2c5832b65f2a54da10" title="DOFManager::DOFManager" alt="" coords="324,5,511,35"/>
+<area shape="rect" id="node5" href="$class_d_o_f_manager.html#a0d3098733bb328d0d63075a10adc325d" title="DOFManager::cleanup" alt="" coords="341,59,493,88"/>
+<area shape="rect" id="node9" href="$class_d_o_f_manager.html#a165e04f5ec744566a8c26d91265d081d" title="DOFManager::setEnabled" alt="" coords="331,112,504,141"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_g_u_i_manager.html#af0523573c773fa2ad8bfd09f3f393a7c" title="RoR::GUIManager::create" alt="" coords="331,165,504,195"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="624,296,773,325"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_main_thread.html#a0be80b570e45a4de035b1f1b9684497c" title="RoR::MainThread::EnterMainMenuLoop" alt="" coords="292,269,543,299"/>
+<area shape="rect" id="node26" href="$class_ro_r_1_1_main_thread.html#a756bfd7017a20cad3eef18558564a4c6" title="RoR::MainThread::EnterGameplayLoop" alt="" coords="292,323,543,352"/>
+<area shape="rect" id="node29" href="$class_ro_r_1_1_main_thread.html#a90a882dd59b080c97f8d5272c9878ba2" title="RoR::MainThread::Exit" alt="" coords="340,376,495,405"/>
+<area shape="rect" id="node31" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a617555d8288d021b0fe261d9df84a94a" title="RoR::RigEditor::Main::Main" alt="" coords="327,429,508,459"/>
+<area shape="rect" id="node33" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a8cd11f0150b5e247b6d9f00212d42b0d" title="RoR::RigEditor::Main::EnterMainLoop" alt="" coords="296,483,539,512"/>
+<area shape="rect" id="node7" href="$class_d_o_f_manager.html#aba6d17a9eb8c702429fc49dab624188d" title="DOFManager::~DOFManager" alt="" coords="601,59,796,88"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_g_u_i_manager.html#a5587062fc64af58b9adbe5df4ba25097" title="RoR::GUIManager::GUIManager" alt="" coords="592,165,805,195"/>
+<area shape="rect" id="node17" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="941,269,992,299"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::RequestRestart" alt="" coords="855,323,1079,352"/>
+<area shape="rect" id="node21" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1129,323,1311,352"/>
+</map>

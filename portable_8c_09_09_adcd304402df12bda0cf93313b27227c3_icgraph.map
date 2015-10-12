@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dcc_8c_09_09.html#a10a2845d6bbfd6275ecc290a2077fe66" title="libirc_new_dcc_session" alt="" coords="171,59,331,88"/>
+<area shape="rect" id="node5" href="$libircclient_8h.html#ad6958aac6d67f595966949d1ec5ae4a0" title="Initiates a DCC CHAT." alt="" coords="395,5,491,35"/>
+<area shape="rect" id="node7" href="$dcc_8c_09_09.html#a6a8177b1b447379f2ac6371edee71a0b" title="libirc_dcc_request" alt="" coords="380,59,505,88"/>
+<area shape="rect" id="node9" href="$libircclient_8h.html#af9e8a307113cd27d08e082fda6264262" title="Sends a file via DCC." alt="" coords="385,112,500,141"/>
+</map>

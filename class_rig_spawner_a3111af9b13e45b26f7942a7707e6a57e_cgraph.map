@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_mesh_object.html#a0130316d08afecdfeccb99b7e166b9ae" title="MeshObject::setSimpleMaterialColour" alt="" coords="237,5,480,35"/>
+<area shape="rect" id="node7" href="$class_mesh_object.html#a38277070647888cc39b4d03911e44995" title="MeshObject::setMaterialFunctionMapper" alt="" coords="231,59,487,88"/>
+<area shape="rect" id="node13" href="$class_mesh_object.html#a263f9814d946dc49c8f5d4003e945f24" title="MeshObject::setCastShadows" alt="" coords="259,112,459,141"/>
+<area shape="rect" id="node15" href="$class_mesh_object.html#aa1f80776138c7c5e2d2570c3e8646c16" title="MeshObject::setMaterialName" alt="" coords="260,165,457,195"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_application.html#a608003a20ef939a79437a9da8fa76307" title="RoR::Application::GetInputEngine" alt="" coords="249,219,468,248"/>
+<area shape="rect" id="node19" href="$class_input_engine.html#a31686978ff9fe35d93d467ef33149b10" title="InputEngine::resolveEventName" alt="" coords="253,272,464,301"/>
+<area shape="rect" id="node5" href="$class_material_function_mapper.html#abee8fd1cc0b52699d3babb4b5e84b477" title="MaterialFunctionMapper::replaceSimpleMeshMaterials" alt="" coords="536,5,872,35"/>
+<area shape="rect" id="node9" href="$class_material_function_mapper.html#aab97adc6de3c318a5243a777adeaed62" title="MaterialFunctionMapper::replaceMeshMaterials" alt="" coords="556,59,852,88"/>
+<area shape="rect" id="node11" href="$class_material_replacer.html#abbda915fc5c737cfaeb832b5b1695a03" title="MaterialReplacer::replaceMeshMaterials" alt="" coords="577,112,831,141"/>
+</map>

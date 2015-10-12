@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_beam_factory.html#a1be739481d24f2f05c0620c7f176c0a3" title="BeamFactory::findTruckInsideBox" alt="" coords="296,5,515,35"/>
+<area shape="rect" id="node7" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getSingleton" alt="" coords="228,59,583,88"/>
+<area shape="rect" id="node9" href="$class_beam.html#a078999d6e513dd4830721a9b373d6925" title="Beam::reset" alt="" coords="359,112,452,141"/>
+<area shape="rect" id="node11" href="$class_beam.html#a45e5bfb79be383f661885fadbeddf105" title="Beam::resetPosition" alt="" coords="336,165,475,195"/>
+<area shape="rect" id="node17" href="$class_beam.html#a006ef9ec922c3ba72b4e53288779a548" title="Beam::updateVisual" alt="" coords="336,219,475,248"/>
+<area shape="rect" id="node5" href="$class_collisions.html#af4afe6b0f900dcf87cb6bd70e98be890" title="Collisions::isInside" alt="" coords="653,5,784,35"/>
+<area shape="rect" id="node13" href="$class_terrain_manager.html#a1d0227a71a4e114099797646ff6756b7" title="TerrainManager::getWater" alt="" coords="632,139,805,168"/>
+<area shape="rect" id="node15" href="$class_i_water.html#ad2499255884025d55a940eb24ecd8e4d" title="IWater::getHeight" alt="" coords="656,192,781,221"/>
+</map>

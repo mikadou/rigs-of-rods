@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_node.html#add4b7d66846de309086cb9ddc940c07a" title="RoR::RigEditor::Node::SetHovered" alt="" coords="325,56,552,85"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_node.html#ae6d7d38ab11beec2a6316b50d4cb0339" title="RoR::RigEditor::Node::SetSelected" alt="" coords="324,109,553,139"/>
+<area shape="rect" id="node24" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#acf591ddaa7076f04007851ad52e4c2b5" title="RoR::RigEditor::Rig::SelectedNodesUpdateAttributes" alt="" coords="272,163,605,192"/>
+<area shape="rect" id="node29" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#aa43b14b564f71ee1560874cd8854dfb2" title="RoR::RigEditor::RigElementGuiPanelBase::CallbackClick_FlagCheckboxUpdateValue" alt="" coords="176,240,701,269"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#ae27ca01538a714618f99e11d08b6f5ab" title="RoR::RigEditor::Rig::ToggleMouseHoveredNodeSelected" alt="" coords="784,5,1139,35"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a3c57ce426944230414c3b6bc6afad637" title="RoR::RigEditor::Rig::ExtrudeSelectedNodes" alt="" coords="821,59,1101,88"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_rig_editor_1_1_main.html#abe2179248ae5a8d9fc4a8ed136a18c46" title="RoR::RigEditor::Main::UpdateMainLoop" alt="" coords="1221,111,1475,140"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a8cd11f0150b5e247b6d9f00212d42b0d" title="RoR::RigEditor::Main::EnterMainLoop" alt="" coords="1523,111,1765,140"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1815,111,1964,140"/>
+<area shape="rect" id="node17" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2101,84,2152,113"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::RequestRestart" alt="" coords="2015,137,2239,167"/>
+<area shape="rect" id="node21" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="2289,137,2471,167"/>
+<area shape="rect" id="node27" href="$class_ro_r_1_1_rig_editor_1_1_main.html#aae179b2d917eadb22e6e806e5b1218c0" title="RoR::RigEditor::Main::CommandRigSelectedNodesUpdateAttributes" alt="" coords="751,213,1172,243"/>
+<area shape="rect" id="node31" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#a1dcc9e931e45af12f29ec50db1fbc8a0" title="RoR::RigEditor::RigElementGuiPanelBase::SetupFlagCheckbox" alt="" coords="764,267,1159,296"/>
+</map>

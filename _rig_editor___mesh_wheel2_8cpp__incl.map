@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_rig_editor___mesh_wheel2_8h.html" title="RigEditor_MeshWheel2.h" alt="" coords="625,237,796,267"/>
+<area shape="rect" id="node7" href="$_rig_def___file_8h.html" title="Structures which represent a rig&#45;definition file (1:1 match)" alt="" coords="468,469,569,499"/>
+<area shape="rect" id="node86" href="$_rig_editor___mesh_wheel_8h.html" title="RigEditor_MeshWheel.h" alt="" coords="439,237,601,267"/>
+<area shape="rect" id="node92" href="$_rig_editor___rig_wheels_aggregate_data_8h.html" title="RigEditor_RigWheelsAggregateData.h" alt="" coords="889,83,1135,112"/>
+<area shape="rect" id="node5" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="5,624,163,653"/>
+<area shape="rect" id="node33" href="$_rig_editor___forward_declarations_8h.html" title="RigEditor_ForwardDeclarations.h" alt="" coords="949,469,1163,499"/>
+<area shape="rect" id="node35" href="$_rig_editor___land_vehicle_wheel_8h.html" title="RigEditor_LandVehicleWheel.h" alt="" coords="420,315,623,344"/>
+<area shape="rect" id="node40" href="$_rig_editor___node_8h.html" title="RigEditor_Node.h" alt="" coords="648,392,773,421"/>
+<area shape="rect" id="node9" href="$_bit_flags_8h.html" title="BitFlags.h" alt="" coords="444,624,524,653"/>
+<area shape="rect" id="node13" href="$_rig_def___node_8h.html" title="RigDef_Node.h" alt="" coords="407,547,519,576"/>
+<area shape="rect" id="node78" href="$_rig_editor___types_8h.html" title="RigEditor_Types.h" alt="" coords="263,469,393,499"/>
+<area shape="rect" id="node44" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1520,547,1656,576"/>
+<area shape="rect" id="node67" href="$_forward_declarations_8h.html" title="Global forward declarations." alt="" coords="2091,701,2243,731"/>
+<area shape="rect" id="node69" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="2980,624,3121,653"/>
+<area shape="rect" id="node72" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1321,624,1492,653"/>
+<area shape="rect" id="node94" href="$_config_file_8h.html" title="ConfigFile.h" alt="" coords="856,547,947,576"/>
+<area shape="rect" id="node100" href="$_g_u_i___open_save_file_dialog_8h.html" title="GUI_OpenSaveFileDialog.h" alt="" coords="1288,160,1469,189"/>
+<area shape="rect" id="node121" href="$_rig_editor___i_main_8h.html" title="RigEditor_IMain.h" alt="" coords="949,160,1075,189"/>
+<area shape="rect" id="node104" href="$_dialog_8h.html" title="Dialog.h" alt="" coords="1408,237,1477,267"/>
+<area shape="rect" id="node107" href="$_base_layout_8h.html" title="BaseLayout.h" alt="" coords="1488,315,1589,344"/>
+<area shape="rect" id="node111" href="$_wraps_attribute_8h.html" title="WrapsAttribute.h" alt="" coords="1509,392,1629,421"/>
+<area shape="rect" id="node115" href="$_attribute_8h.html" title="Attribute.h" alt="" coords="1547,469,1629,499"/>
+</map>

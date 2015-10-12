@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ogre_1_1_movable_text.html#aed27a49ecadb3905afb7b5de4409d799" title="Ogre::MovableText::setFontName" alt="" coords="269,5,488,35"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_movable_text.html#a8fc0b2d13ba89695e53152ad1c435306" title="Ogre::MovableText::setTextAlignment" alt="" coords="257,59,500,88"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_movable_text.html#a88bb2321dd352795dfeff306928e48bc" title="Ogre::MovableText::showOnTop" alt="" coords="273,112,484,141"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_movable_text.html#a0562e7c4341e263ae6e9d55f91643ade" title="Ogre::MovableText::setCharacterHeight" alt="" coords="252,165,505,195"/>
+<area shape="rect" id="node11" href="$class_ogre_1_1_movable_text.html#a7ed5e440d32fee6180e6eaa7094b3f5c" title="Ogre::MovableText::setColor" alt="" coords="284,219,473,248"/>
+</map>

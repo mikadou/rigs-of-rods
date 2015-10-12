@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_menubar.html#a81d4233780f90ac4349a6e3fafab2fd3" title="RoR::GUI::RigEditorMenubar::OpenFileItemClicked" alt="" coords="400,5,723,35"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_menubar.html#a872cc90cc313d9d15146118313e493e7" title="RoR::GUI::RigEditorMenubar::CloseRigItemClicked" alt="" coords="399,59,724,88"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_menubar.html#ab1ea2f2f8550d6639bc189594c772a03" title="RoR::GUI::RigEditorMenubar::QuitEditorItemClicked" alt="" coords="397,112,725,141"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_menubar.html#afbf67c6fb8969147a0e0756f4b5605b4" title="RoR::GUI::RigEditorMenubar::RigPropertiesItemClicked" alt="" coords="387,165,736,195"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_menubar.html#a332ab9d1d1870b1624bf766d4963b967" title="RoR::GUI::RigEditorMenubar::LandVehiclePropertiesItemClicked" alt="" coords="361,219,761,248"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_menubar.html#a675cc1a635fbb6291485c8da961f89a0" title="RoR::GUI::RigEditorMenubar::SaveFileAsItemClicked" alt="" coords="392,272,731,301"/>
+<area shape="rect" id="node27" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_menubar.html#a5c79ec7ab983e35de5fff149c61364df" title="RoR::GUI::RigEditorMenubar::CreateEmptyRigItemClicked" alt="" coords="377,325,745,355"/>
+<area shape="rect" id="node31" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_menubar.html#a88354fe073fb811f7a331b3a068a7072" title="RoR::GUI::RigEditorMenubar::MenubarItemHelpClicked" alt="" coords="388,379,735,408"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_i_main.html#a48f66e32a245bba72495c479308de5b7" title="RoR::RigEditor::IMain::CommandShowDialogOpenRigFile" alt="" coords="845,5,1205,35"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_i_main.html#a0eb260f1a19003868807cec4fd6b7eb5" title="RoR::RigEditor::IMain::CommandCloseCurrentRig" alt="" coords="868,59,1183,88"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_rig_editor_1_1_i_main.html#abc449215b06691171f461257cda2b932" title="RoR::RigEditor::IMain::CommandQuitRigEditor" alt="" coords="877,112,1173,141"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_rig_editor_1_1_i_main.html#a59a8a56c5d9ee744ef39178f5f985c3d" title="RoR::RigEditor::IMain::CommandShowRigPropertiesWindow" alt="" coords="836,165,1215,195"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_rig_editor_1_1_i_main.html#ab9b0893feb5058486f5542be0b35eab2" title="RoR::RigEditor::IMain::CommandShowLandVehiclePropertiesWindow" alt="" coords="811,219,1240,248"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_rig_editor_1_1_i_main.html#ad5a251ff135475725160f55a8889dfe5" title="RoR::RigEditor::IMain::CommandShowDialogSaveRigFileAs" alt="" coords="837,272,1213,301"/>
+<area shape="rect" id="node29" href="$class_ro_r_1_1_rig_editor_1_1_i_main.html#ad44437af0c02d795882f5ee6ca182c41" title="RoR::RigEditor::IMain::CommandCreateNewEmptyRig" alt="" coords="855,325,1196,355"/>
+<area shape="rect" id="node33" href="$class_ro_r_1_1_rig_editor_1_1_i_main.html#a15f7ad10b3f070edb50d6c219fede08c" title="RoR::RigEditor::IMain::CommandShowHelpWindow" alt="" coords="863,379,1188,408"/>
+</map>

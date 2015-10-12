@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$struct_ro_r_1_1_rig_editor_1_1_rig_aggregate_shocks_data.html" title="RoR::RigEditor::RigAggregateShocksData" alt="" coords="21,5,291,35"/>
+<area shape="rect" id="node4" href="$struct_ro_r_1_1_rig_editor_1_1_rig_aggregate_commands2_data.html" title="RoR::RigEditor::RigAggregateCommands2Data" alt="" coords="7,59,305,88"/>
+<area shape="rect" id="node6" href="$struct_ro_r_1_1_rig_editor_1_1_rig_aggregate_shocks2_data.html" title="RoR::RigEditor::RigAggregateShocks2Data" alt="" coords="17,112,295,141"/>
+<area shape="rect" id="node8" href="$struct_ro_r_1_1_rig_editor_1_1_rig_aggregate_hydros_data.html" title="RoR::RigEditor::RigAggregateHydrosData" alt="" coords="23,165,289,195"/>
+<area shape="rect" id="node10" href="$struct_ro_r_1_1_rig_editor_1_1_rig_aggregate_plain_beams_data.html" title="RoR::RigEditor::RigAggregatePlainBeamsData" alt="" coords="8,219,304,248"/>
+</map>

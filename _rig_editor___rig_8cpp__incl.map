@@ -1,0 +1,28 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_rig_editor___rig_8h.html" title="RigEditor_Rig.h" alt="" coords="1384,160,1499,189"/>
+<area shape="rect" id="node9" href="$_rig_def___file_8h.html" title="Structures which represent a rig&#45;definition file (1:1 match)" alt="" coords="924,315,1025,344"/>
+<area shape="rect" id="node60" href="$_rig_editor___node_8h.html" title="RigEditor_Node.h" alt="" coords="1032,237,1157,267"/>
+<area shape="rect" id="node68" href="$_rig_editor___beam_8h.html" title="RigEditor_Beam.h" alt="" coords="3443,237,3571,267"/>
+<area shape="rect" id="node73" href="$_rig_editor___cine_camera_8h.html" title="RigEditor_CineCamera.h" alt="" coords="1928,237,2093,267"/>
+<area shape="rect" id="node78" href="$_rig_editor___camera_handler_8h.html" title="RigEditor_CameraHandler.h" alt="" coords="1720,237,1904,267"/>
+<area shape="rect" id="node85" href="$_rig_editor___config_8h.html" title="RigEditor_Config.h" alt="" coords="1432,315,1563,344"/>
+<area shape="rect" id="node88" href="$_rig_editor___flex_body_wheel_8h.html" title="RigEditor_FlexBodyWheel.h" alt="" coords="280,83,467,112"/>
+<area shape="rect" id="node107" href="$_rig_editor___highlight_boxes_dynamic_mesh_8h.html" title="RigEditor_HighlightBoxesDynamicMesh.h" alt="" coords="2755,83,3021,112"/>
+<area shape="rect" id="node112" href="$_rig_editor___main_8h.html" title="RigEditor_Main.h" alt="" coords="2872,160,2995,189"/>
+<area shape="rect" id="node126" href="$_rig_editor___mesh_wheel_8h.html" title="RigEditor_MeshWheel.h" alt="" coords="1013,83,1176,112"/>
+<area shape="rect" id="node132" href="$_rig_editor___mesh_wheel2_8h.html" title="RigEditor_MeshWheel2.h" alt="" coords="1825,83,1996,112"/>
+<area shape="rect" id="node140" href="$_rig_editor___rig_properties_8h.html" title="RigEditor_RigProperties.h" alt="" coords="2320,237,2493,267"/>
+<area shape="rect" id="node147" href="$_rig_editor___rig_elements_aggregate_data_8h.html" title="RigEditor_RigElementsAggregateData.h" alt="" coords="549,237,805,267"/>
+<area shape="rect" id="node156" href="$_rig_editor___rig_wheels_aggregate_data_8h.html" title="RigEditor_RigWheelsAggregateData.h" alt="" coords="2603,160,2848,189"/>
+<area shape="rect" id="node166" href="$_rig_editor___rig_wheel_visuals_8h.html" title="RigEditor_RigWheelVisuals.h" alt="" coords="3019,160,3213,189"/>
+<area shape="rect" id="node18" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="1488,469,1645,499"/>
+<area shape="rect" id="node35" href="$_rig_editor___forward_declarations_8h.html" title="RigEditor_ForwardDeclarations.h" alt="" coords="2920,315,3133,344"/>
+<area shape="rect" id="node37" href="$_rig_editor___types_8h.html" title="RigEditor_Types.h" alt="" coords="769,315,900,344"/>
+<area shape="rect" id="node39" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="2164,315,2300,344"/>
+<area shape="rect" id="node11" href="$_bit_flags_8h.html" title="BitFlags.h" alt="" coords="476,469,556,499"/>
+<area shape="rect" id="node15" href="$_rig_def___node_8h.html" title="RigDef_Node.h" alt="" coords="913,392,1025,421"/>
+<area shape="rect" id="node93" href="$_rig_editor___land_vehicle_wheel_8h.html" title="RigEditor_LandVehicleWheel.h" alt="" coords="272,160,475,189"/>
+<area shape="rect" id="node114" href="$_config_file_8h.html" title="ConfigFile.h" alt="" coords="3176,237,3267,267"/>
+<area shape="rect" id="node118" href="$_g_u_i___open_save_file_dialog_8h.html" title="GUI_OpenSaveFileDialog.h" alt="" coords="2971,237,3152,267"/>
+<area shape="rect" id="node121" href="$_rig_editor___i_main_8h.html" title="RigEditor_IMain.h" alt="" coords="2771,237,2896,267"/>
+</map>

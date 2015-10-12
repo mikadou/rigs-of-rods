@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ogre_1_1_canvas_1_1_context.html#a3fd864470c3dc8800914f09d054b75cf" title="Ogre::Canvas::Context::lineTo" alt="" coords="376,5,576,35"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_canvas_1_1_context.html#a400478a67cddf0d77faf4218fa965693" title="Ogre::Canvas::Context::quadraticCurveTo" alt="" coords="343,59,609,88"/>
+<area shape="rect" id="node11" href="$class_ogre_1_1_canvas_1_1_context.html#ae7a329eebfb7e59000e4ec20119f04a1" title="Ogre::Canvas::Context::bezierCurveTo" alt="" coords="351,112,601,141"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_canvas_1_1_context.html#a64ae07df1a0c1907865416dccdd3ee85" title="Ogre::Canvas::Context::lineTo" alt="" coords="693,5,893,35"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_canvas_1_1_context.html#aa5587483d4e808288f453a4100a48cb4" title="Ogre::Canvas::Context::quadraticCurveTo" alt="" coords="660,59,927,88"/>
+<area shape="rect" id="node13" href="$class_ogre_1_1_canvas_1_1_context.html#a5ad3f1892f673c6f0b6ac3324f0ea170" title="Ogre::Canvas::Context::bezierCurveTo" alt="" coords="668,112,919,141"/>
+</map>

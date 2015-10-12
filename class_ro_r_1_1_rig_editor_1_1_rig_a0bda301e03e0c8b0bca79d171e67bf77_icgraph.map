@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a202ab00e9660d370f25d6887d6653a70" title="RoR::RigEditor::Rig::DeleteSelectedNodes" alt="" coords="333,5,608,35"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#add57443c86d174f08a1dc225e5838314" title="RoR::RigEditor::Rig::DeleteNode" alt="" coords="363,59,579,88"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a1c1f2d324278f4ba5e485881cdb384f1" title="RoR::RigEditor::Main::CommandCurrentRigDeleteSelectedNodes" alt="" coords="656,5,1061,35"/>
+</map>

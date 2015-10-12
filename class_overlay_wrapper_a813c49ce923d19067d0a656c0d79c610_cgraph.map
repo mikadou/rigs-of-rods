@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_overlay_wrapper.html#a7059a60d3d3e067be79c66247298b56b" title="OverlayWrapper::mouseMoved" alt="" coords="272,325,475,355"/>
+<area shape="rect" id="node5" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getSingleton" alt="" coords="524,5,879,35"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="BeamFactory::getCurrentTruck" alt="" coords="600,59,803,88"/>
+<area shape="rect" id="node11" href="$class_aero_engine.html#a90099d51230d1a393a298eb13699b536" title="AeroEngine::setThrottle" alt="" coords="623,112,780,141"/>
+<area shape="rect" id="node13" href="$class_aero_engine.html#a2b3797238e5475e8f7d97c0fb69929ac" title="AeroEngine::flipStart" alt="" coords="631,165,772,195"/>
+<area shape="rect" id="node15" href="$class_autopilot.html#a00b1d2ca9518bc352c4062342da50a9b" title="Autopilot::toggleHeading" alt="" coords="620,219,783,248"/>
+<area shape="rect" id="node17" href="$class_autopilot.html#af1607003da33dd35dad90c347e13538b" title="Autopilot::toggleAlt" alt="" coords="636,272,767,301"/>
+<area shape="rect" id="node19" href="$class_autopilot.html#a3a42fb5df8a890d4ea80e804a88aaa7b" title="Autopilot::toggleIAS" alt="" coords="632,325,771,355"/>
+<area shape="rect" id="node21" href="$class_autopilot.html#a8703f1437b71495a93b9a601c4707e84" title="Autopilot::toggleGPWS" alt="" coords="623,379,780,408"/>
+<area shape="rect" id="node23" href="$class_beam.html#a6ed36647ce357654c04703737db3463f" title="diff lock on or off" alt="" coords="613,432,789,461"/>
+<area shape="rect" id="node25" href="$class_autopilot.html#ad9a9a33193dc7b16154902459030dfd5" title="Autopilot::adjHDG" alt="" coords="637,485,765,515"/>
+<area shape="rect" id="node27" href="$class_autopilot.html#a10647aa3ee6ebd76b41cfbd9511ab19c" title="Autopilot::adjALT" alt="" coords="640,539,763,568"/>
+<area shape="rect" id="node29" href="$class_autopilot.html#a5a59895f0bb1ffd1ac55d115d36b30b6" title="Autopilot::adjVS" alt="" coords="644,592,759,621"/>
+<area shape="rect" id="node31" href="$class_autopilot.html#a19c3d3062afa0f1c4739ac80957ef9cf" title="Autopilot::adjIAS" alt="" coords="641,645,761,675"/>
+<area shape="rect" id="node9" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="929,59,1087,88"/>
+</map>

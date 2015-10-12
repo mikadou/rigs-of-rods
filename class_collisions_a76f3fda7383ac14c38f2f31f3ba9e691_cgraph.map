@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_terrain_manager.html#a41fdd66a57990a5fb33d253213fd04e3" title="TerrainManager::getMaxTerrainSize" alt="" coords="232,5,461,35"/>
+<area shape="rect" id="node7" href="$class_collisions.html#a4d438eb211fe0953343dc39f478e14e0" title="Collisions::hash_find" alt="" coords="276,59,417,88"/>
+<area shape="rect" id="node11" href="$class_collisions.html#a169c711864e32721fb5daab7d7d01df4" title="Collisions::permitEvent" alt="" coords="268,112,425,141"/>
+<area shape="rect" id="node19" href="$class_collisions.html#afab554d00436aa9157c93a4eaecf8d74" title="Collisions::envokeScriptCallback" alt="" coords="240,165,453,195"/>
+<area shape="rect" id="node23" href="$class_collisions.html#accb10540c3aa849f57b7fd3b9da2e1c6" title="Collisions::calcCollidedSide" alt="" coords="255,219,439,248"/>
+<area shape="rect" id="node5" href="$class_terrain_geometry_manager.html#afead68b5ff7a0b77395065ab8ea855e3" title="TerrainGeometryManager::getMaxTerrainSize" alt="" coords="545,5,831,35"/>
+<area shape="rect" id="node9" href="$class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Collisions::hashfunc" alt="" coords="619,59,757,88"/>
+<area shape="rect" id="node13" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getSingleton" alt="" coords="511,112,865,141"/>
+<area shape="rect" id="node15" href="$class_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="BeamFactory::getCurrentTruck" alt="" coords="587,165,789,195"/>
+<area shape="rect" id="node17" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="916,165,1073,195"/>
+<area shape="rect" id="node21" href="$class_ro_r_singleton_no_creation.html#a5e7a47f4b2d6d0abaa3a1ea5ca1f216a" title="RoRSingletonNoCreation\&lt; ScriptEngine \&gt;::getSingleton" alt="" coords="515,219,861,248"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_d_o_f_manager.html#ab225c829d6ec9cabe426e9e9412b03ef" title="DOFManager::zoomView" alt="" coords="207,5,375,35"/>
+<area shape="rect" id="node5" href="$class_d_o_f_manager.html#a8c15f49d204390ffa9e54542e1e7f961" title="DOFManager::setZoom" alt="" coords="212,59,369,88"/>
+<area shape="rect" id="node7" href="$class_d_o_f_manager.html#acc47c3c82ae3490bdcc33afc88280d2b" title="DOFManager::setLensFOV" alt="" coords="200,112,381,141"/>
+<area shape="rect" id="node9" href="$class_d_o_f_manager.html#a7899d5f2eaa03945719f581cdf568606" title="DOFManager::frameStarted" alt="" coords="431,112,612,141"/>
+</map>

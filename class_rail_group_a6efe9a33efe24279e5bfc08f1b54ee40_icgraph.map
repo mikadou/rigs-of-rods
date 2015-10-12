@@ -1,0 +1,27 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_slide_node.html#ac667f76769572eb2a81925c8b62dad2b" title="SlideNode::getClosestRailAll" alt="" coords="404,250,593,280"/>
+<area shape="rect" id="node49" href="$class_slide_node.html#ac5fd218cba138435059c5aec3ce59393" title="SlideNode::getLenTo" alt="" coords="211,304,355,333"/>
+<area shape="rect" id="node5" href="$class_beam.html#a99d7bd308fca5408d36a597e4463a6ef" title="Beam::getClosestRailOnTruck" alt="" coords="643,198,843,228"/>
+<area shape="rect" id="node37" href="$class_slide_node.html#a3b6be868fa3b7becc403a3169d864a19" title="SlideNode::ResetPositions" alt="" coords="895,302,1073,332"/>
+<area shape="rect" id="node7" href="$class_beam.html#a7f17e89ec7dfd80a13382d1df2155bdb" title="Beam::toggleSlideNodeLock" alt="" coords="891,197,1077,226"/>
+<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::updateEvents" alt="" coords="2357,121,2576,150"/>
+<area shape="rect" id="node13" href="$class_beam_factory.html#a6eb09f405c2dc496a687caf0014800b0" title="BeamFactory::CreateLocalRigInstance" alt="" coords="1125,96,1373,125"/>
+<area shape="rect" id="node11" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="2644,121,2857,150"/>
+<area shape="rect" id="node16" href="$class_ro_r_frame_listener.html#abbab3f9d2773790f0d8567ee4434a739" title="RoRFrameListener::InitTrucks" alt="" coords="2067,41,2264,70"/>
+<area shape="rect" id="node29" href="$class_ro_r_frame_listener.html#accf1a2895ee6b67789cfaa570bfa01cb" title="RoRFrameListener::reloadCurrentTruck" alt="" coords="2040,94,2291,124"/>
+<area shape="rect" id="node32" href="$class_terrain_object_manager.html#a202d577cb222f42c46e5b6600c9626a4" title="TerrainObjectManager::loadPreloadedTrucks" alt="" coords="1421,44,1701,73"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_main_thread.html#aa3feeebda7f3f4c31a6cb96ea60c09e0" title="RoR::MainThread::SetupGameplayLoop" alt="" coords="2340,41,2593,70"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="2676,41,2825,70"/>
+<area shape="rect" id="node23" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2995,14,3045,44"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::RequestRestart" alt="" coords="2908,68,3132,97"/>
+<area shape="rect" id="node27" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="3183,68,3364,97"/>
+<area shape="rect" id="node34" href="$class_terrain_manager.html#ac666fc0221c16001186b83cd6df66691" title="TerrainManager::loadPreloadedTrucks" alt="" coords="1749,44,1992,73"/>
+<area shape="rect" id="node39" href="$class_slide_node.html#a62cf14fa6911369caf82d59fd5103baf" title="SlideNode::reset" alt="" coords="1191,302,1308,332"/>
+<area shape="rect" id="node41" href="$class_slide_node.html#a1e7f3cdbbe2d0ae1085caa1207882355" title="SlideNode::setDefaultRail" alt="" coords="1163,249,1336,278"/>
+<area shape="rect" id="node47" href="$class_slide_node.html#a48a9688174aeab0f3419520f674ee666" title="SlideNode::attachToRail" alt="" coords="1168,356,1331,385"/>
+<area shape="rect" id="node43" href="$class_rig_spawner.html#aeb9cc73a5856b289f91e6a46115a01ad" title="RigSpawner::ProcessSlidenode" alt="" coords="1459,249,1664,278"/>
+<area shape="rect" id="node45" href="$class_rig_spawner.html#a67da85dd09bd864df9dc924f6f2a7d49" title="RigSpawner::SpawnRig" alt="" coords="1791,249,1951,278"/>
+<area shape="rect" id="node53" href="$class_slide_node.html#a063d11397a4c3f276ffa060d8d391393" title="SlideNode::getClosestRail" alt="" coords="411,304,587,333"/>
+<area shape="rect" id="node58" href="$class_slide_node.html#af9d6fce867516b292cd824473314affa" title="SlideNode::getLenTo" alt="" coords="427,408,571,437"/>
+<area shape="rect" id="node55" href="$class_slide_node.html#a5e9c99e329a64b1233bd26cd2506c4ba" title="SlideNode::UpdatePosition" alt="" coords="653,302,832,332"/>
+</map>

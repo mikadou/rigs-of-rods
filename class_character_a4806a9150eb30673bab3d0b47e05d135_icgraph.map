@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_character_factory.html#a70f849028ea8a2372700fe92b44dba7b" title="CharacterFactory::updateCharacters" alt="" coords="181,5,416,35"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::updateEvents" alt="" coords="465,32,684,61"/>
+<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="735,32,948,61"/>
+</map>

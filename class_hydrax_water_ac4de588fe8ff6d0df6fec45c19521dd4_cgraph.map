@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_hydrax_1_1_hydrax.html#a02c9bf8f5576332fc836b4929e738529" title="Hydrax::Hydrax::remove" alt="" coords="245,165,411,195"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_mesh.html#a5091867b361900642f5892e56661c790" title="Hydrax::Mesh::remove" alt="" coords="517,112,672,141"/>
+<area shape="rect" id="node9" href="$class_hydrax_1_1_decals_manager.html#a9b32ab656bcf592929b2c10d25e2416b" title="Hydrax::DecalsManager::removeAll" alt="" coords="480,59,709,88"/>
+<area shape="rect" id="node11" href="$class_hydrax_1_1_material_manager.html#a93baa6272c91d1be5ec9bef054a9bb0d" title="Hydrax::MaterialManager::removeMaterials" alt="" coords="459,5,731,35"/>
+<area shape="rect" id="node19" href="$class_hydrax_1_1_rtt_manager.html#aed71ea727ed3c835d655437d1c6de232" title="Hydrax::RttManager::removeAll" alt="" coords="492,165,697,195"/>
+<area shape="rect" id="node21" href="$class_hydrax_1_1_god_rays_manager.html#ac4f9cdb2271b323d518c7bc84e3bf2da" title="Hydrax::GodRaysManager::remove" alt="" coords="481,219,708,248"/>
+<area shape="rect" id="node24" href="$class_hydrax_1_1_module_1_1_module.html#a21f60a53a99d72ff00d3fe5565518165" title="Hydrax::Module::Module::remove" alt="" coords="488,272,701,301"/>
+<area shape="rect" id="node28" href="$class_hydrax_1_1_texture_manager.html#ad6164d9f44096b59b15c92223be0752a" title="Hydrax::TextureManager::remove" alt="" coords="487,325,703,355"/>
+<area shape="rect" id="node7" href="$class_hydrax_1_1_hydrax.html#a4f6dfef270938f04d0430eaf8e1fa88f" title="Hydrax::Hydrax::getSceneManager" alt="" coords="809,165,1036,195"/>
+<area shape="rect" id="node13" href="$class_hydrax_1_1_material_manager.html#a160d27bd9ff0fac665ce5ce7c4e013e9" title="Hydrax::MaterialManager::removeCompositor" alt="" coords="780,5,1065,35"/>
+<area shape="rect" id="node15" href="$class_hydrax_1_1_material_manager.html#a61bccef34841ce9c0ce6c53ff27f136b" title="Hydrax::MaterialManager::setCompositorEnable" alt="" coords="1115,5,1416,35"/>
+<area shape="rect" id="node17" href="$class_hydrax_1_1_hydrax.html#a969555d8f856a43c4ca6c92bb0958bf1" title="Hydrax::Hydrax::getViewport" alt="" coords="1465,5,1655,35"/>
+<area shape="rect" id="node26" href="$class_hydrax_1_1_noise_1_1_noise.html#a00c4aaa7604ea492740318d01f651606" title="Hydrax::Noise::Noise::remove" alt="" coords="824,272,1021,301"/>
+</map>

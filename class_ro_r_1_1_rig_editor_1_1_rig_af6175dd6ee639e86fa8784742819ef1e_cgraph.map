@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig_building_report.html#afe05a3e8007fb87e055d731c8d58dbd7" title="RoR::RigEditor::RigBuildingReport::SetCurrentSectionName" alt="" coords="308,74,681,103"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a17da4731c9ac80ccae4a1f275173d611" title="RoR::RigEditor::Rig::GetWheelDefinitionNodes" alt="" coords="345,127,644,157"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_rig_editor_1_1_rig_building_report.html#a7567344d56b867dca08cb0dbad8dbd4e" title="RoR::RigEditor::RigBuildingReport::ClearCurrentSectionName" alt="" coords="303,181,687,210"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a7ddf6f38d4e9a8c4f36a8bc7c859538d" title="RoR::RigEditor::Rig::GetWheelAxisNodes" alt="" coords="736,74,1005,103"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a2b9836af34cbc69b9822f190abdf2bed" title="RoR::RigEditor::Rig::FindNode" alt="" coords="1065,127,1268,157"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_rig_editor_1_1_rig_building_report.html#a39c7562120900835f3c11406c5dfd082" title="RoR::RigEditor::RigBuildingReport::AddMessage" alt="" coords="1329,22,1636,51"/>
+<area shape="rect" id="node15" href="$class_rig_def_1_1_node_1_1_ref.html#a141e4a4770a737736436a3746a31f3ea" title="RigDef::Node::Ref::ToString" alt="" coords="1389,179,1576,209"/>
+<area shape="rect" id="node20" href="$class_rig_def_1_1_node_1_1_ref.html#a5912183c0dfa018a32190a5bc89b53c8" title="RigDef::Node::Ref::IsValidAnyState" alt="" coords="755,231,987,261"/>
+<area shape="rect" id="node18" href="$class_ro_r_1_1_rig_editor_1_1_node.html#aefebb9cd1a67bbb2afc980b0f8baab12" title="RoR::RigEditor::Node::GetPosition" alt="" coords="1053,74,1280,103"/>
+<area shape="rect" id="node11" href="$class_rig_def_1_1_node_1_1_ref.html#a80f06d82da5ac28617eca47baa590821" title="RigDef::Node::Ref::Str" alt="" coords="1405,126,1560,155"/>
+</map>

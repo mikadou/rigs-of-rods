@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_terrain_manager.html#a1d0227a71a4e114099797646ff6756b7" title="TerrainManager::getWater" alt="" coords="256,5,429,35"/>
+<area shape="rect" id="node5" href="$class_i_water.html#a48916b4b4fdcd2e945b391164d0a0083" title="IWater::getHeightWaves" alt="" coords="260,59,425,88"/>
+</map>

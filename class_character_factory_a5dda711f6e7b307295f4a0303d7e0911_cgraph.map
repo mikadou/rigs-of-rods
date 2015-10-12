@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_character.html#a529210827a59717cd3f7ab147a82dd94" title="Character::updateNetLabelSize" alt="" coords="263,59,465,88"/>
+<area shape="rect" id="node5" href="$class_character.html#a9068b85eab4ec7d9854f991853b43856" title="Character::getVisible" alt="" coords="571,5,715,35"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_movable_text.html#a0562e7c4341e263ae6e9d55f91643ade" title="Ogre::MovableText::setCharacterHeight" alt="" coords="516,59,769,88"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_movable_text.html#a9e93f2a29c44474bf8d3408ab6484f6c" title="Ogre::MovableText::setCaption" alt="" coords="541,112,744,141"/>
+</map>

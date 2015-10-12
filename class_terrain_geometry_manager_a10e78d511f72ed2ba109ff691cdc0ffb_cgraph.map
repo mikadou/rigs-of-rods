@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_terrain_manager.html#a967b0ddb6dfc23f993faa3bc2adb84f8" title="TerrainManager::getMainLight" alt="" coords="541,5,736,35"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_config_file.html#ae895cb90a1eaaf14ca8b11614da92f70" title="RoR::ConfigFile::GetInt" alt="" coords="559,59,719,88"/>
+<area shape="rect" id="node11" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a8c22548270433a277218f68d4fff0540" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::setLightmapEnabled" alt="" coords="1003,109,1440,139"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_config_file.html#a8f0891b0d96c8f37718f579362152de8" title="RoR::ConfigFile::GetBool" alt="" coords="553,267,724,296"/>
+<area shape="rect" id="node15" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a65fc0fcb0552dda3165055982f589243" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::setLayerNormalMappingEnabled" alt="" coords="385,320,892,349"/>
+<area shape="rect" id="node17" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a9924a1959ebf5948d49ba38f1e8e0c2b" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::setLayerSpecularMappingEnabled" alt="" coords="381,373,896,403"/>
+<area shape="rect" id="node19" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#af559c86c442834b3a8ef7528bcef5ed3" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::setLayerParallaxMappingEnabled" alt="" coords="383,427,895,456"/>
+<area shape="rect" id="node21" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#abad196e105879b545c71937693ec7aba" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::setGlobalColourMapEnabled" alt="" coords="397,480,880,509"/>
+<area shape="rect" id="node23" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a64393b0dea5d6369bffe54eb64b2402b" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::setReceiveDynamicShadowsDepth" alt="" coords="959,163,1484,192"/>
+<area shape="rect" id="node25" href="$class_terrain_manager.html#a41c27348887fdfa7c767bcbf0a2b907e" title="TerrainManager::getShadowManager" alt="" coords="521,533,756,563"/>
+<area shape="rect" id="node27" href="$class_shadow_manager.html#aaebfcba335db80b37e75fdac3518e5eb" title="ShadowManager::updateTerrainMaterial" alt="" coords="513,213,764,243"/>
+<area shape="rect" id="node37" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a7b5bdaf8f4589a465b2d2d8a9df9634d" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::getReceiveDynamicShadowsPSSM" alt="" coords="375,587,903,616"/>
+<area shape="rect" id="node39" href="$class_terrain_geometry_manager.html#ad130c4517d56ebd061d7c2d17d4308bb" title="TerrainGeometryManager::loadLayers" alt="" coords="519,640,759,669"/>
+<area shape="rect" id="node7" href="$scriptstdstring_8cpp.html#ab33d705eee9afd65e8991f82d9c71fe3" title="parseInt" alt="" coords="1187,56,1256,85"/>
+<area shape="rect" id="node9" href="$_approx_math_8h.html#ad685178dbcfdd207c7306561512e1582" title="sign" alt="" coords="1675,56,1720,85"/>
+<area shape="rect" id="node30" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a38ace1660cd14278384f1b8d8ffb20d6" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::setReceiveDynamicShadowsLowLod" alt="" coords="953,216,1489,245"/>
+<area shape="rect" id="node32" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a5ee5ddc009e4cb01c7a1fb02386edb12" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::setReceiveDynamicShadowsEnabled" alt="" coords="952,269,1491,299"/>
+<area shape="rect" id="node34" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#ab5bc01c8574779a1073f60ff7c15a45f" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::setReceiveDynamicShadowsPSSM" alt="" coords="957,323,1485,352"/>
+<area shape="rect" id="node41" href="$class_terrain_geometry_manager.html#a8ba9a7f3dd580bca8f77a3367f9a1043" title="TerrainGeometryManager::getPageConfig" alt="" coords="1091,640,1352,669"/>
+<area shape="rect" id="node43" href="$class_terrain_geometry_manager.html#ac070ae8f0fec5d49d0942a576ad2c726" title="TerrainGeometryManager::getPageConfigFilename" alt="" coords="1540,640,1855,669"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a25745a6fc559c46e191937eb9247dbc9" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::isShadowingEnabled" alt="" coords="616,5,1056,35"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a6d264d1f4074aeda8f00038961b8cb4c" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::getMaxLayers" alt="" coords="636,59,1036,88"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a51d6870df02f3d56e045c983620567f8" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::isGlobalColourMapEnabled" alt="" coords="599,112,1073,141"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a48974d5847d0359eaaa2ef05f20f6f53" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::isLightmapEnabled" alt="" coords="621,165,1051,195"/>
+<area shape="rect" id="node11" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a3d0e04f70bf9d7cd03f36ccdf0be30d5" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::isLayerNormalMappingEnabled" alt="" coords="587,219,1085,248"/>
+<area shape="rect" id="node13" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a78b5c30932676baec3a399234ab8da9a" title="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::isLayerParallaxMappingEnabled" alt="" coords="584,272,1088,301"/>
+</map>

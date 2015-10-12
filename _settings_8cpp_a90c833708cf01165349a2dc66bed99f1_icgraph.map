@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_configurator_8cpp.html#a7f043c024c49dd695741e4dc6aacc575" title="initLanguage" alt="" coords="168,5,261,35"/>
+<area shape="rect" id="node7" href="$class_my_app.html#a8ec07e9ee5f893831d05e2731b52162b" title="MyApp::checkUserPath" alt="" coords="135,59,295,88"/>
+<area shape="rect" id="node9" href="$_settings_8cpp.html#a29f0fa8b5872b6a5cbd4abdbda1759c1" title="FileExists" alt="" coords="175,112,255,141"/>
+<area shape="rect" id="node11" href="$class_settings.html#af1c188c95e0b9fe09d369a58259a9ddc" title="Settings::setupPaths" alt="" coords="143,165,287,195"/>
+<area shape="rect" id="node5" href="$class_my_app.html#a79fa75d1155f0e85e20f2869538296d6" title="MyApp::OnInit" alt="" coords="344,5,451,35"/>
+</map>

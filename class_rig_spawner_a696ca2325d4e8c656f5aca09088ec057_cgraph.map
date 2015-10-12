@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$struct_rig_def_1_1_managed_material.html#ac103fdc5fb34c014b05e4edbaa31e3e6" title="RigDef::ManagedMaterial::HasDamagedDiffuseMap" alt="" coords="301,5,627,35"/>
+<area shape="rect" id="node5" href="$struct_rig_def_1_1_managed_material.html#a0a78525bf6a3ed403ad367f851d26a34" title="RigDef::ManagedMaterial::HasSpecularMap" alt="" coords="325,59,603,88"/>
+</map>

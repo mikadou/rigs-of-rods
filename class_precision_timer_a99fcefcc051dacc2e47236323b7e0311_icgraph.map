@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_loading_profiler.html#ae3c59c3e28ed06de00a1e2981628c219" title="RoR::RigLoadingProfiler::Checkpoint" alt="" coords="216,31,453,60"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_loading_profiler.html#a1ce25890979cc7d857976ce706973717" title="RoR::RigLoadingProfiler::Report" alt="" coords="229,84,440,113"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#a6eb09f405c2dc496a687caf0014800b0" title="BeamFactory::CreateLocalRigInstance" alt="" coords="501,84,749,113"/>
+<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::updateEvents" alt="" coords="1691,56,1909,85"/>
+<area shape="rect" id="node13" href="$class_ro_r_frame_listener.html#abbab3f9d2773790f0d8567ee4434a739" title="RoRFrameListener::InitTrucks" alt="" coords="1425,109,1623,139"/>
+<area shape="rect" id="node26" href="$class_ro_r_frame_listener.html#accf1a2895ee6b67789cfaa570bfa01cb" title="RoRFrameListener::reloadCurrentTruck" alt="" coords="1125,5,1376,35"/>
+<area shape="rect" id="node29" href="$class_terrain_object_manager.html#a202d577cb222f42c46e5b6600c9626a4" title="TerrainObjectManager::loadPreloadedTrucks" alt="" coords="797,109,1077,139"/>
+<area shape="rect" id="node11" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1977,56,2191,85"/>
+<area shape="rect" id="node16" href="$class_ro_r_1_1_main_thread.html#aa3feeebda7f3f4c31a6cb96ea60c09e0" title="RoR::MainThread::SetupGameplayLoop" alt="" coords="1673,109,1927,139"/>
+<area shape="rect" id="node18" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="2009,109,2159,139"/>
+<area shape="rect" id="node20" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2328,83,2379,112"/>
+<area shape="rect" id="node22" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::RequestRestart" alt="" coords="2241,136,2465,165"/>
+<area shape="rect" id="node24" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="2516,136,2697,165"/>
+<area shape="rect" id="node31" href="$class_terrain_manager.html#ac666fc0221c16001186b83cd6df66691" title="TerrainManager::loadPreloadedTrucks" alt="" coords="1129,109,1372,139"/>
+</map>

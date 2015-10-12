@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_beam_engine.html#ae5f87426f9dc96c4f4bf377b53e9936a" title="BeamEngine::getGear" alt="" coords="356,5,505,35"/>
+<area shape="rect" id="node5" href="$class_beam_engine.html#a2a9f0148195ac8b87fd92456743f2c01" title="BeamEngine::getAcc" alt="" coords="359,59,503,88"/>
+<area shape="rect" id="node7" href="$class_beam_engine.html#a74010b85a774cb7e3bd4c494bd29e315" title="BeamEngine::setAcc" alt="" coords="359,112,503,141"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_collisions.html#a285399f2b679c1d0b649b71aa805d5f3" title="Collisions::addCollisionMesh" alt="" coords="257,85,447,115"/>
+<area shape="rect" id="node5" href="$class_terrain_object_manager.html#a45ccbf51f9c0ecac68927fed5e52eaa4" title="TerrainObjectManager::loadObjectConfigFile" alt="" coords="767,59,1044,88"/>
+<area shape="rect" id="node25" href="$class_terrain_object_manager.html#a62a108ad201e16585ab3115befedae60" title="TerrainObjectManager::loadObject" alt="" coords="497,111,716,140"/>
+<area shape="rect" id="node7" href="$class_terrain_manager.html#a4ad87b973cb6af52daaf530a5feff167" title="TerrainManager::loadTerrainObjects" alt="" coords="1093,59,1323,88"/>
+<area shape="rect" id="node9" href="$class_terrain_manager.html#a9a04c837bf2ea6528c465b27ca62f730" title="TerrainManager::loadTerrain" alt="" coords="1371,59,1555,88"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_main_thread.html#a60603be78a54ae5a24ca1c00509aca1f" title="RoR::MainThread::LoadTerrain" alt="" coords="1604,59,1804,88"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_main_thread.html#aa3feeebda7f3f4c31a6cb96ea60c09e0" title="RoR::MainThread::SetupGameplayLoop" alt="" coords="1855,32,2108,61"/>
+<area shape="rect" id="node23" href="$class_game_script.html#ac1cba3fc83facbad8281ff80d4ab0f0b" title="GameScript::loadTerrain" alt="" coords="1900,85,2063,115"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="2159,32,2308,61"/>
+<area shape="rect" id="node17" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2445,5,2496,35"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::RequestRestart" alt="" coords="2359,59,2583,88"/>
+<area shape="rect" id="node21" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="2633,59,2815,88"/>
+<area shape="rect" id="node27" href="$class_game_script.html#adc155d46516906fb9bfddde649c02ee6" title="GameScript::spawnObject" alt="" coords="819,112,992,141"/>
+</map>

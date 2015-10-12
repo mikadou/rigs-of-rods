@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_g_u_i___rig_editor_node_panel_8h.html" title="GUI_RigEditorNodePanel.h" alt="" coords="2657,83,2839,112"/>
+<area shape="rect" id="node77" href="$_rig_editor___rig_elements_aggregate_data_8h.html" title="RigEditor_RigElementsAggregateData.h" alt="" coords="532,392,788,421"/>
+<area shape="rect" id="node107" href="$_rig_editor___config_8h.html" title="RigEditor_Config.h" alt="" coords="3249,160,3380,189"/>
+<area shape="rect" id="node5" href="$_forward_declarations_8h.html" title="Global forward declarations." alt="" coords="2891,624,3043,653"/>
+<area shape="rect" id="node7" href="$_g_u_i___rig_editor_node_panel_layout_8h.html" title="GUI_RigEditorNodePanelLayout.h" alt="" coords="2564,160,2785,189"/>
+<area shape="rect" id="node59" href="$_rig_editor___forward_declarations_8h.html" title="RigEditor_ForwardDeclarations.h" alt="" coords="2716,469,2929,499"/>
+<area shape="rect" id="node61" href="$_rig_editor___rig_element_gui_panel_base_8h.html" title="RigEditor_RigElementGuiPanelBase.h" alt="" coords="2920,392,3165,421"/>
+<area shape="rect" id="node10" href="$_base_layout_8h.html" title="BaseLayout.h" alt="" coords="2073,237,2175,267"/>
+<area shape="rect" id="node12" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1849,469,1985,499"/>
+<area shape="rect" id="node52" href="$_wraps_attribute_8h.html" title="WrapsAttribute.h" alt="" coords="2015,315,2135,344"/>
+<area shape="rect" id="node39" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="2319,547,2460,576"/>
+<area shape="rect" id="node42" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="2073,547,2244,576"/>
+<area shape="rect" id="node44" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="563,624,709,653"/>
+<area shape="rect" id="node56" href="$_attribute_8h.html" title="Attribute.h" alt="" coords="1955,392,2037,421"/>
+<area shape="rect" id="node65" href="$_gui_panel_base_8h.html" title="GuiPanelBase.h" alt="" coords="3351,469,3465,499"/>
+<area shape="rect" id="node81" href="$_rig_def___file_8h.html" title="Structures which represent a rig&#45;definition file (1:1 match)" alt="" coords="265,469,367,499"/>
+<area shape="rect" id="node87" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="381,624,539,653"/>
+<area shape="rect" id="node104" href="$_rig_editor___types_8h.html" title="RigEditor_Types.h" alt="" coords="441,469,572,499"/>
+<area shape="rect" id="node84" href="$_rig_def___node_8h.html" title="RigDef_Node.h" alt="" coords="380,547,492,576"/>
+</map>

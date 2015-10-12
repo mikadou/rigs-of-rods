@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_hydrax_1_1_rtt_manager.html#a774efa00a79ade65e726ed0774d2ac2e" title="Hydrax::RttManager::initialize" alt="" coords="336,85,531,115"/>
+<area shape="rect" id="node23" href="$class_hydrax_1_1_rtt_manager.html#a360139ed63706da8ca9ec04716d65574" title="Hydrax::RttManager::remove" alt="" coords="339,139,528,168"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_hydrax.html#a4f6dfef270938f04d0430eaf8e1fa88f" title="Hydrax::Hydrax::getSceneManager" alt="" coords="609,5,836,35"/>
+<area shape="rect" id="node7" href="$class_hydrax_1_1_hydrax.html#a0e0da539fe181e84a115368e97eff0c6" title="Hydrax::Hydrax::getWaterColor" alt="" coords="620,59,825,88"/>
+<area shape="rect" id="node9" href="$class_hydrax_1_1_hydrax.html#a1532419b2859aed22a63d913c527ce21" title="Hydrax::Hydrax::_isCurrentFrameUnderwater" alt="" coords="580,112,865,141"/>
+<area shape="rect" id="node11" href="$class_hydrax_1_1_rtt_manager.html#aab5e7c56ec35030e7410e9ca01f737a1" title="Hydrax::RttManager::_initializeRtt" alt="" coords="613,165,832,195"/>
+<area shape="rect" id="node13" href="$class_hydrax_1_1_hydrax.html#a1940a144c486915885ed19026839d381" title="Hydrax::Hydrax::getMesh" alt="" coords="948,59,1119,88"/>
+<area shape="rect" id="node15" href="$class_hydrax_1_1_mesh.html#a4d55461e0da92344146340af91fab715" title="Hydrax::Mesh::getSize" alt="" coords="956,112,1111,141"/>
+<area shape="rect" id="node17" href="$class_hydrax_1_1_hydrax.html#a969555d8f856a43c4ca6c92bb0958bf1" title="Hydrax::Hydrax::getViewport" alt="" coords="939,165,1128,195"/>
+<area shape="rect" id="node19" href="$class_hydrax_1_1_rtt_manager.html#ae94c4a88b240d9b7be93aa6c1430d2b6" title="Hydrax::RttManager::getPixelFormat" alt="" coords="916,219,1151,248"/>
+<area shape="rect" id="node21" href="$class_hydrax_1_1_hydrax.html#aef185c906434b6dfb7c67a425d678287" title="Hydrax::Hydrax::getCamera" alt="" coords="940,272,1127,301"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_hydrax_1_1_hydrax.html" title="Hydrax::Hydrax" alt="" coords="1231,629,1345,659"/>
+<area shape="rect" id="node69" href="$class_hydrax_1_1_material_manager_1_1_underwater_compositor_listener.html" title="Hydrax::MaterialManager::UnderwaterCompositorListener" alt="" coords="1111,704,1465,733"/>
+<area shape="rect" id="node4" href="$class_hydrax_1_1_mesh.html" title="Hydrax::Mesh" alt="" coords="1677,404,1781,433"/>
+<area shape="rect" id="node12" href="$class_hydrax_1_1_decals_manager.html" title="Hydrax::DecalsManager" alt="" coords="1648,519,1811,548"/>
+<area shape="rect" id="node15" href="$class_hydrax_1_1_rtt_manager.html" title="Hydrax::RttManager" alt="" coords="1660,299,1799,328"/>
+<area shape="rect" id="node39" href="$class_hydrax_1_1_hydrax_1_1_device_listener.html" title="Hydrax::Hydrax::DeviceListener" alt="" coords="1625,660,1833,689"/>
+<area shape="rect" id="node47" href="$class_hydrax_1_1_g_p_u_normal_map_manager.html" title="Hydrax::GPUNormalMapManager" alt="" coords="2143,608,2361,637"/>
+<area shape="rect" id="node51" href="$class_hydrax_1_1_cfg_file_manager.html" title="Hydrax::CfgFileManager" alt="" coords="1648,792,1811,821"/>
+<area shape="rect" id="node54" href="$class_hydrax_1_1_god_rays_manager.html" title="Hydrax::GodRaysManager" alt="" coords="3047,947,3223,976"/>
+<area shape="rect" id="node66" href="$class_hydrax_1_1_texture_manager.html" title="Hydrax::TextureManager" alt="" coords="1647,875,1812,904"/>
+<area shape="rect" id="node7" href="$struct_hydrax_1_1_mesh_1_1_options.html" title="Hydrax::Mesh::Options" alt="" coords="248,367,405,396"/>
+<area shape="rect" id="node42" href="$class_hydrax_1_1_module_1_1_module.html" title="Hydrax::Module::Module" alt="" coords="699,452,861,481"/>
+<area shape="rect" id="node9" href="$struct_hydrax_1_1_size.html" title="Hydrax::Size" alt="" coords="5,233,104,263"/>
+<area shape="rect" id="node17" href="$struct_hydrax_1_1_rtt_manager_1_1_rtt_options.html" title="Hydrax::RttManager::RttOptions" alt="" coords="461,109,672,139"/>
+<area shape="rect" id="node20" href="$class_hydrax_1_1_rtt_manager_1_1_c_reflection_listener.html" title="Hydrax::RttManager::CReflectionListener" alt="" coords="2684,76,2945,105"/>
+<area shape="rect" id="node23" href="$class_hydrax_1_1_rtt_manager_1_1_c_reflection_listener_1_1_c_reflection_queue_listener.html" title="Hydrax::RttManager::CReflectionListener::CReflectionQueueListener" alt="" coords="2040,152,2464,181"/>
+<area shape="rect" id="node26" href="$class_hydrax_1_1_rtt_manager_1_1_c_refraction_listener.html" title="Hydrax::RttManager::CRefractionListener" alt="" coords="2120,377,2384,407"/>
+<area shape="rect" id="node30" href="$class_hydrax_1_1_rtt_manager_1_1_c_g_p_u_normal_map_listener.html" title="Hydrax::RttManager::CGPUNormalMapListener" alt="" coords="2103,437,2401,467"/>
+<area shape="rect" id="node33" href="$class_hydrax_1_1_rtt_manager_1_1_c_depth_listener.html" title="Hydrax::RttManager::CDepthListener" alt="" coords="2133,509,2371,539"/>
+<area shape="rect" id="node36" href="$class_hydrax_1_1_rtt_manager_1_1_c_depth_reflection_listener.html" title="Hydrax::RttManager::CDepthReflectionListener" alt="" coords="2103,205,2401,235"/>
+<area shape="rect" id="node44" href="$class_hydrax_1_1_noise_1_1_noise.html" title="Hydrax::Noise::Noise" alt="" coords="253,253,400,283"/>
+<area shape="rect" id="node56" href="$class_hydrax_1_1_noise_1_1_perlin.html" title="Hydrax::Noise::Perlin" alt="" coords="2741,348,2888,377"/>
+<area shape="rect" id="node62" href="$class_hydrax_1_1_god_rays_manager_1_1_depth_map_listener.html" title="Hydrax::GodRaysManager::DepthMapListener" alt="" coords="3395,947,3685,976"/>
+<area shape="rect" id="node59" href="$struct_hydrax_1_1_noise_1_1_perlin_1_1_options.html" title="Hydrax::Noise::Perlin::Options" alt="" coords="2152,324,2352,353"/>
+<area shape="rect" id="node72" href="$struct_hydrax_1_1_material_manager_1_1_options.html" title="Hydrax::MaterialManager::Options" alt="" coords="216,667,437,696"/>
+</map>

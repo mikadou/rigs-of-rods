@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_beam_factory.html#a7a95bf920298ca749230f6edcc274912" title="BeamFactory::updateGUI" alt="" coords="285,5,456,35"/>
+<area shape="rect" id="node5" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getSingleton" alt="" coords="505,5,860,35"/>
+</map>

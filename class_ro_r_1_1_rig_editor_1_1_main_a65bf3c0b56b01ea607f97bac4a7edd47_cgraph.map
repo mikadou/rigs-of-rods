@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#ad9eaca4efbd4e8cd82068ec443930855" title="RoR::RigEditor::Rig::SelectedShocksUpdateAttributes" alt="" coords="484,5,823,35"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a15d1827bdc42035e563fcb69452831d5" title="RoR::RigEditor::Beam::GetType" alt="" coords="1195,5,1405,35"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#ab10c0ea6119bed1d699c4b749cb27993" title="RoR::RigEditor::Beam::GetDefinitionShock" alt="" coords="872,31,1147,60"/>
+</map>

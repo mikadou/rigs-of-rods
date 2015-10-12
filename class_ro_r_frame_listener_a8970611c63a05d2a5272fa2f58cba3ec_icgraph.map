@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::updateEvents" alt="" coords="287,5,505,35"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_main_thread.html#a19637f726d0913e26e0d0548448d8c91" title="RoR::MainThread::UnloadTerrain" alt="" coords="289,59,503,88"/>
+<area shape="rect" id="node17" href="$class_game_script.html#a532f282660f5153ba1cf73a6c8642557" title="GameScript::stopTimer" alt="" coords="317,112,475,141"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="556,5,769,35"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="588,59,737,88"/>
+<area shape="rect" id="node11" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="907,32,957,61"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::RequestRestart" alt="" coords="820,85,1044,115"/>
+<area shape="rect" id="node15" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1095,85,1276,115"/>
+</map>

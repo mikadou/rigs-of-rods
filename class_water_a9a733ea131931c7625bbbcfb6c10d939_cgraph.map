@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_water.html#ae34d81740dfa630804c1285fdd6bc25b" title="Water::isCameraUnderWater" alt="" coords="252,5,441,35"/>
+<area shape="rect" id="node5" href="$class_water.html#ae0ff5f204633423eb3d8f825940b0c94" title="Water::getHeightWaves" alt="" coords="491,5,653,35"/>
+<area shape="rect" id="node7" href="$class_water.html#a0e898659c77fb2358402d0cd669301c0" title="Water::getWaveHeight" alt="" coords="701,5,856,35"/>
+</map>

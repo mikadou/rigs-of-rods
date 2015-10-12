@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_hydrax_1_1_texture_manager.html#af1277c0d5f8c9bc186bd58ca58b8c0e3" title="Hydrax::TextureManager::_updateNormalMap" alt="" coords="268,112,553,141"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_image.html#ab39de4a80c2c0bf18c7128a8de80c048" title="Hydrax::Image::getType" alt="" coords="657,5,820,35"/>
+<area shape="rect" id="node7" href="$class_hydrax_1_1_texture_manager.html#a7f15f24a8ff1372f6a1840c27aec655f" title="Hydrax::TextureManager::getTexture" alt="" coords="621,59,856,88"/>
+<area shape="rect" id="node9" href="$class_hydrax_1_1_image.html#a06a882ca6cfb5f4c65d64b820e55c384" title="Hydrax::Image::getSize" alt="" coords="659,112,819,141"/>
+<area shape="rect" id="node11" href="$class_hydrax_1_1_texture_manager.html#aba3bf13c7d3971c9cbf2b32c650d906e" title="Hydrax::TextureManager::getTextureName" alt="" coords="604,165,873,195"/>
+<area shape="rect" id="node13" href="$class_hydrax_1_1_image.html#a3e05904d8904baf193e6687c938d1d5b" title="Hydrax::Image::getValue" alt="" coords="656,219,821,248"/>
+</map>

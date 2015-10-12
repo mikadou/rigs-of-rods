@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_camera_handler.html#accabf084af16e7fd15771008bda41dae" title="RoR::RigEditor::CameraHandler::UpdateOrthoZoom" alt="" coords="429,9,755,39"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_rig_editor_1_1_camera_handler.html#af4012a17414adf6e59e59a001754b8a7" title="RoR::RigEditor::CameraHandler::InjectMouseMove" alt="" coords="804,59,1124,88"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_rig_editor_1_1_camera_handler.html#ac67188900628f482e2af0bc59f05d5e1" title="RoR::RigEditor::CameraHandler::LookInDirection" alt="" coords="809,112,1119,141"/>
+<area shape="rect" id="node26" href="$class_ro_r_1_1_rig_editor_1_1_camera_handler.html#ab5b51c84b50c30dd85a3587e8682ae89" title="RoR::RigEditor::CameraHandler::TopView" alt="" coords="457,164,727,193"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_camera_handler.html#ae7775e3b33d2606a334f7628b56c35d3" title="RoR::RigEditor::CameraHandler::ToggleOrtho" alt="" coords="820,5,1108,35"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_main.html#abe2179248ae5a8d9fc4a8ed136a18c46" title="RoR::RigEditor::Main::UpdateMainLoop" alt="" coords="1173,85,1427,115"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a8cd11f0150b5e247b6d9f00212d42b0d" title="RoR::RigEditor::Main::EnterMainLoop" alt="" coords="1475,85,1717,115"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1767,85,1916,115"/>
+<area shape="rect" id="node13" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2053,59,2104,88"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::RequestRestart" alt="" coords="1967,112,2191,141"/>
+<area shape="rect" id="node17" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="2241,112,2423,141"/>
+</map>

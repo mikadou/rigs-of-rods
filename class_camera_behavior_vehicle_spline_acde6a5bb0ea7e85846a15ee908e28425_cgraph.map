@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_camera_manager.html#acc8ca4bea6750e8ce6ce1f3710a0ce78" title="CameraManager::switchToNextBehavior" alt="" coords="317,59,576,88"/>
+<area shape="rect" id="node11" href="$class_beam.html#a39d38800d5ab3b85b305d94b2c8ea502" title="Beam::GetCameraContext" alt="" coords="900,112,1076,141"/>
+<area shape="rect" id="node15" href="$class_camera_behavior_vehicle_spline.html#a40f9e100be8f69c825f7ade503ba21ed" title="CameraBehaviorVehicleSpline::reset" alt="" coords="329,163,564,192"/>
+<area shape="rect" id="node19" href="$class_camera_behavior_vehicle_spline.html#a4c1bbdd426bd74cd545ec8314ed66c71" title="CameraBehaviorVehicleSpline::createSpline" alt="" coords="308,216,585,245"/>
+<area shape="rect" id="node5" href="$class_i_behavior.html#ac1657d6af6e9f66bd927f89ad0fd0bcb" title="IBehavior::switchBehavior" alt="" coords="656,5,829,35"/>
+<area shape="rect" id="node7" href="$class_camera_manager.html#a6f50a61b22fd1193ec25c5c2dc8f3ae3" title="CameraManager::switchBehavior" alt="" coords="636,59,849,88"/>
+<area shape="rect" id="node9" href="$class_i_behavior.html#a3d874d52e67bb562c26bf7d99ea5d62d" title="IBehavior::deactivate" alt="" coords="916,5,1060,35"/>
+<area shape="rect" id="node13" href="$class_i_behavior.html#a841cc14c0cf10b3434efd66a60d0807a" title="IBehavior::activate" alt="" coords="923,59,1053,88"/>
+<area shape="rect" id="node17" href="$class_beam.html#a304819ff3ad7dafc09f7f64e0c908d2e" title="Beam::getMinimalCameraRadius" alt="" coords="636,163,849,192"/>
+<area shape="rect" id="node21" href="$class_beam.html#a93991998d4398e5502eeb4f314e0bc50" title="Beam::getAllLinkedBeams" alt="" coords="655,216,831,245"/>
+</map>

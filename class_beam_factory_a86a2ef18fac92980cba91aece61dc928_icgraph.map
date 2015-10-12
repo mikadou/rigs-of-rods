@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_beam_factory.html#a15e7b1c2101d7e6fce4f8a19bf139ed1" title="BeamFactory::removeBeam" alt="" coords="239,44,423,73"/>
+<area shape="rect" id="node5" href="$class_beam_factory.html#a49a4ee797005fff135d8f88a085986a0" title="BeamFactory::removeTruck" alt="" coords="491,5,675,35"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#a59b66e06ec1f1d1f9adb0d299da15265" title="BeamFactory::p_removeAllTrucks" alt="" coords="473,71,692,100"/>
+<area shape="rect" id="node9" href="$class_beam_factory.html#a089236a1b1ee4dc3b6efa157a784d69c" title="BeamFactory::removeAllTrucks" alt="" coords="743,71,948,100"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_main_thread.html#a19637f726d0913e26e0d0548448d8c91" title="RoR::MainThread::UnloadTerrain" alt="" coords="999,71,1212,100"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1263,71,1412,100"/>
+<area shape="rect" id="node15" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1549,44,1600,73"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::RequestRestart" alt="" coords="1463,97,1687,127"/>
+<area shape="rect" id="node19" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1737,97,1919,127"/>
+</map>

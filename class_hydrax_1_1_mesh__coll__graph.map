@@ -1,0 +1,27 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_hydrax_1_1_hydrax.html" title="Hydrax::Hydrax" alt="" coords="979,443,1093,472"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_material_manager.html" title="Hydrax::MaterialManager" alt="" coords="1328,161,1496,191"/>
+<area shape="rect" id="node13" href="$class_hydrax_1_1_decals_manager.html" title="Hydrax::DecalsManager" alt="" coords="1331,423,1493,452"/>
+<area shape="rect" id="node16" href="$class_hydrax_1_1_rtt_manager.html" title="Hydrax::RttManager" alt="" coords="1343,579,1481,608"/>
+<area shape="rect" id="node41" href="$class_hydrax_1_1_hydrax_1_1_device_listener.html" title="Hydrax::Hydrax::DeviceListener" alt="" coords="1308,87,1516,116"/>
+<area shape="rect" id="node51" href="$class_hydrax_1_1_g_p_u_normal_map_manager.html" title="Hydrax::GPUNormalMapManager" alt="" coords="1865,887,2084,916"/>
+<area shape="rect" id="node55" href="$class_hydrax_1_1_cfg_file_manager.html" title="Hydrax::CfgFileManager" alt="" coords="1331,495,1493,524"/>
+<area shape="rect" id="node58" href="$class_hydrax_1_1_god_rays_manager.html" title="Hydrax::GodRaysManager" alt="" coords="2769,824,2945,853"/>
+<area shape="rect" id="node70" href="$class_hydrax_1_1_texture_manager.html" title="Hydrax::TextureManager" alt="" coords="1329,277,1495,307"/>
+<area shape="rect" id="node8" href="$class_hydrax_1_1_material_manager_1_1_underwater_compositor_listener.html" title="Hydrax::MaterialManager::UnderwaterCompositorListener" alt="" coords="1797,145,2152,175"/>
+<area shape="rect" id="node11" href="$struct_hydrax_1_1_material_manager_1_1_options.html" title="Hydrax::MaterialManager::Options" alt="" coords="925,17,1147,47"/>
+<area shape="rect" id="node22" href="$class_hydrax_1_1_rtt_manager_1_1_c_reflection_listener.html" title="Hydrax::RttManager::CReflectionListener" alt="" coords="2407,325,2668,355"/>
+<area shape="rect" id="node25" href="$class_hydrax_1_1_rtt_manager_1_1_c_reflection_listener_1_1_c_reflection_queue_listener.html" title="Hydrax::RttManager::CReflectionListener::CReflectionQueueListener" alt="" coords="1763,269,2187,299"/>
+<area shape="rect" id="node28" href="$class_hydrax_1_1_rtt_manager_1_1_c_refraction_listener.html" title="Hydrax::RttManager::CRefractionListener" alt="" coords="1843,453,2107,483"/>
+<area shape="rect" id="node32" href="$class_hydrax_1_1_rtt_manager_1_1_c_g_p_u_normal_map_listener.html" title="Hydrax::RttManager::CGPUNormalMapListener" alt="" coords="1825,528,2124,557"/>
+<area shape="rect" id="node35" href="$class_hydrax_1_1_rtt_manager_1_1_c_depth_listener.html" title="Hydrax::RttManager::CDepthListener" alt="" coords="1856,600,2093,629"/>
+<area shape="rect" id="node38" href="$class_hydrax_1_1_rtt_manager_1_1_c_depth_reflection_listener.html" title="Hydrax::RttManager::CDepthReflectionListener" alt="" coords="1825,708,2124,737"/>
+<area shape="rect" id="node18" href="$struct_hydrax_1_1_rtt_manager_1_1_rtt_options.html" title="Hydrax::RttManager::RttOptions" alt="" coords="397,764,608,793"/>
+<area shape="rect" id="node20" href="$struct_hydrax_1_1_size.html" title="Hydrax::Size" alt="" coords="5,717,104,747"/>
+<area shape="rect" id="node48" href="$struct_hydrax_1_1_mesh_1_1_options.html" title="Hydrax::Mesh::Options" alt="" coords="216,667,373,696"/>
+<area shape="rect" id="node44" href="$class_hydrax_1_1_module_1_1_module.html" title="Hydrax::Module::Module" alt="" coords="633,667,796,696"/>
+<area shape="rect" id="node46" href="$class_hydrax_1_1_noise_1_1_noise.html" title="Hydrax::Noise::Noise" alt="" coords="221,889,368,919"/>
+<area shape="rect" id="node60" href="$class_hydrax_1_1_noise_1_1_perlin.html" title="Hydrax::Noise::Perlin" alt="" coords="2464,916,2611,945"/>
+<area shape="rect" id="node66" href="$class_hydrax_1_1_god_rays_manager_1_1_depth_map_listener.html" title="Hydrax::GodRaysManager::DepthMapListener" alt="" coords="3117,824,3408,853"/>
+<area shape="rect" id="node63" href="$struct_hydrax_1_1_noise_1_1_perlin_1_1_options.html" title="Hydrax::Noise::Perlin::Options" alt="" coords="1875,940,2075,969"/>
+</map>

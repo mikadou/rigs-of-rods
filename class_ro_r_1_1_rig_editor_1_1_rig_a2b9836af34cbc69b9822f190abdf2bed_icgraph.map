@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a313a85e2e173bd3d0ea38e5135f68e1b" title="RoR::RigEditor::Rig::Build" alt="" coords="1216,59,1392,88"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a7ddf6f38d4e9a8c4f36a8bc7c859538d" title="RoR::RigEditor::Rig::GetWheelAxisNodes" alt="" coords="256,84,525,113"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a17da4731c9ac80ccae4a1f275173d611" title="RoR::RigEditor::Rig::GetWheelDefinitionNodes" alt="" coords="573,84,872,113"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a0ae39993d636eacc5dfe567c5f5ac4b9" title="RoR::RigEditor::Main::LoadRigDefFile" alt="" coords="1487,32,1732,61"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_rig_editor_1_1_main.html#ad136bb804b1accbfed00705895f86362" title="RoR::RigEditor::Main::CommandCreateNewEmptyRig" alt="" coords="1440,85,1779,115"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a35a10d6c23920802442d32fab1a8d470" title="RoR::RigEditor::Main::NotifyFileSelectorEnded" alt="" coords="1827,32,2123,61"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a4f73e9dc5632524ca803864460b82bb5" title="RoR::RigEditor::Main::CommandShowDialogOpenRigFile" alt="" coords="2179,5,2536,35"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_rig_editor_1_1_main.html#acb4af1361d9233f5ee2fa658536a7658" title="RoR::RigEditor::Main::CommandShowDialogSaveRigFileAs" alt="" coords="2172,59,2543,88"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#af6175dd6ee639e86fa8784742819ef1e" title="RoR::RigEditor::Rig::BuildFromModule" alt="" coords="920,84,1168,113"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_flex_body_file_i_o.html#a15b2a2c4b29760c79423048ddad75d15" title="RoR::FlexBodyFileIO::LoadFile" alt="" coords="369,219,572,248"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_flex_body_file_i_o.html#a0aef6c2ebcf56fe8c98d0dc9184b88dd" title="RoR::FlexBodyFileIO::OpenFile" alt="" coords="683,5,888,35"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_flex_body_file_i_o.html#ad7596537ce96708d989b0ca0d26cd717" title="RoR::FlexBodyFileIO::ReadAndCheckSignature" alt="" coords="635,59,936,88"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_flex_body_file_i_o.html#aa99439ff3beb0e8d11ff91b6d0fb2d04" title="RoR::FlexBodyFileIO::ReadMetadata" alt="" coords="665,112,905,141"/>
+<area shape="rect" id="node14" href="$class_ro_r_1_1_flex_body_file_i_o.html#a62dcc5c05db5f72fb2c20b86224768d3" title="RoR::FlexBodyFileIO::ReadFlexbodyHeader" alt="" coords="645,165,925,195"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_flex_body_file_i_o.html#a8873314513c65589a2cdb494a8c6d4c2" title="RoR::FlexBodyFileIO::ReadFlexbodyLocatorList" alt="" coords="635,219,936,248"/>
+<area shape="rect" id="node20" href="$class_ro_r_1_1_flex_body_file_i_o.html#a091647217070067ab169435c8cdc93ae" title="RoR::FlexBodyFileIO::ReadFlexbodyPositionsBuffer" alt="" coords="621,272,949,301"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_flex_body_file_i_o.html#a5bc76a9247fd45cddff0531ea6785ffb" title="RoR::FlexBodyFileIO::ReadFlexbodyNormalsBuffer" alt="" coords="624,325,947,355"/>
+<area shape="rect" id="node26" href="$class_ro_r_1_1_flex_body_file_i_o.html#a033e763b2abf97b328c5ab6541b62895" title="RoR::FlexBodyFileIO::ReadFlexbodyColorsBuffer" alt="" coords="629,379,941,408"/>
+<area shape="rect" id="node29" href="$class_ro_r_1_1_flex_body_file_i_o.html#a035ffcc43e13e51e124730684a72a8a4" title="RoR::FlexBodyFileIO::CloseFile" alt="" coords="680,432,891,461"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_flex_body_file_i_o.html#a22e9556b5a02b1257eeefee8211e435d" title="RoR::FlexBodyFileIO::ReadFromFile" alt="" coords="997,219,1235,248"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getSingleton" alt="" coords="199,5,553,35"/>
+<area shape="rect" id="node5" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="297,59,455,88"/>
+<area shape="rect" id="node7" href="$class_beam_engine.html#abdc4379a7db428debfe14d05972d808e" title="BeamEngine::getIdleMixture" alt="" coords="283,112,469,141"/>
+<area shape="rect" id="node11" href="$class_beam_engine.html#a8dd9a69eaf18df6ed1cc51491719e2d2" title="BeamEngine::getEnginePower" alt="" coords="871,139,1068,168"/>
+<area shape="rect" id="node17" href="$class_beam_engine.html#af3571459f6ea5650b38ced1a5ea148b4" title="BeamEngine::getPrimeMixture" alt="" coords="277,216,475,245"/>
+<area shape="rect" id="node21" href="$_approx_math_8h.html#a5459f6b6b39f9a6b80de7f17c3777ee2" title="frand" alt="" coords="351,269,401,299"/>
+<area shape="rect" id="node24" href="$class_beam_engine.html#a445dfc6189958e5bcd82d62a3c4a29c8" title="BeamEngine::stop" alt="" coords="312,323,440,352"/>
+<area shape="rect" id="node26" href="$class_beam_engine.html#a74010b85a774cb7e3bd4c494bd29e315" title="BeamEngine::setAcc" alt="" coords="897,375,1041,404"/>
+<area shape="rect" id="node28" href="$class_beam_engine.html#a4a1f822856aacd574f37d13a5ee11589" title="BeamEngine::shift" alt="" coords="648,428,776,457"/>
+<area shape="rect" id="node33" href="$class_beam_engine.html#a52ad34ee5fa555966eda7d9d0deaf5a4" title="BeamEngine::shiftTo" alt="" coords="304,477,448,507"/>
+<area shape="rect" id="node36" href="$class_beam_engine.html#a76fc148efa45e2da9f8fb7f9e21021d7" title="BeamEngine::updateAudio" alt="" coords="288,531,464,560"/>
+<area shape="rect" id="node9" href="$class_beam_engine.html#ab44a19bd64049dcd338fcf6994e27f1d" title="BeamEngine::getAccToHoldRPM" alt="" coords="604,112,820,141"/>
+<area shape="rect" id="node13" href="$class_torque_curve.html#ac086875124a09f29072f016ae3c99642" title="TorqueCurve::getEngineTorque" alt="" coords="1117,112,1320,141"/>
+<area shape="rect" id="node15" href="$class_beam_engine.html#a97f9e8ae65b27a623c9aefaba01b5a3b" title="BeamEngine::getTurboPSI" alt="" coords="1131,165,1307,195"/>
+<area shape="rect" id="node19" href="$class_beam_engine.html#a19e5f9230ce7bfe6cfd001af50be3c10" title="BeamEngine::getCrankFactor" alt="" coords="615,216,809,245"/>
+<area shape="rect" id="node30" href="$class_beam_engine.html#a7231a53b2dd66a597463fd00cbeabb1f" title="BeamEngine::getNumGears" alt="" coords="877,428,1061,457"/>
+</map>

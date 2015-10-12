@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_hydrax_1_1_god_rays_manager.html#a90ec2ead8e869ab4388641de1edeba11" title="Hydrax::GodRaysManager::update" alt="" coords="317,59,541,88"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_hydrax.html#a571ddf613078bcaae4b45c22074e53bc" title="Hydrax::Hydrax::_checkUnderwater" alt="" coords="591,59,820,88"/>
+<area shape="rect" id="node7" href="$class_hydrax_1_1_hydrax.html#aaf840e19208614533a6b344e32965ee2" title="Hydrax::Hydrax::create" alt="" coords="1131,5,1288,35"/>
+<area shape="rect" id="node13" href="$class_hydrax_1_1_hydrax.html#a8564eb97a6a5085af5d0475947af1599" title="Hydrax::Hydrax::_checkVisible" alt="" coords="869,59,1072,88"/>
+<area shape="rect" id="node20" href="$class_hydrax_1_1_hydrax.html#ac584e30a6cbfb5d8884afb182c29d36a" title="Hydrax::Hydrax::update" alt="" coords="891,112,1051,141"/>
+<area shape="rect" id="node9" href="$class_hydrax_water.html#aedfd9537f96021b60a195b2bb6a9ee2d" title="HydraxWater::InitHydrax" alt="" coords="1348,5,1513,35"/>
+<area shape="rect" id="node11" href="$class_hydrax_water.html#a20bb0db860124c8e18903f5d640f88db" title="HydraxWater::HydraxWater" alt="" coords="1563,5,1747,35"/>
+<area shape="rect" id="node16" href="$class_hydrax_1_1_hydrax.html#a2c6e89c89098c1ae2f152b0cac0ecfde" title="Hydrax::Hydrax::setVisible" alt="" coords="1120,59,1299,88"/>
+<area shape="rect" id="node18" href="$class_hydrax_water.html#a21b7f14c1cce1f562a596543dc335a4c" title="HydraxWater::setVisible" alt="" coords="1349,59,1512,88"/>
+<area shape="rect" id="node22" href="$class_hydrax_water.html#a00888728a3ac027b68807892c1ec614b" title="HydraxWater::framestep" alt="" coords="1127,112,1292,141"/>
+</map>

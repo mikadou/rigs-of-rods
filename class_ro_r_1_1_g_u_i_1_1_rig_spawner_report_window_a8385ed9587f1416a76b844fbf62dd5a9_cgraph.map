@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_rig_spawner_report_window.html#ab97bfe2264cb9cd5a8560e47a9766e93" title="RoR::GUI::RigSpawnerReportWindow::WindowButtonClicked" alt="" coords="465,5,847,35"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_gui_panel_base.html#a892310a2b92bdafbb83287b0c906b3a8" title="RoR::GuiPanelBase::Hide" alt="" coords="569,59,743,88"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_gui_manager_interface.html#a2a8e24c1aa2b5a87e39f5441c5a8280e" title="RoR::GuiManagerInterface::HideRigSpawnerReportWindow" alt="" coords="896,5,1267,35"/>
+</map>

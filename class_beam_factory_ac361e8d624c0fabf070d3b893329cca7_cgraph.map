@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="619,5,776,35"/>
+<area shape="rect" id="node5" href="$class_beam_factory.html#a71e00856377dc0d6e50e0a542b0c7f46" title="BeamFactory::recursiveActivation" alt="" coords="277,59,496,88"/>
+<area shape="rect" id="node14" href="$class_beam_factory.html#a9603710eb18f67e33a41e42d4e685028" title="BeamFactory::checkForActive" alt="" coords="288,112,485,141"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#a857d3d8b5a3ff2ff4da15d6e3e671350" title="BeamFactory::predictTruckIntersectionCollAABB" alt="" coords="544,112,851,141"/>
+<area shape="rect" id="node11" href="$class_beam.html#af9b4ba90d62be6ca00cdd101a7db6314" title="Beam::desactivate" alt="" coords="632,59,763,88"/>
+<area shape="rect" id="node9" href="$class_beam_factory.html#aef0517fa221b609b1e869c6a305f5f4e" title="BeamFactory::predictTruckIntersectionAABB" alt="" coords="900,112,1183,141"/>
+</map>

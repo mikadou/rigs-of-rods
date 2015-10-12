@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_terrain_manager.html#a1d0227a71a4e114099797646ff6756b7" title="TerrainManager::getWater" alt="" coords="245,5,419,35"/>
+<area shape="rect" id="node5" href="$class_i_water.html#a7d7819f7cf473aa8a99ddca7cbdec0bc" title="IWater::setCamera" alt="" coords="265,59,399,88"/>
+<area shape="rect" id="node7" href="$class_i_water.html#a765dee3032e94499aca869e24c321f22" title="IWater::setHeight" alt="" coords="269,112,395,141"/>
+<area shape="rect" id="node9" href="$class_i_water.html#a2fb52c8272f9e090a8a59e5a13f5ef91" title="IWater::update" alt="" coords="279,165,385,195"/>
+</map>

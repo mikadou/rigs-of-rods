@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ogre_1_1_canvas_1_1_gradient.html#a0df9ade97cc2f78a142cdb1ebcbbd207" title="Ogre::Canvas::Gradient::getShader" alt="" coords="299,32,525,61"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_canvas_1_1_context.html#aa97fa9a27e5ef17169a445dfb0c9c15d" title="Ogre::Canvas::Context::applyFillStyle" alt="" coords="584,5,827,35"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_canvas_1_1_context.html#a6330e076b925fb8bb7ab9523fd665ab8" title="Ogre::Canvas::Context::applyStrokeStyle" alt="" coords="573,59,837,88"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_canvas_1_1_context.html#a5e85b7f5891be1cdbaabc975ad32a9d5" title="Ogre::Canvas::Context::fill" alt="" coords="897,5,1076,35"/>
+<area shape="rect" id="node11" href="$class_ogre_1_1_canvas_1_1_context.html#a2b0781e7cc1cfe165ea17c6750ae1e68" title="Ogre::Canvas::Context::stroke" alt="" coords="887,59,1087,88"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_c_script_handle.html#aec44fc0b84f4e9f85d733581c68f2d8c" title="CScriptHandle::opAssign" alt="" coords="255,32,423,61"/>
+<area shape="rect" id="node5" href="$class_c_script_handle.html#adc970bede7a56d5375ef9c984259cd69" title="CScriptHandle::ReleaseHandle" alt="" coords="473,5,676,35"/>
+<area shape="rect" id="node7" href="$class_c_script_handle.html#abf6ba97d329f49ce21cfffcd194a496a" title="CScriptHandle::AddRefHandle" alt="" coords="475,59,675,88"/>
+</map>

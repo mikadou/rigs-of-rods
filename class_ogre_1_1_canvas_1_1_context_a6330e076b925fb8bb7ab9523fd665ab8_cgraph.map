@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ogre_1_1_canvas_1_1_context.html#a082ff2e97331fd49e6e98bf1f192d223" title="Ogre::Canvas::Context::getCurrentState" alt="" coords="319,5,575,35"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_canvas_1_1_gradient.html#a0df9ade97cc2f78a142cdb1ebcbbd207" title="Ogre::Canvas::Gradient::getShader" alt="" coords="333,59,560,88"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_canvas_1_1_pattern.html#ab442d47a11da8d52a1f4e774281a2aeb" title="Ogre::Canvas::Pattern::getShader" alt="" coords="337,112,556,141"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_canvas_1_1_gradient.html#a9163624232bae63824af60b9ec2ee820" title="Ogre::Canvas::Gradient::createShader" alt="" coords="624,59,869,88"/>
+</map>

@@ -1,0 +1,42 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_rig_editor___main_8h.html" title="RigEditor_Main.h" alt="" coords="1961,160,2084,189"/>
+<area shape="rect" id="node20" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="3433,392,3575,421"/>
+<area shape="rect" id="node23" href="$_application_8h.html" title="Central object manager and communications hub." alt="" coords="3640,160,3736,189"/>
+<area shape="rect" id="node26" href="$_settings_8h.html" title="Settings.h" alt="" coords="3792,237,3872,267"/>
+<area shape="rect" id="node29" href="$_cache_system_8h.html" title="Caches information about installed mods (vehicles, terrains...)" alt="" coords="3777,83,3892,112"/>
+<area shape="rect" id="node35" href="$_g_u_i___rig_editor_beams_panel_8h.html" title="GUI_RigEditorBeamsPanel.h" alt="" coords="1004,160,1196,189"/>
+<area shape="rect" id="node40" href="$_rig_editor___rig_elements_aggregate_data_8h.html" title="RigEditor_RigElementsAggregateData.h" alt="" coords="1325,237,1581,267"/>
+<area shape="rect" id="node45" href="$_g_u_i___rig_editor_commands2_panel_8h.html" title="GUI_RigEditorCommands2Panel.h" alt="" coords="487,160,711,189"/>
+<area shape="rect" id="node50" href="$_g_u_i___rig_editor_delete_menu_8h.html" title="GUI_RigEditorDeleteMenu.h" alt="" coords="2732,160,2919,189"/>
+<area shape="rect" id="node54" href="$_g_u_i___rig_editor_flex_body_wheels_panel_8h.html" title="GUI_RigEditorFlexBodyWheelsPanel.h" alt="" coords="1588,83,1839,112"/>
+<area shape="rect" id="node59" href="$_rig_editor___rig_wheels_aggregate_data_8h.html" title="RigEditor_RigWheelsAggregateData.h" alt="" coords="1591,160,1836,189"/>
+<area shape="rect" id="node67" href="$_g_u_i___rig_editor_help_window_8h.html" title="GUI_RigEditorHelpWindow.h" alt="" coords="2943,160,3135,189"/>
+<area shape="rect" id="node71" href="$_g_u_i___rig_editor_hydros_panel_8h.html" title="GUI_RigEditorHydrosPanel.h" alt="" coords="1321,160,1513,189"/>
+<area shape="rect" id="node77" href="$_g_u_i___rig_editor_land_vehicle_properties_window_8h.html" title="GUI_RigEditorLandVehiclePropertiesWindow.h" alt="" coords="296,237,589,267"/>
+<area shape="rect" id="node82" href="$_g_u_i___rig_editor_menubar_8h.html" title="GUI_RigEditorMenubar.h" alt="" coords="2540,160,2708,189"/>
+<area shape="rect" id="node87" href="$_g_u_i___rig_editor_mesh_wheels2_panel_8h.html" title="GUI_RigEditorMeshWheels2Panel.h" alt="" coords="1863,83,2097,112"/>
+<area shape="rect" id="node93" href="$_g_u_i___rig_editor_node_panel_8h.html" title="GUI_RigEditorNodePanel.h" alt="" coords="2108,160,2289,189"/>
+<area shape="rect" id="node98" href="$_g_u_i___rig_editor_rig_properties_window_8h.html" title="GUI_RigEditorRigPropertiesWindow.h" alt="" coords="613,237,856,267"/>
+<area shape="rect" id="node103" href="$_g_u_i___rig_editor_shocks_panel_8h.html" title="GUI_RigEditorShocksPanel.h" alt="" coords="785,160,980,189"/>
+<area shape="rect" id="node109" href="$_g_u_i___rig_editor_shocks2_panel_8h.html" title="GUI_RigEditorShocks2Panel.h" alt="" coords="2313,160,2516,189"/>
+<area shape="rect" id="node115" href="$_g_u_i_manager_8h.html" title="GUIManager.h" alt="" coords="3947,237,4053,267"/>
+<area shape="rect" id="node118" href="$_input_engine_8h.html" title="Input logic." alt="" coords="4017,83,4119,112"/>
+<area shape="rect" id="node123" href="$_main_thread_8h.html" title="Main thread logic. Manages startup and shutdown etc..." alt="" coords="3551,83,3652,112"/>
+<area shape="rect" id="node128" href="$_ogre_subsystem_8h.html" title="OGRE engine wrapper." alt="" coords="3541,237,3667,267"/>
+<area shape="rect" id="node131" href="$_rig_def___parser_8h.html" title="RigDef_Parser.h" alt="" coords="1133,237,1251,267"/>
+<area shape="rect" id="node134" href="$_rig_def___serializer_8h.html" title="RigDef_Serializer.h" alt="" coords="4385,83,4519,112"/>
+<area shape="rect" id="node136" href="$_rig_def___validator_8h.html" title=".truck format validator" alt="" coords="4543,83,4673,112"/>
+<area shape="rect" id="node138" href="$_rig_editor___camera_handler_8h.html" title="RigEditor_CameraHandler.h" alt="" coords="3283,237,3467,267"/>
+<area shape="rect" id="node142" href="$_rig_editor___config_8h.html" title="RigEditor_Config.h" alt="" coords="4697,83,4828,112"/>
+<area shape="rect" id="node144" href="$_rig_editor___input_handler_8h.html" title="RigEditor_InputHandler.h" alt="" coords="4143,83,4311,112"/>
+<area shape="rect" id="node147" href="$_rig_editor___node_8h.html" title="RigEditor_Node.h" alt="" coords="2835,237,2960,267"/>
+<area shape="rect" id="node152" href="$_rig_editor___rig_8h.html" title="RigEditor_Rig.h" alt="" coords="3260,160,3375,189"/>
+<area shape="rect" id="node158" href="$_rig_editor___rig_properties_8h.html" title="RigEditor_RigProperties.h" alt="" coords="3035,237,3208,267"/>
+<area shape="rect" id="node5" href="$_config_file_8h.html" title="ConfigFile.h" alt="" coords="1963,237,2053,267"/>
+<area shape="rect" id="node7" href="$_g_u_i___open_save_file_dialog_8h.html" title="GUI_OpenSaveFileDialog.h" alt="" coords="1757,237,1939,267"/>
+<area shape="rect" id="node9" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="2007,315,2164,344"/>
+<area shape="rect" id="node11" href="$_rig_editor___i_main_8h.html" title="RigEditor_IMain.h" alt="" coords="2077,237,2203,267"/>
+<area shape="rect" id="node13" href="$_rig_editor___forward_declarations_8h.html" title="RigEditor_ForwardDeclarations.h" alt="" coords="1512,315,1725,344"/>
+<area shape="rect" id="node16" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="3436,315,3572,344"/>
+<area shape="rect" id="node18" href="$_forward_declarations_8h.html" title="Global forward declarations." alt="" coords="659,469,811,499"/>
+</map>

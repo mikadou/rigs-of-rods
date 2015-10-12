@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_terrain_object_manager_8cpp.html#ab40142c48f4c5880d436b03abc7e6f26" title="removeCollisionBox" alt="" coords="256,5,395,35"/>
+<area shape="rect" id="node5" href="$class_terrain_object_manager.html#a810b822abfbab9dd498a884f1787512c" title="TerrainObjectManager::unloadObject" alt="" coords="443,5,677,35"/>
+<area shape="rect" id="node7" href="$class_game_script.html#ac9ef8b95e5fd759b73ef414e9ae9a6a8" title="GameScript::destroyObject" alt="" coords="727,5,905,35"/>
+</map>

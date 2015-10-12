@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_ro_r_prerequisites_8h.html" title="source/main/RoRPrerequisites.h" alt="" coords="5629,83,5840,112"/>
+<area shape="rect" id="node5" href="$_application_8h.html" title="Central object manager and communications hub." alt="" coords="5,160,176,189"/>
+<area shape="rect" id="node7" href="$beam__t_8h.html" title="source/main/datatypes/beam_t.h" alt="" coords="200,160,411,189"/>
+<area shape="rect" id="node9" href="$rig__t_8h.html" title="source/main/datatypes/rig_t.h" alt="" coords="435,160,629,189"/>
+<area shape="rect" id="node11" href="$wheel__t_8h.html" title="source/main/datatypes/wheel_t.h" alt="" coords="653,160,867,189"/>
+<area shape="rect" id="node13" href="$_auto_pilot_8h.html" title="source/main/gameplay/AutoPilot.h" alt="" coords="891,160,1112,189"/>
+<area shape="rect" id="node15" href="$_beam_engine_8h.html" title="source/main/gameplay/BeamEngine.h" alt="" coords="1136,160,1379,189"/>
+<area shape="rect" id="node17" href="$_torque_curve_8h.html" title="torquecurve loader." alt="" coords="1403,160,1645,189"/>
+<area shape="rect" id="node19" href="$_character_8h.html" title="source/main/gameplay/Character.h" alt="" coords="1720,160,1944,189"/>
+<area shape="rect" id="node21" href="$_character_factory_8h.html" title="source/main/gameplay/CharacterFactory.h" alt="" coords="1623,237,1892,267"/>
+<area shape="rect" id="node23" href="$_player_colours_8h.html" title="source/main/gameplay/PlayerColours.h" alt="" coords="1968,160,2219,189"/>
+<area shape="rect" id="node26" href="$_chat_system_8h.html" title="source/main/gameplay/ChatSystem.h" alt="" coords="2243,160,2483,189"/>
+<area shape="rect" id="node28" href="$_landusemap_8h.html" title="source/main/gameplay/Landusemap.h" alt="" coords="2507,160,2749,189"/>
+<area shape="rect" id="node30" href="$_material_replacer_8h.html" title="source/main/gameplay/MaterialReplacer.h" alt="" coords="2773,160,3040,189"/>
+<area shape="rect" id="node32" href="$_out_protocol_8h.html" title="source/main/gameplay/OutProtocol.h" alt="" coords="3064,160,3301,189"/>
+<area shape="rect" id="node34" href="$_position_storage_8h.html" title="source/main/gameplay/PositionStorage.h" alt="" coords="3325,160,3584,189"/>
+<area shape="rect" id="node36" href="$_procedural_manager_8h.html" title="source/main/gameplay/ProceduralManager.h" alt="" coords="3608,160,3888,189"/>
+<area shape="rect" id="node38" href="$_road2_8h.html" title="source/main/gameplay/Road2.h" alt="" coords="3912,160,4117,189"/>
+<area shape="rect" id="node40" href="$_random_tree_loader_8h.html" title="source/main/gameplay/RandomTreeLoader.h" alt="" coords="4141,160,4424,189"/>
+<area shape="rect" id="node42" href="$_replay_8h.html" title="source/main/gameplay/Replay.h" alt="" coords="4448,160,4656,189"/>
+<area shape="rect" id="node44" href="$_road_8h.html" title="source/main/gameplay/Road.h" alt="" coords="4680,160,4877,189"/>
+<area shape="rect" id="node46" href="$_ro_r_frame_listener_8h.html" title="source/main/gameplay/RoRFrameListener.h" alt="" coords="4901,160,5179,189"/>
+<area shape="rect" id="node48" href="$_scene_mouse_8h.html" title="Mouse interaction with 3D scene." alt="" coords="5203,160,5445,189"/>
+<area shape="rect" id="node50" href="$_skin_8h.html" title="source/main/gameplay/Skin.h" alt="" coords="5520,160,5715,189"/>
+<area shape="rect" id="node52" href="$_skin_manager_8h.html" title="source/main/gameplay/SkinManager.h" alt="" coords="5280,237,5523,267"/>
+<area shape="rect" id="node55" href="$_advanced_screen_8h.html" title="source/main/gfx/AdvancedScreen.h" alt="" coords="5739,160,5968,189"/>
+<area shape="rect" id="node57" href="$_camera_behavior_character_8h.html" title="source/main/gfx/camera/CameraBehaviorCharacter.h" alt="" coords="5773,315,6104,344"/>
+<area shape="rect" id="node59" href="$_camera_behavior_orbit_8h.html" title="source/main/gfx/camera/CameraBehaviorOrbit.h" alt="" coords="5979,237,6280,267"/>
+<area shape="rect" id="node62" href="$_camera_behavior_vehicle_8h.html" title="source/main/gfx/camera/CameraBehaviorVehicle.h" alt="" coords="6581,315,6899,344"/>
+<area shape="rect" id="node64" href="$_camera_behavior_vehicle_cine_cam_8h.html" title="source/main/gfx/camera/CameraBehaviorVehicleCineCam.h" alt="" coords="6132,392,6503,421"/>
+<area shape="rect" id="node66" href="$_camera_behavior_vehicle_spline_8h.html" title="source/main/gfx/camera/CameraBehaviorVehicleSpline.h" alt="" coords="6789,392,7141,421"/>
+<area shape="rect" id="node68" href="$_camera_manager_8h.html" title="source/main/gfx/camera/CameraManager.h" alt="" coords="6195,160,6467,189"/>
+<area shape="rect" id="node71" href="$_camera_behavior_fixed_8h.html" title="source/main/gfx/camera/CameraBehaviorFixed.h" alt="" coords="5648,237,5955,267"/>
+<area shape="rect" id="node73" href="$_camera_behavior_free_8h.html" title="source/main/gfx/camera/CameraBehaviorFree.h" alt="" coords="6355,237,6653,267"/>
+<area shape="rect" id="node75" href="$_camera_behavior_isometric_8h.html" title="source/main/gfx/camera/CameraBehaviorIsometric.h" alt="" coords="6677,237,7005,267"/>
+<area shape="rect" id="node77" href="$_camera_behavior_static_8h.html" title="source/main/gfx/camera/CameraBehaviorStatic.h" alt="" coords="7029,237,7336,267"/>
+<area shape="rect" id="node87" href="$_colored_text_area_overlay_element_8h.html" title="source/main/gfx/ColoredTextAreaOverlayElement.h" alt="" coords="6795,160,7115,189"/>
+<area shape="rect" id="node89" href="$_colored_text_area_overlay_element_factory_8h.html" title="source/main/gfx/ColoredTextAreaOverlayElementFactory.h" alt="" coords="7461,237,7827,267"/>
+<area shape="rect" id="node92" href="$_decal_manager_8h.html" title="source/main/gfx/DecalManager.h" alt="" coords="7139,160,7352,189"/>
+<area shape="rect" id="node94" href="$_depth_of_field_effect_8h.html" title="source/main/gfx/dof/DepthOfFieldEffect.h" alt="" coords="7376,160,7640,189"/>
+<area shape="rect" id="node96" href="$_lens_8h.html" title="source/main/gfx/dof/Lens.h" alt="" coords="7664,160,7843,189"/>
+<area shape="rect" id="node98" href="$_dust_manager_8h.html" title="source/main/gfx/DustManager.h" alt="" coords="7867,160,8075,189"/>
+<area shape="rect" id="node100" href="$_dust_pool_8h.html" title="source/main/gfx/DustPool.h" alt="" coords="8113,237,8297,267"/>
+<area shape="rect" id="node102" href="$_dust_pool_8cpp.html" title="source/main/gfx/DustPool.cpp" alt="" coords="8107,315,8304,344"/>
+<area shape="rect" id="node105" href="$_water_8h.html" title="source/main/gfx/Water.h" alt="" coords="8321,237,8487,267"/>
+<area shape="rect" id="node108" href="$_i_water_8h.html" title="source/main/gfx/IWater.h" alt="" coords="8251,160,8419,189"/>
+<area shape="rect" id="node111" href="$_dynamic_lines_8h.html" title="source/main/gfx/DynamicLines.h" alt="" coords="8511,237,8724,267"/>
+<area shape="rect" id="node113" href="$_dynamic_renderable_8h.html" title="source/main/gfx/DynamicRenderable.h" alt="" coords="8493,160,8741,189"/>
+<area shape="rect" id="node116" href="$_environment_map_8h.html" title="source/main/gfx/EnvironmentMap.h" alt="" coords="8765,160,8992,189"/>
+</map>

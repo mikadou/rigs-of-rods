@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_gui_popup_dynamic_list_base.html#a9a465c6f980548bc1d0df67fdfdfec48" title="RoR::RigEditor::GuiPopupDynamicListBase::OnSelectAllMouseClicked" alt="" coords="511,5,948,35"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_gui_popup_dynamic_list_base.html#ada8b6cb6374c07526ebfc076555d4f96" title="RoR::RigEditor::GuiPopupDynamicListBase::OnDeselectAllMouseClicked" alt="" coords="503,59,956,88"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_gui_popup_dynamic_list_base.html#af81f96e22b0b70855e67f9450cb27c54" title="RoR::RigEditor::GuiPopupDynamicListBase::OnItemMouseClicked" alt="" coords="523,112,936,141"/>
+</map>

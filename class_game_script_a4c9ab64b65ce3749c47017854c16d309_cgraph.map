@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getSingleton" alt="" coords="265,5,620,35"/>
+<area shape="rect" id="node5" href="$class_beam_factory.html#a36cdabb2cae397b3ecb2a8cf2b19373f" title="BeamFactory::activateAllTrucks" alt="" coords="339,59,547,88"/>
+<area shape="rect" id="node7" href="$class_beam.html#af9b4ba90d62be6ca00cdd101a7db6314" title="Beam::desactivate" alt="" coords="684,32,815,61"/>
+<area shape="rect" id="node9" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="671,85,828,115"/>
+</map>

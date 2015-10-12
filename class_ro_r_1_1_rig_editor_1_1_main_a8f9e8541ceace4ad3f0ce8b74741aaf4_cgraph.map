@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a793f76a955eb9502b4b27aa3a7518faa" title="RoR::RigEditor::Rig::SelectedHydrosUpdateAttributes" alt="" coords="480,350,819,379"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a15d1827bdc42035e563fcb69452831d5" title="RoR::RigEditor::Beam::GetType" alt="" coords="1187,31,1397,61"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a76704c4437e3a462e9e5123e79acb80e" title="RoR::RigEditor::Beam::GetDefinitionHydro" alt="" coords="867,57,1139,86"/>
+<area shape="rect" id="node10" href="$struct_rig_def_1_1_hydro.html#a7244bc4008558ae4ebb1edf8fb4b8a23" title="RigDef::Hydro::HasFlag_a" alt="" coords="915,110,1091,139"/>
+<area shape="rect" id="node12" href="$struct_rig_def_1_1_hydro.html#aa3dcc174c360de743f86fde604bbfa17" title="RigDef::Hydro::AddFlag" alt="" coords="921,163,1084,193"/>
+<area shape="rect" id="node14" href="$struct_rig_def_1_1_hydro.html#afa6593a8c8eb67887eb66b30ffe4a2e4" title="RigDef::Hydro::HasFlag_e" alt="" coords="915,217,1091,246"/>
+<area shape="rect" id="node16" href="$struct_rig_def_1_1_hydro.html#a5b1dde75592eac59c0f5fc455e87db52" title="RigDef::Hydro::HasFlag_g" alt="" coords="915,270,1091,299"/>
+<area shape="rect" id="node18" href="$struct_rig_def_1_1_hydro.html#a6775a793a1a67dce84d1c951e8111b95" title="RigDef::Hydro::HasFlag_h" alt="" coords="915,323,1091,353"/>
+<area shape="rect" id="node20" href="$struct_rig_def_1_1_hydro.html#a5b0bcbf9945209a251edd5eeb549a402" title="RigDef::Hydro::HasFlag_i" alt="" coords="916,377,1089,406"/>
+<area shape="rect" id="node22" href="$struct_rig_def_1_1_hydro.html#a91a70fcc0a5b028cbf04825a2ef9badf" title="RigDef::Hydro::HasFlag_r" alt="" coords="916,430,1089,459"/>
+<area shape="rect" id="node24" href="$struct_rig_def_1_1_hydro.html#a15853e65f4dd1dd6f2a3eb38b7c59d5d" title="RigDef::Hydro::HasFlag_s" alt="" coords="915,483,1091,513"/>
+<area shape="rect" id="node26" href="$struct_rig_def_1_1_hydro.html#a40f68cdba4ca1817979ca5adeb576680" title="RigDef::Hydro::HasFlag_u" alt="" coords="915,537,1091,566"/>
+<area shape="rect" id="node28" href="$struct_rig_def_1_1_hydro.html#a06052ae86fe3ecf9b34734c6f31b42e3" title="RigDef::Hydro::HasFlag_v" alt="" coords="915,590,1091,619"/>
+<area shape="rect" id="node30" href="$struct_rig_def_1_1_hydro.html#af2ef9fabfdfc67cd0ffab9b8f98b3f45" title="RigDef::Hydro::HasFlag_x" alt="" coords="915,643,1091,673"/>
+<area shape="rect" id="node32" href="$struct_rig_def_1_1_hydro.html#ac763a90cb150afc1365babd733d399f4" title="RigDef::Hydro::HasFlag_y" alt="" coords="915,697,1091,726"/>
+</map>

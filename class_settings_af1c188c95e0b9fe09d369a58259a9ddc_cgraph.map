@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_settings.html#a2224a2a47e4247288a09564bed4587cb" title="Settings::get_system_paths" alt="" coords="199,149,383,178"/>
+<area shape="rect" id="node5" href="$struct_error_utils.html#aec73b03c7829838888bbecf9acda1b98" title="ErrorUtils::ShowError" alt="" coords="695,109,841,138"/>
+<area shape="rect" id="node9" href="$class_settings.html#aeb5cf48c51a3d6834b2cb59ba93cb82e" title="Settings::path_descend" alt="" coords="452,58,609,88"/>
+<area shape="rect" id="node15" href="$_settings_8cpp.html#ae4c1dc836720e665da1d7480bc2523bc" title="FolderExists" alt="" coords="244,342,337,372"/>
+<area shape="rect" id="node17" href="$class_settings.html#a5c70d6a3a73920c9a997d714157ce0ce" title="Settings::path_add" alt="" coords="225,396,356,425"/>
+<area shape="rect" id="node21" href="$namespace_profiler.html#af79bb59414ef3ba134213bb6f2f2d292" title="Profiler::exit" alt="" coords="245,449,336,478"/>
+<area shape="rect" id="node23" href="$_settings_8cpp.html#a90c833708cf01165349a2dc66bed99f1" title="FileExists" alt="" coords="251,502,331,532"/>
+<area shape="rect" id="node25" href="$class_settings.html#a3610937cea22837c48e59a1c9493f295" title="Settings::loadSettings" alt="" coords="216,289,365,318"/>
+<area shape="rect" id="node11" href="$class_settings.html#ad15bfc8dd02c5b7f32fb5bfe6f3691f2" title="Settings::getSetting" alt="" coords="1156,289,1292,318"/>
+<area shape="rect" id="node7" href="$struct_error_utils.html#a3250a36825c8b55b26d1565addb7e922" title="ErrorUtils::ShowMsgBox" alt="" coords="916,109,1081,138"/>
+<area shape="rect" id="node13" href="$class_settings.html#ac3316b04a9c006e1b3339a336ea3bd94" title="Settings::setSetting" alt="" coords="1359,328,1495,357"/>
+<area shape="rect" id="node27" href="$class_settings.html#a67ce273a5ea909d27e836ed5c829cc0d" title="Settings::checkGUID" alt="" coords="457,289,604,318"/>
+<area shape="rect" id="node36" href="$class_settings.html#a0e00f210206210143d8624f2ee9b4bfd" title="Settings::generateBinaryHash" alt="" coords="433,393,628,422"/>
+<area shape="rect" id="node41" href="$class_ro_r_1_1_c_s_h_a1.html#a405de4baf54dcb38af5903e01221454e" title="RoR::CSHA1::UpdateHash" alt="" coords="908,524,1089,553"/>
+<area shape="rect" id="node45" href="$class_ro_r_1_1_c_s_h_a1.html#afbdaab3f2a2946d26a6144af3fec5fd8" title="RoR::CSHA1::Final" alt="" coords="699,576,837,605"/>
+<area shape="rect" id="node49" href="$class_ro_r_1_1_c_s_h_a1.html#a22ddf4fbd88ea7a76638104a56bb7c30" title="RoR::CSHA1::ReportHash" alt="" coords="679,472,857,501"/>
+<area shape="rect" id="node30" href="$class_settings.html#a1d75b7014ae8afb02730c3695710d34b" title="Settings::createGUID" alt="" coords="695,314,841,344"/>
+<area shape="rect" id="node33" href="$class_settings.html#a4c5d90390125e939d5e6299340e586a1" title="Settings::saveSettings" alt="" coords="921,314,1076,344"/>
+<area shape="rect" id="node39" href="$class_ro_r_1_1_c_s_h_a1.html#a0b0eef50cf60a9321a39d9478dd2de11" title="RoR::CSHA1::HashFile" alt="" coords="687,418,849,448"/>
+<area shape="rect" id="node43" href="$class_ro_r_1_1_c_s_h_a1.html#a6f39460fa47c489724d2325cf071520b" title="RoR::CSHA1::Transform" alt="" coords="1140,549,1308,578"/>
+</map>

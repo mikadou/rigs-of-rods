@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_camera_behavior_vehicle.html" title="CameraBehaviorVehicle" alt="" coords="1317,27,1480,56"/>
+<area shape="rect" id="node4" href="$class_camera_behavior_orbit.html" title="CameraBehaviorOrbit" alt="" coords="904,25,1051,55"/>
+<area shape="rect" id="node6" href="$class_i_behavior.html" title="IBehavior\&lt; CameraManager::CameraContext \&gt;" alt="" coords="455,25,751,55"/>
+<area shape="rect" id="node8" href="$class_zeroed_memory_allocator.html" title="ZeroedMemoryAllocator" alt="" coords="5,941,165,971"/>
+<area shape="rect" id="node14" href="$class_i_manager.html" title="IManager" alt="" coords="285,76,360,105"/>
+<area shape="rect" id="node17" href="$class_i_behavior.html" title="IBehavior\&lt; CameraContext \&gt;" alt="" coords="507,128,699,157"/>
+<area shape="rect" id="node22" href="$class_d_o_f_manager.html" title="DOFManager" alt="" coords="779,217,877,247"/>
+<area shape="rect" id="node25" href="$class_lens.html" title="Lens" alt="" coords="297,284,348,313"/>
+<area shape="rect" id="node28" href="$class_depth_of_field_effect.html" title="DepthOfFieldEffect" alt="" coords="256,180,389,209"/>
+<area shape="rect" id="node33" href="$class_i_thread_task.html" title="IThreadTask" alt="" coords="276,388,369,417"/>
+<area shape="rect" id="node40" href="$class_buoyance.html" title="Buoyance" alt="" coords="788,1349,868,1379"/>
+<area shape="rect" id="node43" href="$class_dust_pool.html" title="DustPool" alt="" coords="285,1140,360,1169"/>
+<area shape="rect" id="node58" href="$class_autopilot.html" title="Autopilot" alt="" coords="1148,1297,1220,1327"/>
+<area shape="rect" id="node73" href="$class_airfoil.html" title="Airfoil" alt="" coords="576,1421,629,1451"/>
+<area shape="rect" id="node76" href="$class_airbrake.html" title="Airbrake" alt="" coords="1149,1035,1219,1064"/>
+<area shape="rect" id="node87" href="$class_material_replacer.html" title="MaterialReplacer" alt="" coords="917,1491,1037,1520"/>
+<area shape="rect" id="node90" href="$class_flex_obj.html" title="FlexObj" alt="" coords="1151,863,1217,892"/>
+<area shape="rect" id="node94" href="$class_axle.html" title="class created from a struct will be ugly for a while." alt="" coords="1375,1544,1423,1573"/>
+<area shape="rect" id="node97" href="$class_material_function_mapper.html" title="MaterialFunctionMapper" alt="" coords="523,1603,683,1632"/>
+<area shape="rect" id="node100" href="$class_cmd_key_inertia.html" title="CmdKeyInertia" alt="" coords="923,252,1032,281"/>
+<area shape="rect" id="node110" href="$class_screwprop.html" title="Screwprop" alt="" coords="1143,1157,1225,1187"/>
+<area shape="rect" id="node124" href="$class_replay.html" title="Replay" alt="" coords="292,601,353,631"/>
+<area shape="rect" id="node131" href="$class_position_storage.html" title="PositionStorage" alt="" coords="265,725,380,755"/>
+<area shape="rect" id="node10" href="$class_camera_manager.html" title="CameraManager" alt="" coords="1505,85,1623,115"/>
+<area shape="rect" id="node12" href="$class_i_behavior_manager.html" title="IBehaviorManager" alt="" coords="915,76,1040,105"/>
+<area shape="rect" id="node20" href="$class_camera_manager_1_1_camera_context.html" title="CameraManager::CameraContext" alt="" coords="1075,195,1293,224"/>
+<area shape="rect" id="node31" href="$class_beam.html" title="Beam" alt="" coords="800,471,856,500"/>
+<area shape="rect" id="node46" href="$structbeam__t.html" title="beam_t" alt="" coords="1152,504,1216,533"/>
+<area shape="rect" id="node36" href="$structrig__t.html" title="rig_t" alt="" coords="1881,863,1927,892"/>
+<area shape="rect" id="node38" href="$structwing__t.html" title="wing_t" alt="" coords="1535,403,1593,432"/>
+<area shape="rect" id="node64" href="$structrigidifier__t.html" title="rigidifier_t" alt="" coords="1525,637,1603,667"/>
+<area shape="rect" id="node48" href="$structnode__t.html" title="node_t" alt="" coords="797,807,859,836"/>
+<area shape="rect" id="node53" href="$structwheel__t.html" title="wheel_t" alt="" coords="1151,603,1217,632"/>
+<area shape="rect" id="node103" href="$class_flex_body.html" title="FlexBody" alt="" coords="1360,804,1437,833"/>
+<area shape="rect" id="node50" href="$structshock__t.html" title="shock_t" alt="" coords="795,524,861,553"/>
+<area shape="rect" id="node56" href="$structground__model__t.html" title="ground_model_t" alt="" coords="265,788,380,817"/>
+<area shape="rect" id="node62" href="$structcollcab__rate__t.html" title="collcab_rate_t" alt="" coords="1513,807,1615,836"/>
+<area shape="rect" id="node69" href="$structsoundsource__t.html" title="soundsource_t" alt="" coords="1511,925,1617,955"/>
+<area shape="rect" id="node71" href="$structprop__t.html" title="prop_t" alt="" coords="1535,979,1593,1008"/>
+<area shape="rect" id="node80" href="$structcparticle__t.html" title="cparticle_t" alt="" coords="1523,1163,1605,1192"/>
+<area shape="rect" id="node83" href="$class_aero_engine.html" title="AeroEngine" alt="" coords="1520,1216,1608,1245"/>
+<area shape="rect" id="node85" href="$class_skin.html" title="Skin" alt="" coords="1540,1269,1588,1299"/>
+<area shape="rect" id="node106" href="$structrotator__t.html" title="rotator_t" alt="" coords="1529,141,1599,171"/>
+<area shape="rect" id="node108" href="$structcontacter__t.html" title="contacter_t" alt="" coords="1521,195,1607,224"/>
+<area shape="rect" id="node115" href="$structcommand__t.html" title="command_t" alt="" coords="1519,299,1609,328"/>
+<area shape="rect" id="node117" href="$class_streamable.html" title="Streamable" alt="" coords="279,441,367,471"/>
+<area shape="rect" id="node119" href="$structoob__t.html" title="oob_t" alt="" coords="296,495,349,524"/>
+<area shape="rect" id="node121" href="$struct_ro_r_1_1_per_vehicle_camera_context.html" title="RoR::PerVehicleCameraContext" alt="" coords="217,548,428,577"/>
+<area shape="rect" id="node129" href="$class_ogre_1_1_movable_text.html" title="Ogre::MovableText" alt="" coords="256,655,389,684"/>
+</map>

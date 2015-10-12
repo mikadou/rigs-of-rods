@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ogre_1_1_canvas_1_1_context.html#a2edd1ac82fe9da543745dd2ed3d5c7ff" title="Ogre::Canvas::Context::createPattern" alt="" coords="283,5,525,35"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_canvas_1_1_context.html#ae8e77428b0783171f61450862d066dff" title="Ogre::Canvas::Context::save" alt="" coords="308,59,500,88"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_canvas_1_1_context.html#a082ff2e97331fd49e6e98bf1f192d223" title="Ogre::Canvas::Context::getCurrentState" alt="" coords="575,111,831,140"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_canvas_1_1_context.html#a7d81cd7aea531ac2c8b3f15c16603a21" title="Ogre::Canvas::Context::beginPath" alt="" coords="293,163,515,192"/>
+<area shape="rect" id="node11" href="$class_ogre_1_1_canvas_1_1_context.html#acd8fc20192cb65d2e7da870e4c4c0892" title="Ogre::Canvas::Context::rect" alt="" coords="311,216,497,245"/>
+<area shape="rect" id="node13" href="$class_ogre_1_1_canvas_1_1_context.html#a46b7f62ab087fe2f5d06d48e4bc43544" title="Ogre::Canvas::Context::clip" alt="" coords="312,269,496,299"/>
+<area shape="rect" id="node15" href="$class_ogre_1_1_canvas_1_1_context.html#a9e9e34999d54e2eee82b26ea55fd001f" title="Ogre::Canvas::Context::scale" alt="" coords="307,323,501,352"/>
+<area shape="rect" id="node17" href="$class_ogre_1_1_canvas_1_1_context.html#ae7c4bb5074c01bc2a17923897827ed76" title="Ogre::Canvas::Context::fillStyle" alt="" coords="300,376,508,405"/>
+<area shape="rect" id="node20" href="$class_ogre_1_1_canvas_1_1_context.html#aa89bcf7189c5d64e5aa44acbf2ea6616" title="Ogre::Canvas::Context::translate" alt="" coords="297,429,511,459"/>
+<area shape="rect" id="node22" href="$class_ogre_1_1_canvas_1_1_context.html#aa938fc4e0062dd4ad7684a996e78a5b5" title="Ogre::Canvas::Context::fillRect" alt="" coords="301,483,507,512"/>
+<area shape="rect" id="node25" href="$class_ogre_1_1_canvas_1_1_context.html#aedd6cb09a586bec9c9e1431cdc0bc45d" title="Ogre::Canvas::Context::restore" alt="" coords="301,536,507,565"/>
+</map>

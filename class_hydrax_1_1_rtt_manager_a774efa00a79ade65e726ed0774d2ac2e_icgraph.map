@@ -1,0 +1,27 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_hydrax_1_1_g_p_u_normal_map_manager.html#a7398a504e11ea902839868d69bcf956b" title="Hydrax::GPUNormalMapManager::create" alt="" coords="259,60,520,89"/>
+<area shape="rect" id="node11" href="$class_hydrax_1_1_hydrax.html#a8564eb97a6a5085af5d0475947af1599" title="Hydrax::Hydrax::_checkVisible" alt="" coords="664,112,867,141"/>
+<area shape="rect" id="node13" href="$class_hydrax_1_1_hydrax.html#aaf840e19208614533a6b344e32965ee2" title="Hydrax::Hydrax::create" alt="" coords="1084,189,1241,219"/>
+<area shape="rect" id="node25" href="$class_hydrax_1_1_g_p_u_normal_map_manager.html#ac58c786ad6359d8f70b5ecd0bc30464b" title="Hydrax::GPUNormalMapManager::setActive" alt="" coords="249,215,529,244"/>
+<area shape="rect" id="node29" href="$class_hydrax_1_1_hydrax.html#a6fbd6d0808443ba1d2d7569ac6b27583" title="Hydrax::Hydrax::setComponents" alt="" coords="659,373,872,403"/>
+<area shape="rect" id="node38" href="$class_hydrax_1_1_hydrax.html#a571ddf613078bcaae4b45c22074e53bc" title="Hydrax::Hydrax::_checkUnderwater" alt="" coords="275,268,504,297"/>
+<area shape="rect" id="node46" href="$class_hydrax_1_1_rtt_manager.html#abf7d8e05771b9f904efa09fe94ab0907" title="Hydrax::RttManager::setTextureSize" alt="" coords="648,320,883,349"/>
+<area shape="rect" id="node51" href="$class_hydrax_1_1_rtt_manager.html#ad54dd87efa7baa4a5037faa2e5241738" title="Hydrax::RttManager::setTexturesSize" alt="" coords="268,423,511,452"/>
+<area shape="rect" id="node53" href="$class_hydrax_1_1_rtt_manager.html#a009e9c7631dad8d588790401cab753b6" title="Hydrax::RttManager::setNumberOfChannels" alt="" coords="249,476,529,505"/>
+<area shape="rect" id="node58" href="$class_hydrax_1_1_rtt_manager.html#afe968a7c8f23a6fa9b0d5b499ef09491" title="Hydrax::RttManager::setBitsPerChannel" alt="" coords="261,529,517,559"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_noise_1_1_f_f_t.html#aa8e2b9d2b8307c07be2d2cd9cf115560" title="Hydrax::Noise::FFT::createGPUNormalMapResources" alt="" coords="595,59,936,88"/>
+<area shape="rect" id="node23" href="$class_hydrax_1_1_noise_1_1_perlin.html#adb347b98692bd7ce6ad7ce76c605d15a" title="Hydrax::Noise::Perlin::createGPUNormalMapResources" alt="" coords="591,5,940,35"/>
+<area shape="rect" id="node7" href="$class_hydrax_1_1_noise_1_1_f_f_t.html#a1d7ec06eb11cda608cc8f73256c35be5" title="Hydrax::Noise::FFT::setOptions" alt="" coords="1059,59,1267,88"/>
+<area shape="rect" id="node9" href="$class_hydrax_1_1_noise_1_1_f_f_t.html#a64245b9e56eeb8627ac3f5260dc203dd" title="Hydrax::Noise::FFT::loadCfg" alt="" coords="1377,59,1567,88"/>
+<area shape="rect" id="node19" href="$class_hydrax_1_1_hydrax.html#a2c6e89c89098c1ae2f152b0cac0ecfde" title="Hydrax::Hydrax::setVisible" alt="" coords="1073,112,1252,141"/>
+<area shape="rect" id="node15" href="$class_hydrax_water.html#aedfd9537f96021b60a195b2bb6a9ee2d" title="HydraxWater::InitHydrax" alt="" coords="1836,255,2001,284"/>
+<area shape="rect" id="node17" href="$class_hydrax_water.html#a20bb0db860124c8e18903f5d640f88db" title="HydraxWater::HydraxWater" alt="" coords="2051,255,2235,284"/>
+<area shape="rect" id="node21" href="$class_hydrax_water.html#a21b7f14c1cce1f562a596543dc335a4c" title="HydraxWater::setVisible" alt="" coords="1391,112,1553,141"/>
+<area shape="rect" id="node31" href="$class_hydrax_1_1_cfg_file_manager.html#a6717ef4e731b3c22d71260aaa6d0336a" title="Hydrax::CfgFileManager::_loadComponentsSettings" alt="" coords="1000,373,1325,403"/>
+<area shape="rect" id="node33" href="$class_hydrax_1_1_cfg_file_manager.html#a7d283a6b6b61ad70292c7cb24cd3543c" title="Hydrax::CfgFileManager::load" alt="" coords="1375,320,1569,349"/>
+<area shape="rect" id="node35" href="$class_hydrax_1_1_hydrax.html#a1a9a011581dc097e3928511632b534da" title="Hydrax::Hydrax::loadCfg" alt="" coords="1620,300,1785,329"/>
+<area shape="rect" id="node42" href="$class_hydrax_1_1_hydrax.html#ac584e30a6cbfb5d8884afb182c29d36a" title="Hydrax::Hydrax::update" alt="" coords="685,267,845,296"/>
+<area shape="rect" id="node44" href="$class_hydrax_water.html#a00888728a3ac027b68807892c1ec614b" title="HydraxWater::framestep" alt="" coords="1080,267,1245,296"/>
+<area shape="rect" id="node48" href="$class_hydrax_1_1_cfg_file_manager.html#ae2a1a0accf942e528f6ba8a041a674e6" title="Hydrax::CfgFileManager::_loadRttSettings" alt="" coords="1028,320,1297,349"/>
+<area shape="rect" id="node55" href="$class_hydrax_1_1_g_p_u_normal_map_manager.html#a9c2a79cec8c9a72e2916587e09c9c83f" title="Hydrax::GPUNormalMapManager::GPUNormalMapManager" alt="" coords="580,503,951,532"/>
+</map>

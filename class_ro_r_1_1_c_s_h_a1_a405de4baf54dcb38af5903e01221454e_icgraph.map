@@ -1,0 +1,27 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_rig_spawner.html#a5396849b5b3d28cdd02a408803e14851" title="RigSpawner::FinalizeRig" alt="" coords="496,5,661,35"/>
+<area shape="rect" id="node7" href="$class_cache_system.html#a1614deb4dd2e52ce35d4584f30777a8c" title="CacheSystem::filenamesSHA1" alt="" coords="477,59,680,88"/>
+<area shape="rect" id="node22" href="$class_ogre_script_builder.html#ab619c9ff598e262303d806cccaea52ee" title="OgreScriptBuilder::LoadScriptSection" alt="" coords="460,112,697,141"/>
+<area shape="rect" id="node24" href="$class_settings.html#a3610937cea22837c48e59a1c9493f295" title="Settings::loadSettings" alt="" coords="815,269,964,299"/>
+<area shape="rect" id="node28" href="$class_ro_r_1_1_c_s_h_a1.html#a0b0eef50cf60a9321a39d9478dd2de11" title="RoR::CSHA1::HashFile" alt="" coords="237,217,400,247"/>
+<area shape="rect" id="node38" href="$class_ro_r_1_1_c_s_h_a1.html#afbdaab3f2a2946d26a6144af3fec5fd8" title="RoR::CSHA1::Final" alt="" coords="249,164,388,193"/>
+<area shape="rect" id="node46" href="$_utils_8cpp.html#a7a48857267cf0bea37f4320c342db6f3" title="generateHashFromDataStream" alt="" coords="477,373,680,403"/>
+<area shape="rect" id="node5" href="$class_rig_spawner.html#a67da85dd09bd864df9dc924f6f2a7d49" title="RigSpawner::SpawnRig" alt="" coords="809,5,969,35"/>
+<area shape="rect" id="node9" href="$class_cache_system.html#ae010322c2422bf8f8dbfce904257da31" title="CacheSystem::Startup" alt="" coords="1104,216,1259,245"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1905,268,2055,297"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_main_thread.html#a50730ae3f8aae89aa0120b4b78b6db29" title="RoR::MainThread::RegenCache" alt="" coords="1343,216,1551,245"/>
+<area shape="rect" id="node13" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2192,241,2243,271"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::RequestRestart" alt="" coords="2105,295,2329,324"/>
+<area shape="rect" id="node17" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="2380,295,2561,324"/>
+<area shape="rect" id="node26" href="$class_settings.html#af1c188c95e0b9fe09d369a58259a9ddc" title="Settings::setupPaths" alt="" coords="1109,269,1253,299"/>
+<area shape="rect" id="node30" href="$class_cache_system.html#a4439130b97404a54bca3ca9768586c48" title="CacheSystem::incrementalCacheUpdate" alt="" coords="449,216,708,245"/>
+<area shape="rect" id="node35" href="$class_settings.html#a0e00f210206210143d8624f2ee9b4bfd" title="Settings::generateBinaryHash" alt="" coords="481,269,676,299"/>
+<area shape="rect" id="node32" href="$class_cache_system.html#a37e784da57c57f56a428f61a53b4d618" title="CacheSystem::generateCache" alt="" coords="789,216,989,245"/>
+<area shape="rect" id="node48" href="$class_terrain_manager.html#a789b99cd4906c01d9db9aa6dfb275a52" title="TerrainManager::loadTerrainConfigBasics" alt="" coords="759,348,1020,377"/>
+<area shape="rect" id="node61" href="$_utils_8cpp.html#aa359a37d9710079a91bf8ab15e637aa8" title="generateHashFromFile" alt="" coords="812,401,967,431"/>
+<area shape="rect" id="node50" href="$class_cache_system.html#a8c919d3618cc1b8924fc17f2c8cf4155" title="CacheSystem::fillTerrainDetailInfo" alt="" coords="1071,323,1292,352"/>
+<area shape="rect" id="node52" href="$class_terrain_manager.html#a9a04c837bf2ea6528c465b27ca62f730" title="TerrainManager::loadTerrain" alt="" coords="1089,376,1273,405"/>
+<area shape="rect" id="node54" href="$class_ro_r_1_1_main_thread.html#a60603be78a54ae5a24ca1c00509aca1f" title="RoR::MainThread::LoadTerrain" alt="" coords="1347,375,1547,404"/>
+<area shape="rect" id="node56" href="$class_ro_r_1_1_main_thread.html#aa3feeebda7f3f4c31a6cb96ea60c09e0" title="RoR::MainThread::SetupGameplayLoop" alt="" coords="1601,320,1855,349"/>
+<area shape="rect" id="node59" href="$class_game_script.html#ac1cba3fc83facbad8281ff80d4ab0f0b" title="GameScript::loadTerrain" alt="" coords="1647,375,1809,404"/>
+</map>

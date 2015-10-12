@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_delete_menu_layout.html" title="RoR::GUI::RigEditorDeleteMenuLayout" alt="" coords="5,85,256,115"/>
+<area shape="rect" id="node4" href="$classwraps_1_1_base_layout.html" title="wraps::BaseLayout" alt="" coords="64,5,197,35"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_gui_panel_base.html" title="RoR::GuiPanelBase" alt="" coords="280,85,419,115"/>
+<area shape="rect" id="node8" href="$class_ro_r_1_1_rig_editor_1_1_i_main.html" title="RoR::RigEditor::IMain" alt="" coords="443,85,592,115"/>
+</map>

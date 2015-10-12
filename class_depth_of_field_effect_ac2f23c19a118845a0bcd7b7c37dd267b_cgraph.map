@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_depth_of_field_effect.html#a91752b997abcbd0047a6afaa6f8a3560" title="DepthOfFieldEffect::removeCompositor" alt="" coords="345,5,596,35"/>
+<area shape="rect" id="node7" href="$class_depth_of_field_effect.html#a2d43f8b887968b07e588a3c0e1695ed4" title="DepthOfFieldEffect::destroyDepthRenderTexture" alt="" coords="317,59,624,88"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_application.html#a5082701abd55926b3c6eb4b0c933eca5" title="RoR::Application::GetOgreSubsystem" alt="" coords="673,5,916,35"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getSingleton" alt="" coords="244,5,599,35"/>
+<area shape="rect" id="node5" href="$class_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="BeamFactory::getCurrentTruck" alt="" coords="320,59,523,88"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_application.html#a59a97190a3dea812d1f28504db82dc95" title="RoR::Application::GetOverlayWrapper" alt="" coords="300,112,543,141"/>
+<area shape="rect" id="node11" href="$class_overlay_wrapper.html#a086d876abbbac640d88b09b2bbfe7d0f" title="OverlayWrapper::showDashboardOverlays" alt="" coords="287,165,556,195"/>
+<area shape="rect" id="node13" href="$class_truck_h_u_d.html#abfc37f8d68c2f2b589138b31028eef31" title="TruckHUD::show" alt="" coords="360,219,483,248"/>
+<area shape="rect" id="node15" href="$class_camera_manager.html#ad07471d660e56e45c7c612e7312da666" title="CameraManager::hasActiveBehavior" alt="" coords="304,272,539,301"/>
+<area shape="rect" id="node17" href="$class_camera_manager.html#a213c263271f91e4eca01182f034e8a04" title="CameraManager::getCurrentBehavior" alt="" coords="303,325,540,355"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="649,59,807,88"/>
+</map>

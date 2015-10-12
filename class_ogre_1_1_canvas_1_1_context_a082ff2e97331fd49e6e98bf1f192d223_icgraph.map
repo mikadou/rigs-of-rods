@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ogre_1_1_canvas_1_1_context.html#ae8e77428b0783171f61450862d066dff" title="Ogre::Canvas::Context::save" alt="" coords="376,5,568,35"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_canvas_1_1_context.html#af6a9988416c5990e31570a7b4cec5430" title="Ogre::Canvas::Context::drawImage" alt="" coords="357,59,587,88"/>
+<area shape="rect" id="node11" href="$class_ogre_1_1_canvas_1_1_context.html#a33f724eccd4af2b5c2b003cd5aaec483" title="Ogre::Canvas::Context::globalAlpha" alt="" coords="356,112,588,141"/>
+<area shape="rect" id="node13" href="$class_ogre_1_1_canvas_1_1_context.html#a9029becdfa0b8c3699d4d17aac90381a" title="Ogre::Canvas::Context::globalCompositeOperation" alt="" coords="313,165,631,195"/>
+<area shape="rect" id="node15" href="$class_ogre_1_1_canvas_1_1_context.html#a6ce4a8c2afc2d73c1b7dc4df18c594b7" title="Ogre::Canvas::Context::lineWidth" alt="" coords="363,219,581,248"/>
+<area shape="rect" id="node17" href="$class_ogre_1_1_canvas_1_1_context.html#a07ff9652da49aa9908dd0492e031d411" title="Ogre::Canvas::Context::lineCap" alt="" coords="368,272,576,301"/>
+<area shape="rect" id="node19" href="$class_ogre_1_1_canvas_1_1_context.html#a32d526055802f033d5010fb9b46873ab" title="Ogre::Canvas::Context::lineJoin" alt="" coords="368,325,576,355"/>
+<area shape="rect" id="node21" href="$class_ogre_1_1_canvas_1_1_context.html#a942b7e5f48e3bfcf2d7ee849456cc6e8" title="Ogre::Canvas::Context::lineDash" alt="" coords="364,379,580,408"/>
+<area shape="rect" id="node23" href="$class_ogre_1_1_canvas_1_1_context.html#acddb144ac92a897818318bd3fab6d8bd" title="Ogre::Canvas::Context::miterLimit" alt="" coords="361,432,583,461"/>
+<area shape="rect" id="node25" href="$class_ogre_1_1_canvas_1_1_context.html#ac33370cf5e981ef3b4169de343b6260a" title="Ogre::Canvas::Context::strokeStyle" alt="" coords="357,485,587,515"/>
+<area shape="rect" id="node27" href="$class_ogre_1_1_canvas_1_1_context.html#ae7c4bb5074c01bc2a17923897827ed76" title="Ogre::Canvas::Context::fillStyle" alt="" coords="368,539,576,568"/>
+<area shape="rect" id="node30" href="$class_ogre_1_1_canvas_1_1_context.html#a13abb5fe8783265bd4ad39e50e2b6e53" title="Ogre::Canvas::Context::shadowOffsetX" alt="" coords="345,592,599,621"/>
+<area shape="rect" id="node32" href="$class_ogre_1_1_canvas_1_1_context.html#aa5882af2d129bd5dfb42eaf196425176" title="Ogre::Canvas::Context::shadowOffsetY" alt="" coords="345,645,599,675"/>
+<area shape="rect" id="node34" href="$class_ogre_1_1_canvas_1_1_context.html#ab6e6fa1200ce1f7b973ef2b9343005df" title="Ogre::Canvas::Context::shadowBlur" alt="" coords="356,699,588,728"/>
+<area shape="rect" id="node36" href="$class_ogre_1_1_canvas_1_1_context.html#a641366c511b287d022f28b54c8e05ad2" title="Ogre::Canvas::Context::shadowColor" alt="" coords="352,752,592,781"/>
+<area shape="rect" id="node38" href="$class_ogre_1_1_canvas_1_1_context.html#aa97fa9a27e5ef17169a445dfb0c9c15d" title="Ogre::Canvas::Context::applyFillStyle" alt="" coords="351,805,593,835"/>
+<area shape="rect" id="node42" href="$class_ogre_1_1_canvas_1_1_context.html#a6330e076b925fb8bb7ab9523fd665ab8" title="Ogre::Canvas::Context::applyStrokeStyle" alt="" coords="340,859,604,888"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_canvas_1_1_context.html#a9aed24cef6da01d1188a7b3a78704081" title="Ogre::Canvas::Context::drawImage" alt="" coords="680,272,909,301"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_canvas_1_1_context.html#a3abd9550216442548f9416c921742174" title="Ogre::Canvas::Context::drawImage" alt="" coords="957,272,1187,301"/>
+<area shape="rect" id="node40" href="$class_ogre_1_1_canvas_1_1_context.html#a5e85b7f5891be1cdbaabc975ad32a9d5" title="Ogre::Canvas::Context::fill" alt="" coords="705,805,884,835"/>
+<area shape="rect" id="node44" href="$class_ogre_1_1_canvas_1_1_context.html#a2b0781e7cc1cfe165ea17c6750ae1e68" title="Ogre::Canvas::Context::stroke" alt="" coords="695,859,895,888"/>
+</map>

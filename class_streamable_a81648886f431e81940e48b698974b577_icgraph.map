@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_network_stream_manager.html#a207f01cb8d1f1e1114e66d6f4215f6a8" title="NetworkStreamManager::addLocalStream" alt="" coords="225,59,489,88"/>
+<area shape="rect" id="node17" href="$class_beam_factory.html#aec5e5478d7810d6eea6de2ac2bd209b3" title="BeamFactory::createRemoteInstance" alt="" coords="237,112,477,141"/>
+<area shape="rect" id="node5" href="$class_character.html#ad3ae7449830cf1a9ba8c991b650ee0c2" title="Character::sendStreamSetup" alt="" coords="548,5,737,35"/>
+<area shape="rect" id="node9" href="$class_chat_system.html#ae40cb749a8c233c6e7de1016f4cb4bdc" title="ChatSystem::sendStreamSetup" alt="" coords="540,59,745,88"/>
+<area shape="rect" id="node13" href="$class_beam.html#ab360c65fab0802d8bc2074d7278217da" title="Beam::sendStreamSetup" alt="" coords="559,112,727,141"/>
+<area shape="rect" id="node7" href="$class_character.html#a2b381f85738c4ede878be18925e1ce81" title="Character::Character" alt="" coords="811,5,955,35"/>
+<area shape="rect" id="node11" href="$class_chat_system.html#add474b3d3185ca352a7cba42df56e87f" title="ChatSystem::ChatSystem" alt="" coords="795,59,971,88"/>
+<area shape="rect" id="node15" href="$class_beam.html#ac3b331240d6084f4a5116f6c862b65ad" title="Beam::Beam" alt="" coords="833,112,932,141"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_delete_menu.html" title="RoR::GUI::RigEditorDeleteMenu" alt="" coords="248,5,461,35"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_help_window.html" title="RoR::GUI::RigEditorHelpWindow" alt="" coords="247,59,463,88"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_land_vehicle_properties_window.html" title="RoR::GUI::RigEditorLandVehiclePropertiesWindow" alt="" coords="195,112,515,141"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_rig_properties_window.html" title="RoR::GUI::RigEditorRigPropertiesWindow" alt="" coords="220,165,489,195"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_g_u_i_1_1_rig_spawner_report_window.html" title="RoR::GUI::RigSpawnerReportWindow" alt="" coords="232,219,477,248"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html" title="RoR::RigEditor::RigElementGuiPanelBase" alt="" coords="220,272,489,301"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_beams_panel.html" title="RoR::GUI::RigEditorBeamsPanel" alt="" coords="592,85,808,115"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_commands2_panel.html" title="RoR::GUI::RigEditorCommands2Panel" alt="" coords="575,139,825,168"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_flex_body_wheels_panel.html" title="RoR::GUI::RigEditorFlexBodyWheelsPanel" alt="" coords="563,192,837,221"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_hydros_panel.html" title="RoR::GUI::RigEditorHydrosPanel" alt="" coords="591,245,809,275"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_mesh_wheels2_panel.html" title="RoR::GUI::RigEditorMeshWheels2Panel" alt="" coords="571,299,829,328"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_node_panel.html" title="RoR::GUI::RigEditorNodePanel" alt="" coords="597,352,803,381"/>
+<area shape="rect" id="node27" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_shocks2_panel.html" title="RoR::GUI::RigEditorShocks2Panel" alt="" coords="587,405,813,435"/>
+<area shape="rect" id="node29" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_shocks_panel.html" title="RoR::GUI::RigEditorShocksPanel" alt="" coords="591,459,809,488"/>
+</map>

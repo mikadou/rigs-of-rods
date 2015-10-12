@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#ab6e296b5791583caf31e42493a116cf2" title="RigDef::Parser::_ParseSectionsNodesNodes2" alt="" coords="244,216,535,245"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#ac1a3ed20e65d2ad2819fe562dd3178c8" title="RigDef::Parser::_TrimTrailingComments" alt="" coords="597,5,853,35"/>
+<area shape="rect" id="node7" href="$class_rig_def_1_1_sequential_importer.html#a04d293d8b1f94b9a722e83715911e547" title="RigDef::SequentialImporter::IsEnabled" alt="" coords="944,109,1189,139"/>
+<area shape="rect" id="node9" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="RigDef::Parser::AddMessage" alt="" coords="1303,243,1495,272"/>
+<area shape="rect" id="node11" href="$class_rig_def_1_1_parser.html#a38b8cabf035e978b04373b9c6f872803" title="RigDef::Parser::_ParseNodesLegacyMethod" alt="" coords="585,269,865,299"/>
+<area shape="rect" id="node16" href="$class_rig_def_1_1_node_1_1_id.html#a30fc558c055857280fb2adba21a08eea" title="RigDef::Node::Id::SetStr" alt="" coords="984,163,1149,192"/>
+<area shape="rect" id="node19" href="$class_rig_def_1_1_sequential_importer.html#a0d1350e2b0c44cff66a9c73c17baf9dd" title="RigDef::SequentialImporter::AddNamedNode" alt="" coords="925,427,1208,456"/>
+<area shape="rect" id="node23" href="$class_rig_def_1_1_node_1_1_id.html#a0c74f13391cb2b7dd03b0810766a0c7d" title="RigDef::Node::Id::SetNum" alt="" coords="979,373,1155,403"/>
+<area shape="rect" id="node25" href="$class_rig_def_1_1_sequential_importer.html#ad9fb7d3deecbb9f94ac85ff061459795" title="RigDef::SequentialImporter::AddNumberedNode" alt="" coords="916,480,1217,509"/>
+<area shape="rect" id="node28" href="$class_rig_def_1_1_parser.html#aa0448d0c351e3163aa33245881947a40" title="RigDef::Parser::_ParseNodeOptions" alt="" coords="949,216,1184,245"/>
+<area shape="rect" id="node13" href="$class_rig_def_1_1_parser.html#ac9e266992c2efbeddfbf09f430a61b93" title="RigDef::Parser::_ParseArgs" alt="" coords="975,269,1159,299"/>
+<area shape="rect" id="node21" href="$class_rig_def_1_1_sequential_importer.html#abbbd9a34cae153cb481b6c61a7927a97" title="RigDef::SequentialImporter::AddMessage" alt="" coords="1267,453,1531,483"/>
+</map>

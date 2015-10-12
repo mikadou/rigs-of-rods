@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_terrain_manager.html#a07f2e69fc5d3dd07847bc1d5cc26d694" title="TerrainManager::getSpawnPos" alt="" coords="275,32,475,61"/>
+<area shape="rect" id="node5" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getSingleton" alt="" coords="1612,612,1967,641"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#a6eb09f405c2dc496a687caf0014800b0" title="BeamFactory::CreateLocalRigInstance" alt="" coords="884,320,1132,349"/>
+<area shape="rect" id="node56" href="$class_beam_factory.html#ac70a8aa131a6709ebf05dc3c0f6dab10" title="BeamFactory::setCurrentTruck" alt="" coords="273,743,476,772"/>
+<area shape="rect" id="node64" href="$class_character.html#a1884d7f3e305d9b23164fdbf208f1cc6" title="Character::setPosition" alt="" coords="932,1165,1084,1195"/>
+<area shape="rect" id="node85" href="$class_beam.html#ab8f22ee06cd65bb94d4bacda1de7c35b" title="Beam::activate" alt="" coords="953,1219,1063,1248"/>
+<area shape="rect" id="node90" href="$class_beam.html#ab7cea3a026bb573930b1c6e5bd7774c1" title="Beam::getHeadingDirectionAngle" alt="" coords="901,424,1115,453"/>
+<area shape="rect" id="node92" href="$class_beam_engine.html#ae9e67ae5371b9cb2e1fc12167d3b8979" title="BeamEngine::start" alt="" coords="309,897,440,927"/>
+<area shape="rect" id="node96" href="$class_terrain_manager.html#ac666fc0221c16001186b83cd6df66691" title="TerrainManager::loadPreloadedTrucks" alt="" coords="253,399,496,428"/>
+<area shape="rect" id="node103" href="$class_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="BeamFactory::getCurrentTruck" alt="" coords="273,951,476,980"/>
+<area shape="rect" id="node108" href="$class_ro_r_1_1_application.html#a3db1b8c7dc6bf465f5ed653ef4a8ce9a" title="RoR::Application::GetGuiManager" alt="" coords="265,1004,484,1033"/>
+<area shape="rect" id="node110" href="$class_ro_r_1_1_g_u_i_manager.html#ab3b8db75686408c9ea70117e0cc9ef5c" title="RoR::GUIManager::UnfocusGui" alt="" coords="271,1057,479,1087"/>
+<area shape="rect" id="node9" href="$namespace_profiler.html#a1f2fdbd66925222007a1461ecd4d01f9" title="Profiler::reset" alt="" coords="1328,347,1427,376"/>
+<area shape="rect" id="node11" href="$class_beam_factory.html#ad4e3be6a036419a493c187046e7b3f38" title="BeamFactory::getFreeTruckSlot" alt="" coords="1273,400,1481,429"/>
+<area shape="rect" id="node13" href="$class_beam.html#aa0750858904f05ed7e8308b12c670566" title="Beam::getSlideNodesLockInstant" alt="" coords="1269,453,1485,483"/>
+<area shape="rect" id="node15" href="$class_beam.html#a7f17e89ec7dfd80a13382d1df2155bdb" title="Beam::toggleSlideNodeLock" alt="" coords="1284,795,1471,824"/>
+<area shape="rect" id="node37" href="$class_streamable_factory.html#ae48eb0007578a22c2c857f72d1471a84" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::lockStreams" alt="" coords="1199,507,1556,536"/>
+<area shape="rect" id="node39" href="$class_streamable_factory.html#a144cbd4edd29595ee5c36bf9aa3b461c" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getStreams" alt="" coords="1203,560,1552,589"/>
+<area shape="rect" id="node41" href="$class_streamable_factory.html#a903fef78ba76e72a0536ff615c5952d4" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::unlockStreams" alt="" coords="1192,136,1563,165"/>
+<area shape="rect" id="node44" href="$class_beam.html#aca6cb152aefc10162410ca53cecf773e" title="Beam::updateNetworkInfo" alt="" coords="1291,189,1464,219"/>
+<area shape="rect" id="node46" href="$class_ro_r_1_1_rig_loading_profiler.html#a1ce25890979cc7d857976ce706973717" title="RoR::RigLoadingProfiler::Report" alt="" coords="1272,32,1483,61"/>
+<area shape="rect" id="node54" href="$namespace_profiler.html#ad30cdcfc304c887fe0dc83d5b9f35e23" title="Profiler::DumpHtml" alt="" coords="1311,293,1444,323"/>
+<area shape="rect" id="node18" href="$class_beam_factory.html#a5f3755f8cd44e6972e463cc6aaa9f181" title="BeamFactory::getTruckCount" alt="" coords="1692,927,1887,956"/>
+<area shape="rect" id="node20" href="$class_beam_factory.html#a38dd601d99e3408691aba22f937033a6" title="BeamFactory::getCurrentTruckNumber" alt="" coords="1665,821,1913,851"/>
+<area shape="rect" id="node22" href="$class_beam.html#a99d7bd308fca5408d36a597e4463a6ef" title="Beam::getClosestRailOnTruck" alt="" coords="1689,768,1889,797"/>
+<area shape="rect" id="node24" href="$class_slide_node.html#ac667f76769572eb2a81925c8b62dad2b" title="SlideNode::getClosestRailAll" alt="" coords="2035,637,2224,667"/>
+<area shape="rect" id="node26" href="$class_slide_node.html#ac5fd218cba138435059c5aec3ce59393" title="SlideNode::getLenTo" alt="" coords="2291,664,2435,693"/>
+<area shape="rect" id="node28" href="$class_slide_node.html#af931edc57efab0662bc7bcadc1de5635" title="SlideNode::getNodePosition" alt="" coords="2036,741,2223,771"/>
+<area shape="rect" id="node31" href="$class_slide_node.html#ac4d6e22caa50bd967f876895da39c5f9" title="SlideNode::getNodeID" alt="" coords="2053,795,2205,824"/>
+<area shape="rect" id="node33" href="$class_slide_node.html#ad45e8024666f17ce7c0c76e0eb4f74ef" title="SlideNode::getRailID" alt="" coords="2057,848,2201,877"/>
+<area shape="rect" id="node35" href="$class_slide_node.html#a06dbaf88cc0828b63931240a9e41e1a1" title="maximum distance this spring node is allowed to reach out for a Rail" alt="" coords="2016,901,2243,931"/>
+<area shape="rect" id="node48" href="$class_ro_r_1_1_rig_loading_profiler.html#aa5a5a24ce3478c2ec971d610f2881b43" title="RoR::RigLoadingProfiler::Restart" alt="" coords="1683,5,1896,35"/>
+<area shape="rect" id="node52" href="$class_precision_timer.html#a99fcefcc051dacc2e47236323b7e0311" title="PrecisionTimer::elapsed" alt="" coords="1708,59,1871,88"/>
+<area shape="rect" id="node50" href="$class_precision_timer.html#a8433a3ba0af62a025d512c09f2eade3d" title="PrecisionTimer::restart" alt="" coords="2052,5,2207,35"/>
+<area shape="rect" id="node58" href="$class_beam.html#af9b4ba90d62be6ca00cdd101a7db6314" title="Beam::desactivate" alt="" coords="943,477,1073,507"/>
+<area shape="rect" id="node60" href="$class_ro_r_1_1_main_thread.html#af7d1f53cf02660323c9dfe6cc5a1e7e1" title="RoR::MainThread::ChangedCurrentVehicle" alt="" coords="549,743,819,772"/>
+<area shape="rect" id="node62" href="$class_character.html#aa761e344c2aa6df9205bfa6bf1d3ea13" title="Character::setBeamCoupling" alt="" coords="913,1005,1103,1035"/>
+<area shape="rect" id="node66" href="$class_beam.html#a1294bf3dfa3848211b06a82020c53e72" title="Beam::getPosition" alt="" coords="944,1059,1072,1088"/>
+<area shape="rect" id="node68" href="$class_character.html#acfb1f4e5d1cb5da7d438466ff398bf93" title="Character::updateCharacterRotation" alt="" coords="892,1112,1124,1141"/>
+<area shape="rect" id="node70" href="$class_force_feedback.html#ac80c88ae853f3df8b7b1613a70545647" title="ForceFeedback::setEnabled" alt="" coords="916,531,1100,560"/>
+<area shape="rect" id="node72" href="$class_ro_r_1_1_application.html#a59a97190a3dea812d1f28504db82dc95" title="RoR::Application::GetOverlayWrapper" alt="" coords="887,584,1129,613"/>
+<area shape="rect" id="node74" href="$class_truck_h_u_d.html#abfc37f8d68c2f2b589138b31028eef31" title="TruckHUD::show" alt="" coords="947,637,1069,667"/>
+<area shape="rect" id="node76" href="$class_beam.html#a3304824c3e7285047f007c956318de09" title="Beam::prepareInside" alt="" coords="937,691,1079,720"/>
+<area shape="rect" id="node78" href="$class_overlay_wrapper.html#a086d876abbbac640d88b09b2bbfe7d0f" title="OverlayWrapper::showDashboardOverlays" alt="" coords="873,795,1143,824"/>
+<area shape="rect" id="node82" href="$class_beam_factory.html#aa7c42481b46a78459831fa0900ab8d67" title="BeamFactory::getTrucks" alt="" coords="925,848,1091,877"/>
+<area shape="rect" id="node87" href="$class_camera_manager.html#a737fe1d8d82faf6d9a3981eb713ec82c" title="CameraManager::NotifyVehicleChanged" alt="" coords="880,901,1136,931"/>
+<area shape="rect" id="node94" href="$class_beam_engine.html#a74010b85a774cb7e3bd4c494bd29e315" title="BeamEngine::setAcc" alt="" coords="612,897,756,927"/>
+<area shape="rect" id="node98" href="$class_terrain_object_manager.html#a202d577cb222f42c46e5b6600c9626a4" title="TerrainObjectManager::loadPreloadedTrucks" alt="" coords="544,399,824,428"/>
+<area shape="rect" id="node105" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="605,951,763,980"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$namespace_profiler.html#a1f2fdbd66925222007a1461ecd4d01f9" title="Profiler::reset" alt="" coords="437,5,536,35"/>
+<area shape="rect" id="node5" href="$class_beam_factory.html#ad4e3be6a036419a493c187046e7b3f38" title="BeamFactory::getFreeTruckSlot" alt="" coords="383,59,591,88"/>
+<area shape="rect" id="node7" href="$class_beam.html#aa0750858904f05ed7e8308b12c670566" title="Beam::getSlideNodesLockInstant" alt="" coords="379,112,595,141"/>
+<area shape="rect" id="node9" href="$class_beam.html#a7f17e89ec7dfd80a13382d1df2155bdb" title="Beam::toggleSlideNodeLock" alt="" coords="393,216,580,245"/>
+<area shape="rect" id="node11" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getSingleton" alt="" coords="721,163,1076,192"/>
+<area shape="rect" id="node37" href="$class_streamable_factory.html#ae48eb0007578a22c2c857f72d1471a84" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::lockStreams" alt="" coords="308,269,665,299"/>
+<area shape="rect" id="node39" href="$class_streamable_factory.html#a144cbd4edd29595ee5c36bf9aa3b461c" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getStreams" alt="" coords="312,323,661,352"/>
+<area shape="rect" id="node41" href="$class_streamable_factory.html#a903fef78ba76e72a0536ff615c5952d4" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::unlockStreams" alt="" coords="301,376,672,405"/>
+<area shape="rect" id="node44" href="$class_beam.html#aca6cb152aefc10162410ca53cecf773e" title="Beam::updateNetworkInfo" alt="" coords="400,429,573,459"/>
+<area shape="rect" id="node46" href="$class_ro_r_1_1_rig_loading_profiler.html#a1ce25890979cc7d857976ce706973717" title="RoR::RigLoadingProfiler::Report" alt="" coords="381,483,592,512"/>
+<area shape="rect" id="node54" href="$namespace_profiler.html#ad30cdcfc304c887fe0dc83d5b9f35e23" title="Profiler::DumpHtml" alt="" coords="420,536,553,565"/>
+<area shape="rect" id="node13" href="$class_beam_factory.html#a5f3755f8cd44e6972e463cc6aaa9f181" title="BeamFactory::getTruckCount" alt="" coords="801,216,996,245"/>
+<area shape="rect" id="node15" href="$class_beam_factory.html#a38dd601d99e3408691aba22f937033a6" title="BeamFactory::getCurrentTruckNumber" alt="" coords="775,269,1023,299"/>
+<area shape="rect" id="node17" href="$class_beam.html#a99d7bd308fca5408d36a597e4463a6ef" title="Beam::getClosestRailOnTruck" alt="" coords="799,323,999,352"/>
+<area shape="rect" id="node19" href="$class_slide_node.html#ac667f76769572eb2a81925c8b62dad2b" title="SlideNode::getClosestRailAll" alt="" coords="1144,165,1333,195"/>
+<area shape="rect" id="node23" href="$class_slide_node.html#ac5fd218cba138435059c5aec3ce59393" title="SlideNode::getLenTo" alt="" coords="1400,217,1544,247"/>
+<area shape="rect" id="node26" href="$class_slide_node.html#af931edc57efab0662bc7bcadc1de5635" title="SlideNode::getNodePosition" alt="" coords="1145,269,1332,299"/>
+<area shape="rect" id="node29" href="$class_slide_node.html#ac4d6e22caa50bd967f876895da39c5f9" title="SlideNode::getNodeID" alt="" coords="1163,323,1315,352"/>
+<area shape="rect" id="node31" href="$class_slide_node.html#ad45e8024666f17ce7c0c76e0eb4f74ef" title="SlideNode::getRailID" alt="" coords="1167,376,1311,405"/>
+<area shape="rect" id="node35" href="$class_slide_node.html#a06dbaf88cc0828b63931240a9e41e1a1" title="maximum distance this spring node is allowed to reach out for a Rail" alt="" coords="1125,429,1352,459"/>
+<area shape="rect" id="node21" href="$class_rail_group.html#a6efe9a33efe24279e5bfc08f1b54ee40" title="RailGroup::getStartRail" alt="" coords="1592,192,1749,221"/>
+<area shape="rect" id="node33" href="$class_rail_group.html#a0a0724dac9adf0c7577db0a2df56f551" title="RailGroup::getID" alt="" coords="1412,376,1532,405"/>
+<area shape="rect" id="node48" href="$class_ro_r_1_1_rig_loading_profiler.html#aa5a5a24ce3478c2ec971d610f2881b43" title="RoR::RigLoadingProfiler::Restart" alt="" coords="792,483,1005,512"/>
+<area shape="rect" id="node52" href="$class_precision_timer.html#a99fcefcc051dacc2e47236323b7e0311" title="PrecisionTimer::elapsed" alt="" coords="817,536,980,565"/>
+<area shape="rect" id="node50" href="$class_precision_timer.html#a8433a3ba0af62a025d512c09f2eade3d" title="PrecisionTimer::restart" alt="" coords="1161,483,1316,512"/>
+</map>

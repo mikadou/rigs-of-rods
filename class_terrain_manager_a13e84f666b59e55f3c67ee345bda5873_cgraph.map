@@ -1,0 +1,29 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_terrain_manager.html#ab5772ccb7b3bb385c00422b22a31000b" title="TerrainManager::initShadows" alt="" coords="289,5,479,35"/>
+<area shape="rect" id="node7" href="$class_terrain_manager.html#aaf52d0c3d1ddee62a257c327c7055854" title="TerrainManager::initGeometry" alt="" coords="287,59,481,88"/>
+<area shape="rect" id="node9" href="$class_terrain_manager.html#abbd97d158bd8ad2cfa2a9e7183430687" title="TerrainManager::initObjects" alt="" coords="293,112,475,141"/>
+<area shape="rect" id="node11" href="$class_terrain_manager.html#af47ab86eaf4504a23c7a1932d4541776" title="TerrainManager::initCollisions" alt="" coords="287,165,481,195"/>
+<area shape="rect" id="node13" href="$class_terrain_manager.html#aab929f1c780a2f8351025987b7930a6d" title="TerrainManager::initScripting" alt="" coords="291,219,477,248"/>
+<area shape="rect" id="node27" href="$class_terrain_manager.html#a2cdad8445ca98a9275d600d2fd2309ec" title="TerrainManager::initCamera" alt="" coords="293,272,475,301"/>
+<area shape="rect" id="node29" href="$class_terrain_manager.html#ae9f5225285a5636f72bbe201d05961b9" title="TerrainManager::initSkySubSystem" alt="" coords="271,325,497,355"/>
+<area shape="rect" id="node35" href="$class_terrain_manager.html#ab6b319eaeebe6580116b98fcd33ab2a3" title="TerrainManager::initLight" alt="" coords="301,379,467,408"/>
+<area shape="rect" id="node37" href="$class_terrain_manager.html#af36eadd83878fcab6babbf6d7cb1d832" title="TerrainManager::initFog" alt="" coords="305,432,463,461"/>
+<area shape="rect" id="node39" href="$class_terrain_manager.html#a3a1a36c2b35682bc35f74e36415084ee" title="TerrainManager::initVegetation" alt="" coords="285,485,483,515"/>
+<area shape="rect" id="node41" href="$class_terrain_manager.html#a6f09339480ad21843f45c3fd319fdb5a" title="TerrainManager::initHDR" alt="" coords="301,539,467,568"/>
+<area shape="rect" id="node47" href="$class_terrain_manager.html#ade9befdc58ae6c7b4344b58f15ae43e0" title="TerrainManager::initGlow" alt="" coords="301,592,467,621"/>
+<area shape="rect" id="node49" href="$class_terrain_manager.html#aaf1c260ae2568086f5d179b5cfec7adf" title="TerrainManager::initMotionBlur" alt="" coords="285,645,483,675"/>
+<area shape="rect" id="node51" href="$class_terrain_manager.html#a52aa067ce10969f89e927e2baeca2740" title="TerrainManager::initSunburn" alt="" coords="292,699,476,728"/>
+<area shape="rect" id="node53" href="$class_terrain_manager.html#add9eb1c7a6cea8d78d9844c42538e67f" title="TerrainManager::initEnvironmentMap" alt="" coords="267,752,501,781"/>
+<area shape="rect" id="node55" href="$class_terrain_manager.html#acb939ff8aac9f744d17e4c928f5b35bd" title="TerrainManager::initDashboards" alt="" coords="281,805,487,835"/>
+<area shape="rect" id="node5" href="$class_shadow_manager.html#aa662e6eb1152f9fadfee04923a51e251" title="ShadowManager::loadConfiguration" alt="" coords="609,5,836,35"/>
+<area shape="rect" id="node15" href="$class_ro_r_singleton_no_creation.html#a5e7a47f4b2d6d0abaa3a1ea5ca1f216a" title="RoRSingletonNoCreation\&lt; ScriptEngine \&gt;::getSingleton" alt="" coords="549,165,896,195"/>
+<area shape="rect" id="node17" href="$class_script_engine.html#ac68e1af1ce392aae7b8f76619c431fdd" title="ScriptEngine::loadScript" alt="" coords="641,219,804,248"/>
+<area shape="rect" id="node25" href="$class_script_engine.html#a8192bd23d49d9e4fef0977b68d1a3c97" title="ScriptEngine::activateLogging" alt="" coords="625,272,820,301"/>
+<area shape="rect" id="node19" href="$class_ogre_script_builder.html#af37a183ce273f5e63e7efc2360accbdc" title="OgreScriptBuilder::getHash" alt="" coords="996,165,1177,195"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_application.html#a5082701abd55926b3c6eb4b0c933eca5" title="RoR::Application::GetOgreSubsystem" alt="" coords="965,219,1208,248"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_ogre_subsystem.html#a5ad78edb253dc8c811dee7195df3463e" title="RoR::OgreSubsystem::GetTimeSinceStartup" alt="" coords="945,272,1228,301"/>
+<area shape="rect" id="node31" href="$scriptstdstring_8cpp.html#ab33d705eee9afd65e8991f82d9c71fe3" title="parseInt" alt="" coords="688,325,757,355"/>
+<area shape="rect" id="node33" href="$_approx_math_8h.html#ad685178dbcfdd207c7306561512e1582" title="sign" alt="" coords="1064,325,1109,355"/>
+<area shape="rect" id="node43" href="$class_h_d_r_listener.html#accfa86418bd63fea33751a70703d3e2e" title="HDRListener::notifyViewportSize" alt="" coords="616,512,829,541"/>
+<area shape="rect" id="node45" href="$class_h_d_r_listener.html#af50c6069424ace2a1b4fc77af69d418c" title="HDRListener::notifyCompositor" alt="" coords="620,565,825,595"/>
+</map>

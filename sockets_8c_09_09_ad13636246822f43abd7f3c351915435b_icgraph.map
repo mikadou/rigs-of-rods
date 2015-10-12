@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$dcc_8c_09_09.html#a464aa8105fc2454a8d12c532cdf8413f" title="libirc_dcc_destroy_nolock" alt="" coords="156,219,327,248"/>
+<area shape="rect" id="node7" href="$dcc_8c_09_09.html#a9a7cc94e78b507f62eb6b8a444c29277" title="libirc_dcc_process_descriptors" alt="" coords="380,325,580,355"/>
+<area shape="rect" id="node13" href="$dcc_8c_09_09.html#a5a042a68b4b0da7ea96bf018b9858bff" title="libirc_remove_dcc_session" alt="" coords="152,152,331,181"/>
+<area shape="rect" id="node21" href="$dcc_8c_09_09.html#a10a2845d6bbfd6275ecc290a2077fe66" title="libirc_new_dcc_session" alt="" coords="161,72,321,101"/>
+<area shape="rect" id="node27" href="$libircclient_8h.html#a8b8aa3363ee93cc395bc89ac5cc9501c" title="Destroys a DCC session." alt="" coords="184,323,299,352"/>
+<area shape="rect" id="node5" href="$dcc_8c_09_09.html#a803edc073a809a99cdc9b83a321396ae" title="libirc_dcc_add_descriptors" alt="" coords="392,165,568,195"/>
+<area shape="rect" id="node9" href="$libircclient_8h.html#a43f747d3b2252109f9d811ea8414745b" title="Accepts a remote DCC CHAT or DCC RECVFILE request." alt="" coords="425,272,535,301"/>
+<area shape="rect" id="node11" href="$libircclient_8h.html#a3ff4ca78d346b7acf847cf28a7211bf4" title="Declines a remote DCC CHAT or DCC RECVFILE request." alt="" coords="424,219,536,248"/>
+<area shape="rect" id="node16" href="$libircclient_8h.html#ad6958aac6d67f595966949d1ec5ae4a0" title="Initiates a DCC CHAT." alt="" coords="432,112,528,141"/>
+<area shape="rect" id="node18" href="$libircclient_8h.html#af9e8a307113cd27d08e082fda6264262" title="Sends a file via DCC." alt="" coords="423,59,537,88"/>
+<area shape="rect" id="node24" href="$dcc_8c_09_09.html#a6a8177b1b447379f2ac6371edee71a0b" title="libirc_dcc_request" alt="" coords="417,5,543,35"/>
+</map>

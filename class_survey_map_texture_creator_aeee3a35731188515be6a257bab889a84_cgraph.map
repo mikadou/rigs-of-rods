@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getSingleton" alt="" coords="385,5,740,35"/>
+<area shape="rect" id="node5" href="$class_beam_factory.html#aa7c42481b46a78459831fa0900ab8d67" title="BeamFactory::getTrucks" alt="" coords="480,59,645,88"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#a5f3755f8cd44e6972e463cc6aaa9f181" title="BeamFactory::getTruckCount" alt="" coords="465,112,660,141"/>
+<area shape="rect" id="node9" href="$class_beam.html#a0b4ee5d151d8277b3cf1059f6fec7da1" title="Beam::preMapLabelRenderUpdate" alt="" coords="452,165,673,195"/>
+<area shape="rect" id="node11" href="$class_terrain_manager.html#a1d0227a71a4e114099797646ff6756b7" title="TerrainManager::getWater" alt="" coords="476,219,649,248"/>
+<area shape="rect" id="node13" href="$class_i_water.html#a7d7819f7cf473aa8a99ddca7cbdec0bc" title="IWater::setCamera" alt="" coords="496,272,629,301"/>
+<area shape="rect" id="node15" href="$class_i_water.html#aafd64d3659a952b2667c9124b9c41572" title="IWater::moveTo" alt="" coords="505,325,620,355"/>
+<area shape="rect" id="node17" href="$class_i_water.html#ad2499255884025d55a940eb24ecd8e4d" title="IWater::getHeight" alt="" coords="500,379,625,408"/>
+<area shape="rect" id="node19" href="$class_i_water.html#a2fb52c8272f9e090a8a59e5a13f5ef91" title="IWater::update" alt="" coords="509,432,616,461"/>
+</map>

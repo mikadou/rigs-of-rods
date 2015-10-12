@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_g_u_i___rig_editor_shocks2_panel_8h.html" title="GUI_RigEditorShocks2Panel.h" alt="" coords="2368,83,2571,112"/>
+<area shape="rect" id="node80" href="$_rig_editor___rig_elements_aggregate_data_8h.html" title="RigEditor_RigElementsAggregateData.h" alt="" coords="2508,315,2764,344"/>
+<area shape="rect" id="node84" href="$_rig_def___file_8h.html" title="Structures which represent a rig&#45;definition file (1:1 match)" alt="" coords="3092,392,3194,421"/>
+<area shape="rect" id="node111" href="$_rig_editor___config_8h.html" title="RigEditor_Config.h" alt="" coords="35,237,166,267"/>
+<area shape="rect" id="node5" href="$_forward_declarations_8h.html" title="Global forward declarations." alt="" coords="1550,624,1702,653"/>
+<area shape="rect" id="node7" href="$_g_u_i___rig_editor_shocks2_panel_layout_8h.html" title="GUI_RigEditorShocks2PanelLayout.h" alt="" coords="1008,160,1248,189"/>
+<area shape="rect" id="node59" href="$_rig_editor___forward_declarations_8h.html" title="RigEditor_ForwardDeclarations.h" alt="" coords="2587,469,2800,499"/>
+<area shape="rect" id="node61" href="$_rig_editor___rig_element_gui_panel_base_8h.html" title="RigEditor_RigElementGuiPanelBase.h" alt="" coords="2127,392,2372,421"/>
+<area shape="rect" id="node77" href="$_rig_editor___i_main_8h.html" title="RigEditor_IMain.h" alt="" coords="2458,160,2583,189"/>
+<area shape="rect" id="node10" href="$_base_layout_8h.html" title="BaseLayout.h" alt="" coords="1078,237,1179,267"/>
+<area shape="rect" id="node12" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1168,469,1304,499"/>
+<area shape="rect" id="node52" href="$_wraps_attribute_8h.html" title="WrapsAttribute.h" alt="" coords="1068,315,1188,344"/>
+<area shape="rect" id="node39" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1555,547,1696,576"/>
+<area shape="rect" id="node42" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1360,547,1531,576"/>
+<area shape="rect" id="node44" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="2768,547,2915,576"/>
+<area shape="rect" id="node56" href="$_attribute_8h.html" title="Attribute.h" alt="" coords="1155,392,1238,421"/>
+<area shape="rect" id="node65" href="$_gui_panel_base_8h.html" title="GuiPanelBase.h" alt="" coords="2015,469,2130,499"/>
+<area shape="rect" id="node90" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="3120,547,3278,576"/>
+<area shape="rect" id="node107" href="$_rig_editor___types_8h.html" title="RigEditor_Types.h" alt="" coords="2566,392,2696,421"/>
+<area shape="rect" id="node87" href="$_rig_def___node_8h.html" title="RigDef_Node.h" alt="" coords="3143,469,3255,499"/>
+</map>

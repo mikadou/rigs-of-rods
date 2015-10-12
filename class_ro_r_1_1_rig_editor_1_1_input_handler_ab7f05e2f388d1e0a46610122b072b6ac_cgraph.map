@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$struct_ro_r_1_1_rig_editor_1_1_input_handler_1_1_mouse_motion_event.html#a79e96f955b32eb788f763cddd7e5fd70" title="RoR::RigEditor::InputHandler::MouseMotionEvent::ResetRelativeMove" alt="" coords="332,5,767,35"/>
+<area shape="rect" id="node5" href="$struct_ro_r_1_1_rig_editor_1_1_input_handler_1_1_mouse_motion_event.html#a3ea963d1406c81f971bcca3813bad643" title="RoR::RigEditor::InputHandler::MouseMotionEvent::ResetRelativeScroll" alt="" coords="331,59,768,88"/>
+<area shape="rect" id="node7" href="$struct_ro_r_1_1_rig_editor_1_1_input_handler_1_1_mouse_button_event.html#a6a0b563742608e611ebb56fbce6f6073" title="RoR::RigEditor::InputHandler::MouseButtonEvent::ResetEvents" alt="" coords="352,112,747,141"/>
+</map>

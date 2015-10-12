@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_gui_panel_base.html#a9d1fac699ff4d79c1007af21c24443e9" title="RoR::GuiPanelBase::GetWidthPixels" alt="" coords="288,139,525,168"/>
+<area shape="rect" id="node27" href="$class_ro_r_1_1_gui_panel_base.html#a0610633a6bb4693e333a260935e9ae3c" title="RoR::GuiPanelBase::GetHeightPixels" alt="" coords="285,192,528,221"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_gui_panel_base.html#a92f0be73cb302640d8eb291fd2d785df" title="RoR::GuiPanelBase::SetHeight" alt="" coords="655,85,860,115"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_gui_panel_base.html#affcdec6ec2970670cb411cd793d3393b" title="RoR::GuiPanelBase::CenterToScreen" alt="" coords="636,139,879,168"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#a812b3d695c48529c4ca8abb38d50dd84" title="RoR::RigEditor::RigElementGuiPanelBase::AlignToScreen" alt="" coords="576,192,939,221"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_beams_panel.html#a8594e2b9e741549b82c0c17c84b8d077" title="RoR::GUI::RigEditorBeamsPanel::RigEditorBeamsPanel" alt="" coords="1045,5,1397,35"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_commands2_panel.html#afe151f6ba919eeba7c10fce59776e336" title="RoR::GUI::RigEditorCommands2Panel::RigEditorCommands2Panel" alt="" coords="1012,59,1431,88"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_flex_body_wheels_panel.html#a12d5b40c50686b1a6168c542675f7608" title="RoR::GUI::RigEditorFlexBodyWheelsPanel::RigEditorFlexBodyWheelsPanel" alt="" coords="987,112,1456,141"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_hydros_panel.html#a01e678a31d0a50891a3a5e0a74cbebb4" title="RoR::GUI::RigEditorHydrosPanel::RigEditorHydrosPanel" alt="" coords="1044,165,1399,195"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_mesh_wheels2_panel.html#a6770ec2ab24e7d402882215c58cec284" title="RoR::GUI::RigEditorMeshWheels2Panel::RigEditorMeshWheels2Panel" alt="" coords="1003,219,1440,248"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_node_panel.html#ab79c2d110c56c2067bbc23a0e5f03647" title="RoR::GUI::RigEditorNodePanel::RigEditorNodePanel" alt="" coords="1055,272,1388,301"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_shocks2_panel.html#a33b83f1aba8a3cec5a15cf6f11089e29" title="RoR::GUI::RigEditorShocks2Panel::RigEditorShocks2Panel" alt="" coords="1035,325,1408,355"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_shocks_panel.html#a1d31987b03430102a9cc43a3d4900d4a" title="RoR::GUI::RigEditorShocksPanel::RigEditorShocksPanel" alt="" coords="1043,379,1400,408"/>
+<area shape="rect" id="node29" href="$class_ro_r_1_1_gui_panel_base.html#aac0ac0999cc9af8560426f3bd426953b" title="RoR::GuiPanelBase::SetWidth" alt="" coords="656,245,859,275"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_lens.html#ae09611aee318aea5b19ab47fb25917ce" title="Lens::getFocalDistance" alt="" coords="336,5,496,35"/>
+<area shape="rect" id="node5" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getSingleton" alt="" coords="239,59,593,88"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="BeamFactory::getCurrentTruck" alt="" coords="315,112,517,141"/>
+<area shape="rect" id="node11" href="$class_beam.html#a1294bf3dfa3848211b06a82020c53e72" title="Beam::getPosition" alt="" coords="352,165,480,195"/>
+<area shape="rect" id="node13" href="$class_character.html#a2c056adebe0e35330a3eae862667f1d4" title="Character::getPosition" alt="" coords="340,219,492,248"/>
+<area shape="rect" id="node15" href="$class_d_o_f_manager.html#acc47c3c82ae3490bdcc33afc88280d2b" title="DOFManager::setLensFOV" alt="" coords="325,272,507,301"/>
+<area shape="rect" id="node19" href="$class_lens.html#a7285fa0cc86f4d1323cdb8015f951d78" title="Lens::setFocalDistance" alt="" coords="336,325,496,355"/>
+<area shape="rect" id="node21" href="$class_depth_of_field_effect.html#a5a5512cd474f69835e2e77c3818e1ef8" title="DepthOfFieldEffect::setEnabled" alt="" coords="313,379,519,408"/>
+<area shape="rect" id="node23" href="$class_lens.html#a45e55692da88595d53e03ded53b9e0f7" title="Lens::recalculateDepthOfField" alt="" coords="317,432,515,461"/>
+<area shape="rect" id="node25" href="$class_depth_of_field_effect.html#aa916c7af8ebf0c5ec04020b95cd38ad5" title="DepthOfFieldEffect::setFocalDepths" alt="" coords="299,485,533,515"/>
+<area shape="rect" id="node9" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="644,112,801,141"/>
+<area shape="rect" id="node17" href="$class_lens.html#af0494726c9016786c3d6bf09b4ca66a4" title="Lens::setFieldOfView" alt="" coords="649,272,796,301"/>
+</map>

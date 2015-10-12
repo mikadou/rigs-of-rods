@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_input_engine.html#a251be92f16fe445542e240fc121354d8" title="InputEngine::getEventValue" alt="" coords="211,380,395,409"/>
+<area shape="rect" id="node5" href="$struct_ro_r_1_1_aircraft_simulation.html#a3db164bd65ba10630912b8a76537f69f" title="RoR::AircraftSimulation::UpdateVehicle" alt="" coords="1084,148,1337,177"/>
+<area shape="rect" id="node7" href="$class_character.html#a4806a9150eb30673bab3d0b47e05d135" title="Character::update" alt="" coords="799,17,924,46"/>
+<area shape="rect" id="node11" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::updateEvents" alt="" coords="1401,225,1620,254"/>
+<area shape="rect" id="node16" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a20e0e3bfb3deaa213ffb06d283ae81c8" title="RoR::LandVehicleSimulation::UpdateCruiseControl" alt="" coords="703,380,1020,409"/>
+<area shape="rect" id="node18" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a830e19b0460db3df601abe83096f78d7" title="RoR::LandVehicleSimulation::UpdateVehicle" alt="" coords="1069,354,1352,384"/>
+<area shape="rect" id="node22" href="$class_camera_behavior_orbit.html#ac2fbf5b905645faf54092ef1c081ef55" title="CameraBehaviorOrbit::update" alt="" coords="451,534,645,564"/>
+<area shape="rect" id="node24" href="$class_beam.html#ad0cf39a3ca17cad8a038d8984c6ad11f" title="Beam::calcAnimatedProps" alt="" coords="460,588,636,617"/>
+<area shape="rect" id="node26" href="$class_input_engine.html#a72145988ab99faec6f618c2a4011d236" title="InputEngine::getEventBoolValue" alt="" coords="443,277,653,306"/>
+<area shape="rect" id="node38" href="$class_input_engine.html#af8ebe9d9cb2cc8dd70b73cd3dc20e168" title="InputEngine::isEventAnalog" alt="" coords="771,121,952,150"/>
+<area shape="rect" id="node9" href="$class_character_factory.html#a70f849028ea8a2372700fe92b44dba7b" title="CharacterFactory::updateCharacters" alt="" coords="1093,24,1328,53"/>
+<area shape="rect" id="node13" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1671,225,1884,254"/>
+<area shape="rect" id="node33" href="$class_input_engine.html#af2b4c31bf4b64b4b78815142511ab343" title="InputEngine::getEventBoolValueBounce" alt="" coords="735,225,988,254"/>
+</map>

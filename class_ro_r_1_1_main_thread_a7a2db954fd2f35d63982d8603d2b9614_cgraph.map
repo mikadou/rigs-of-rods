@@ -1,0 +1,51 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="281,1247,431,1276"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_application.html#a2772c2e4817230ac11c324882877d7cd" title="RoR::Application::GetSettings" alt="" coords="555,125,752,155"/>
+<area shape="rect" id="node7" href="$class_ro_r_singleton.html#a18a797fc35bd8cfa8a2affdd197cbfee" title="RoRSingleton\&lt; Settings \&gt;::getSingleton" alt="" coords="965,88,1219,117"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_application.html#a86952e2d8958b73638b328cf6132618c" title="RoR::Application::StartOgreSubsystem" alt="" coords="528,336,779,365"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_application.html#aa01ca2e9e0ade0d7fc31a55ba34a8711" title="RoR::Application::CreateContentManager" alt="" coords="521,389,785,419"/>
+<area shape="rect" id="node14" href="$class_language_engine.html#a76cb37a44a39216fd83ab38285eacf94" title="LanguageEngine::setup" alt="" coords="575,179,732,208"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_application.html#ad53c751e7be48005e95693b9da53b80b" title="RoR::Application::GetContentManager" alt="" coords="531,443,776,472"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_content_manager.html#a7cbddcf40c0f515169de4d4e6bb8fd11" title="RoR::ContentManager::AddResourcePack" alt="" coords="957,259,1227,288"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_application.html#a5082701abd55926b3c6eb4b0c933eca5" title="RoR::Application::GetOgreSubsystem" alt="" coords="971,572,1213,601"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_ogre_subsystem.html#a2f68e736be01d118cae03e831b38a9df" title="RoR::OgreSubsystem::GetOgreRoot" alt="" coords="975,717,1209,747"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_ogre_subsystem.html#a6620196f431b09d0096516d214563fc7" title="RoR::OgreSubsystem::GetViewport" alt="" coords="539,1037,768,1067"/>
+<area shape="rect" id="node27" href="$class_ro_r_1_1_g_u_i_manager.html#a1e1383f8fc5f87e223167d1485630508" title="RoR::GUIManager::getRandomWallpaperImage" alt="" coords="504,1091,803,1120"/>
+<area shape="rect" id="node29" href="$class_ro_r_1_1_application.html#a3a867602fe89de3f420f9baa5224e181" title="RoR::Application::CreateCacheSystem" alt="" coords="528,1144,779,1173"/>
+<area shape="rect" id="node31" href="$class_ro_r_1_1_application.html#ac58b2c86e17a19b50bf305fbd7daad1a" title="RoR::Application::GetCacheSystem" alt="" coords="976,1247,1208,1276"/>
+<area shape="rect" id="node33" href="$class_cache_system.html#ab7761707f5bc702ff025ff62778a8452" title="CacheSystem::setLocation" alt="" coords="564,1453,743,1483"/>
+<area shape="rect" id="node35" href="$class_ro_r_1_1_content_manager.html#a3d65ff91e47f235abdea3dcc9db62876" title="RoR::ContentManager::init" alt="" coords="564,232,743,261"/>
+<area shape="rect" id="node39" href="$class_ro_r_1_1_application.html#a914a630cd01f6782650e261c72de5391" title="RoR::Application::CreateGuiManagerIfNotExists" alt="" coords="501,1507,805,1536"/>
+<area shape="rect" id="node41" href="$class_ro_r_1_1_application.html#a31f3af8e1288ac5751bdb2ffb59d2b83" title="RoR::Application::CreateConsoleIfNotExists" alt="" coords="512,1560,795,1589"/>
+<area shape="rect" id="node43" href="$class_ro_r_1_1_application.html#abce1a5e6706d22b53b41ee68e3d95ec2" title="RoR::Application::CreateInputEngine" alt="" coords="535,1613,772,1643"/>
+<area shape="rect" id="node45" href="$class_ro_r_1_1_application.html#a608003a20ef939a79437a9da8fa76307" title="RoR::Application::GetInputEngine" alt="" coords="983,1691,1201,1720"/>
+<area shape="rect" id="node47" href="$class_input_engine.html#afc5ef2151ca9c7a7af89c18dbbcdc65d" title="InputEngine::setupDefault" alt="" coords="567,547,740,576"/>
+<area shape="rect" id="node50" href="$class_ro_r_1_1_ogre_subsystem.html#aec5be99797f9add72578fb1fbfec582f" title="RoR::OgreSubsystem::GetRenderWindow" alt="" coords="957,640,1227,669"/>
+<area shape="rect" id="node52" href="$class_ro_r_1_1_main_thread.html#a50730ae3f8aae89aa0120b4b78b6db29" title="RoR::MainThread::RegenCache" alt="" coords="549,1299,757,1328"/>
+<area shape="rect" id="node55" href="$class_cache_system.html#ae010322c2422bf8f8dbfce904257da31" title="CacheSystem::Startup" alt="" coords="1015,1404,1169,1433"/>
+<area shape="rect" id="node57" href="$namespace_profiler.html#af79bb59414ef3ba134213bb6f2f2d292" title="Profiler::exit" alt="" coords="1359,1299,1449,1328"/>
+<area shape="rect" id="node59" href="$struct_error_utils.html#aec73b03c7829838888bbecf9acda1b98" title="ErrorUtils::ShowError" alt="" coords="1019,1351,1165,1380"/>
+<area shape="rect" id="node63" href="$class_ro_r_1_1_application.html#a3db1b8c7dc6bf465f5ed653ef4a8ce9a" title="RoR::Application::GetGuiManager" alt="" coords="983,805,1201,835"/>
+<area shape="rect" id="node65" href="$class_ro_r_1_1_g_u_i_manager.html#a9b318411ba37de1d14cf05db947f6964" title="RoR::GUIManager::InitMainSelector" alt="" coords="537,1771,769,1800"/>
+<area shape="rect" id="node67" href="$class_ro_r_singleton_no_creation.html#a5e7a47f4b2d6d0abaa3a1ea5ca1f216a" title="RoRSingletonNoCreation\&lt; ScriptEngine \&gt;::getSingleton" alt="" coords="480,1824,827,1853"/>
+<area shape="rect" id="node69" href="$class_script_engine.html#ab6f46c25495a539651bb42ae60e26e07" title="ScriptEngine::SetFrameListener" alt="" coords="551,1877,756,1907"/>
+<area shape="rect" id="node71" href="$class_ro_r_1_1_application.html#ace91a1fcdb9eea85e9a98c2ade193d46" title="RoR::Application::GetGuiManagerInterface" alt="" coords="519,1931,788,1960"/>
+<area shape="rect" id="node73" href="$class_ro_r_frame_listener.html#a967b4a6d8650f6655e436dfeee0172b2" title="RoRFrameListener::windowResized" alt="" coords="537,1717,769,1747"/>
+<area shape="rect" id="node76" href="$scriptstdstring_8cpp.html#ab33d705eee9afd65e8991f82d9c71fe3" title="parseInt" alt="" coords="619,1984,688,2013"/>
+<area shape="rect" id="node82" href="$_utils_8cpp.html#a2cd2203a94c2081c891f9bb9db3df490" title="getASCIIFromCharString" alt="" coords="569,2037,737,2067"/>
+<area shape="rect" id="node84" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt; ChatSystemFactory, ChatSystem \&gt;::getSingleton" alt="" coords="875,943,1309,972"/>
+<area shape="rect" id="node86" href="$class_chat_system_factory.html#a3d82a7c11d97f101f4bf89518c9015f2" title="ChatSystemFactory::createLocal" alt="" coords="547,2091,760,2120"/>
+<area shape="rect" id="node88" href="$class_ro_r_1_1_g_u_i_manager.html#ab326e8625381272e921be655d7977cfd" title="RoR::GUIManager::SetNetChat" alt="" coords="549,2144,757,2173"/>
+<area shape="rect" id="node90" href="$_utils_8cpp.html#adfe147e59bb1923aba4e9a0f8b14796d" title="ANSI_TO_WCHAR" alt="" coords="584,2197,723,2227"/>
+<area shape="rect" id="node92" href="$class_ro_r_1_1_g_u_i_manager.html#a0058dbdb5b0a32a923781e4750cff8b7" title="RoR::GUIManager::pushMessageChatBox" alt="" coords="519,2251,788,2280"/>
+<area shape="rect" id="node95" href="$class_ro_r_1_1_ogre_subsystem.html#a8b2ca2bb198ed0763019e9ed44c1c368" title="RoR::OgreSubsystem::SetViewport" alt="" coords="539,2304,768,2333"/>
+<area shape="rect" id="node97" href="$class_ro_r_1_1_g_u_i_manager.html#aed1b258a401a3e2dda25bb22494d7f2a" title="RoR::GUIManager::SetSceneManager" alt="" coords="531,2357,776,2387"/>
+<area shape="rect" id="node99" href="$class_input_engine.html#a10776bd49908e8a9a00b5ac5928aeff8" title="InputEngine::RestoreKeyboardListener" alt="" coords="531,2411,776,2440"/>
+<area shape="rect" id="node101" href="$class_input_engine.html#afd1108f5cb8d84da6afaac33b1740da6" title="InputEngine::RestoreMouseListener" alt="" coords="539,2464,768,2493"/>
+<area shape="rect" id="node103" href="$class_ro_r_1_1_g_u_i_manager.html#a4bee905c60edfa3be607eff44ca7ac4a" title="RoR::GUIManager::killSimUtils" alt="" coords="551,2517,756,2547"/>
+<area shape="rect" id="node105" href="$class_ro_r_1_1_main_thread.html#a19637f726d0913e26e0d0548448d8c91" title="RoR::MainThread::UnloadTerrain" alt="" coords="547,909,760,939"/>
+<area shape="rect" id="node108" href="$class_ro_r_1_1_g_u_i_manager.html#a811ed5322cfb842c8fca91d5aa82644e" title="RoR::GUIManager::getMainSelector" alt="" coords="976,859,1208,888"/>
+<area shape="rect" id="node112" href="$class_camera_manager.html#a560e6772efdcdc3ebf3453318c6d9b05" title="CameraManager::OnReturnToMainMenu" alt="" coords="525,2571,781,2600"/>
+<area shape="rect" id="node114" href="$class_ro_r_1_1_g_u_i_manager.html#a74694e261e404fa54df49feeac27c12c" title="RoR::GUIManager::ShowMainMenu" alt="" coords="537,600,769,629"/>
+<area shape="rect" id="node119" href="$class_ro_r_1_1_main_thread.html#a0be80b570e45a4de035b1f1b9684497c" title="RoR::MainThread::EnterMainMenuLoop" alt="" coords="528,704,779,733"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_bit_flags_8h.html" title="BitFlags.h" alt="" coords="81,315,161,344"/>
+<area shape="rect" id="node7" href="$_rig_def___file_8h.html" title="Structures which represent a rig&#45;definition file (1:1 match)" alt="" coords="340,160,441,189"/>
+<area shape="rect" id="node13" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="263,315,420,344"/>
+<area shape="rect" id="node32" href="$_rig_editor___node_8h.html" title="RigEditor_Node.h" alt="" coords="527,83,652,112"/>
+<area shape="rect" id="node71" href="$_rig_editor___types_8h.html" title="RigEditor_Types.h" alt="" coords="1525,160,1656,189"/>
+<area shape="rect" id="node10" href="$_rig_def___node_8h.html" title="RigDef_Node.h" alt="" coords="279,237,391,267"/>
+<area shape="rect" id="node36" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1365,160,1501,189"/>
+<area shape="rect" id="node69" href="$_rig_editor___forward_declarations_8h.html" title="RigEditor_ForwardDeclarations.h" alt="" coords="516,160,729,189"/>
+<area shape="rect" id="node59" href="$_forward_declarations_8h.html" title="Global forward declarations." alt="" coords="2560,315,2712,344"/>
+<area shape="rect" id="node61" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="2620,237,2761,267"/>
+<area shape="rect" id="node64" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="911,237,1081,267"/>
+</map>

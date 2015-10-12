@@ -1,0 +1,34 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1355,315,1491,344"/>
+<area shape="rect" id="node40" href="$_aero_engine_8h.html" title="AeroEngine.h" alt="" coords="719,160,817,189"/>
+<area shape="rect" id="node43" href="$_air_brake_8h.html" title="AirBrake.h" alt="" coords="640,83,723,112"/>
+<area shape="rect" id="node48" href="$_airfoil_8h.html" title="Airfoil.h" alt="" coords="841,160,908,189"/>
+<area shape="rect" id="node51" href="$_application_8h.html" title="Central object manager and communications hub." alt="" coords="932,160,1028,189"/>
+<area shape="rect" id="node57" href="$_approx_math_8h.html" title="ApproxMath.h" alt="" coords="1052,160,1153,189"/>
+<area shape="rect" id="node60" href="$_beam_8h.html" title="Beam.h" alt="" coords="2452,160,2519,189"/>
+<area shape="rect" id="node80" href="$_beam_engine_8h.html" title="BeamEngine.h" alt="" coords="1177,160,1284,189"/>
+<area shape="rect" id="node83" href="$_beam_factory_8h.html" title="BeamFactory.h" alt="" coords="1867,83,1976,112"/>
+<area shape="rect" id="node87" href="$_beam_stats_8h.html" title="BeamStats.h" alt="" coords="1460,160,1559,189"/>
+<area shape="rect" id="node90" href="$_buoyance_8h.html" title="Buoyance.h" alt="" coords="1583,160,1673,189"/>
+<area shape="rect" id="node93" href="$_cmd_key_inertia_8h.html" title="CmdKeyInertia.h" alt="" coords="1723,83,1843,112"/>
+<area shape="rect" id="node96" href="$_collisions_8h.html" title="Collisions.h" alt="" coords="2076,160,2167,189"/>
+<area shape="rect" id="node104" href="$_differentials_8h.html" title="Differentials.h" alt="" coords="3361,237,3463,267"/>
+<area shape="rect" id="node108" href="$_dust_pool_8h.html" title="DustPool.h" alt="" coords="515,83,600,112"/>
+<area shape="rect" id="node111" href="$_flex_airfoil_8h.html" title="FlexAirfoil.h" alt="" coords="1697,160,1788,189"/>
+<area shape="rect" id="node115" href="$_input_engine_8h.html" title="Input logic." alt="" coords="1983,237,2084,267"/>
+<area shape="rect" id="node119" href="$_replay_8h.html" title="Replay.h" alt="" coords="2168,83,2243,112"/>
+<area shape="rect" id="node124" href="$_screw_prop_8h.html" title="ScrewProp.h" alt="" coords="1237,83,1333,112"/>
+<area shape="rect" id="node127" href="$_sound_script_manager_8h.html" title="SoundScriptManager.h" alt="" coords="3412,83,3567,112"/>
+<area shape="rect" id="node129" href="$_water_8h.html" title="Water.h" alt="" coords="1357,83,1424,112"/>
+<area shape="rect" id="node132" href="$_terrain_manager_8h.html" title="TerrainManager.h" alt="" coords="3591,83,3713,112"/>
+<area shape="rect" id="node134" href="$_thread_pool_8h.html" title="ThreadPool.h" alt="" coords="1448,83,1547,112"/>
+<area shape="rect" id="node29" href="$_forward_declarations_8h.html" title="Global forward declarations." alt="" coords="408,469,560,499"/>
+<area shape="rect" id="node31" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="360,392,501,421"/>
+<area shape="rect" id="node34" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="576,392,747,421"/>
+<area shape="rect" id="node36" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="771,392,917,421"/>
+<area shape="rect" id="node54" href="$_settings_8h.html" title="Settings.h" alt="" coords="959,237,1039,267"/>
+<area shape="rect" id="node70" href="$_per_vehicle_camera_context_8h.html" title="PerVehicleCameraContext.h" alt="" coords="3049,237,3236,267"/>
+<area shape="rect" id="node72" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="2441,237,2599,267"/>
+<area shape="rect" id="node74" href="$_beam_data_8h.html" title="Core data structures for simulation." alt="" coords="1815,237,1908,267"/>
+<area shape="rect" id="node77" href="$_i_thread_task_8h.html" title="IThreadTask.h" alt="" coords="2311,237,2417,267"/>
+</map>

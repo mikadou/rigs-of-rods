@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_terrain_geometry_manager.html#a2b69c5f50a8c619b28a0f9d2ccb8eb84" title="TerrainGeometryManager::getTerrainImage" alt="" coords="308,59,577,88"/>
+<area shape="rect" id="node5" href="$class_terrain_geometry_manager.html#a5d955662dda8b746d97fe586997f2471" title="TerrainGeometryManager::getPageHeightmap" alt="" coords="627,5,915,35"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_config_file.html#ae895cb90a1eaaf14ca8b11614da92f70" title="RoR::ConfigFile::GetInt" alt="" coords="691,59,851,88"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_config_file.html#a8f0891b0d96c8f37718f579362152de8" title="RoR::ConfigFile::GetBool" alt="" coords="685,112,856,141"/>
+<area shape="rect" id="node7" href="$class_terrain_geometry_manager.html#a8ba9a7f3dd580bca8f77a3367f9a1043" title="TerrainGeometryManager::getPageConfig" alt="" coords="964,5,1225,35"/>
+<area shape="rect" id="node9" href="$class_terrain_geometry_manager.html#ac070ae8f0fec5d49d0942a576ad2c726" title="TerrainGeometryManager::getPageConfigFilename" alt="" coords="1276,5,1591,35"/>
+<area shape="rect" id="node13" href="$scriptstdstring_8cpp.html#ab33d705eee9afd65e8991f82d9c71fe3" title="parseInt" alt="" coords="1060,59,1129,88"/>
+<area shape="rect" id="node15" href="$_approx_math_8h.html#ad685178dbcfdd207c7306561512e1582" title="sign" alt="" coords="1411,59,1456,88"/>
+</map>

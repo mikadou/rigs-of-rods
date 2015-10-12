@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_hydrax_1_1_module_1_1_projected_grid.html#a86e4648a741558934e664f7400082742" title="Hydrax::Module::ProjectedGrid::create" alt="" coords="444,32,689,61"/>
+<area shape="rect" id="node11" href="$class_hydrax_1_1_module_1_1_projected_grid.html#a985d7ed255ac6d289f12b07a50f12eac" title="Hydrax::Module::ProjectedGrid::_getMinMax" alt="" coords="427,85,707,115"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_module_1_1_projected_grid.html#a04d04b9cfc173538038a5f51094c1ffa" title="Hydrax::Module::ProjectedGrid::setOptions" alt="" coords="755,32,1027,61"/>
+<area shape="rect" id="node7" href="$class_hydrax_1_1_module_1_1_projected_grid.html#aa9308990b99866cbd09edd3600972443" title="Hydrax::Module::ProjectedGrid::ProjectedGrid" alt="" coords="1075,5,1363,35"/>
+<area shape="rect" id="node9" href="$class_hydrax_1_1_module_1_1_projected_grid.html#af951c58cc93cf75d57e69aa14a668d3e" title="Hydrax::Module::ProjectedGrid::loadCfg" alt="" coords="1092,59,1345,88"/>
+<area shape="rect" id="node13" href="$class_hydrax_1_1_module_1_1_projected_grid.html#a8d7a8efcd6b7fd0e4313c9114bd2c061" title="Hydrax::Module::ProjectedGrid::update" alt="" coords="767,85,1015,115"/>
+</map>

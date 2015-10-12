@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_hydrax_1_1_material_manager.html#adb84a2034180ce0434b02d8f1b4aac85" title="Hydrax::MaterialManager::_createDepthMaterial" alt="" coords="348,220,647,249"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_material_manager.html#ae7b2cfea68cac81f2a366f005410e0d9" title="Hydrax::MaterialManager::_isComponent" alt="" coords="724,5,983,35"/>
+<area shape="rect" id="node13" href="$class_hydrax_1_1_hydrax.html#a011da649ae072cce9c6db28620b67a42" title="Hydrax::Hydrax::getPosition" alt="" coords="760,59,947,88"/>
+<area shape="rect" id="node15" href="$class_hydrax_1_1_hydrax.html#a99b530dca1b0ba95e43d4deeec01d7d1" title="Hydrax::Hydrax::getPlanesError" alt="" coords="749,112,957,141"/>
+<area shape="rect" id="node17" href="$class_hydrax_1_1_hydrax.html#a03b8b82e6223f7e3ec47d845957ec5e3" title="Hydrax::Hydrax::getDepthLimit" alt="" coords="752,272,955,301"/>
+<area shape="rect" id="node19" href="$class_hydrax_1_1_hydrax.html#a11c8fdf94b2cd7e7a4d52caff5e83b29" title="Hydrax::Hydrax::getDistLimit" alt="" coords="757,325,949,355"/>
+<area shape="rect" id="node21" href="$class_hydrax_1_1_hydrax.html#a4e9359d0ee14a3f1aae1776b7144bfab" title="Hydrax::Hydrax::getCausticsScale" alt="" coords="741,379,965,408"/>
+<area shape="rect" id="node23" href="$class_hydrax_1_1_hydrax.html#a608b120b0ee226cf85b1c5a1720f65a6" title="Hydrax::Hydrax::getCausticsEnd" alt="" coords="747,432,960,461"/>
+<area shape="rect" id="node7" href="$class_hydrax_1_1_material_manager.html#a648e7cd626194ea34c31a4bf422cdf4d" title="Hydrax::MaterialManager::getMaterial" alt="" coords="733,219,973,248"/>
+<area shape="rect" id="node9" href="$class_hydrax_1_1_material_manager.html#a9374e09a2d918becab5db16240d2b8e1" title="Hydrax::MaterialManager::fillGpuProgramsToPass" alt="" coords="696,165,1011,195"/>
+<area shape="rect" id="node11" href="$class_hydrax_1_1_material_manager.html#ac0f7c351a7df142a04023c3409d6d871" title="Hydrax::MaterialManager::createGpuProgram" alt="" coords="1059,165,1344,195"/>
+</map>

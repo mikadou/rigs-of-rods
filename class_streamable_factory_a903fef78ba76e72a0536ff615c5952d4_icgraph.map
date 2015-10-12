@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_streamable_factory.html#a0e021c1b7f7b1678028588a4cfdfd4c3" title="StreamableFactory\&lt; ChatSystemFactory, ChatSystem \&gt;::createRemote" alt="" coords="332,5,775,35"/>
+<area shape="rect" id="node5" href="$class_streamable_factory.html#a3a07971eaf14dc5bec86eceaf87e4bf5" title="StreamableFactory\&lt; ChatSystemFactory, ChatSystem \&gt;::deleteRemote" alt="" coords="332,59,775,88"/>
+<area shape="rect" id="node7" href="$class_streamable_factory.html#af84f305857e0e20a5ac32de9bd095cd6" title="StreamableFactory\&lt; ChatSystemFactory, ChatSystem \&gt;::syncRemoteStreams" alt="" coords="311,112,796,141"/>
+<area shape="rect" id="node9" href="$class_streamable_factory.html#abd513efc55dd1ac6e88967d7ea2dcb59" title="StreamableFactory\&lt; ChatSystemFactory, ChatSystem \&gt;::checkStreamsOK" alt="" coords="321,165,785,195"/>
+<area shape="rect" id="node11" href="$class_streamable_factory.html#a2c4d43eeba1a574e36b132559050629e" title="StreamableFactory\&lt; ChatSystemFactory, ChatSystem \&gt;::checkStreamsResultsChanged" alt="" coords="283,219,824,248"/>
+<area shape="rect" id="node13" href="$class_streamable_factory.html#ac5a1d3863a3962d7067fe0bb880e5cfc" title="StreamableFactory\&lt; ChatSystemFactory, ChatSystem \&gt;::checkStreamsRemoteOK" alt="" coords="299,272,808,301"/>
+<area shape="rect" id="node15" href="$class_streamable_factory.html#a835dd4f3c0e0210be695a2b2b3834903" title="StreamableFactory\&lt; ChatSystemFactory, ChatSystem \&gt;::clearStreamRegistrationResults" alt="" coords="280,325,827,355"/>
+<area shape="rect" id="node17" href="$class_streamable_factory.html#aa52c4159e9084dc42415d8ccc1f07e98" title="StreamableFactory\&lt; ChatSystemFactory, ChatSystem \&gt;::getStreamRegistrationResults" alt="" coords="285,379,821,408"/>
+<area shape="rect" id="node19" href="$class_streamable_factory.html#a943ef96883db21c42ca0b02c8aaeb39f" title="StreamableFactory\&lt; ChatSystemFactory, ChatSystem \&gt;::addStreamRegistrationResults" alt="" coords="284,432,823,461"/>
+</map>

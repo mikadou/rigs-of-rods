@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a38e4135df406da0cc2f0fc4afb34ddb3" title="RigDef::Parser::_ParseNodeRef" alt="" coords="367,59,577,88"/>
+<area shape="rect" id="node9" href="$class_rig_def_1_1_parser.html#a5c5afec432a28a9c14994933922b67b7" title="RigDef::Parser::VerifyAndProcessMeshWheel2" alt="" coords="323,112,621,141"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_sequential_importer.html#a04d293d8b1f94b9a722e83715911e547" title="RigDef::SequentialImporter::IsEnabled" alt="" coords="715,5,960,35"/>
+<area shape="rect" id="node7" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="RigDef::Parser::AddMessage" alt="" coords="741,59,933,88"/>
+<area shape="rect" id="node11" href="$class_rig_def_1_1_node_1_1_ref.html#a5912183c0dfa018a32190a5bc89b53c8" title="RigDef::Node::Ref::IsValidAnyState" alt="" coords="721,219,953,248"/>
+<area shape="rect" id="node13" href="$class_rig_def_1_1_node_1_1_ref.html#a654831f9421f9d314d849f966f70a04d" title="RigDef::Node::Ref::Num" alt="" coords="755,272,920,301"/>
+<area shape="rect" id="node15" href="$class_rig_def_1_1_node_1_1_ref.html#a4a6abb34a80d8f0037de0c5120c87bad" title="RigDef::Node::Ref::Invalidate" alt="" coords="740,112,935,141"/>
+<area shape="rect" id="node19" href="$class_rig_def_1_1_sequential_importer.html#a639c4f71bc37fc08f02a5b603ee14033" title="RigDef::SequentialImporter::GenerateNodesForWheel" alt="" coords="671,165,1004,195"/>
+<area shape="rect" id="node21" href="$class_rig_def_1_1_sequential_importer.html#a5f5e30fbc3b2f58adb15a8f64bbecd15" title="RigDef::SequentialImporter::AddGeneratedNode" alt="" coords="1055,165,1356,195"/>
+</map>

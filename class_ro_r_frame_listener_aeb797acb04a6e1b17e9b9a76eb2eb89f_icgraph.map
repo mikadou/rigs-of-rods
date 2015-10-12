@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_game_script.html#ae54cf00c2a516f4dd893d3ec582b7a27" title="GameScript::setDirectionArrow" alt="" coords="303,5,505,35"/>
+<area shape="rect" id="node5" href="$class_game_script.html#ab656935867c0cac45d7b814c8a78a1df" title="GameScript::hideDirectionArrow" alt="" coords="300,59,508,88"/>
+</map>

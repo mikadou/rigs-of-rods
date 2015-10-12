@@ -1,0 +1,28 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_character.html#af66e892ae9ab0bc74278e55754400b2d" title="Character::updateNetLabel" alt="" coords="323,73,501,103"/>
+<area shape="rect" id="node11" href="$class_character.html#a529210827a59717cd3f7ab147a82dd94" title="Character::updateNetLabelSize" alt="" coords="311,140,513,169"/>
+<area shape="rect" id="node29" href="$class_beam.html#a9fc730b7d441b1e0ad774764c743718b" title="Beam::setDebugOverlayState" alt="" coords="315,193,509,223"/>
+<area shape="rect" id="node31" href="$class_collisions.html#a50cf1fc86be3b7e69b687256f6d5d1f3" title="Collisions::addCollisionBox" alt="" coords="321,297,503,327"/>
+<area shape="rect" id="node50" href="$class_collisions.html#a671f48109ee3e019d5eb10cc93ea3383" title="Collisions::createCollisionDebugVisualization" alt="" coords="907,244,1192,273"/>
+<area shape="rect" id="node55" href="$class_collisions.html#a285399f2b679c1d0b649b71aa805d5f3" title="Collisions::addCollisionMesh" alt="" coords="317,351,507,380"/>
+<area shape="rect" id="node5" href="$class_character.html#a2b381f85738c4ede878be18925e1ce81" title="Character::Character" alt="" coords="639,59,783,88"/>
+<area shape="rect" id="node7" href="$class_character_factory.html#aba10150e9cffe503714dca7faaa9b780" title="CharacterFactory::localUserAttributesChanged" alt="" coords="564,112,857,141"/>
+<area shape="rect" id="node9" href="$class_character_factory.html#a4c9df69b8d726f031d75479ea7bdd326" title="CharacterFactory::netUserAttributesChanged" alt="" coords="568,5,853,35"/>
+<area shape="rect" id="node13" href="$class_character_factory.html#a5dda711f6e7b307295f4a0303d7e0911" title="CharacterFactory::updateLabels" alt="" coords="607,165,815,195"/>
+<area shape="rect" id="node15" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="943,191,1156,220"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_main_thread.html#ab48ab040ee463287f7953eef17ad4c62" title="RoR::MainThread::MainMenuLoopUpdate" alt="" coords="919,137,1180,167"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_main_thread.html#a0be80b570e45a4de035b1f1b9684497c" title="RoR::MainThread::EnterMainMenuLoop" alt="" coords="1519,139,1769,168"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="2375,192,2524,221"/>
+<area shape="rect" id="node23" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2661,165,2712,195"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::RequestRestart" alt="" coords="2575,219,2799,248"/>
+<area shape="rect" id="node27" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="2849,219,3031,248"/>
+<area shape="rect" id="node33" href="$class_terrain_object_manager.html#a62a108ad201e16585ab3115befedae60" title="TerrainObjectManager::loadObject" alt="" coords="601,299,820,328"/>
+<area shape="rect" id="node35" href="$class_game_script.html#adc155d46516906fb9bfddde649c02ee6" title="GameScript::spawnObject" alt="" coords="963,297,1136,327"/>
+<area shape="rect" id="node37" href="$class_terrain_object_manager.html#a45ccbf51f9c0ecac68927fed5e52eaa4" title="TerrainObjectManager::loadObjectConfigFile" alt="" coords="911,351,1188,380"/>
+<area shape="rect" id="node39" href="$class_terrain_manager.html#a4ad87b973cb6af52daaf530a5feff167" title="TerrainManager::loadTerrainObjects" alt="" coords="1240,324,1469,353"/>
+<area shape="rect" id="node41" href="$class_terrain_manager.html#a9a04c837bf2ea6528c465b27ca62f730" title="TerrainManager::loadTerrain" alt="" coords="1552,244,1736,273"/>
+<area shape="rect" id="node43" href="$class_ro_r_1_1_main_thread.html#a60603be78a54ae5a24ca1c00509aca1f" title="RoR::MainThread::LoadTerrain" alt="" coords="1820,244,2020,273"/>
+<area shape="rect" id="node45" href="$class_ro_r_1_1_main_thread.html#aa3feeebda7f3f4c31a6cb96ea60c09e0" title="RoR::MainThread::SetupGameplayLoop" alt="" coords="2071,244,2324,273"/>
+<area shape="rect" id="node48" href="$class_game_script.html#ac1cba3fc83facbad8281ff80d4ab0f0b" title="GameScript::loadTerrain" alt="" coords="2116,191,2279,220"/>
+<area shape="rect" id="node52" href="$class_collisions.html#ae63812137037d5a0e4da7cfb6d3b9ed0" title="Collisions::finishLoadingTerrain" alt="" coords="1253,244,1456,273"/>
+</map>

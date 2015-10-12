@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_node.html#a96df42eb7849b0a74a0332ca22b71993" title="RoR::RigEditor::Node::IsSelected" alt="" coords="351,5,569,35"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_node.html#ae6d7d38ab11beec2a6316b50d4cb0339" title="RoR::RigEditor::Node::SetSelected" alt="" coords="345,59,575,88"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a9b03472fe7e8b7d0aebba72c14a5af5e" title="RoR::RigEditor::Rig::CreateNewNode" alt="" coords="339,112,581,141"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_rig_editor_1_1_node.html#aefebb9cd1a67bbb2afc980b0f8baab12" title="RoR::RigEditor::Node::GetPosition" alt="" coords="347,165,573,195"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a4795b1722f94f9584b91c0074c62161d" title="RoR::RigEditor::Rig::CreateNewBeam" alt="" coords="337,219,583,248"/>
+<area shape="rect" id="node7" href="$_bit_flags_8h.html#a63b4d326c379e529b18f9d5a0e792b32" title="Bitmask_SetBool" alt="" coords="677,59,800,88"/>
+<area shape="rect" id="node11" href="$class_rig_def_1_1_node_1_1_id.html#a0c74f13391cb2b7dd03b0810766a0c7d" title="RigDef::Node::Id::SetNum" alt="" coords="651,112,827,141"/>
+<area shape="rect" id="node13" href="$class_rig_def_1_1_node_1_1_id.html#a83e169095cd7d288c1b94fb952a83f9b" title="RigDef::Node::Id::Str" alt="" coords="665,165,812,195"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#aa772c5fe338c44feab7a2bd92d88de17" title="RoR::RigEditor::Beam::SetColor" alt="" coords="633,219,844,248"/>
+</map>

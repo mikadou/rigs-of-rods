@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_rig_spawner.html#a6bfcada82322e490117f4f5441665830" title="RigSpawner::AddMessage" alt="" coords="339,5,515,35"/>
+<area shape="rect" id="node11" href="$class_rig_spawner.html#aeec377d1768810665f38c504d5cfb58a" title="RigSpawner::ProcessMessagesToString" alt="" coords="297,59,556,88"/>
+<area shape="rect" id="node13" href="$class_rig_def_1_1_parser.html#a33ad8735b03d1d4d43bbd964b71f99be" title="RigDef::Parser::IdentifyKeyword" alt="" coords="321,112,532,141"/>
+<area shape="rect" id="node31" href="$class_rig_def_1_1_sequential_importer.html#ac2e3fa72a3d0f97a7cebe79456efd2ef" title="RigDef::SequentialImporter::ResolveNodeByIndex" alt="" coords="269,165,584,195"/>
+<area shape="rect" id="node37" href="$class_rig_def_1_1_sequential_importer.html#a97bec71f6d710c1c6804d9b1e03977a5" title="RigDef::SequentialImporter::ResolveNode" alt="" coords="293,219,560,248"/>
+<area shape="rect" id="node40" href="$class_rig_def_1_1_sequential_importer.html#a42dd94aef68a0dad47617c4a24382432" title="RigDef::SequentialImporter::ProcessMessagesToString" alt="" coords="255,272,599,301"/>
+<area shape="rect" id="node42" href="$class_rig_def_1_1_sequential_importer.html#a23b668fd32d05ecca23cdbf3e842dba5" title="RigDef::SequentialImporter::IterateAndPrintAllNodes" alt="" coords="263,325,591,355"/>
+<area shape="rect" id="node44" href="$class_rig_def_1_1_validator.html#a1ffed672ccc5a292ee1bdaa57ce1f357" title="RigDef::Validator::CheckSection" alt="" coords="321,379,532,408"/>
+<area shape="rect" id="node5" href="$class_video_camera.html#a8268fb8cb1546ba2f78a2179c6a763c2" title="VideoCamera::Setup" alt="" coords="741,5,883,35"/>
+<area shape="rect" id="node7" href="$class_rig_spawner.html#ac40a82ded5f7e9199428c228d4c5cd89" title="RigSpawner::ProcessVideoCamera" alt="" coords="1033,5,1260,35"/>
+<area shape="rect" id="node9" href="$class_rig_spawner.html#a67da85dd09bd864df9dc924f6f2a7d49" title="RigSpawner::SpawnRig" alt="" coords="1385,5,1545,35"/>
+<area shape="rect" id="node15" href="$class_rig_def_1_1_parser.html#a572673469cf88cdebbd30e04df5629ff" title="RigDef::Parser::ParseLine" alt="" coords="725,112,899,141"/>
+<area shape="rect" id="node17" href="$class_beam.html#a866f7eb5e93d6c476fa1bd0a4b7dcdf5" title="Beam::LoadTruck" alt="" coords="1084,59,1209,88"/>
+<area shape="rect" id="node21" href="$class_cache_system.html#ad640fd28c3075eb6310d8d8f3475cefb" title="CacheSystem::fillTruckDetailInfo" alt="" coords="1040,112,1253,141"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a0ae39993d636eacc5dfe567c5f5ac4b9" title="RoR::RigEditor::Main::LoadRigDefFile" alt="" coords="1024,165,1269,195"/>
+<area shape="rect" id="node19" href="$class_beam.html#ac3b331240d6084f4a5116f6c862b65ad" title="Beam::Beam" alt="" coords="1416,59,1515,88"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a35a10d6c23920802442d32fab1a8d470" title="RoR::RigEditor::Main::NotifyFileSelectorEnded" alt="" coords="1317,165,1613,195"/>
+<area shape="rect" id="node27" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a4f73e9dc5632524ca803864460b82bb5" title="RoR::RigEditor::Main::CommandShowDialogOpenRigFile" alt="" coords="1669,139,2027,168"/>
+<area shape="rect" id="node29" href="$class_ro_r_1_1_rig_editor_1_1_main.html#acb4af1361d9233f5ee2fa658536a7658" title="RoR::RigEditor::Main::CommandShowDialogSaveRigFileAs" alt="" coords="1663,192,2033,221"/>
+<area shape="rect" id="node33" href="$class_rig_def_1_1_sequential_importer.html#a6029705326e0cfa1d42e06ff8a3937de" title="RigDef::SequentialImporter::ResolveFlexbodyForset" alt="" coords="649,165,975,195"/>
+<area shape="rect" id="node35" href="$class_rig_def_1_1_sequential_importer.html#a3b5fe4ea5c9ab72bab2c88845cbe144a" title="RigDef::SequentialImporter::ResolveNodeRanges" alt="" coords="656,219,968,248"/>
+<area shape="rect" id="node46" href="$class_rig_def_1_1_validator.html#ae2d419ab52977f748ad5dd37331fa018" title="RigDef::Validator::Validate" alt="" coords="724,379,900,408"/>
+</map>

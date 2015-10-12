@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getSingleton" alt="" coords="287,5,641,35"/>
+<area shape="rect" id="node5" href="$class_beam_factory.html#aa7c42481b46a78459831fa0900ab8d67" title="BeamFactory::getTrucks" alt="" coords="381,59,547,88"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#a5f3755f8cd44e6972e463cc6aaa9f181" title="BeamFactory::getTruckCount" alt="" coords="367,112,561,141"/>
+<area shape="rect" id="node9" href="$_approx_math_8h.html#a88cab057c9c3a7a5cbaa1aebb06bf864" title="fast_normalise" alt="" coords="411,165,517,195"/>
+<area shape="rect" id="node13" href="$class_collisions.html#a37fe3226d0a0ad6497c97555f1aa4b31" title="Collisions::primitiveCollision" alt="" coords="371,219,557,248"/>
+<area shape="rect" id="node11" href="$_approx_math_8h.html#a08e9e14c091640464aae072f3823b855" title="fast_invSqrt" alt="" coords="692,165,783,195"/>
+<area shape="rect" id="node15" href="$_approx_math_8h.html#aa827078e74a2a2b87a97a834d2359e88" title="approx_pow" alt="" coords="692,219,783,248"/>
+<area shape="rect" id="node18" href="$_approx_math_8h.html#a9f32a288dbece202a4eaa1808aad5506" title="approx_exp" alt="" coords="693,272,781,301"/>
+</map>

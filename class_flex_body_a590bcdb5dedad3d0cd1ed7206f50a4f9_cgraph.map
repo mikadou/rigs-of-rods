@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_approx_math_8h.html#a88cab057c9c3a7a5cbaa1aebb06bf864" title="fast_normalise" alt="" coords="309,5,416,35"/>
+<area shape="rect" id="node7" href="$class_material_function_mapper.html#abee8fd1cc0b52699d3babb4b5e84b477" title="MaterialFunctionMapper::replaceSimpleMeshMaterials" alt="" coords="195,59,531,88"/>
+<area shape="rect" id="node9" href="$class_material_function_mapper.html#aab97adc6de3c318a5243a777adeaed62" title="MaterialFunctionMapper::replaceMeshMaterials" alt="" coords="215,112,511,141"/>
+<area shape="rect" id="node11" href="$class_material_replacer.html#abbda915fc5c737cfaeb832b5b1695a03" title="MaterialReplacer::replaceMeshMaterials" alt="" coords="236,165,489,195"/>
+<area shape="rect" id="node13" href="$class_skin.html#a71fc9fb4b831906e7ee3c4bce8e6a541" title="Skin::replaceMeshMaterials" alt="" coords="272,219,453,248"/>
+<area shape="rect" id="node5" href="$_approx_math_8h.html#a08e9e14c091640464aae072f3823b855" title="fast_invSqrt" alt="" coords="651,5,741,35"/>
+<area shape="rect" id="node15" href="$class_skin.html#acfb65fd10c0a5b1745257b68d6bf41d4" title="Skin::uniquifyMeshMaterials" alt="" coords="603,165,789,195"/>
+<area shape="rect" id="node17" href="$class_skin.html#a5fe437e01b688302b2c3417f0c9c3502" title="Skin::stripMaterialNameUniqueNess" alt="" coords="579,219,813,248"/>
+<area shape="rect" id="node19" href="$class_skin.html#ab424d671c22c485a040e9b43fbc46376" title="Skin::replaceMaterialTextures" alt="" coords="599,272,793,301"/>
+</map>

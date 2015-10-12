@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a8794cd1274ff08b674f0735aaf129600" title="RoR::RigEditor::Main::CommandShowRigPropertiesWindow" alt="" coords="319,5,692,35"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a55bcd6dac382f4df61bcc20b25c3811b" title="RoR::RigEditor::Main::CommandSaveContentOfRigPropertiesWindow" alt="" coords="291,59,720,88"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a7cc0b6e0fae2e32cc38ff3270f7f6648" title="RoR::RigEditor::Main::CommandShowLandVehiclePropertiesWindow" alt="" coords="293,112,717,141"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_main.html#af29e78c09b06d6a4f98ead6abc3d85d2" title="RoR::RigEditor::Main::CommandSaveLandVehiclePropertiesWindowData" alt="" coords="280,165,731,195"/>
+</map>

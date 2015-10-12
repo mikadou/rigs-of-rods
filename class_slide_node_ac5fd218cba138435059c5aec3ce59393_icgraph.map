@@ -1,0 +1,26 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_beam.html#a99d7bd308fca5408d36a597e4463a6ef" title="Beam::getClosestRailOnTruck" alt="" coords="437,211,637,240"/>
+<area shape="rect" id="node35" href="$class_slide_node.html#ac667f76769572eb2a81925c8b62dad2b" title="SlideNode::getClosestRailAll" alt="" coords="199,263,388,292"/>
+<area shape="rect" id="node48" href="$class_slide_node.html#a48a9688174aeab0f3419520f674ee666" title="SlideNode::attachToRail" alt="" coords="963,368,1125,397"/>
+<area shape="rect" id="node50" href="$class_slide_node.html#a063d11397a4c3f276ffa060d8d391393" title="SlideNode::getClosestRail" alt="" coords="205,316,381,345"/>
+<area shape="rect" id="node55" href="$class_slide_node.html#af9d6fce867516b292cd824473314affa" title="SlideNode::getLenTo" alt="" coords="221,420,365,449"/>
+<area shape="rect" id="node5" href="$class_beam.html#a7f17e89ec7dfd80a13382d1df2155bdb" title="Beam::toggleSlideNodeLock" alt="" coords="685,209,872,239"/>
+<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::updateEvents" alt="" coords="2152,133,2371,163"/>
+<area shape="rect" id="node11" href="$class_beam_factory.html#a6eb09f405c2dc496a687caf0014800b0" title="BeamFactory::CreateLocalRigInstance" alt="" coords="920,108,1168,137"/>
+<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="2439,133,2652,163"/>
+<area shape="rect" id="node14" href="$class_ro_r_frame_listener.html#abbab3f9d2773790f0d8567ee4434a739" title="RoRFrameListener::InitTrucks" alt="" coords="1861,53,2059,83"/>
+<area shape="rect" id="node27" href="$class_ro_r_frame_listener.html#accf1a2895ee6b67789cfaa570bfa01cb" title="RoRFrameListener::reloadCurrentTruck" alt="" coords="1835,107,2085,136"/>
+<area shape="rect" id="node30" href="$class_terrain_object_manager.html#a202d577cb222f42c46e5b6600c9626a4" title="TerrainObjectManager::loadPreloadedTrucks" alt="" coords="1216,5,1496,35"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_main_thread.html#aa3feeebda7f3f4c31a6cb96ea60c09e0" title="RoR::MainThread::SetupGameplayLoop" alt="" coords="2135,53,2388,83"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="2471,53,2620,83"/>
+<area shape="rect" id="node21" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2789,27,2840,56"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::RequestRestart" alt="" coords="2703,80,2927,109"/>
+<area shape="rect" id="node25" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="2977,80,3159,109"/>
+<area shape="rect" id="node32" href="$class_terrain_manager.html#ac666fc0221c16001186b83cd6df66691" title="TerrainManager::loadPreloadedTrucks" alt="" coords="1544,5,1787,35"/>
+<area shape="rect" id="node38" href="$class_slide_node.html#a3b6be868fa3b7becc403a3169d864a19" title="SlideNode::ResetPositions" alt="" coords="689,315,868,344"/>
+<area shape="rect" id="node40" href="$class_slide_node.html#a62cf14fa6911369caf82d59fd5103baf" title="SlideNode::reset" alt="" coords="985,315,1103,344"/>
+<area shape="rect" id="node42" href="$class_slide_node.html#a1e7f3cdbbe2d0ae1085caa1207882355" title="SlideNode::setDefaultRail" alt="" coords="957,261,1131,291"/>
+<area shape="rect" id="node44" href="$class_rig_spawner.html#aeb9cc73a5856b289f91e6a46115a01ad" title="RigSpawner::ProcessSlidenode" alt="" coords="1253,261,1459,291"/>
+<area shape="rect" id="node46" href="$class_rig_spawner.html#a67da85dd09bd864df9dc924f6f2a7d49" title="RigSpawner::SpawnRig" alt="" coords="1585,261,1745,291"/>
+<area shape="rect" id="node52" href="$class_slide_node.html#a5e9c99e329a64b1233bd26cd2506c4ba" title="SlideNode::UpdatePosition" alt="" coords="448,315,627,344"/>
+</map>

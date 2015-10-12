@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="5,237,163,267"/>
+<area shape="rect" id="node5" href="$_rig_def___file_8h.html" title="Structures which represent a rig&#45;definition file (1:1 match)" alt="" coords="375,83,476,112"/>
+<area shape="rect" id="node31" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1461,83,1597,112"/>
+<area shape="rect" id="node7" href="$_bit_flags_8h.html" title="BitFlags.h" alt="" coords="432,237,512,267"/>
+<area shape="rect" id="node11" href="$_rig_def___node_8h.html" title="RigDef_Node.h" alt="" coords="323,160,435,189"/>
+<area shape="rect" id="node54" href="$_forward_declarations_8h.html" title="Global forward declarations." alt="" coords="1396,237,1548,267"/>
+<area shape="rect" id="node56" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1544,160,1685,189"/>
+<area shape="rect" id="node59" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="904,160,1075,189"/>
+</map>

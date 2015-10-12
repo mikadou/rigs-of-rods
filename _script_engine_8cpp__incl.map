@@ -1,0 +1,36 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_script_engine_8h.html" title="AngelScript interface to the game." alt="" coords="2040,160,2147,189"/>
+<area shape="rect" id="node55" href="$scriptstdstring_8h.html" title="scriptstdstring/scriptstdstring.h" alt="" coords="5,237,205,267"/>
+<area shape="rect" id="node59" href="$scriptmath_8h.html" title="scriptmath/scriptmath.h" alt="" coords="571,160,728,189"/>
+<area shape="rect" id="node62" href="$contextmgr_8h.html" title="contextmgr/contextmgr.h" alt="" coords="1795,237,1960,267"/>
+<area shape="rect" id="node66" href="$scriptany_8h.html" title="scriptany/scriptany.h" alt="" coords="304,160,445,189"/>
+<area shape="rect" id="node69" href="$scriptarray_8h.html" title="scriptarray/scriptarray.h" alt="" coords="477,83,635,112"/>
+<area shape="rect" id="node72" href="$scripthelper_8h.html" title="scripthelper/scripthelper.h" alt="" coords="708,83,879,112"/>
+<area shape="rect" id="node75" href="$scriptstring_8h.html" title="scriptstring/scriptstring.h" alt="" coords="229,237,395,267"/>
+<area shape="rect" id="node79" href="$_application_8h.html" title="Central object manager and communications hub." alt="" coords="2523,83,2619,112"/>
+<area shape="rect" id="node82" href="$_settings_8h.html" title="Settings.h" alt="" coords="2531,160,2611,189"/>
+<area shape="rect" id="node86" href="$_ogre_angelscript_8h.html" title="OgreAngelscript.h" alt="" coords="1475,237,1600,267"/>
+<area shape="rect" id="node91" href="$_beam_8h.html" title="Beam.h" alt="" coords="3081,237,3148,267"/>
+<area shape="rect" id="node112" href="$_console_8h.html" title="Console.h" alt="" coords="1775,83,1855,112"/>
+<area shape="rect" id="node114" href="$_local_storage_8h.html" title="LocalStorage.h" alt="" coords="1253,160,1363,189"/>
+<area shape="rect" id="node123" href="$_ogre_subsystem_8h.html" title="OGRE engine wrapper." alt="" coords="1625,83,1751,112"/>
+<area shape="rect" id="node126" href="$_game_script_8h.html" title="GameScript.h" alt="" coords="2043,83,2144,112"/>
+<area shape="rect" id="node132" href="$_ogre_script_builder_8h.html" title="OgreScriptBuilder.h" alt="" coords="1039,160,1172,189"/>
+<area shape="rect" id="node137" href="$_c_bytecode_stream_8h.html" title="CBytecodeStream.h" alt="" coords="1312,237,1451,267"/>
+<area shape="rect" id="node141" href="$_script_events_8h.html" title="ScriptEvents.h" alt="" coords="2851,83,2957,112"/>
+<area shape="rect" id="node143" href="$_beam_factory_8h.html" title="BeamFactory.h" alt="" coords="3043,160,3152,189"/>
+<area shape="rect" id="node7" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="2263,392,2399,421"/>
+<area shape="rect" id="node25" href="$_collisions_8h.html" title="Collisions.h" alt="" coords="2379,237,2469,267"/>
+<area shape="rect" id="node36" href="$_inter_thread_store_vector_8h.html" title="InterThreadStoreVector.h" alt="" coords="2557,315,2725,344"/>
+<area shape="rect" id="node40" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="2136,237,2221,267"/>
+<area shape="rect" id="node43" href="$scriptdictionary_8h.html" title="scriptdictionary/scriptdictionary.h" alt="" coords="723,237,936,267"/>
+<area shape="rect" id="node49" href="$scriptbuilder_8h.html" title="scriptbuilder/scriptbuilder.h" alt="" coords="960,237,1136,267"/>
+<area shape="rect" id="node28" href="$_beam_data_8h.html" title="Core data structures for simulation." alt="" coords="2339,315,2432,344"/>
+<area shape="rect" id="node100" href="$_per_vehicle_camera_context_8h.html" title="PerVehicleCameraContext.h" alt="" coords="3549,315,3736,344"/>
+<area shape="rect" id="node102" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="3760,315,3917,344"/>
+<area shape="rect" id="node105" href="$_i_thread_task_8h.html" title="IThreadTask.h" alt="" coords="2851,315,2957,344"/>
+<area shape="rect" id="node108" href="$_streamable_8h.html" title="Streamable.h" alt="" coords="3083,315,3181,344"/>
+<area shape="rect" id="node118" href="$_improved_config_file_8h.html" title="ImprovedConfigFile.h" alt="" coords="1624,237,1771,267"/>
+<area shape="rect" id="node147" href="$_streamable_factory_8h.html" title="StreamableFactory.h" alt="" coords="3941,315,4083,344"/>
+<area shape="rect" id="node151" href="$_two_d_replay_8h.html" title="TwoDReplay.h" alt="" coords="2245,237,2355,267"/>
+</map>

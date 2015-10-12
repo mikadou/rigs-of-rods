@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_mesh_object.html" title="MeshObject" alt="" coords="121,181,212,211"/>
+<area shape="rect" id="node4" href="$class_zeroed_memory_allocator.html" title="ZeroedMemoryAllocator" alt="" coords="5,5,165,35"/>
+<area shape="rect" id="node8" href="$class_material_replacer.html" title="MaterialReplacer" alt="" coords="25,85,145,115"/>
+<area shape="rect" id="node11" href="$class_material_function_mapper.html" title="MaterialFunctionMapper" alt="" coords="169,85,329,115"/>
+<area shape="rect" id="node6" href="$class_skin.html" title="Skin" alt="" coords="353,85,401,115"/>
+</map>

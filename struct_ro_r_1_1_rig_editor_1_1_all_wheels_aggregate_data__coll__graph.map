@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$struct_ro_r_1_1_rig_editor_1_1_flex_body_wheel_aggregate_data.html" title="RoR::RigEditor::FlexBodyWheelAggregateData" alt="" coords="632,11,931,40"/>
+<area shape="rect" id="node4" href="$struct_ro_r_1_1_rig_editor_1_1_base_wheel_aggregate_data.html" title="RoR::RigEditor::BaseWheelAggregateData" alt="" coords="308,43,580,72"/>
+<area shape="rect" id="node8" href="$struct_ro_r_1_1_rig_editor_1_1_mesh_wheel2_aggregate_data.html" title="RoR::RigEditor::MeshWheel2AggregateData" alt="" coords="640,64,923,93"/>
+<area shape="rect" id="node6" href="$class_rig_def_1_1_node_1_1_ref.html" title="RigDef::Node::Ref" alt="" coords="5,43,136,72"/>
+</map>

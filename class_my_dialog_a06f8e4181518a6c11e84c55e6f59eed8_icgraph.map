@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_my_dialog.html#a730ceb49055449013bde3aff7119870f" title="MyDialog::MyDialog" alt="" coords="767,14,905,43"/>
+<area shape="rect" id="node7" href="$class_my_dialog.html#a30829bbf050a53f6d5c0e1d6abcd29e8" title="MyDialog::SetDefaults" alt="" coords="313,27,468,56"/>
+<area shape="rect" id="node12" href="$class_my_dialog.html#a008219b2fc5f082cc4fbbb46f87ac74f" title="MyDialog::updateSettingsControls" alt="" coords="280,106,501,135"/>
+<area shape="rect" id="node5" href="$class_my_app.html#a79fa75d1155f0e85e20f2869538296d6" title="MyApp::OnInit" alt="" coords="955,14,1061,43"/>
+<area shape="rect" id="node10" href="$class_my_dialog.html#afa8e7d3e2cd36f78d391eed394413fc5" title="MyDialog::OnButRestore" alt="" coords="549,66,717,95"/>
+<area shape="rect" id="node14" href="$class_my_dialog.html#a3a49421662fe7600e722c3ca32b48a4d" title="MyDialog::LoadConfig" alt="" coords="559,119,708,148"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_land_vehicle_wheel.html#af4d9bd7cad61089c50bdd0dd13d9d75c" title="RoR::RigEditor::LandVehicleWheel::GetType" alt="" coords="245,5,531,35"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_mesh_wheel2.html#a659623f165ed4f6b3738b8558d3ac0eb" title="RoR::RigEditor::MeshWheel2::GetDefinition" alt="" coords="249,59,527,88"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_mesh_wheel.html#a7414b3848d793d068a0e16757c8ae2cb" title="RoR::RigEditor::MeshWheel::GetDefinition" alt="" coords="252,112,524,141"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_flex_body_wheel.html#ad8d23ca151177972ed35b97156d45c86" title="RoR::RigEditor::FlexBodyWheel::GetDefinition" alt="" coords="241,165,535,195"/>
+</map>

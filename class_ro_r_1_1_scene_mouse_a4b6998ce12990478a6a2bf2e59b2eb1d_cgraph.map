@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_camera_manager.html#a4cc2781595b0f926f1dbd338b988c35f" title="CameraManager::mouseMoved" alt="" coords="273,5,476,35"/>
+<area shape="rect" id="node7" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getSingleton" alt="" coords="527,64,881,93"/>
+<area shape="rect" id="node9" href="$class_beam_factory.html#aa7c42481b46a78459831fa0900ab8d67" title="BeamFactory::getTrucks" alt="" coords="621,129,787,159"/>
+<area shape="rect" id="node11" href="$class_beam_factory.html#a5f3755f8cd44e6972e463cc6aaa9f181" title="BeamFactory::getTruckCount" alt="" coords="607,205,801,235"/>
+<area shape="rect" id="node13" href="$class_beam.html#a8b8e30801a15fd87d0cb99e09900bdbb" title="Beam::hookToggle" alt="" coords="309,160,440,189"/>
+<area shape="rect" id="node5" href="$class_i_behavior.html#ae6a7e4259cfce32425e83a3b4a40272b" title="IBehavior::mouseMoved" alt="" coords="623,5,785,35"/>
+</map>

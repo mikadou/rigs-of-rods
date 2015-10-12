@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_application.html#a3db1b8c7dc6bf465f5ed653ef4a8ce9a" title="RoR::Application::GetGuiManager" alt="" coords="288,5,507,35"/>
+<area shape="rect" id="node5" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt; BeamFactory, Beam \&gt;::getSingleton" alt="" coords="220,59,575,88"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="BeamFactory::getCurrentTruck" alt="" coords="296,112,499,141"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_application.html#a608003a20ef939a79437a9da8fa76307" title="RoR::Application::GetInputEngine" alt="" coords="288,165,507,195"/>
+<area shape="rect" id="node13" href="$class_camera_manager.html#acc8ca4bea6750e8ce6ce1f3710a0ce78" title="CameraManager::switchToNextBehavior" alt="" coords="624,217,883,247"/>
+<area shape="rect" id="node17" href="$class_camera_manager.html#a6f50a61b22fd1193ec25c5c2dc8f3ae3" title="CameraManager::switchBehavior" alt="" coords="932,271,1145,300"/>
+<area shape="rect" id="node25" href="$class_camera_manager.html#a28cbe942da9406b0f71dc7f080ef0e9f" title="CameraManager::toggleBehavior" alt="" coords="292,269,503,299"/>
+<area shape="rect" id="node29" href="$class_i_behavior.html#abe340c68fb7cdc7172298c7ec841da40" title="IBehavior::update" alt="" coords="336,373,459,403"/>
+<area shape="rect" id="node9" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="675,112,832,141"/>
+<area shape="rect" id="node15" href="$class_i_behavior.html#ac1657d6af6e9f66bd927f89ad0fd0bcb" title="IBehavior::switchBehavior" alt="" coords="952,217,1125,247"/>
+<area shape="rect" id="node19" href="$class_i_behavior.html#a3d874d52e67bb562c26bf7d99ea5d62d" title="IBehavior::deactivate" alt="" coords="1212,217,1356,247"/>
+<area shape="rect" id="node21" href="$class_beam.html#a39d38800d5ab3b85b305d94b2c8ea502" title="Beam::GetCameraContext" alt="" coords="1196,271,1372,300"/>
+<area shape="rect" id="node23" href="$class_i_behavior.html#a841cc14c0cf10b3434efd66a60d0807a" title="IBehavior::activate" alt="" coords="1219,324,1349,353"/>
+</map>

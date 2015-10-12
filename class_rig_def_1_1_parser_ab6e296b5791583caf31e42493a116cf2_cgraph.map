@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#ac1a3ed20e65d2ad2819fe562dd3178c8" title="RigDef::Parser::_TrimTrailingComments" alt="" coords="360,5,616,35"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_sequential_importer.html#a04d293d8b1f94b9a722e83715911e547" title="RigDef::SequentialImporter::IsEnabled" alt="" coords="707,109,952,139"/>
+<area shape="rect" id="node7" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="RigDef::Parser::AddMessage" alt="" coords="1065,243,1257,272"/>
+<area shape="rect" id="node9" href="$class_rig_def_1_1_parser.html#a38b8cabf035e978b04373b9c6f872803" title="RigDef::Parser::_ParseNodesLegacyMethod" alt="" coords="348,269,628,299"/>
+<area shape="rect" id="node14" href="$class_rig_def_1_1_node_1_1_id.html#a30fc558c055857280fb2adba21a08eea" title="RigDef::Node::Id::SetStr" alt="" coords="747,163,912,192"/>
+<area shape="rect" id="node17" href="$class_rig_def_1_1_sequential_importer.html#a0d1350e2b0c44cff66a9c73c17baf9dd" title="RigDef::SequentialImporter::AddNamedNode" alt="" coords="688,427,971,456"/>
+<area shape="rect" id="node21" href="$class_rig_def_1_1_node_1_1_id.html#a0c74f13391cb2b7dd03b0810766a0c7d" title="RigDef::Node::Id::SetNum" alt="" coords="741,373,917,403"/>
+<area shape="rect" id="node23" href="$class_rig_def_1_1_sequential_importer.html#ad9fb7d3deecbb9f94ac85ff061459795" title="RigDef::SequentialImporter::AddNumberedNode" alt="" coords="679,480,980,509"/>
+<area shape="rect" id="node26" href="$class_rig_def_1_1_parser.html#aa0448d0c351e3163aa33245881947a40" title="RigDef::Parser::_ParseNodeOptions" alt="" coords="712,216,947,245"/>
+<area shape="rect" id="node11" href="$class_rig_def_1_1_parser.html#ac9e266992c2efbeddfbf09f430a61b93" title="RigDef::Parser::_ParseArgs" alt="" coords="737,269,921,299"/>
+<area shape="rect" id="node19" href="$class_rig_def_1_1_sequential_importer.html#abbbd9a34cae153cb481b6c61a7927a97" title="RigDef::SequentialImporter::AddMessage" alt="" coords="1029,453,1293,483"/>
+</map>

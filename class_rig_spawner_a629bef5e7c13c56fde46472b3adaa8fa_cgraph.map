@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_rig_def_1_1_node_1_1_ref.html#a141e4a4770a737736436a3746a31f3ea" title="RigDef::Node::Ref::ToString" alt="" coords="231,32,417,61"/>
+<area shape="rect" id="node5" href="$class_axle.html#a586be91663e139cca504c12a4f98f104" title="Axle::addDiffType" alt="" coords="261,85,387,115"/>
+<area shape="rect" id="node7" href="$class_axle.html#a7ee763611feb62996e46ccf5e96f63d0" title="Axle::getDiffEquation" alt="" coords="467,85,613,115"/>
+<area shape="rect" id="node9" href="$class_axle.html#a11508356c463452848fda048dbb6d350" title="a differential that always splits the torque evenly, this is the original method" alt="" coords="661,5,821,35"/>
+<area shape="rect" id="node11" href="$class_axle.html#a3aa3e493320a279e3bd1828655e6966f" title="viscous coupler, the greater the difference in speed the more torque is transfered" alt="" coords="668,59,815,88"/>
+<area shape="rect" id="node13" href="$class_axle.html#a555d076e3aa3bfe70f91d6d625d51de3" title="more power goes to the faster spining wheel" alt="" coords="676,112,807,141"/>
+<area shape="rect" id="node15" href="$class_axle.html#a3053f4ee933712559c5306f6077b2d1b" title="ensures both wheels rotate at the the same speed" alt="" coords="671,165,812,195"/>
+</map>

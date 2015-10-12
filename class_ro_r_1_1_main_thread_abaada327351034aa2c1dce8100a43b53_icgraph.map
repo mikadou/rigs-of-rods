@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#aa6eaa55e077cc9c45dbe4a6d7444a655" title="RoRFrameListener::shutdown_final" alt="" coords="369,5,596,35"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_main_thread.html#a0be80b570e45a4de035b1f1b9684497c" title="RoR::MainThread::EnterMainMenuLoop" alt="" coords="996,84,1247,113"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_main_thread.html#ab48ab040ee463287f7953eef17ad4c62" title="RoR::MainThread::MainMenuLoopUpdate" alt="" coords="684,109,945,139"/>
+<area shape="rect" id="node18" href="$class_ro_r_1_1_main_thread.html#a74fc7727056db97d2e0fb789343babd2" title="RoR::MainThread::MainMenuLoopUpdateEvents" alt="" coords="331,160,635,189"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_main_thread.html#a4143d33525ace292adb0d6cd56d75ac7" title="RoR::MainThread::BackToMenu" alt="" coords="377,213,588,243"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_main_thread.html#acab5a3a883ceabb6d721c8e35e321812" title="RoR::MainThread::ChangeMap" alt="" coords="381,267,584,296"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1297,84,1447,113"/>
+<area shape="rect" id="node9" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1584,57,1635,87"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::RequestRestart" alt="" coords="1497,111,1721,140"/>
+<area shape="rect" id="node13" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1772,111,1953,140"/>
+</map>

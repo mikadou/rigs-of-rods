@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_terrain_manager.html#a41fdd66a57990a5fb33d253213fd04e3" title="TerrainManager::getMaxTerrainSize" alt="" coords="184,5,413,35"/>
+<area shape="rect" id="node7" href="$class_water.html#ae0ff5f204633423eb3d8f825940b0c94" title="Water::getHeightWaves" alt="" coords="217,59,380,88"/>
+<area shape="rect" id="node5" href="$class_terrain_geometry_manager.html#afead68b5ff7a0b77395065ab8ea855e3" title="TerrainGeometryManager::getMaxTerrainSize" alt="" coords="463,5,748,35"/>
+<area shape="rect" id="node9" href="$class_water.html#a0e898659c77fb2358402d0cd669301c0" title="Water::getWaveHeight" alt="" coords="528,59,683,88"/>
+</map>

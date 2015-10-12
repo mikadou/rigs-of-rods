@@ -1,0 +1,34 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_video_camera_8h.html" title="VideoCamera.h" alt="" coords="159,237,271,267"/>
+<area shape="rect" id="node21" href="$_beam_8h.html" title="Beam.h" alt="" coords="855,83,922,112"/>
+<area shape="rect" id="node34" href="$_beam_data_8h.html" title="Core data structures for simulation." alt="" coords="674,160,767,189"/>
+<area shape="rect" id="node72" href="$_material_replacer_8h.html" title="MaterialReplacer.h" alt="" coords="1834,83,1964,112"/>
+<area shape="rect" id="node75" href="$_resource_buffer_8h.html" title="ResourceBuffer.h" alt="" coords="1852,160,1975,189"/>
+<area shape="rect" id="node82" href="$_rig_def___file_8h.html" title="Structures which represent a rig&#45;definition file (1:1 match)" alt="" coords="2834,237,2935,267"/>
+<area shape="rect" id="node99" href="$_rig_spawner_8h.html" title="Vehicle spawning logic." alt="" coords="2384,83,2488,112"/>
+<area shape="rect" id="node114" href="$_settings_8h.html" title="Settings.h" alt="" coords="1490,160,1570,189"/>
+<area shape="rect" id="node120" href="$_sky_manager_8h.html" title="SkyManager.h" alt="" coords="1988,83,2095,112"/>
+<area shape="rect" id="node122" href="$_utils_8h.html" title="Utils.h" alt="" coords="2122,160,2180,189"/>
+<area shape="rect" id="node128" href="$_ro_r_frame_listener_8h.html" title="RoRFrameListener.h" alt="" coords="1666,160,1807,189"/>
+<area shape="rect" id="node133" href="$_application_8h.html" title="Central object manager and communications hub." alt="" coords="1567,83,1663,112"/>
+<area shape="rect" id="node137" href="$_g_u_i_manager_8h.html" title="GUIManager.h" alt="" coords="3054,160,3160,189"/>
+<area shape="rect" id="node5" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1499,315,1635,344"/>
+<area shape="rect" id="node17" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="1339,392,1496,421"/>
+<area shape="rect" id="node15" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="2398,392,2544,421"/>
+<area shape="rect" id="node31" href="$_per_vehicle_camera_context_8h.html" title="PerVehicleCameraContext.h" alt="" coords="179,160,366,189"/>
+<area shape="rect" id="node62" href="$_i_thread_task_8h.html" title="IThreadTask.h" alt="" coords="1359,160,1466,189"/>
+<area shape="rect" id="node65" href="$_streamable_8h.html" title="Streamable.h" alt="" coords="1186,160,1284,189"/>
+<area shape="rect" id="node37" href="$rornet_8h.html" title="rornet.h" alt="" coords="1140,237,1207,267"/>
+<area shape="rect" id="node39" href="$_slide_node_8h.html" title="SlideNode.h" alt="" coords="831,237,924,267"/>
+<area shape="rect" id="node43" href="$node__t_8h.html" title="datatypes/node_t.h" alt="" coords="23,315,156,344"/>
+<area shape="rect" id="node46" href="$shock__t_8h.html" title="datatypes/shock_t.h" alt="" coords="668,237,807,267"/>
+<area shape="rect" id="node48" href="$beam__t_8h.html" title="datatypes/beam_t.h" alt="" coords="346,237,482,267"/>
+<area shape="rect" id="node52" href="$wheel__t_8h.html" title="datatypes/wheel_t.h" alt="" coords="506,237,644,267"/>
+<area shape="rect" id="node56" href="$rig__t_8h.html" title="datatypes/rig_t.h" alt="" coords="999,237,1116,267"/>
+<area shape="rect" id="node85" href="$_rig_def___node_8h.html" title="RigDef_Node.h" alt="" coords="2584,315,2696,344"/>
+<area shape="rect" id="node102" href="$_rig_def___parser_8h.html" title="RigDef_Parser.h" alt="" coords="2698,160,2815,189"/>
+<area shape="rect" id="node108" href="$_flex_factory_8h.html" title="FlexFactory.h" alt="" coords="2607,237,2708,267"/>
+<area shape="rect" id="node117" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="1484,237,1570,267"/>
+<area shape="rect" id="node139" href="$_g_u_i_input_manager_8h.html" title="GUIInputManager.h" alt="" coords="3531,237,3667,267"/>
+<area shape="rect" id="node141" href="$_gui_manager_interface_8h.html" title="Command interface for GAME/GUI_PANEL &#45;&gt; GUI_MANAGER communication. Reduces compile&#45;time dependencies..." alt="" coords="2378,237,2532,267"/>
+</map>

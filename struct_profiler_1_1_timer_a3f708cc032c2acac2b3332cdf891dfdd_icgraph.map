@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$struct_profiler_1_1_timer.html#a5bf411f300dd206210966238e65364f4" title="Profiler::Timer::millicycles" alt="" coords="204,5,377,35"/>
+<area shape="rect" id="node5" href="$struct_profiler_1_1_timer.html#a39a7ba4e831714879393c79c0a18c993" title="Profiler::Timer::currentmillicycles" alt="" coords="184,59,397,88"/>
+<area shape="rect" id="node7" href="$struct_profiler_1_1_timer.html#ada03a3198fa3c26511b2bd97a56231bf" title="Profiler::Timer::avgms" alt="" coords="216,112,365,141"/>
+</map>

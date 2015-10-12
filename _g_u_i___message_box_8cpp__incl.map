@@ -1,0 +1,29 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_g_u_i___message_box_8h.html" title="GUI_MessageBox.h" alt="" coords="1120,160,1258,189"/>
+<area shape="rect" id="node12" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1406,392,1542,421"/>
+<area shape="rect" id="node53" href="$_utils_8h.html" title="Utils.h" alt="" coords="845,83,904,112"/>
+<area shape="rect" id="node60" href="$_ro_r_version_8h.html" title="RoRVersion.h" alt="" coords="1154,83,1258,112"/>
+<area shape="rect" id="node62" href="$rornet_8h.html" title="rornet.h" alt="" coords="1001,83,1068,112"/>
+<area shape="rect" id="node66" href="$_language_8h.html" title="Language.h" alt="" coords="1408,237,1496,267"/>
+<area shape="rect" id="node76" href="$_g_u_i_manager_8h.html" title="GUIManager.h" alt="" coords="2900,83,3006,112"/>
+<area shape="rect" id="node5" href="$_forward_declarations_8h.html" title="Global forward declarations." alt="" coords="2808,547,2960,576"/>
+<area shape="rect" id="node7" href="$_g_u_i___message_box_layout_8h.html" title="GUI_MessageBoxLayout.h" alt="" coords="696,237,874,267"/>
+<area shape="rect" id="node10" href="$_base_layout_8h.html" title="BaseLayout.h" alt="" coords="754,315,856,344"/>
+<area shape="rect" id="node39" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="460,469,601,499"/>
+<area shape="rect" id="node42" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="265,469,436,499"/>
+<area shape="rect" id="node44" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="44,469,190,499"/>
+<area shape="rect" id="node69" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="1560,315,1645,344"/>
+<area shape="rect" id="node78" href="$_g_u_i_input_manager_8h.html" title="GUIInputManager.h" alt="" coords="3208,160,3344,189"/>
+<area shape="rect" id="node80" href="$_gui_manager_interface_8h.html" title="Command interface for GAME/GUI_PANEL &#45;&gt; GUI_MANAGER communication. Reduces compile&#45;time dependencies..." alt="" coords="2221,237,2376,267"/>
+<area shape="rect" id="node89" href="$_g_u_i___rig_spawner_report_window_8h.html" title="GUI_RigSpawnerReportWindow.h" alt="" coords="2336,160,2557,189"/>
+<area shape="rect" id="node93" href="$_g_u_i___game_main_menu_8h.html" title="GUI_GameMainMenu.h" alt="" coords="2874,160,3032,189"/>
+<area shape="rect" id="node96" href="$_g_u_i___game_about_8h.html" title="GUI_GameAbout.h" alt="" coords="2653,237,2786,267"/>
+<area shape="rect" id="node99" href="$_g_u_i___game_settings_8h.html" title="GUI_GameSettings.h" alt="" coords="2810,237,2957,267"/>
+<area shape="rect" id="node105" href="$_g_u_i___debug_options_8h.html" title="GUI_DebugOptions.h" alt="" coords="2972,392,3118,421"/>
+<area shape="rect" id="node108" href="$_g_u_i___sim_utils_8h.html" title="GUI_SimUtils.h" alt="" coords="3142,392,3257,421"/>
+<area shape="rect" id="node112" href="$_g_u_i___multiplayer_selector_8h.html" title="GUI_MultiplayerSelector.h" alt="" coords="3164,315,3337,344"/>
+<area shape="rect" id="node115" href="$_g_u_i___main_selector_8h.html" title="GUI_MainSelector.h" alt="" coords="3332,392,3470,421"/>
+<area shape="rect" id="node118" href="$_g_u_i___game_pause_menu_8h.html" title="GUI_GamePauseMenu.h" alt="" coords="2632,160,2800,189"/>
+<area shape="rect" id="node123" href="$_g_u_i___game_chat_box_8h.html" title="GUI_GameChatBox.h" alt="" coords="3610,237,3760,267"/>
+<area shape="rect" id="node126" href="$_g_u_i___vehicle_description_8h.html" title="GUI_VehicleDescription.h" alt="" coords="3717,315,3890,344"/>
+</map>
