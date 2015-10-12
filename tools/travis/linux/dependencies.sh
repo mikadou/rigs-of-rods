@@ -12,6 +12,7 @@ sudo add-apt-repository ppa:libreoffice/ppa -y
 sudo apt-get install doxygen=1.8.7~precise1 graphviz
 
 doxygen --version
+exit
 
 cd ~/
 mkdir ~/ror-deps
