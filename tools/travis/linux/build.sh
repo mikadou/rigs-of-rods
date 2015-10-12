@@ -21,7 +21,8 @@ echo "Copying new generated documentation."
 rm -rf ./*
 cp -R ../doc/doxygen/html/* .
 
-git add -A --quiet
+git --version
+git add -A
 git commit -m "[AUTO] Update documentation."
 
 echo "Pushing updated documentation to remote gh-pages branch."
