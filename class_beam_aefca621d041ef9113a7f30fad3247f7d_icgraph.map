@@ -1,6 +1,0 @@
-<map id="Beam::hideSkeleton" name="Beam::hideSkeleton">
-<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::update\lEvents" alt="" coords="216,5,395,51"/>
-<area shape="rect" id="node7" href="$class_preview_renderer.html#af7a877f0ecf4d0935389f87b44c0b2d4" title="PreviewRenderer::render2dviews" alt="" coords="199,75,412,104"/>
-<area shape="rect" id="node9" href="$class_preview_renderer.html#ae52f6b669d010d49ef51ae193d96323d" title="PreviewRenderer::render3dpreview" alt="" coords="193,128,417,157"/>
-<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="468,13,681,43"/>
-</map>

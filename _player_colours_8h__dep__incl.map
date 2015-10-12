@@ -1,7 +1,0 @@
-<map id="source/main/gameplay/PlayerColours.h" name="source/main/gameplay/PlayerColours.h">
-<area shape="rect" id="node3" href="$_character_8cpp.html" title="source/main/gameplay\l/Character.cpp" alt="" coords="5,102,157,149"/>
-<area shape="rect" id="node5" href="$_chat_system_8cpp.html" title="source/main/gameplay\l/ChatSystem.cpp" alt="" coords="181,102,333,149"/>
-<area shape="rect" id="node7" href="$_player_colours_8cpp.html" title="source/main/gameplay\l/PlayerColours.cpp" alt="" coords="357,102,509,149"/>
-<area shape="rect" id="node9" href="$_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="533,102,693,149"/>
-<area shape="rect" id="node11" href="$_main_thread_8cpp.html" title="source/main/main_sim\l/MainThread.cpp" alt="" coords="717,102,869,149"/>
-</map>

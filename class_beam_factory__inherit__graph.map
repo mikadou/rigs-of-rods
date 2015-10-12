@@ -1,5 +1,0 @@
-<map id="BeamFactory" name="BeamFactory">
-<area shape="rect" id="node2" href="$class_streamable_factory.html" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;" alt="" coords="17,83,175,130"/>
-<area shape="rect" id="node4" href="$class_streamable_factory_interface.html" title="StreamableFactoryInterface" alt="" coords="5,5,187,35"/>
-<area shape="rect" id="node6" href="$class_zeroed_memory_allocator.html" title="ZeroedMemoryAllocator" alt="" coords="199,92,359,121"/>
-</map>

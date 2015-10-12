@@ -1,5 +1,0 @@
-<map id="RoR::RigEditor::GuiPopupDynamicListBase::GuiCallback_MouseClicked" name="RoR::RigEditor::GuiPopupDynamicListBase::GuiCallback_MouseClicked">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_gui_popup_dynamic_list_base.html#a9a465c6f980548bc1d0df67fdfdfec48" title="RoR::RigEditor::GuiPopup\lDynamicListBase::OnSelectAll\lMouseClicked" alt="" coords="267,5,469,69"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_gui_popup_dynamic_list_base.html#ada8b6cb6374c07526ebfc076555d4f96" title="RoR::RigEditor::GuiPopup\lDynamicListBase::OnDeselectAll\lMouseClicked" alt="" coords="260,93,476,157"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_gui_popup_dynamic_list_base.html#af81f96e22b0b70855e67f9450cb27c54" title="RoR::RigEditor::GuiPopup\lDynamicListBase::OnItemMouse\lClicked" alt="" coords="261,181,475,245"/>
-</map>

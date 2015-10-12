@@ -1,6 +1,0 @@
-<map id="RoR::RigEditor::GuiPopupDynamicListBase::OnSelectAllMouseClicked" name="RoR::RigEditor::GuiPopupDynamicListBase::OnSelectAllMouseClicked">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_gui_popup_dynamic_list_base.html#aae760a963406f6f4ac008fdcc3b2dd1f" title="RoR::RigEditor::GuiPopup\lDynamicListBase::GuiCallback\l_MouseClicked" alt="" coords="257,45,460,109"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_gui_popup_dynamic_list_base.html#a6fa40dd68435c7d30e8c0ab2f885c403" title="RoR::RigEditor::GuiPopup\lDynamicListBase::GuiPopupDynamic\lListBase" alt="" coords="509,5,752,69"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_gui_popup_dynamic_list_base.html#a994f198f45e5fcb2cede5cbb5c6f19c0" title="RoR::RigEditor::GuiPopup\lDynamicListBase::AddItemToList" alt="" coords="521,93,740,139"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_gui_popup_wheels_list.html#afedcd5b2d0c543808d8afc5b5e2f12ff" title="RoR::RigEditor::GuiPopup\lWheelsList::UpdateWheelsList" alt="" coords="800,93,1003,139"/>
-</map>

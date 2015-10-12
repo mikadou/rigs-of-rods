@@ -1,7 +1,0 @@
-<map id="Hydrax::Hydrax::getRttManager" name="Hydrax::Hydrax::getRttManager">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_cfg_file_manager.html#a82fe04213f00b0ab60582da60f01e0be" title="Hydrax::CfgFileManager\l::_getRttCfgString" alt="" coords="269,5,432,51"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_cfg_file_manager.html#ae2a1a0accf942e528f6ba8a041a674e6" title="Hydrax::CfgFileManager\l::_loadRttSettings" alt="" coords="269,74,432,121"/>
-<area shape="rect" id="node11" href="$class_hydrax_1_1_module_1_1_projected_grid.html#a8d7a8efcd6b7fd0e4313c9114bd2c061" title="Hydrax::Module::Projected\lGrid::update" alt="" coords="263,143,439,190"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_cfg_file_manager.html#a5bdea43e50f5a1662e2dc80e68e0d8a6" title="Hydrax::CfgFileManager\l::save" alt="" coords="489,5,652,51"/>
-<area shape="rect" id="node9" href="$class_hydrax_1_1_cfg_file_manager.html#a7d283a6b6b61ad70292c7cb24cd3543c" title="Hydrax::CfgFileManager\l::load" alt="" coords="489,74,652,121"/>
-</map>

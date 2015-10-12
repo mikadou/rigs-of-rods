@@ -1,6 +1,0 @@
-<map id="Hydrax::GodRaysManager::create" name="Hydrax::GodRaysManager::create">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_god_rays_manager.html#a4a85152f7e71a50c473ae65b299f3465" title="Hydrax::GodRaysManager\l::setObjectIntersectionsEnabled" alt="" coords="232,5,440,51"/>
-<area shape="rect" id="node9" href="$class_hydrax_1_1_god_rays_manager.html#ad8e21289bddd02ed9a62b3a2db1ff54f" title="Hydrax::GodRaysManager\l::_createMaterials" alt="" coords="248,74,424,121"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_cfg_file_manager.html#a6717ef4e731b3c22d71260aaa6d0336a" title="Hydrax::CfgFileManager\l::_loadComponentsSettings" alt="" coords="489,5,671,51"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_cfg_file_manager.html#a7d283a6b6b61ad70292c7cb24cd3543c" title="Hydrax::CfgFileManager\l::load" alt="" coords="721,5,884,51"/>
-</map>

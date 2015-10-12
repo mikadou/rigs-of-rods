@@ -1,5 +1,0 @@
-<map id="RoR::RigEditor::Rig::ScheduleSetWheelSelected" name="RoR::RigEditor::Rig::ScheduleSetWheelSelected">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#aa8aaa5a83ce47902feb5b60d2c0ef486" title="RoR::RigEditor::Rig\l::ScheduleSetAllWheelsSelected" alt="" coords="265,14,479,61"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a23656895071cd6cf1367399c50c4e93f" title="RoR::RigEditor::Main\l::CommandScheduleSetWheelSelected" alt="" coords="247,83,497,130"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_main.html#ab79af9f428c0f7ad17b89813490e8564" title="RoR::RigEditor::Main\l::CommandScheduleSetAllWheels\lSelected" alt="" coords="548,5,769,69"/>
-</map>

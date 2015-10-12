@@ -1,9 +1,0 @@
-<map id="source/main/rig_editor/rig_data" name="source/main/rig_editor/rig_data">
-<area shape="rect" id="node2" href="dir_faff61911cdc4b386f46328cbffeffb0.html" title="rig_data" alt="" coords="27,55,99,103"/>
-<area shape="rect" id="node3" href="dir_30087b5439e04c85304dbcf15650710b.html" title="common" alt="" coords="27,247,99,295"/>
-<area shape="rect" id="edge3" href="dir_000048_000019.html" title="2" alt="" coords="47,217,55,235"/>
-<area shape="rect" id="node4" href="dir_9054b8aa4d90a0bb654e291150ddca3e.html" title="rig_file_input_output" alt="" coords="47,151,185,199"/>
-<area shape="rect" id="edge5" href="dir_000048_000056.html" title="25" alt="" coords="94,121,108,139"/>
-<area shape="rect" id="edge7" href="dir_000056_000019.html" title="3" alt="" coords="88,226,96,243"/>
-<area shape="rect" id="graph2" href="dir_b44dbd8997ca8c61721f7d27ce20d8e0.html" title="rig_editor" alt="" coords="16,16,109,113"/>
-</map>

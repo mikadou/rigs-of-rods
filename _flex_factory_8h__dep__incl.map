@@ -1,9 +1,0 @@
-<map id="source/main/physics/flex/FlexFactory.h" name="source/main/physics/flex/FlexFactory.h">
-<area shape="rect" id="node3" href="$_flex_body_8cpp.html" title="source/main/physics\l/flex/FlexBody.cpp" alt="" coords="5,102,147,149"/>
-<area shape="rect" id="node5" href="$_flex_factory_8cpp.html" title="source/main/physics\l/flex/FlexFactory.cpp" alt="" coords="171,102,315,149"/>
-<area shape="rect" id="node7" href="$_rig_spawner_8h.html" title="Vehicle spawning logic. " alt="" coords="339,102,520,149"/>
-<area shape="rect" id="node9" href="$_video_camera_8cpp.html" title="source/main/gfx/VideoCamera.cpp" alt="" coords="16,215,237,244"/>
-<area shape="rect" id="node11" href="$_beam_8cpp.html" title="source/main/physics\l/Beam.cpp" alt="" coords="261,206,403,253"/>
-<area shape="rect" id="node13" href="$_rig_spawner_8cpp.html" title="Vehicle spawning logic. " alt="" coords="427,206,624,253"/>
-<area shape="rect" id="node15" href="$_rig_spawner___process_control_8cpp.html" title="source/main/physics\l/input_output/RigSpawner\l_ProcessControl.cpp" alt="" coords="648,197,819,261"/>
-</map>

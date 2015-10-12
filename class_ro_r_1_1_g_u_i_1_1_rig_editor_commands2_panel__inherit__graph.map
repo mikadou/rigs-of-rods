@@ -1,6 +1,0 @@
-<map id="RoR::GUI::RigEditorCommands2Panel" name="RoR::GUI::RigEditorCommands2Panel">
-<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_commands2_panel_layout.html" title="RoR::GUI::RigEditorCommands2\lPanelLayout" alt="" coords="5,83,221,130"/>
-<area shape="rect" id="node4" href="$classwraps_1_1_base_layout.html" title="wraps::BaseLayout" alt="" coords="47,5,180,35"/>
-<area shape="rect" id="node6" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html" title="RoR::RigEditor::RigElement\lGuiPanelBase" alt="" coords="245,83,432,130"/>
-<area shape="rect" id="node8" href="$class_ro_r_1_1_gui_panel_base.html" title="RoR::GuiPanelBase" alt="" coords="269,5,408,35"/>
-</map>

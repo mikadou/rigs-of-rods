@@ -1,6 +1,0 @@
-<map id="CameraBehaviorOrbit::update" name="CameraBehaviorOrbit::update">
-<area shape="rect" id="node3" href="$class_camera_behavior_character.html#a325a21bfc3a39744a03f9b5c7d4df7ca" title="CameraBehaviorCharacter\l::update" alt="" coords="212,5,388,51"/>
-<area shape="rect" id="node5" href="$class_camera_behavior_vehicle.html#ae4defc34198f6a82cfb86ede290d055f" title="CameraBehaviorVehicle\l::update" alt="" coords="219,74,381,121"/>
-<area shape="rect" id="node7" href="$class_camera_behavior_vehicle_cine_cam.html#a55ece9b32ddd311803bf2f7793d29260" title="CameraBehaviorVehicleCine\lCam::update" alt="" coords="205,143,395,190"/>
-<area shape="rect" id="node9" href="$class_camera_behavior_vehicle_spline.html#ae30aef518419478d4c3ad73879eae6cd" title="CameraBehaviorVehicleSpline\l::update" alt="" coords="201,213,399,259"/>
-</map>

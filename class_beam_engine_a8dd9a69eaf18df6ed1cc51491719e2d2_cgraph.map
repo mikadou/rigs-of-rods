@@ -1,4 +1,0 @@
-<map id="BeamEngine::getEnginePower" name="BeamEngine::getEnginePower">
-<area shape="rect" id="node3" href="$class_torque_curve.html#ac086875124a09f29072f016ae3c99642" title="TorqueCurve::getEngineTorque" alt="" coords="253,5,456,35"/>
-<area shape="rect" id="node5" href="$class_beam_engine.html#a97f9e8ae65b27a623c9aefaba01b5a3b" title="BeamEngine::getTurboPSI" alt="" coords="267,59,443,88"/>
-</map>

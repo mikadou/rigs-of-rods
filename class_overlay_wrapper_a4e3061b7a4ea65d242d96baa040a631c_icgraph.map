@@ -1,4 +1,0 @@
-<map id="OverlayWrapper::ShowRacingOverlay" name="OverlayWrapper::ShowRacingOverlay">
-<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#a1e91cc99dc0376d460ded48d85e07d82" title="RoRFrameListener::StartRace\lTimer" alt="" coords="255,5,452,51"/>
-<area shape="rect" id="node5" href="$class_game_script.html#a0fe2327a5fc91ab482dbddb928521f0a" title="GameScript::startTimer" alt="" coords="503,13,660,43"/>
-</map>

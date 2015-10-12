@@ -1,9 +1,0 @@
-<map id="RigDef::SequentialImporter::ResolveNode" name="RigDef::SequentialImporter::ResolveNode">
-<area shape="rect" id="node3" href="$class_rig_def_1_1_node_1_1_ref.html#a80f06d82da5ac28617eca47baa590821" title="RigDef::Node::Ref::Str" alt="" coords="257,5,412,35"/>
-<area shape="rect" id="node5" href="$class_rig_def_1_1_node_1_1_ref.html#ac60d95e308e77df22b8b62f0c7c4bbe9" title="RigDef::Node::Ref::\lGetLineNumber" alt="" coords="265,58,404,105"/>
-<area shape="rect" id="node7" href="$class_rig_def_1_1_node_1_1_ref.html#a654831f9421f9d314d849f966f70a04d" title="RigDef::Node::Ref::Num" alt="" coords="252,128,417,157"/>
-<area shape="rect" id="node9" href="$class_rig_def_1_1_node_1_1_ref.html#a141e4a4770a737736436a3746a31f3ea" title="RigDef::Node::Ref::\lToString" alt="" coords="265,181,404,227"/>
-<area shape="rect" id="node11" href="$class_rig_def_1_1_sequential_importer.html#abbbd9a34cae153cb481b6c61a7927a97" title="RigDef::SequentialImporter\l::AddMessage" alt="" coords="245,250,424,297"/>
-<area shape="rect" id="node13" href="$class_rig_def_1_1_sequential_importer.html#a92713dc168c8a95cab4d0d0ff4967172" title="RigDef::SequentialImporter\l::GetNodeArrayOffset" alt="" coords="245,319,424,366"/>
-<area shape="rect" id="node15" href="$struct_rig_def_1_1_file.html#aecfdfd70221c860aebb6edf3f40d78d2" title="RigDef::File::KeywordToString" alt="" coords="235,389,435,419"/>
-</map>

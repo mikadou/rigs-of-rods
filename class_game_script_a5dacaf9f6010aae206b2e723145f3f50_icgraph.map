@@ -1,5 +1,0 @@
-<map id="GameScript::getCurrentTruck" name="GameScript::getCurrentTruck">
-<area shape="rect" id="node3" href="$class_game_script.html#a8c02937795d82f6bc0de53d8e939993d" title="GameScript::useOnlineAPIDirectly" alt="" coords="248,5,472,35"/>
-<area shape="rect" id="node5" href="$_game_script_8cpp.html#aeecefe9a646e48846e0a7f4ee494b624" title="onlineAPIThread" alt="" coords="521,5,639,35"/>
-<area shape="rect" id="node7" href="$class_game_script.html#a57fef318c599e4d2f86aa9b4b7f2ec12" title="GameScript::useOnlineAPI" alt="" coords="688,5,867,35"/>
-</map>

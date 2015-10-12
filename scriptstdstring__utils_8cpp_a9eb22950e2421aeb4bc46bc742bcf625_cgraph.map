@@ -1,8 +1,0 @@
-<map id="RegisterStdStringUtils" name="RegisterStdStringUtils">
-<area shape="rect" id="node3" href="$scriptstdstring__utils_8cpp.html#af3198f0c162e4a7030ef00f1b9fdd217" title="StringSplit_Generic" alt="" coords="207,59,340,88"/>
-<area shape="rect" id="node13" href="$scriptstdstring__utils_8cpp.html#a41b2f8346d7bea93509e48973f114889" title="StringJoin_Generic" alt="" coords="208,112,339,141"/>
-<area shape="rect" id="node5" href="$class_c_script_array.html#a54fe13adf1cdded2aec4ac0b5924891f" title="CScriptArray::Resize" alt="" coords="392,5,539,35"/>
-<area shape="rect" id="node9" href="$class_c_script_array.html#aceeebde2ef3248973a87add12d140806" title="CScriptArray::GetSize" alt="" coords="389,112,541,141"/>
-<area shape="rect" id="node11" href="$class_c_script_array.html#ac179b031c789763b6d7cecb8c07157f5" title="CScriptArray::At" alt="" coords="407,59,524,88"/>
-<area shape="rect" id="node7" href="$class_c_script_array.html#a7b0f5d403c859b4b3d3af2c6eb1f468c" title="CScriptArray::CheckMaxSize" alt="" coords="589,5,784,35"/>
-</map>

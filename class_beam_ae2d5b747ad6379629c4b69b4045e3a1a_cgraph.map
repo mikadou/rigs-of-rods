@@ -1,5 +1,0 @@
-<map id="Beam::runThreadTask" name="Beam::runThreadTask">
-<area shape="rect" id="node3" href="$class_thread_pool.html#a65dde5de8c8cd0a58edf75897182089e" title="ThreadPool::getSize" alt="" coords="209,5,348,35"/>
-<area shape="rect" id="node5" href="$class_thread_pool.html#adb50af7fc46587f871d93472c5f36f1b" title="ThreadPool::enqueue" alt="" coords="207,59,351,88"/>
-<area shape="rect" id="node7" href="$class_beam.html#ad5e33c508f38db9a61371325185a753e" title="Beam::run" alt="" coords="237,112,320,141"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Hydrax::Noise::Real::saveCfg" name="Hydrax::Noise::Real::saveCfg">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_noise_1_1_perlin.html#a4f1f70a3375ac2b2f5e09011e7cc7ef3" title="Hydrax::Noise::Perlin\l::saveCfg" alt="" coords="195,39,341,86"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_noise_1_1_noise.html#aac0a9fe1533ddd87467edb954f8abea8" title="Hydrax::Noise::Noise\l::saveCfg" alt="" coords="399,5,545,51"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_cfg_file_manager.html#a020c0d58713f7ecbd396101247bcab1b" title="Hydrax::CfgFileManager\l::_getCfgString" alt="" coords="391,74,553,121"/>
-</map>

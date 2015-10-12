@@ -1,5 +1,0 @@
-<map id="CacheSystem::IsCacheValid" name="CacheSystem::IsCacheValid">
-<area shape="rect" id="node3" href="$class_cache_system.html#a48763a6f943698105e8f2947d07e8110" title="CacheSystem::getCacheConfig\lFilename" alt="" coords="247,5,452,51"/>
-<area shape="rect" id="node5" href="$class_cache_system.html#aa025222e89657b72478453191ee04878" title="CacheSystem::resourceExists\lInAllGroups" alt="" coords="249,74,449,121"/>
-<area shape="rect" id="node7" href="$class_ogre_1_1_improved_config_file.html#a1bd08528976d0cb5d9cca130c9868039" title="Ogre::ImprovedConfigFile\l::load" alt="" coords="264,143,435,190"/>
-</map>

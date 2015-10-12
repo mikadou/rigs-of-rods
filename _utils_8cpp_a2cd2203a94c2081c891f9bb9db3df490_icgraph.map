@@ -1,8 +1,0 @@
-<map id="getASCIIFromCharString" name="getASCIIFromCharString">
-<area shape="rect" id="node3" href="$class_character.html#affc26fe005799c306f4b0194528d5a6d" title="Character::receiveStreamData" alt="" coords="223,5,420,35"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="247,59,396,88"/>
-<area shape="rect" id="node7" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="536,28,587,57"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="471,81,652,127"/>
-<area shape="rect" id="node9" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="757,28,829,57"/>
-<area shape="rect" id="node13" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="703,89,884,119"/>
-</map>

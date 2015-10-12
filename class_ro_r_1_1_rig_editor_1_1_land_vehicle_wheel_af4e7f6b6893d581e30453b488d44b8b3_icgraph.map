@@ -1,5 +1,0 @@
-<map id="RoR::RigEditor::LandVehicleWheel::BuildWheelNodes" name="RoR::RigEditor::LandVehicleWheel::BuildWheelNodes">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_mesh_wheel.html#a610cca2efebbc3a7572bb2c96eb6546f" title="RoR::RigEditor::MeshWheel\l::GenerateMeshWheelGeometry" alt="" coords="247,39,455,86"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_mesh_wheel.html#a8509201ad50e022bde0f880dad07be07" title="RoR::RigEditor::MeshWheel\l::ReGenerateMeshData" alt="" coords="508,5,695,51"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_mesh_wheel2.html#a044057d8983e99182097c3a6d06a3fc0" title="RoR::RigEditor::MeshWheel2\l::ReGenerateMeshData" alt="" coords="504,74,699,121"/>
-</map>

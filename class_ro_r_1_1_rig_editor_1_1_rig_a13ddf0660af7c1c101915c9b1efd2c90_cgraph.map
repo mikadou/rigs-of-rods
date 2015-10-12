@@ -1,6 +1,0 @@
-<map id="RoR::RigEditor::Rig::RefreshBeamsDynamicMesh" name="RoR::RigEditor::Rig::RefreshBeamsDynamicMesh">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a961667e55f0d41fdacab764270939969" title="RoR::RigEditor::Beam\l::GetNodeA" alt="" coords="257,5,409,51"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_node.html#aefebb9cd1a67bbb2afc980b0f8baab12" title="RoR::RigEditor::Node\l::GetPosition" alt="" coords="259,74,408,121"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#ad280482e0eea91ada6435db2046e4c13" title="RoR::RigEditor::Beam\l::GetColor" alt="" coords="257,143,409,190"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a9e107c4bb884aeed653419a8fa5f21ba" title="RoR::RigEditor::Beam\l::GetNodeB" alt="" coords="257,213,409,259"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="CameraManager::toggleBehavior" name="CameraManager::toggleBehavior">
-<area shape="rect" id="node3" href="$class_camera_manager.html#a6f50a61b22fd1193ec25c5c2dc8f3ae3" title="CameraManager::switchBehavior" alt="" coords="524,5,737,35"/>
-<area shape="rect" id="node7" href="$class_camera_manager.html#acc8ca4bea6750e8ce6ce1f3710a0ce78" title="CameraManager::switchToNext\lBehavior" alt="" coords="268,26,473,73"/>
-<area shape="rect" id="node5" href="$class_beam.html#a39d38800d5ab3b85b305d94b2c8ea502" title="Beam::GetCameraContext" alt="" coords="788,5,964,35"/>
-</map>

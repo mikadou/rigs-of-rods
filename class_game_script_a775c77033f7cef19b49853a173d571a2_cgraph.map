@@ -1,4 +1,0 @@
-<map id="GameScript::setTrucksForcedActive" name="GameScript::setTrucksForcedActive">
-<area shape="rect" id="node3" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getSingleton" alt="" coords="276,5,433,69"/>
-<area shape="rect" id="node5" href="$class_beam_factory.html#ab5e3dea3651d0a2121160f012b461a4a" title="BeamFactory::setTrucksForced\lActive" alt="" coords="252,93,457,139"/>
-</map>

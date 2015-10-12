@@ -1,9 +1,0 @@
-<map id="RoR::RigEditor::Rig::GetWheelDefinitionNodes" name="RoR::RigEditor::Rig::GetWheelDefinitionNodes">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a7ddf6f38d4e9a8c4f36a8bc7c859538d" title="RoR::RigEditor::Rig\l::GetWheelAxisNodes" alt="" coords="235,69,387,115"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a2b9836af34cbc69b9822f190abdf2bed" title="RoR::RigEditor::Rig\l::FindNode" alt="" coords="441,134,580,181"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_rig_building_report.html#a39c7562120900835f3c11406c5dfd082" title="RoR::RigEditor::RigBuilding\lReport::AddMessage" alt="" coords="636,5,820,51"/>
-<area shape="rect" id="node11" href="$class_rig_def_1_1_node_1_1_ref.html#a141e4a4770a737736436a3746a31f3ea" title="RigDef::Node::Ref::\lToString" alt="" coords="659,194,797,241"/>
-<area shape="rect" id="node16" href="$class_rig_def_1_1_node_1_1_ref.html#a5912183c0dfa018a32190a5bc89b53c8" title="RigDef::Node::Ref::\lIsValidAnyState" alt="" coords="241,254,380,301"/>
-<area shape="rect" id="node14" href="$class_ro_r_1_1_rig_editor_1_1_node.html#aefebb9cd1a67bbb2afc980b0f8baab12" title="RoR::RigEditor::Node\l::GetPosition" alt="" coords="436,65,585,111"/>
-<area shape="rect" id="node7" href="$class_rig_def_1_1_node_1_1_ref.html#a80f06d82da5ac28617eca47baa590821" title="RigDef::Node::Ref::Str" alt="" coords="651,141,805,171"/>
-</map>

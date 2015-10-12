@@ -1,5 +1,0 @@
-<map id="RigSpawner::CloneMaterial" name="RigSpawner::CloneMaterial">
-<area shape="rect" id="node3" href="$class_video_camera.html#a8268fb8cb1546ba2f78a2179c6a763c2" title="VideoCamera::Setup" alt="" coords="236,13,377,43"/>
-<area shape="rect" id="node5" href="$class_rig_spawner.html#ac40a82ded5f7e9199428c228d4c5cd89" title="RigSpawner::ProcessVideo\lCamera" alt="" coords="428,5,609,51"/>
-<area shape="rect" id="node7" href="$class_rig_spawner.html#a67da85dd09bd864df9dc924f6f2a7d49" title="RigSpawner::SpawnRig" alt="" coords="660,13,820,43"/>
-</map>

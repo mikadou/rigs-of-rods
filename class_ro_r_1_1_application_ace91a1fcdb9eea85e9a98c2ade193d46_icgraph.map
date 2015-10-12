@@ -1,9 +1,0 @@
-<map id="RoR::Application::GetGuiManagerInterface" name="RoR::Application::GetGuiManagerInterface">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="225,67,375,96"/>
-<area shape="rect" id="node13" href="$class_beam.html#a866f7eb5e93d6c476fa1bd0a4b7dcdf5" title="Beam::LoadTruck" alt="" coords="237,124,363,153"/>
-<area shape="rect" id="node5" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="491,5,541,35"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="425,58,607,105"/>
-<area shape="rect" id="node7" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="712,5,784,35"/>
-<area shape="rect" id="node11" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="657,67,839,96"/>
-<area shape="rect" id="node15" href="$class_beam.html#ac3b331240d6084f4a5116f6c862b65ad" title="Beam::Beam" alt="" coords="467,128,565,157"/>
-</map>

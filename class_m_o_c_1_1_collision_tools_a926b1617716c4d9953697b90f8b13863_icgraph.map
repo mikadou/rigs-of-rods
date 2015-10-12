@@ -1,5 +1,0 @@
-<map id="MOC::CollisionTools::raycastFromPoint" name="MOC::CollisionTools::raycastFromPoint">
-<area shape="rect" id="node3" href="$class_m_o_c_1_1_collision_tools.html#a2e5543e1407bed98ff637cc24b3f9bc1" title="MOC::CollisionTools\l::collidesWithEntity" alt="" coords="199,5,340,51"/>
-<area shape="rect" id="node5" href="$class_m_o_c_1_1_collision_tools.html#a645e5635f70ad0532099513b2c42c7fb" title="MOC::CollisionTools\l::calculateY" alt="" coords="199,74,340,121"/>
-<area shape="rect" id="node7" href="$class_m_o_c_1_1_collision_tools.html#a12d26bad42a281549f955b387eb7d1c1" title="MOC::CollisionTools\l::raycastFromPoint" alt="" coords="199,143,340,190"/>
-</map>

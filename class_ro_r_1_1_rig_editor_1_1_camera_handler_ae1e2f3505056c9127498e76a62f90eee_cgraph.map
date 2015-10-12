@@ -1,5 +1,0 @@
-<map id="RoR::RigEditor::CameraHandler::SetStyle" name="RoR::RigEditor::CameraHandler::SetStyle">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_camera_handler.html#af540dff2565986c89085e344ad40977c" title="RoR::RigEditor::CameraHandler\l::SetOrbitTarget" alt="" coords="264,5,475,51"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_camera_handler.html#a0bae07c9d59a2ae93b04c8b271c034e9" title="RoR::RigEditor::CameraHandler\l::SetYawPitchDist" alt="" coords="523,35,733,82"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_camera_handler.html#a2aa9e07ca59c04ec92adbd1cd3229a5f" title="RoR::RigEditor::CameraHandler\l::ManualStop" alt="" coords="264,125,475,171"/>
-</map>

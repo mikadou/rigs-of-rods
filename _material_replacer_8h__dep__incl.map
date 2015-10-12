@@ -1,9 +1,0 @@
-<map id="source/main/gameplay/MaterialReplacer.h" name="source/main/gameplay/MaterialReplacer.h">
-<area shape="rect" id="node3" href="$_material_replacer_8cpp.html" title="source/main/gameplay\l/MaterialReplacer.cpp" alt="" coords="5,102,157,149"/>
-<area shape="rect" id="node5" href="$_video_camera_8cpp.html" title="source/main/gfx/VideoCamera.cpp" alt="" coords="181,111,403,140"/>
-<area shape="rect" id="node7" href="$_turbo_jet_8cpp.html" title="source/main/physics\l/air/TurboJet.cpp" alt="" coords="427,102,568,149"/>
-<area shape="rect" id="node9" href="$_flex_body_8cpp.html" title="source/main/physics\l/flex/FlexBody.cpp" alt="" coords="592,102,733,149"/>
-<area shape="rect" id="node11" href="$_flex_mesh_wheel_8cpp.html" title="source/main/physics\l/flex/FlexMeshWheel.cpp" alt="" coords="757,102,928,149"/>
-<area shape="rect" id="node13" href="$_rig_spawner_8cpp.html" title="Vehicle spawning logic. " alt="" coords="952,102,1149,149"/>
-<area shape="rect" id="node15" href="$_mesh_object_8cpp.html" title="source/main/utils/MeshObject.cpp" alt="" coords="1173,111,1392,140"/>
-</map>

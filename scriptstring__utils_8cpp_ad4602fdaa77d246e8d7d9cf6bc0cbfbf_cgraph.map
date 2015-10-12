@@ -1,6 +1,0 @@
-<map id="StringSplit_Generic" name="StringSplit_Generic">
-<area shape="rect" id="node3" href="$class_c_script_array.html#a54fe13adf1cdded2aec4ac0b5924891f" title="CScriptArray::Resize" alt="" coords="192,5,339,35"/>
-<area shape="rect" id="node7" href="$class_c_script_array.html#aceeebde2ef3248973a87add12d140806" title="CScriptArray::GetSize" alt="" coords="189,59,341,88"/>
-<area shape="rect" id="node9" href="$class_c_script_array.html#ac179b031c789763b6d7cecb8c07157f5" title="CScriptArray::At" alt="" coords="207,112,324,141"/>
-<area shape="rect" id="node5" href="$class_c_script_array.html#a7b0f5d403c859b4b3d3af2c6eb1f468c" title="CScriptArray::CheckMaxSize" alt="" coords="389,5,584,35"/>
-</map>

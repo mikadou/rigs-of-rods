@@ -1,6 +1,0 @@
-<map id="RigSpawner::GetNodeIndex" name="RigSpawner::GetNodeIndex">
-<area shape="rect" id="node3" href="$class_rig_def_1_1_node_1_1_ref.html#a5912183c0dfa018a32190a5bc89b53c8" title="RigDef::Node::Ref::\lIsValidAnyState" alt="" coords="255,5,393,51"/>
-<area shape="rect" id="node5" href="$class_rig_def_1_1_node_1_1_ref.html#a141e4a4770a737736436a3746a31f3ea" title="RigDef::Node::Ref::\lToString" alt="" coords="255,74,393,121"/>
-<area shape="rect" id="node7" href="$class_rig_def_1_1_node_1_1_ref.html#a80f06d82da5ac28617eca47baa590821" title="RigDef::Node::Ref::Str" alt="" coords="247,144,401,173"/>
-<area shape="rect" id="node9" href="$class_rig_def_1_1_node_1_1_ref.html#a654831f9421f9d314d849f966f70a04d" title="RigDef::Node::Ref::Num" alt="" coords="241,197,407,227"/>
-</map>

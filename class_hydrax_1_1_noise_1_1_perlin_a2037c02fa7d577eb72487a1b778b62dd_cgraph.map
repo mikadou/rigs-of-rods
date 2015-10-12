@@ -1,7 +1,0 @@
-<map id="Hydrax::Noise::Perlin::update" name="Hydrax::Noise::Perlin::update">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_noise_1_1_perlin.html#af5fa944d06781f1a900d590822c65860" title="Hydrax::Noise::Perlin\l::_calculeNoise" alt="" coords="253,5,400,51"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_noise_1_1_noise.html#ae2260556005e5a5eaebae94d936b60c0" title="Hydrax::Noise::Noise\l::areGPUNormalMapResourcesCreated" alt="" coords="200,74,453,121"/>
-<area shape="rect" id="node9" href="$class_hydrax_1_1_noise_1_1_perlin.html#a225baecfe2444d488568fb373f279322" title="Hydrax::Noise::Perlin\l::_updateGPUNormalMapResources" alt="" coords="209,143,444,190"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_noise_1_1_perlin.html#a3981deca31b1a17e4fd770f677b84c00" title="Hydrax::Noise::Perlin\l::_mapSample" alt="" coords="537,5,684,51"/>
-<area shape="rect" id="node11" href="$class_hydrax_1_1_g_p_u_normal_map_manager.html#ab37c3778df109d139c6136fbda3abe80" title="Hydrax::GPUNormalMapManager\l::getTexture" alt="" coords="501,143,720,190"/>
-</map>

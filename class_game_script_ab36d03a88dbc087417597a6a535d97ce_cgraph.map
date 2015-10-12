@@ -1,5 +1,0 @@
-<map id="GameScript::getNumTrucksByFlag" name="GameScript::getNumTrucksByFlag">
-<area shape="rect" id="node3" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getSingleton" alt="" coords="259,5,416,69"/>
-<area shape="rect" id="node5" href="$class_beam_factory.html#a5f3755f8cd44e6972e463cc6aaa9f181" title="BeamFactory::getTruckCount" alt="" coords="240,93,435,123"/>
-<area shape="rect" id="node7" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="259,147,416,176"/>
-</map>

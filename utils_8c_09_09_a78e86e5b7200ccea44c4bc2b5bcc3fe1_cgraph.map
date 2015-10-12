@@ -1,5 +1,0 @@
-<map id="libirc_event_ctcp_internal" name="libirc_event_ctcp_internal">
-<area shape="rect" id="node3" href="$libircclient_8h.html#a217df7c7c7dc5e60678dd14e24e41f03" title="Gets the nick part from the target. " alt="" coords="227,5,357,35"/>
-<area shape="rect" id="node5" href="$libircclient_8h.html#a62cba0ecb13b0d602403e77bbe78550e" title="Generates a reply to the CTCP request. " alt="" coords="225,59,359,88"/>
-<area shape="rect" id="node7" href="$libircclient_8h.html#aebc090ad2392569b1998d7e2354c7bc7" title="Obtains a libircclient version. " alt="" coords="237,112,347,141"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="RoR::GUI::Dialog::onEndModal" name="RoR::GUI::Dialog::onEndModal">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_dialog.html#a883b9e564532d0c1613048b569f2b9a4" title="RoR::GUI::Dialog::endModal" alt="" coords="263,48,452,77"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a35a10d6c23920802442d32fab1a8d470" title="RoR::RigEditor::Main\l::NotifyFileSelectorEnded" alt="" coords="501,39,672,86"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a4f73e9dc5632524ca803864460b82bb5" title="RoR::RigEditor::Main\l::CommandShowDialogOpenRigFile" alt="" coords="728,5,960,51"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_main.html#acb4af1361d9233f5ee2fa658536a7658" title="RoR::RigEditor::Main\l::CommandShowDialogSaveRigFileAs" alt="" coords="721,74,967,121"/>
-</map>

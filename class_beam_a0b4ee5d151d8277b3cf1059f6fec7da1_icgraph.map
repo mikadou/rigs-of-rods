@@ -1,5 +1,0 @@
-<map id="Beam::preMapLabelRenderUpdate" name="Beam::preMapLabelRenderUpdate">
-<area shape="rect" id="node3" href="$class_survey_map_texture_creator.html#aeeb03c9272b7b29ff6d346a9f4611dc5" title="SurveyMapTextureCreator\l::preRenderTargetUpdate" alt="" coords="279,5,452,51"/>
-<area shape="rect" id="node7" href="$class_survey_map_texture_creator.html#aeee3a35731188515be6a257bab889a84" title="SurveyMapTextureCreator\l::postRenderTargetUpdate" alt="" coords="277,74,453,121"/>
-<area shape="rect" id="node5" href="$class_survey_map_texture_creator.html#a889f0dd0655063c8cb78116cee9e6b1d" title="SurveyMapTextureCreator\l::update" alt="" coords="503,39,676,86"/>
-</map>

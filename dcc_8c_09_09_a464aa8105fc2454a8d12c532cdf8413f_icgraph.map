@@ -1,6 +1,0 @@
-<map id="libirc_dcc_destroy_nolock" name="libirc_dcc_destroy_nolock">
-<area shape="rect" id="node3" href="$dcc_8c_09_09.html#a803edc073a809a99cdc9b83a321396ae" title="libirc_dcc_add_descriptors" alt="" coords="181,5,357,35"/>
-<area shape="rect" id="node5" href="$dcc_8c_09_09.html#a9a7cc94e78b507f62eb6b8a444c29277" title="libirc_dcc_process\l_descriptors" alt="" coords="204,58,335,105"/>
-<area shape="rect" id="node7" href="$libircclient_8h.html#a43f747d3b2252109f9d811ea8414745b" title="Accepts a remote DCC CHAT or DCC RECVFILE request. " alt="" coords="215,128,324,157"/>
-<area shape="rect" id="node9" href="$libircclient_8h.html#a3ff4ca78d346b7acf847cf28a7211bf4" title="Declines a remote DCC CHAT or DCC RECVFILE request. " alt="" coords="213,181,325,211"/>
-</map>

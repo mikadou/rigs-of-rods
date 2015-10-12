@@ -1,7 +1,0 @@
-<map id="Beam::updateVisualPrepare" name="Beam::updateVisualPrepare">
-<area shape="rect" id="node3" href="$class_ro_r_singleton_no_creation.html#a5e7a47f4b2d6d0abaa3a1ea5ca1f216a" title="RoRSingletonNoCreation\l\&lt; DustManager \&gt;::getSingleton" alt="" coords="239,5,441,51"/>
-<area shape="rect" id="node5" href="$class_dust_manager.html#ac2605bc95d8085a778ec4f6800cfad59" title="DustManager::update" alt="" coords="267,75,413,104"/>
-<area shape="rect" id="node7" href="$_approx_math_8h.html#a88cab057c9c3a7a5cbaa1aebb06bf864" title="fast_normalise" alt="" coords="287,128,393,157"/>
-<area shape="rect" id="node11" href="$class_thread_pool.html#adb50af7fc46587f871d93472c5f36f1b" title="ThreadPool::enqueue" alt="" coords="268,181,412,211"/>
-<area shape="rect" id="node9" href="$_approx_math_8h.html#a08e9e14c091640464aae072f3823b855" title="fast_invSqrt" alt="" coords="492,128,583,157"/>
-</map>

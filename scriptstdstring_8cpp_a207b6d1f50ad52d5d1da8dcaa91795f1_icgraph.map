@@ -1,6 +1,0 @@
-<map id="StringResize" name="StringResize">
-<area shape="rect" id="node3" href="$scriptstdstring_8cpp.html#a657654b75330de77f99c893c3961e7a4" title="RegisterStdString_Native" alt="" coords="152,5,323,35"/>
-<area shape="rect" id="node5" href="$scriptstdstring_8h.html#a287e4fc1f4c8621cfd2f1793f9e70f39" title="RegisterStdString" alt="" coords="371,5,496,35"/>
-<area shape="rect" id="node7" href="$class_script_engine.html#aec64d59067a79c9fe0b88c150c901147" title="ScriptEngine::init" alt="" coords="545,5,665,35"/>
-<area shape="rect" id="node9" href="$class_script_engine.html#a05631d095d3ed370791fb2e67344da32" title="ScriptEngine::ScriptEngine" alt="" coords="715,5,893,35"/>
-</map>

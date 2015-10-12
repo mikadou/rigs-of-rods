@@ -1,6 +1,0 @@
-<map id="Ogre::MovableText::_updateColors" name="Ogre::MovableText::_updateColors">
-<area shape="rect" id="node3" href="$class_ogre_1_1_movable_text.html#a1414bbe8133feca96a3a425c94e6f063" title="Ogre::MovableText::\l_setupGeometry" alt="" coords="195,74,336,121"/>
-<area shape="rect" id="node7" href="$class_ogre_1_1_movable_text.html#a36ad18a28b8a65cfd72d9510f395a1bb" title="Ogre::MovableText::\lgetRenderOperation" alt="" coords="388,5,529,51"/>
-<area shape="rect" id="node9" href="$class_ogre_1_1_movable_text.html#ab1b1e781e7fc9d01ba159ff785a272b5" title="Ogre::MovableText::\l_updateRenderQueue" alt="" coords="385,143,532,190"/>
-<area shape="rect" id="node5" href="$class_ogre_1_1_movable_text.html#abaf5b20e1fe11b1329566f80997471f1" title="Ogre::MovableText::\lMovableText" alt="" coords="388,74,529,121"/>
-</map>

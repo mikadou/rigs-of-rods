@@ -1,7 +1,0 @@
-<map id="CScriptAny::GetRefCount" name="CScriptAny::GetRefCount">
-<area shape="rect" id="node3" href="$scriptany_8cpp.html#a8fa1d5182ad9f0f3970d6a9f6bfe1e59" title="ScriptAny_GetRefCount\l_Generic" alt="" coords="229,5,392,51"/>
-<area shape="rect" id="node5" href="$scriptany_8h.html#ade7875aa9250cb75598a7bfa20ca8c2d" title="RegisterScriptAny_Generic" alt="" coords="441,13,620,43"/>
-<area shape="rect" id="node7" href="$scriptany_8h.html#a13b8b1995d1ba5f1031f76ac76eea446" title="RegisterScriptAny" alt="" coords="669,13,797,43"/>
-<area shape="rect" id="node9" href="$class_script_engine.html#aec64d59067a79c9fe0b88c150c901147" title="ScriptEngine::init" alt="" coords="847,13,967,43"/>
-<area shape="rect" id="node11" href="$class_script_engine.html#a05631d095d3ed370791fb2e67344da32" title="ScriptEngine::ScriptEngine" alt="" coords="1016,13,1195,43"/>
-</map>

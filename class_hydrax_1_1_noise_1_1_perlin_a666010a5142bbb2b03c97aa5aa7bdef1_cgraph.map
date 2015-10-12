@@ -1,8 +1,0 @@
-<map id="Hydrax::Noise::Perlin::remove" name="Hydrax::Noise::Perlin::remove">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_noise_1_1_noise.html#ae2260556005e5a5eaebae94d936b60c0" title="Hydrax::Noise::Noise\l::areGPUNormalMapResourcesCreated" alt="" coords="200,5,453,51"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_noise_1_1_noise.html#a9d3ca345d3f5b629e43ab276236d93b7" title="Hydrax::Noise::Noise\l::removeGPUNormalMapResources" alt="" coords="211,74,443,121"/>
-<area shape="rect" id="node11" href="$class_hydrax_1_1_noise_1_1_noise.html#a94f5963b8f6fed2fb22149ff22e1166f" title="Hydrax::Noise::Noise\l::isCreated" alt="" coords="253,143,400,190"/>
-<area shape="rect" id="node13" href="$class_hydrax_1_1_noise_1_1_noise.html#a00c4aaa7604ea492740318d01f651606" title="Hydrax::Noise::Noise\l::remove" alt="" coords="253,213,400,259"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_g_p_u_normal_map_manager.html#a3a9a24e5832aaa24f78025d1ba04f8a3" title="Hydrax::GPUNormalMapManager\l::remove" alt="" coords="501,74,720,121"/>
-<area shape="rect" id="node9" href="$class_hydrax_1_1_rtt_manager.html#a360139ed63706da8ca9ec04716d65574" title="Hydrax::RttManager\l::remove" alt="" coords="769,74,908,121"/>
-</map>

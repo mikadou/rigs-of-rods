@@ -1,6 +1,0 @@
-<map id="RoR::GUI::RigEditorDeleteMenu" name="RoR::GUI::RigEditorDeleteMenu">
-<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_delete_menu_layout.html" title="RoR::GUI::RigEditorDelete\lMenuLayout" alt="" coords="5,86,187,133"/>
-<area shape="rect" id="node4" href="$classwraps_1_1_base_layout.html" title="wraps::BaseLayout" alt="" coords="29,5,163,35"/>
-<area shape="rect" id="node6" href="$class_ro_r_1_1_gui_panel_base.html" title="RoR::GuiPanelBase" alt="" coords="211,95,349,124"/>
-<area shape="rect" id="node8" href="$class_ro_r_1_1_rig_editor_1_1_i_main.html" title="RoR::RigEditor::IMain" alt="" coords="373,95,523,124"/>
-</map>

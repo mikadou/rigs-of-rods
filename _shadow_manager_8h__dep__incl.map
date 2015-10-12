@@ -1,6 +1,0 @@
-<map id="source/main/gfx/ShadowManager.h" name="source/main/gfx/ShadowManager.h">
-<area shape="rect" id="node3" href="$_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="5,83,165,130"/>
-<area shape="rect" id="node5" href="$_shadow_manager_8cpp.html" title="source/main/gfx/ShadowManager.cpp" alt="" coords="189,92,429,121"/>
-<area shape="rect" id="node7" href="$_terrain_geometry_manager_8cpp.html" title="source/main/terrain\l/TerrainGeometryManager.cpp" alt="" coords="453,83,651,130"/>
-<area shape="rect" id="node9" href="$_terrain_manager_8cpp.html" title="source/main/terrain\l/TerrainManager.cpp" alt="" coords="675,83,816,130"/>
-</map>

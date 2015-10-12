@@ -1,7 +1,0 @@
-<map id="ScriptAnyFactory2_Generic" name="ScriptAnyFactory2_Generic">
-<area shape="rect" id="node3" href="$scriptany_8h.html#a67b5ebe9ab40569dfd2c903d1f0c1a3c" title="RegisterScriptAny_Native" alt="" coords="241,5,415,35"/>
-<area shape="rect" id="node11" href="$scriptany_8h.html#ade7875aa9250cb75598a7bfa20ca8c2d" title="RegisterScriptAny_Generic" alt="" coords="239,59,417,88"/>
-<area shape="rect" id="node5" href="$scriptany_8h.html#a13b8b1995d1ba5f1031f76ac76eea446" title="RegisterScriptAny" alt="" coords="467,32,595,61"/>
-<area shape="rect" id="node7" href="$class_script_engine.html#aec64d59067a79c9fe0b88c150c901147" title="ScriptEngine::init" alt="" coords="644,32,764,61"/>
-<area shape="rect" id="node9" href="$class_script_engine.html#a05631d095d3ed370791fb2e67344da32" title="ScriptEngine::ScriptEngine" alt="" coords="813,32,992,61"/>
-</map>

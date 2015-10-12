@@ -1,7 +1,0 @@
-<map id="CScriptAny::EnumReferences" name="CScriptAny::EnumReferences">
-<area shape="rect" id="node3" href="$scriptany_8cpp.html#a9f4eef9a0d3c59b6a7872d11f8a52551" title="ScriptAny_EnumReferences\l_Generic" alt="" coords="253,5,440,51"/>
-<area shape="rect" id="node5" href="$scriptany_8h.html#ade7875aa9250cb75598a7bfa20ca8c2d" title="RegisterScriptAny_Generic" alt="" coords="489,13,668,43"/>
-<area shape="rect" id="node7" href="$scriptany_8h.html#a13b8b1995d1ba5f1031f76ac76eea446" title="RegisterScriptAny" alt="" coords="717,13,845,43"/>
-<area shape="rect" id="node9" href="$class_script_engine.html#aec64d59067a79c9fe0b88c150c901147" title="ScriptEngine::init" alt="" coords="895,13,1015,43"/>
-<area shape="rect" id="node11" href="$class_script_engine.html#a05631d095d3ed370791fb2e67344da32" title="ScriptEngine::ScriptEngine" alt="" coords="1064,13,1243,43"/>
-</map>

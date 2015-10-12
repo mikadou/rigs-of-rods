@@ -1,5 +1,0 @@
-<map id="RoR::RigEditor::GuiPopupDynamicListBase::GuiCallback_MouseFocusLost" name="RoR::RigEditor::GuiPopupDynamicListBase::GuiCallback_MouseFocusLost">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_gui_popup_dynamic_list_base.html#ae28946e61959b65e28862a5c1263a538" title="RoR::RigEditor::GuiPopup\lDynamicListBase::OnSelectAll\lMouseFocusLost" alt="" coords="267,5,469,69"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_gui_popup_dynamic_list_base.html#a9931467252e51d8a7ef84f856c516f0f" title="RoR::RigEditor::GuiPopup\lDynamicListBase::OnDeselectAll\lMouseFocusLost" alt="" coords="260,93,476,157"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_gui_popup_dynamic_list_base.html#a6435b3a746f21586ba264dd9f738a385" title="RoR::RigEditor::GuiPopup\lDynamicListBase::OnItemMouse\lFocusLost" alt="" coords="261,181,475,245"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="RigDef::Parser::IdentifyKeyword" name="RigDef::Parser::IdentifyKeyword">
-<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a6179468112b17d8f490afc3d7e465fcc" title="RigDef::Parser::FindKeyword\lMatch" alt="" coords="217,5,409,51"/>
-<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="RigDef::Parser::AddMessage" alt="" coords="217,75,409,104"/>
-<area shape="rect" id="node7" href="$struct_rig_def_1_1_file.html#aecfdfd70221c860aebb6edf3f40d78d2" title="RigDef::File::KeywordToString" alt="" coords="213,128,413,157"/>
-</map>

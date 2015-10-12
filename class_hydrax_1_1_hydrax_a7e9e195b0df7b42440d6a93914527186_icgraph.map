@@ -1,6 +1,0 @@
-<map id="Hydrax::Hydrax::getGodRaysIntensity" name="Hydrax::Hydrax::getGodRaysIntensity">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_cfg_file_manager.html#a4397ab1deeabca41d9743e52b295e51d" title="Hydrax::CfgFileManager\l::_getComponentsCfgString" alt="" coords="260,5,444,51"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_material_manager.html#a445098a432e8799d4b65b1a8e7cf5192" title="Hydrax::MaterialManager\l::_createUnderwaterCompositor" alt="" coords="249,74,455,121"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_cfg_file_manager.html#a5bdea43e50f5a1662e2dc80e68e0d8a6" title="Hydrax::CfgFileManager\l::save" alt="" coords="507,5,669,51"/>
-<area shape="rect" id="node9" href="$class_hydrax_1_1_material_manager.html#a6aa7b0a92b824348577d506f7bcf581b" title="Hydrax::MaterialManager\l::createMaterials" alt="" coords="504,74,672,121"/>
-</map>

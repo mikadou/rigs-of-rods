@@ -1,5 +1,0 @@
-<map id="CameraBehaviorIsometric::activate" name="CameraBehaviorIsometric::activate">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_application.html#ad66b6a7000f93454d75f1150d6959141" title="RoR::Application::GetConsole" alt="" coords="245,5,443,35"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_application.html#a3db1b8c7dc6bf465f5ed653ef4a8ce9a" title="RoR::Application::GetGui\lManager" alt="" coords="259,58,429,105"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_g_u_i_manager.html#ae4edd69226416a7be139959fd71319ea" title="RoR::GUIManager::PushNotification" alt="" coords="227,128,461,157"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="ScriptDictionaryFactory_Generic" name="ScriptDictionaryFactory_Generic">
-<area shape="rect" id="node3" href="$scriptdictionary_8h.html#a7c41a379d66a350e692e11acfea995cb" title="RegisterScriptDictionary\l_Native" alt="" coords="215,5,377,51"/>
-<area shape="rect" id="node11" href="$scriptdictionary_8h.html#af8fc6fbf1a623e6c2ff14605df4e0570" title="RegisterScriptDictionary\l_Generic" alt="" coords="215,74,377,121"/>
-<area shape="rect" id="node5" href="$scriptdictionary_8h.html#abf884a3f2b4b07a009c5fc055b48f901" title="RegisterScriptDictionary" alt="" coords="428,48,591,77"/>
-<area shape="rect" id="node7" href="$class_script_engine.html#aec64d59067a79c9fe0b88c150c901147" title="ScriptEngine::init" alt="" coords="641,48,761,77"/>
-<area shape="rect" id="node9" href="$class_script_engine.html#a05631d095d3ed370791fb2e67344da32" title="ScriptEngine::ScriptEngine" alt="" coords="811,48,989,77"/>
-</map>

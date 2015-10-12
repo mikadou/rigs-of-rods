@@ -1,6 +1,0 @@
-<map id="Hydrax::Noise::Noise::loadCfg" name="Hydrax::Noise::Noise::loadCfg">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_cfg_file_manager.html#a7d283a6b6b61ad70292c7cb24cd3543c" title="Hydrax::CfgFileManager\l::load" alt="" coords="204,5,367,51"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_noise_1_1_f_f_t.html#a64245b9e56eeb8627ac3f5260dc203dd" title="Hydrax::Noise::FFT\l::loadCfg" alt="" coords="216,74,355,121"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_noise_1_1_perlin.html#a3a2dab14cfbda1ccf8fc5de4bb89f124" title="Hydrax::Noise::Perlin\l::loadCfg" alt="" coords="212,143,359,190"/>
-<area shape="rect" id="node9" href="$class_hydrax_1_1_noise_1_1_real.html#af858ae00b9af27b190ca5653b42bfc7f" title="Hydrax::Noise::Real\l::loadCfg" alt="" coords="215,213,356,259"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="RoR::SceneMouse::mouseMoved" name="RoR::SceneMouse::mouseMoved">
-<area shape="rect" id="node3" href="$class_camera_manager.html#a4cc2781595b0f926f1dbd338b988c35f" title="CameraManager::mouseMoved" alt="" coords="273,5,476,35"/>
-<area shape="rect" id="node5" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getSingleton" alt="" coords="544,44,701,108"/>
-<area shape="rect" id="node7" href="$class_beam_factory.html#aa7c42481b46a78459831fa0900ab8d67" title="BeamFactory::getTrucks" alt="" coords="540,136,705,165"/>
-<area shape="rect" id="node9" href="$class_beam_factory.html#a5f3755f8cd44e6972e463cc6aaa9f181" title="BeamFactory::getTruckCount" alt="" coords="525,197,720,227"/>
-<area shape="rect" id="node11" href="$class_beam.html#a8b8e30801a15fd87d0cb99e09900bdbb" title="Beam::hookToggle" alt="" coords="309,160,440,189"/>
-</map>

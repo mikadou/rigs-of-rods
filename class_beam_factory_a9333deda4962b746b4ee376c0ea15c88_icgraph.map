@@ -1,4 +1,0 @@
-<map id="BeamFactory::recalcGravityMasses" name="BeamFactory::recalcGravityMasses">
-<area shape="rect" id="node3" href="$class_terrain_manager.html#ae5c8fd26c38acd159ca7f090f84366ff" title="TerrainManager::setGravity" alt="" coords="241,13,420,43"/>
-<area shape="rect" id="node5" href="$class_game_script.html#a1eca53d40d3d637dfb7be59517572d82" title="GameScript::setGravity" alt="" coords="471,13,628,43"/>
-</map>

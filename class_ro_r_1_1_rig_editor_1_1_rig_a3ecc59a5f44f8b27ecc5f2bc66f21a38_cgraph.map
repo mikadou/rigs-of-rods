@@ -1,8 +1,0 @@
-<map id="RoR::RigEditor::Rig::SelectedMixedBeamsUpdateAttributes" name="RoR::RigEditor::Rig::SelectedMixedBeamsUpdateAttributes">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a15d1827bdc42035e563fcb69452831d5" title="RoR::RigEditor::Beam\l::GetType" alt="" coords="476,143,628,190"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#ac15172c3a25da402883a2771edb39eeb" title="RoR::RigEditor::Beam\l::GetDefinitionPlainBeam" alt="" coords="256,39,424,86"/>
-<area shape="rect" id="node8" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a64a3e98387c4546ee40b0313489674c7" title="RoR::RigEditor::Beam\l::GetDefinitionShock2" alt="" coords="264,109,416,155"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a76704c4437e3a462e9e5123e79acb80e" title="RoR::RigEditor::Beam\l::GetDefinitionHydro" alt="" coords="264,178,416,225"/>
-<area shape="rect" id="node14" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#aab6f9ca4ccc28b1ffa27e264108f9a04" title="RoR::RigEditor::Beam\l::GetDefinitionCommand2" alt="" coords="253,247,427,294"/>
-<area shape="rect" id="node17" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#ab10c0ea6119bed1d699c4b749cb27993" title="RoR::RigEditor::Beam\l::GetDefinitionShock" alt="" coords="264,317,416,363"/>
-</map>

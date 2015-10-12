@@ -1,6 +1,0 @@
-<map id="Settings::checkGUID" name="Settings::checkGUID">
-<area shape="rect" id="node3" href="$class_settings.html#ad15bfc8dd02c5b7f32fb5bfe6f3691f2" title="Settings::getSetting" alt="" coords="601,31,737,60"/>
-<area shape="rect" id="node7" href="$class_settings.html#a1d75b7014ae8afb02730c3695710d34b" title="Settings::createGUID" alt="" coords="201,31,348,60"/>
-<area shape="rect" id="node5" href="$class_settings.html#ac3316b04a9c006e1b3339a336ea3bd94" title="Settings::setSetting" alt="" coords="788,57,924,87"/>
-<area shape="rect" id="node10" href="$class_settings.html#a4c5d90390125e939d5e6299340e586a1" title="Settings::saveSettings" alt="" coords="397,31,552,60"/>
-</map>

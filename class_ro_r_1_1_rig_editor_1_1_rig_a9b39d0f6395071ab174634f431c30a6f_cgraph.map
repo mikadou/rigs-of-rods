@@ -1,6 +1,0 @@
-<map id="RoR::RigEditor::Rig::Export" name="RoR::RigEditor::Rig::Export">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_land_vehicle_wheel.html#af4d9bd7cad61089c50bdd0dd13d9d75c" title="RoR::RigEditor::LandVehicle\lWheel::GetType" alt="" coords="195,5,384,51"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_mesh_wheel2.html#a659623f165ed4f6b3738b8558d3ac0eb" title="RoR::RigEditor::MeshWheel2\l::GetDefinition" alt="" coords="192,74,387,121"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_mesh_wheel.html#a7414b3848d793d068a0e16757c8ae2cb" title="RoR::RigEditor::MeshWheel\l::GetDefinition" alt="" coords="196,143,383,190"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_flex_body_wheel.html#ad8d23ca151177972ed35b97156d45c86" title="RoR::RigEditor::FlexBody\lWheel::GetDefinition" alt="" coords="203,213,376,259"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::ShaderHelperCg::generateFpLayer" name="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::ShaderHelperCg::generateFpLayer">
-<area shape="rect" id="node3" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a3d0e04f70bf9d7cd03f36ccdf0be30d5" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lisLayerNormalMappingEnabled" alt="" coords="281,5,484,69"/>
-<area shape="rect" id="node5" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a78b5c30932676baec3a399234ab8da9a" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lisLayerParallaxMappingEnabled" alt="" coords="280,93,485,157"/>
-<area shape="rect" id="node7" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a1366b54a08b204a6023c9a5d76f921e1" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lisLayerSpecularMappingEnabled" alt="" coords="277,181,488,245"/>
-</map>

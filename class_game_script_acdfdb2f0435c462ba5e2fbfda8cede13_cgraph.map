@@ -1,4 +1,0 @@
-<map id="GameScript::getTruckByNum" name="GameScript::getTruckByNum">
-<area shape="rect" id="node3" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getSingleton" alt="" coords="249,5,407,69"/>
-<area shape="rect" id="node5" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="249,93,407,123"/>
-</map>

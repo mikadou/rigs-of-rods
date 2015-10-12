@@ -1,8 +1,0 @@
-<map id="RoR::MainThread::MainMenuLoopUpdateEvents" name="RoR::MainThread::MainMenuLoopUpdateEvents">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_application.html#a608003a20ef939a79437a9da8fa76307" title="RoR::Application::GetInput\lEngine" alt="" coords="265,5,444,51"/>
-<area shape="rect" id="node5" href="$class_input_engine.html#a930f4e5ec74b788a6eb5f6eecc38198d" title="InputEngine::updateKeyBounces" alt="" coords="249,75,460,104"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_application.html#a59a97190a3dea812d1f28504db82dc95" title="RoR::Application::GetOverlay\lWrapper" alt="" coords="257,127,452,174"/>
-<area shape="rect" id="node9" href="$class_overlay_wrapper.html#a92785274e3dea2492c613a66e1f56672" title="OverlayWrapper::update" alt="" coords="273,197,436,227"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_main_thread.html#abaada327351034aa2c1dce8100a43b53" title="RoR::MainThread::Request\lExitCurrentLoop" alt="" coords="264,250,445,297"/>
-<area shape="rect" id="node13" href="$class_ro_r_1_1_main_thread.html#acafb56bf2181a19e00f4b66244b519c9" title="RoR::MainThread::Request\lShutdown" alt="" coords="264,319,445,366"/>
-</map>

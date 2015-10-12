@@ -1,6 +1,0 @@
-<map id="Character::updateCharacterColour" name="Character::updateCharacterColour">
-<area shape="rect" id="node3" href="$class_character.html#af66e892ae9ab0bc74278e55754400b2d" title="Character::updateNetLabel" alt="" coords="237,67,416,96"/>
-<area shape="rect" id="node5" href="$class_character.html#a2b381f85738c4ede878be18925e1ce81" title="Character::Character" alt="" coords="485,5,629,35"/>
-<area shape="rect" id="node7" href="$class_character_factory.html#aba10150e9cffe503714dca7faaa9b780" title="CharacterFactory::localUser\lAttributesChanged" alt="" coords="464,58,651,105"/>
-<area shape="rect" id="node9" href="$class_character_factory.html#a4c9df69b8d726f031d75479ea7bdd326" title="CharacterFactory::netUser\lAttributesChanged" alt="" coords="469,127,645,174"/>
-</map>

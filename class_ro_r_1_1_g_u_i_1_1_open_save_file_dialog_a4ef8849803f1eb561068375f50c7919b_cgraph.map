@@ -1,8 +1,0 @@
-<map id="RoR::GUI::OpenSaveFileDialog::notifyUpButtonClick" name="RoR::GUI::OpenSaveFileDialog::notifyUpButtonClick">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#af224be69b772262517ad470e2c9977c8" title="RoR::GUI::OpenSaveFileDialog\l::upFolder" alt="" coords="261,23,469,70"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_open_save_file_dialog.html#a8c1b024be96a42a6be82b75bad012e1e" title="RoR::GUI::OpenSaveFileDialog\l::update" alt="" coords="517,23,725,70"/>
-<area shape="rect" id="node7" href="$namespace_ro_r_1_1_file_system.html#ae33ccfefa159afb285835c8fa5498a8b" title="RoR::FileSystem::getSystem\lFileList" alt="" coords="773,23,968,70"/>
-<area shape="rect" id="node9" href="$namespace_ro_r_1_1_file_system.html#a78a496cdd3796294fcd6c3c452a23f10" title="RoR::FileSystem::concatenatePath" alt="" coords="1016,5,1245,35"/>
-<area shape="rect" id="node13" href="$namespace_ro_r_1_1_file_system.html#aefc2f14edd3f91d6c92ac4d9cfac865f" title="RoR::FileSystem::isReservedDir" alt="" coords="1024,59,1237,88"/>
-<area shape="rect" id="node11" href="$namespace_ro_r_1_1_file_system.html#af8e0cce7d301d79f48f0367827a18ba2" title="RoR::FileSystem::isAbsolutePath" alt="" coords="1293,5,1512,35"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="CScriptDictionary::Get" name="CScriptDictionary::Get">
-<area shape="rect" id="node3" href="$scriptdictionary_8cpp.html#aeedb4bd3f71a876e960eded70d26462d" title="ScriptDictionaryGet\l_Generic" alt="" coords="216,5,352,51"/>
-<area shape="rect" id="node13" href="$scriptdictionary_8cpp.html#a8f882ca432f47eede39c8bd47f2fecec" title="ScriptDictionaryGetInt\l_Generic" alt="" coords="209,74,359,121"/>
-<area shape="rect" id="node16" href="$scriptdictionary_8cpp.html#ad794b33213ce2522b1a41d4a964f3b15" title="ScriptDictionaryGetFlt\l_Generic" alt="" coords="209,143,359,190"/>
-<area shape="rect" id="node5" href="$scriptdictionary_8h.html#af8fc6fbf1a623e6c2ff14605df4e0570" title="RegisterScriptDictionary\l_Generic" alt="" coords="409,74,572,121"/>
-<area shape="rect" id="node7" href="$scriptdictionary_8h.html#abf884a3f2b4b07a009c5fc055b48f901" title="RegisterScriptDictionary" alt="" coords="623,83,785,112"/>
-<area shape="rect" id="node9" href="$class_script_engine.html#aec64d59067a79c9fe0b88c150c901147" title="ScriptEngine::init" alt="" coords="836,83,956,112"/>
-<area shape="rect" id="node11" href="$class_script_engine.html#a05631d095d3ed370791fb2e67344da32" title="ScriptEngine::ScriptEngine" alt="" coords="1005,83,1184,112"/>
-</map>

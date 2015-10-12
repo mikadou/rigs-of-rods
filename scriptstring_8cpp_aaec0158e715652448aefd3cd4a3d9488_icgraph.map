@@ -1,6 +1,0 @@
-<map id="StringFactory" name="StringFactory">
-<area shape="rect" id="node3" href="$scriptstring_8cpp.html#a775fea19dc49793babcc2f0cae4850fb" title="StringFactory_Generic" alt="" coords="155,19,307,48"/>
-<area shape="rect" id="node9" href="$scriptstring_8h.html#a6014962945cf74e4ce075c0f758aaba6" title="RegisterScriptString\l_Native" alt="" coords="355,74,493,121"/>
-<area shape="rect" id="node5" href="$scriptstring_8h.html#a6edb8684b477c47069a6024b2dd0e5cf" title="RegisterScriptString\l_Generic" alt="" coords="355,5,493,51"/>
-<area shape="rect" id="node7" href="$scriptstring_8h.html#abb60da4c9ef614d9f0e6f76b8c19126e" title="RegisterScriptString" alt="" coords="541,48,680,77"/>
-</map>

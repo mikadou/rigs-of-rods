@@ -1,9 +1,0 @@
-<map id="InputEngine::setup" name="InputEngine::setup">
-<area shape="rect" id="node3" href="$class_input_engine.html#a1a103e7902cd57ea877a0c8ac049d3cd" title="InputEngine::saveMapping" alt="" coords="184,5,360,35"/>
-<area shape="rect" id="node5" href="$class_input_engine.html#afc5ef2151ca9c7a7af89c18dbbcdc65d" title="InputEngine::setupDefault" alt="" coords="185,59,359,88"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="409,59,559,88"/>
-<area shape="rect" id="node9" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="675,28,725,57"/>
-<area shape="rect" id="node13" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="609,81,791,127"/>
-<area shape="rect" id="node11" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="896,28,968,57"/>
-<area shape="rect" id="node15" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="841,89,1023,119"/>
-</map>

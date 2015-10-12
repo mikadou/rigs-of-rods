@@ -1,9 +1,0 @@
-<map id="InputEngine::reloadConfig" name="InputEngine::reloadConfig">
-<area shape="rect" id="node3" href="$class_input_engine.html#a4e6616df0615d79e74d38ba2cf0ee9b2" title="InputEngine::loadMapping" alt="" coords="228,59,399,88"/>
-<area shape="rect" id="node5" href="$class_input_engine.html#a1e3ee67edcec9c7a2dc618b37abc8321" title="InputEngine::resetKeys" alt="" coords="455,32,612,61"/>
-<area shape="rect" id="node7" href="$class_input_engine.html#aefbb52cfac8a59f9e6683665d035222f" title="InputEngine::processLine" alt="" coords="449,85,617,115"/>
-<area shape="rect" id="node9" href="$class_input_engine.html#a31686978ff9fe35d93d467ef33149b10" title="InputEngine::resolveEventName" alt="" coords="667,5,877,35"/>
-<area shape="rect" id="node11" href="$class_input_engine.html#a94995e94c51f95bf1c252b8b0559a5a0" title="InputEngine::newEvent" alt="" coords="693,59,851,88"/>
-<area shape="rect" id="node13" href="$class_input_engine.html#a6e833a491189fdcf9d7efd4e9a44e4d3" title="InputEngine::getEventGroup" alt="" coords="679,112,865,141"/>
-<area shape="rect" id="node15" href="$class_input_engine.html#af92de0a39f0fbbe82bc9e81d25f762d1" title="InputEngine::addEvent" alt="" coords="695,165,849,195"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="BeamEngine::getAutoShift" name="BeamEngine::getAutoShift">
-<area shape="rect" id="node3" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a830e19b0460db3df601abe83096f78d7" title="RoR::LandVehicleSimulation\l::UpdateVehicle" alt="" coords="232,5,421,51"/>
-<area shape="rect" id="node5" href="$class_overlay_wrapper.html#af60b94483d2976f1356c3450cc1d70e8" title="OverlayWrapper::UpdateLand\lVehicleHUD" alt="" coords="229,74,424,121"/>
-<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="473,83,687,112"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="InputEngine::windowResized" name="InputEngine::windowResized">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_application.html#a3db1b8c7dc6bf465f5ed653ef4a8ce9a" title="RoR::Application::GetGui\lManager" alt="" coords="276,54,447,101"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_manager.html#a96d5ffdf1439f330b255eff84c56f223" title="RoR::GUIManager::windowResized" alt="" coords="247,124,476,153"/>
-<area shape="rect" id="node7" href="$class_streamable_factory.html#a70b0bee11dc95dfe8e12436066d5749b" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getSingletonPtr" alt="" coords="547,5,704,69"/>
-<area shape="rect" id="node9" href="$class_beam_factory.html#af0ad39b32251a4fb8a6faf26317799fc" title="BeamFactory::windowResized" alt="" coords="525,93,725,123"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_application.html#a5082701abd55926b3c6eb4b0c933eca5" title="RoR::Application::GetOgre\lSubsystem" alt="" coords="536,146,715,193"/>
-<area shape="rect" id="node13" href="$class_ro_r_1_1_ogre_subsystem.html#aec5be99797f9add72578fb1fbfec582f" title="RoR::OgreSubsystem\l::GetRenderWindow" alt="" coords="551,215,700,262"/>
-</map>

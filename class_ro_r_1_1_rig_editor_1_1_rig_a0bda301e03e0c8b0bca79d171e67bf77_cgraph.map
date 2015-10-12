@@ -1,6 +1,0 @@
-<map id="RoR::RigEditor::Rig::DeleteAttachedBeams" name="RoR::RigEditor::Rig::DeleteAttachedBeams">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a961667e55f0d41fdacab764270939969" title="RoR::RigEditor::Beam\l::GetNodeA" alt="" coords="217,5,369,51"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a9e107c4bb884aeed653419a8fa5f21ba" title="RoR::RigEditor::Beam\l::GetNodeB" alt="" coords="217,74,369,121"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_node.html#afa889e9cb11afbad0efa8de446dff40c" title="RoR::RigEditor::Node\l::UnlinkBeam" alt="" coords="219,143,368,190"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a207d2ac614bc6b07715776729dfa4dbe" title="RoR::RigEditor::Rig\l::DeleteBeam" alt="" coords="224,213,363,259"/>
-</map>

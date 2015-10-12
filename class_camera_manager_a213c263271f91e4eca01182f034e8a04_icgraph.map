@@ -1,5 +1,0 @@
-<map id="CameraManager::getCurrentBehavior" name="CameraManager::getCurrentBehavior">
-<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::update\lEvents" alt="" coords="477,5,656,51"/>
-<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#afb0bc8ea3d0074704bc564ec8ebe79cc" title="RoRFrameListener::hideGUI" alt="" coords="241,39,428,68"/>
-<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="705,13,919,43"/>
-</map>

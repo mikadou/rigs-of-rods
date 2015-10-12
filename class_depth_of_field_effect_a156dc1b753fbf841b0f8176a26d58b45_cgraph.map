@@ -1,6 +1,0 @@
-<map id="DepthOfFieldEffect::DepthOfFieldEffect" name="DepthOfFieldEffect::DepthOfFieldEffect">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_application.html#a5082701abd55926b3c6eb4b0c933eca5" title="RoR::Application::GetOgre\lSubsystem" alt="" coords="432,72,611,119"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_ogre_subsystem.html#a6620196f431b09d0096516d214563fc7" title="RoR::OgreSubsystem\l::GetViewport" alt="" coords="216,32,365,79"/>
-<area shape="rect" id="node7" href="$class_depth_of_field_effect.html#a7106ef6ccb7e75f65d16912a1a9fd648" title="DepthOfFieldEffect\l::createDepthRenderTexture" alt="" coords="197,102,384,148"/>
-<area shape="rect" id="node9" href="$class_depth_of_field_effect.html#adad1694b29083a180b258589557dc6fd" title="DepthOfFieldEffect\l::addCompositor" alt="" coords="224,171,357,218"/>
-</map>

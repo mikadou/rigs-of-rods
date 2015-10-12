@@ -1,4 +1,0 @@
-<map id="RoR::RigEditor::LandVehicleWheel::SetRigidityNode" name="RoR::RigEditor::LandVehicleWheel::SetRigidityNode">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_land_vehicle_wheel.html#aa8e456fc63971b8ebdd6ca8ff247f4d5" title="Find out where to connect rigidity node. " alt="" coords="247,5,503,51"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_node.html#aefebb9cd1a67bbb2afc980b0f8baab12" title="RoR::RigEditor::Node\l::GetPosition" alt="" coords="553,5,703,51"/>
-</map>

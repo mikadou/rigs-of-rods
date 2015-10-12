@@ -1,8 +1,0 @@
-<map id="Hydrax::Module::ProjectedGrid::_renderGeometry" name="Hydrax::Module::ProjectedGrid::_renderGeometry">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_module_1_1_projected_grid.html#aef24e4054bbfa3f70b474c4c35708412" title="Hydrax::Module::Projected\lGrid::_calculeWorldPosition" alt="" coords="237,5,419,51"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_module_1_1_module.html#af5cfbabb783d9ded22f30f779c83c1c4" title="Hydrax::Module::Module\l::getNormalMode" alt="" coords="483,194,645,241"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_noise_1_1_noise.html#a5b18138d5c2c5ea3c3659cef80dd3a3e" title="Hydrax::Noise::Noise\l::getValue" alt="" coords="255,125,401,171"/>
-<area shape="rect" id="node9" href="$class_hydrax_1_1_module_1_1_projected_grid.html#a669e8104c6ca9f93bf8bfb1a10165e29" title="Hydrax::Module::Projected\lGrid::_calculeNormals" alt="" coords="240,194,416,241"/>
-<area shape="rect" id="node12" href="$class_hydrax_1_1_module_1_1_projected_grid.html#a38bbbb56e20cbbc4346b42b2e6a62126" title="Hydrax::Module::Projected\lGrid::_performChoppyWaves" alt="" coords="233,263,423,310"/>
-<area shape="rect" id="node15" href="$class_hydrax_1_1_hydrax.html#a1532419b2859aed22a63d913c527ce21" title="Hydrax::Hydrax::_isCurrent\lFrameUnderwater" alt="" coords="473,263,655,310"/>
-</map>

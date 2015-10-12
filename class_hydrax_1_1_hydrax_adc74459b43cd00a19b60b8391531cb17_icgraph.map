@@ -1,7 +1,0 @@
-<map id="Hydrax::Hydrax::setSunColor" name="Hydrax::Hydrax::setSunColor">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_cfg_file_manager.html#a6717ef4e731b3c22d71260aaa6d0336a" title="Hydrax::CfgFileManager\l::_loadComponentsSettings" alt="" coords="253,5,435,51"/>
-<area shape="rect" id="node7" href="$class_hydrax_water.html#aa179b211992ec42447dc861ece4b3e3e" title="HydraxWater::update" alt="" coords="271,75,417,104"/>
-<area shape="rect" id="node11" href="$class_hydrax_water.html#ac41640486265432e8457c6a4ab01ac29" title="HydraxWater::setFadeColour" alt="" coords="248,128,440,157"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_cfg_file_manager.html#a7d283a6b6b61ad70292c7cb24cd3543c" title="Hydrax::CfgFileManager\l::load" alt="" coords="489,5,652,51"/>
-<area shape="rect" id="node9" href="$class_hydrax_water.html#a00888728a3ac027b68807892c1ec614b" title="HydraxWater::framestep" alt="" coords="488,75,653,104"/>
-</map>

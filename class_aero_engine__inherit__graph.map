@@ -1,4 +1,0 @@
-<map id="AeroEngine" name="AeroEngine">
-<area shape="rect" id="node3" href="$class_turbojet.html" title="Turbojet" alt="" coords="5,83,75,112"/>
-<area shape="rect" id="node5" href="$class_turboprop.html" title="Turboprop" alt="" coords="99,83,179,112"/>
-</map>

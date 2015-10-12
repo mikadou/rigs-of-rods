@@ -1,9 +1,0 @@
-<map id="CacheSystem::writeStreamCache" name="CacheSystem::writeStreamCache">
-<area shape="rect" id="node3" href="$class_cache_system.html#abc3162d131888cb772c7c9b95f626cb2" title="CacheSystem::formatEntry" alt="" coords="239,17,420,47"/>
-<area shape="rect" id="node9" href="$class_cache_system.html#ab2574f48bbb2956d4a280c27ffdb8917" title="CacheSystem::generateFile\lCache" alt="" coords="237,74,421,121"/>
-<area shape="rect" id="node5" href="$class_cache_system.html#ac06b01a5da9ef6e3ba0cac0438690dde" title="CacheSystem::formatInner\lEntry" alt="" coords="484,5,663,51"/>
-<area shape="rect" id="node7" href="$class_cache_system.html#a8435323b525de173677910c670291846" title="CacheSystem::normalizeText" alt="" coords="728,13,923,43"/>
-<area shape="rect" id="node11" href="$class_cache_system.html#ac4859d57b61190b38e7f999ca09bf09e" title="CacheSystem::detectFiles\lMiniType" alt="" coords="485,74,661,121"/>
-<area shape="rect" id="node15" href="$class_cache_system.html#a2684743363220c7b1ce312914261b978" title="CacheSystem::deleteFileCache" alt="" coords="471,144,676,173"/>
-<area shape="rect" id="node13" href="$class_cache_system.html#aa025222e89657b72478453191ee04878" title="CacheSystem::resourceExists\lInAllGroups" alt="" coords="725,74,925,121"/>
-</map>

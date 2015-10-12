@@ -1,6 +1,0 @@
-<map id="libirc_mutex_destroy" name="libirc_mutex_destroy">
-<area shape="rect" id="node3" href="$dcc_8c_09_09.html#a5a042a68b4b0da7ea96bf018b9858bff" title="libirc_remove_dcc_session" alt="" coords="197,59,376,88"/>
-<area shape="rect" id="node5" href="$dcc_8c_09_09.html#a803edc073a809a99cdc9b83a321396ae" title="libirc_dcc_add_descriptors" alt="" coords="424,5,600,35"/>
-<area shape="rect" id="node7" href="$libircclient_8h.html#ad6958aac6d67f595966949d1ec5ae4a0" title="Initiates a DCC CHAT. " alt="" coords="464,59,560,88"/>
-<area shape="rect" id="node9" href="$libircclient_8h.html#af9e8a307113cd27d08e082fda6264262" title="Sends a file via DCC. " alt="" coords="455,112,569,141"/>
-</map>

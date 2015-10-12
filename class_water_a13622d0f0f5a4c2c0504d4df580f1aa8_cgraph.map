@@ -1,6 +1,0 @@
-<map id="Water::moveTo" name="Water::moveTo">
-<area shape="rect" id="node3" href="$class_water.html#a9a733ea131931c7625bbbcfb6c10d939" title="Water::updateReflectionPlane" alt="" coords="167,5,361,35"/>
-<area shape="rect" id="node5" href="$class_water.html#ae34d81740dfa630804c1285fdd6bc25b" title="Water::isCameraUnderWater" alt="" coords="412,5,601,35"/>
-<area shape="rect" id="node7" href="$class_water.html#ae0ff5f204633423eb3d8f825940b0c94" title="Water::getHeightWaves" alt="" coords="651,5,813,35"/>
-<area shape="rect" id="node9" href="$class_water.html#a0e898659c77fb2358402d0cd669301c0" title="Water::getWaveHeight" alt="" coords="861,5,1016,35"/>
-</map>

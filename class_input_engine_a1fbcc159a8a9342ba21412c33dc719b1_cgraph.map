@@ -1,7 +1,0 @@
-<map id="InputEngine::completeMissingEvents" name="InputEngine::completeMissingEvents">
-<area shape="rect" id="node3" href="$class_input_engine.html#aefbb52cfac8a59f9e6683665d035222f" title="InputEngine::processLine" alt="" coords="252,85,420,115"/>
-<area shape="rect" id="node5" href="$class_input_engine.html#a31686978ff9fe35d93d467ef33149b10" title="InputEngine::resolveEventName" alt="" coords="469,5,680,35"/>
-<area shape="rect" id="node7" href="$class_input_engine.html#a94995e94c51f95bf1c252b8b0559a5a0" title="InputEngine::newEvent" alt="" coords="496,59,653,88"/>
-<area shape="rect" id="node9" href="$class_input_engine.html#a6e833a491189fdcf9d7efd4e9a44e4d3" title="InputEngine::getEventGroup" alt="" coords="481,112,668,141"/>
-<area shape="rect" id="node11" href="$class_input_engine.html#af92de0a39f0fbbe82bc9e81d25f762d1" title="InputEngine::addEvent" alt="" coords="497,165,652,195"/>
-</map>

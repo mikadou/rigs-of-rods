@@ -1,5 +1,0 @@
-<map id="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::isLayerNormalMappingEnabled" name="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::isLayerNormalMappingEnabled">
-<area shape="rect" id="node3" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile_1_1_shader_helper_cg.html#ae6f2fb696f95011af53713df0df8bed8" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lShaderHelperCg::createFragmentProgram" alt="" coords="256,5,523,69"/>
-<area shape="rect" id="node5" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile_1_1_shader_helper_cg.html#af37481d514eac4b4cf22db170c54756e" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lShaderHelperCg::generateFpHeader" alt="" coords="273,93,505,157"/>
-<area shape="rect" id="node7" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile_1_1_shader_helper_cg.html#aed5c4e365ffd55d08a815d445b2fe484" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lShaderHelperCg::generateFpLayer" alt="" coords="279,181,500,245"/>
-</map>

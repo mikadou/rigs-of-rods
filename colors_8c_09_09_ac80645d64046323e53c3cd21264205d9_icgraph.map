@@ -1,9 +1,0 @@
-<map id="libirc_colorparser_addorcat" name="libirc_colorparser_addorcat">
-<area shape="rect" id="node3" href="$colors_8c_09_09.html#ae53c5b0059bea86328f1bb34ba971eb2" title="libirc_colorparser\l_applymask" alt="" coords="199,65,319,111"/>
-<area shape="rect" id="node14" href="$colors_8c_09_09.html#a46507748d53fc6cc318314a084bae4a3" title="libirc_colorparser\l_applycolor" alt="" coords="392,125,512,171"/>
-<area shape="rect" id="node17" href="$libircclient_8h.html#a599daf01d59725e701322bde0cc1dec3" title="Converts all the color codes from libircclient format to mIRC. " alt="" coords="173,185,344,215"/>
-<area shape="rect" id="node5" href="$colors_8c_09_09.html#ab7a97ff431e37728d78b23eeafbbba2a" title="libirc_colorparser\l_closetags" alt="" coords="392,5,512,51"/>
-<area shape="rect" id="node7" href="$colors_8c_09_09.html#a27d1a11ad5032d2753ab8995b25a385b" title="libirc_colorparser\l_irc2code" alt="" coords="560,65,680,111"/>
-<area shape="rect" id="node9" href="$libircclient_8h.html#aa3c2628e7d6f574446b4fed861b1df4f" title="Removes all the color codes and format options. " alt="" coords="737,47,905,76"/>
-<area shape="rect" id="node11" href="$libircclient_8h.html#a5628715bfbd937bac5f16fc8f9e90c85" title="Converts all the color codes and format options to libircclient colors. " alt="" coords="728,100,915,129"/>
-</map>

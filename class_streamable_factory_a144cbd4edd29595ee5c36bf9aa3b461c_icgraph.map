@@ -1,7 +1,0 @@
-<map id="StreamableFactory::getStreams" name="StreamableFactory::getStreams">
-<area shape="rect" id="node3" href="$class_streamable_factory.html#a8d5aca4ae1dc52611dd01b127d37f487" title="StreamableFactory\&lt;\l ChatSystemFactory,\l ChatSystem \&gt;::removeInstance" alt="" coords="216,5,427,69"/>
-<area shape="rect" id="node5" href="$class_streamable_factory.html#abd513efc55dd1ac6e88967d7ea2dcb59" title="StreamableFactory\&lt;\l ChatSystemFactory,\l ChatSystem \&gt;::checkStreamsOK" alt="" coords="211,93,432,157"/>
-<area shape="rect" id="node7" href="$class_streamable_factory.html#a2c4d43eeba1a574e36b132559050629e" title="StreamableFactory\&lt;\l ChatSystemFactory,\l ChatSystem \&gt;::checkStreams\lResultsChanged" alt="" coords="220,181,423,262"/>
-<area shape="rect" id="node9" href="$class_streamable_factory.html#ac5a1d3863a3962d7067fe0bb880e5cfc" title="StreamableFactory\&lt;\l ChatSystemFactory,\l ChatSystem \&gt;::checkStreams\lRemoteOK" alt="" coords="220,285,423,366"/>
-<area shape="rect" id="node11" href="$class_streamable_factory.html#a943ef96883db21c42ca0b02c8aaeb39f" title="StreamableFactory\&lt;\l ChatSystemFactory,\l ChatSystem \&gt;::addStreamRegistration\lResults" alt="" coords="196,389,447,470"/>
-</map>

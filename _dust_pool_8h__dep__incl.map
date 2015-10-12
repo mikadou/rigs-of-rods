@@ -1,7 +1,0 @@
-<map id="source/main/gfx/DustPool.h" name="source/main/gfx/DustPool.h">
-<area shape="rect" id="node3" href="$_dust_manager_8cpp.html" title="source/main/gfx/DustManager.cpp" alt="" coords="5,92,227,121"/>
-<area shape="rect" id="node5" href="$_dust_pool_8cpp.html" title="source/main/gfx/DustPool.cpp" alt="" coords="251,92,448,121"/>
-<area shape="rect" id="node7" href="$_beam_forces_euler_8cpp.html" title="source/main/physics\l/BeamForcesEuler.cpp" alt="" coords="472,83,627,130"/>
-<area shape="rect" id="node9" href="$_buoyance_8cpp.html" title="source/main/physics\l/water/Buoyance.cpp" alt="" coords="651,83,795,130"/>
-<area shape="rect" id="node11" href="$_screw_prop_8cpp.html" title="source/main/physics\l/water/ScrewProp.cpp" alt="" coords="819,83,968,130"/>
-</map>

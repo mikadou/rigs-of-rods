@@ -1,6 +1,0 @@
-<map id="RoR::GUIManager::windowResized" name="RoR::GUIManager::windowResized">
-<area shape="rect" id="node3" href="$class_streamable_factory.html#a70b0bee11dc95dfe8e12436066d5749b" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getSingletonPtr" alt="" coords="307,5,464,69"/>
-<area shape="rect" id="node5" href="$class_beam_factory.html#af0ad39b32251a4fb8a6faf26317799fc" title="BeamFactory::windowResized" alt="" coords="285,93,485,123"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_application.html#a5082701abd55926b3c6eb4b0c933eca5" title="RoR::Application::GetOgre\lSubsystem" alt="" coords="296,146,475,193"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_ogre_subsystem.html#aec5be99797f9add72578fb1fbfec582f" title="RoR::OgreSubsystem\l::GetRenderWindow" alt="" coords="311,215,460,262"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="RoR::MainThread::EnterGameplayLoop" name="RoR::MainThread::EnterGameplayLoop">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_application.html#a5082701abd55926b3c6eb4b0c933eca5" title="RoR::Application::GetOgre\lSubsystem" alt="" coords="304,5,483,51"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_ogre_subsystem.html#a2f68e736be01d118cae03e831b38a9df" title="RoR::OgreSubsystem\l::GetOgreRoot" alt="" coords="319,74,468,121"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_ogre_subsystem.html#a41157fb92ca44184f55fd5fefc6a7e02" title="RoR::OgreSubsystem\l::GetTimer" alt="" coords="319,143,468,190"/>
-<area shape="rect" id="node9" href="$_utils_8h.html#adf01f31d14c27678973fd6603dae2feb" title="sleepMilliSeconds" alt="" coords="331,213,456,243"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_ogre_subsystem.html#aec5be99797f9add72578fb1fbfec582f" title="RoR::OgreSubsystem\l::GetRenderWindow" alt="" coords="319,266,468,313"/>
-</map>

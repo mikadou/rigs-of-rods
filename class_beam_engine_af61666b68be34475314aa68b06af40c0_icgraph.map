@@ -1,8 +1,0 @@
-<map id="BeamEngine::getAutoMode" name="BeamEngine::getAutoMode">
-<area shape="rect" id="node3" href="$struct_ro_r_1_1_land_vehicle_simulation.html#a830e19b0460db3df601abe83096f78d7" title="RoR::LandVehicleSimulation\l::UpdateVehicle" alt="" coords="235,5,424,51"/>
-<area shape="rect" id="node5" href="$class_two_d_replay.html#a4b479652a9394ba9e8b7e08e33dbbb7a" title="TwoDReplay::recordFrame" alt="" coords="240,75,419,104"/>
-<area shape="rect" id="node7" href="$class_two_d_replay.html#abceb8a16da69e16f581128ae0e111a12" title="TwoDReplay::update" alt="" coords="473,75,617,104"/>
-<area shape="rect" id="node9" href="$class_beam_factory.html#a6fa954b906b6dc808a34e69ac2d018d3" title="BeamFactory::calcPhysics" alt="" coords="667,75,845,104"/>
-<area shape="rect" id="node11" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="895,48,1108,77"/>
-<area shape="rect" id="node13" href="$class_preview_renderer.html#a5ea6b4611b45965e072266211dc60ba8" title="PreviewRenderer::render" alt="" coords="919,101,1084,131"/>
-</map>

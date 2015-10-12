@@ -1,8 +1,0 @@
-<map id="source/main/gameplay/SkinManager.h" name="source/main/gameplay/SkinManager.h">
-<area shape="rect" id="node5" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1285,179,1421,208"/>
-<area shape="rect" id="node44" href="$_skin_8h.html" title="Skin.h" alt="" coords="1525,101,1584,131"/>
-<area shape="rect" id="node31" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1711,333,1863,363"/>
-<area shape="rect" id="node33" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1771,256,1912,285"/>
-<area shape="rect" id="node36" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1936,256,2107,285"/>
-<area shape="rect" id="node38" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="2131,256,2277,285"/>
-</map>

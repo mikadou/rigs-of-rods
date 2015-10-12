@@ -1,8 +1,0 @@
-<map id="RoR::RigEditor::Rig::DeleteSelectedNodes" name="RoR::RigEditor::Rig::DeleteSelectedNodes">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_node.html#a96df42eb7849b0a74a0332ca22b71993" title="RoR::RigEditor::Node\l::IsSelected" alt="" coords="217,39,367,86"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a0bda301e03e0c8b0bca79d171e67bf77" title="RoR::RigEditor::Rig\l::DeleteAttachedBeams" alt="" coords="212,109,372,155"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a961667e55f0d41fdacab764270939969" title="RoR::RigEditor::Beam\l::GetNodeA" alt="" coords="423,5,575,51"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a9e107c4bb884aeed653419a8fa5f21ba" title="RoR::RigEditor::Beam\l::GetNodeB" alt="" coords="423,74,575,121"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_rig_editor_1_1_node.html#afa889e9cb11afbad0efa8de446dff40c" title="RoR::RigEditor::Node\l::UnlinkBeam" alt="" coords="424,143,573,190"/>
-<area shape="rect" id="node13" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a207d2ac614bc6b07715776729dfa4dbe" title="RoR::RigEditor::Rig\l::DeleteBeam" alt="" coords="429,213,568,259"/>
-</map>

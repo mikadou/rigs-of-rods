@@ -1,8 +1,0 @@
-<map id="source/main/physics/utils/RigLoadingProfiler.h" name="source/main/physics/utils/RigLoadingProfiler.h">
-<area shape="rect" id="node3" href="$_timer_8h.html" title="Timer.h" alt="" coords="1321,101,1388,131"/>
-<area shape="rect" id="node5" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1220,179,1356,208"/>
-<area shape="rect" id="node31" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1871,333,2023,363"/>
-<area shape="rect" id="node33" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1931,256,2072,285"/>
-<area shape="rect" id="node36" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="2096,256,2267,285"/>
-<area shape="rect" id="node38" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="2291,256,2437,285"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Character::sendStreamData" name="Character::sendStreamData">
-<area shape="rect" id="node3" href="$class_streamable.html#ad3380f9c932381bb9a862f40177aa58c" title="Streamable::addPacket" alt="" coords="241,48,399,77"/>
-<area shape="rect" id="node5" href="$class_ro_r_singleton.html#a18a797fc35bd8cfa8a2affdd197cbfee" title="RoRSingleton\&lt; NetworkStream\lManager \&gt;::getSingleton" alt="" coords="449,5,655,51"/>
-<area shape="rect" id="node7" href="$class_network_stream_manager.html#a35a0f97374d09e9269ac1650932a1e07" title="NetworkStreamManager\l::triggerSend" alt="" coords="471,74,633,121"/>
-</map>

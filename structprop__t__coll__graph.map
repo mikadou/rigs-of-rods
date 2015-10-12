@@ -1,7 +1,0 @@
-<map id="prop_t" name="prop_t">
-<area shape="rect" id="node2" href="$class_mesh_object.html" title="MeshObject" alt="" coords="481,149,572,179"/>
-<area shape="rect" id="node8" href="$class_zeroed_memory_allocator.html" title="ZeroedMemoryAllocator" alt="" coords="5,179,165,208"/>
-<area shape="rect" id="node14" href="$class_material_replacer.html" title="MaterialReplacer" alt="" coords="248,179,368,208"/>
-<area shape="rect" id="node17" href="$class_material_function_mapper.html" title="MaterialFunctionMapper" alt="" coords="228,232,388,261"/>
-<area shape="rect" id="node10" href="$class_skin.html" title="Skin" alt="" coords="284,285,332,315"/>
-</map>

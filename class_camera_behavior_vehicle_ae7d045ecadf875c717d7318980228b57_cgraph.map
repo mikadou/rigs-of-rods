@@ -1,4 +1,0 @@
-<map id="CameraBehaviorVehicle::reset" name="CameraBehaviorVehicle::reset">
-<area shape="rect" id="node3" href="$class_camera_behavior_orbit.html#ac2c38d7776bb50ffb4a0d267c11acb2c" title="CameraBehaviorOrbit\l::reset" alt="" coords="251,5,397,51"/>
-<area shape="rect" id="node5" href="$class_beam.html#a304819ff3ad7dafc09f7f64e0c908d2e" title="Beam::getMinimalCameraRadius" alt="" coords="217,75,431,104"/>
-</map>

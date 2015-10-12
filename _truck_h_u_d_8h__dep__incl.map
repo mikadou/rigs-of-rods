@@ -1,7 +1,0 @@
-<map id="source/main/gui/TruckHUD.h" name="source/main/gui/TruckHUD.h">
-<area shape="rect" id="node3" href="$_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="5,83,165,130"/>
-<area shape="rect" id="node5" href="$_dashboard_8cpp.html" title="source/main/gui/Dashboard.cpp" alt="" coords="189,92,395,121"/>
-<area shape="rect" id="node7" href="$_overlay_wrapper_8cpp.html" title="source/main/gui/OverlayWrapper.cpp" alt="" coords="419,92,656,121"/>
-<area shape="rect" id="node9" href="$_truck_h_u_d_8cpp.html" title="source/main/gui/TruckHUD.cpp" alt="" coords="680,92,885,121"/>
-<area shape="rect" id="node11" href="$_main_thread_8cpp.html" title="source/main/main_sim\l/MainThread.cpp" alt="" coords="909,83,1061,130"/>
-</map>

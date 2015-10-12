@@ -1,6 +1,0 @@
-<map id="RoR::RigEditor::RigElementGuiPanelBase::SetupFlagCheckbox" name="RoR::RigEditor::RigElementGuiPanelBase::SetupFlagCheckbox">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#aa43b14b564f71ee1560874cd8854dfb2" title="RoR::RigEditor::RigElement\lGuiPanelBase::CallbackClick\l_FlagCheckboxUpdateValue" alt="" coords="303,5,497,69"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#a34fdd351f8dcfe94f3c6fa89ce060e83" title="RoR::RigEditor::RigElement\lGuiPanelBase::CallbackGotMouse\lFocus_FlagCheckboxShowTooltip" alt="" coords="288,93,512,157"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#a74693ae47285428edf9646284bd65b0d" title="RoR::RigEditor::RigElement\lGuiPanelBase::CallbackLostMouse\lFocus_FlagCheckboxClearTooltip" alt="" coords="287,181,513,245"/>
-<area shape="rect" id="node5" href="$_bit_flags_8h.html#a63b4d326c379e529b18f9d5a0e792b32" title="Bitmask_SetBool" alt="" coords="563,23,685,52"/>
-</map>

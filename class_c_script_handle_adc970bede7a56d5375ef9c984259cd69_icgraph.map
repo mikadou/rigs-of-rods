@@ -1,6 +1,0 @@
-<map id="CScriptHandle::ReleaseHandle" name="CScriptHandle::ReleaseHandle">
-<area shape="rect" id="node3" href="$class_c_script_handle.html#a3628e6aac9501c9c3382144ef24a4776" title="CScriptHandle::~CScriptHandle" alt="" coords="259,5,467,35"/>
-<area shape="rect" id="node5" href="$class_c_script_handle.html#ab0defc7df0816262bee364b85afeb630" title="CScriptHandle::operator=" alt="" coords="277,59,448,88"/>
-<area shape="rect" id="node7" href="$class_c_script_handle.html#aec44fc0b84f4e9f85d733581c68f2d8c" title="CScriptHandle::opAssign" alt="" coords="279,112,447,141"/>
-<area shape="rect" id="node9" href="$class_c_script_handle.html#a896b317b74d595bee6b790f9ae03283d" title="CScriptHandle::CScriptHandle" alt="" coords="515,112,715,141"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="source/main/gameplay/Replay.h" name="source/main/gameplay/Replay.h">
-<area shape="rect" id="node3" href="$_replay_8cpp.html" title="source/main/gameplay\l/Replay.cpp" alt="" coords="5,102,157,149"/>
-<area shape="rect" id="node5" href="$_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="181,102,341,149"/>
-<area shape="rect" id="node7" href="$_beam_8cpp.html" title="source/main/physics\l/Beam.cpp" alt="" coords="365,102,507,149"/>
-<area shape="rect" id="node9" href="$_beam_forces_euler_8cpp.html" title="source/main/physics\l/BeamForcesEuler.cpp" alt="" coords="531,102,685,149"/>
-</map>

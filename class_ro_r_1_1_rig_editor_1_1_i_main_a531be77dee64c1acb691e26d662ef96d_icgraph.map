@@ -1,4 +1,0 @@
-<map id="RoR::RigEditor::IMain::CommandCurrentRigDeleteSelectedBeams" name="RoR::RigEditor::IMain::CommandCurrentRigDeleteSelectedBeams">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_delete_menu.html#a5ebe5d56a376d2d2362c3485d472a38c" title="RoR::GUI::RigEditorDelete\lMenu::DeleteBeamsButtonClicked" alt="" coords="297,14,519,61"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_delete_menu.html#a5b5ebb127e9925a3f670de6e51675628" title="RoR::GUI::RigEditorDelete\lMenu::RigEditorDeleteMenu" alt="" coords="568,14,755,61"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="Screwprop::updateForces" name="Screwprop::updateForces">
-<area shape="rect" id="node3" href="$class_terrain_manager.html#a1d0227a71a4e114099797646ff6756b7" title="TerrainManager::getWater" alt="" coords="224,5,397,35"/>
-<area shape="rect" id="node5" href="$class_i_water.html#a48916b4b4fdcd2e945b391164d0a0083" title="IWater::getHeightWaves" alt="" coords="228,59,393,88"/>
-<area shape="rect" id="node7" href="$class_dust_pool.html#abd612e09f5b1336b175911870bfe053f" title="DustPool::allocSplash" alt="" coords="236,112,385,141"/>
-<area shape="rect" id="node9" href="$class_dust_pool.html#a09433b93ef45851846678e89bde3856d" title="DustPool::allocRipple" alt="" coords="237,165,384,195"/>
-</map>

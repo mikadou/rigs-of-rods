@@ -1,6 +1,0 @@
-<map id="PointColDetector::partintwo" name="PointColDetector::partintwo">
-<area shape="rect" id="node3" href="$class_point_col_detector.html#a5a8553ba06368f6f1c41afee9453ce38" title="PointColDetector::build\l_kdtree" alt="" coords="237,5,395,51"/>
-<area shape="rect" id="node5" href="$class_point_col_detector.html#afd90680dea847b2ed9fca4f246302389" title="PointColDetector::build\l_kdtree_incr" alt="" coords="237,74,395,121"/>
-<area shape="rect" id="node7" href="$class_point_col_detector.html#a527315532789859ce268f76a1002be69" title="PointColDetector::queryrec" alt="" coords="444,83,623,112"/>
-<area shape="rect" id="node9" href="$class_point_col_detector.html#abc51aaa80cfc92bae72ce27fe357d76d" title="PointColDetector::querybb" alt="" coords="672,83,848,112"/>
-</map>

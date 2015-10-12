@@ -1,7 +1,0 @@
-<map id="source/main/utils/MeshObject.h" name="source/main/utils/MeshObject.h">
-<area shape="rect" id="node3" href="$_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="5,83,165,130"/>
-<area shape="rect" id="node5" href="$_beam_8cpp.html" title="source/main/physics\l/Beam.cpp" alt="" coords="189,83,331,130"/>
-<area shape="rect" id="node7" href="$_rig_spawner_8cpp.html" title="Vehicle spawning logic. " alt="" coords="355,83,552,130"/>
-<area shape="rect" id="node9" href="$_terrain_object_manager_8cpp.html" title="source/main/terrain\l/TerrainObjectManager.cpp" alt="" coords="576,83,755,130"/>
-<area shape="rect" id="node11" href="$_mesh_object_8cpp.html" title="source/main/utils/MeshObject.cpp" alt="" coords="779,92,997,121"/>
-</map>

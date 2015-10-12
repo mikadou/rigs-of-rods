@@ -1,5 +1,0 @@
-<map id="DustManager::setVisible" name="DustManager::setVisible">
-<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#a4ef9cf763d7d6d888d49e3fba587c924" title="RoRFrameListener::showspray" alt="" coords="219,48,421,77"/>
-<area shape="rect" id="node5" href="$class_refraction_texture_listener.html#a7424b44da59f28489adc4c56bec66dd2" title="RefractionTextureListener\l::preRenderTargetUpdate" alt="" coords="472,5,643,51"/>
-<area shape="rect" id="node7" href="$class_refraction_texture_listener.html#a38f98566a769cc191a9484c287d692a8" title="RefractionTextureListener\l::postRenderTargetUpdate" alt="" coords="469,74,645,121"/>
-</map>

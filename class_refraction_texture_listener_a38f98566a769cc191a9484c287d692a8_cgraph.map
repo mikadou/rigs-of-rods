@@ -1,5 +1,0 @@
-<map id="RefractionTextureListener::postRenderTargetUpdate" name="RefractionTextureListener::postRenderTargetUpdate">
-<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#a4ef9cf763d7d6d888d49e3fba587c924" title="RoRFrameListener::showspray" alt="" coords="229,44,432,73"/>
-<area shape="rect" id="node5" href="$class_ro_r_singleton_no_creation.html#a5e7a47f4b2d6d0abaa3a1ea5ca1f216a" title="RoRSingletonNoCreation\l\&lt; DustManager \&gt;::getSingleton" alt="" coords="481,5,684,51"/>
-<area shape="rect" id="node7" href="$class_dust_manager.html#a830c1fc0d9c9efe8453d2a931531d2b9" title="DustManager::setVisible" alt="" coords="500,75,665,104"/>
-</map>

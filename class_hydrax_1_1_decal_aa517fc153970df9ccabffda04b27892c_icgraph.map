@@ -1,6 +1,0 @@
-<map id="Hydrax::Decal::unregister" name="Hydrax::Decal::unregister">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_decal.html#aaad4588738304d06a93271d28f2afcdc" title="Hydrax::Decal::~Decal" alt="" coords="240,5,395,35"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_decal.html#a8c81f3988be73eac2c1c03f947c74ed9" title="Hydrax::Decal::registerPass" alt="" coords="224,59,411,88"/>
-<area shape="rect" id="node9" href="$class_hydrax_1_1_decal.html#a5c51a36fc2d8c6f320db291805b8401a" title="Hydrax::Decal::setVisible" alt="" coords="232,112,403,141"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_decals_manager.html#a63cc52fdd0109f34e1c40b9cfb33f9ab" title="Hydrax::DecalsManager::add" alt="" coords="459,59,651,88"/>
-</map>

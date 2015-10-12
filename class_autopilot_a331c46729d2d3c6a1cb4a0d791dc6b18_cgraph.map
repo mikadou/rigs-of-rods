@@ -1,6 +1,0 @@
-<map id="Autopilot::gpws_update" name="Autopilot::gpws_update">
-<area shape="rect" id="node3" href="$class_terrain_manager.html#ae63cfc0dda4ab62dc7f6d72eb7845628" title="TerrainManager::getHeight\lFinder" alt="" coords="215,5,391,51"/>
-<area shape="rect" id="node5" href="$class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="215,75,391,104"/>
-<area shape="rect" id="node7" href="$class_terrain_manager.html#a1d0227a71a4e114099797646ff6756b7" title="TerrainManager::getWater" alt="" coords="216,128,389,157"/>
-<area shape="rect" id="node9" href="$class_i_water.html#ad2499255884025d55a940eb24ecd8e4d" title="IWater::getHeight" alt="" coords="240,181,365,211"/>
-</map>

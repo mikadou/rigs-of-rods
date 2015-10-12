@@ -1,6 +1,0 @@
-<map id="generateHashFromDataStream" name="generateHashFromDataStream">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_c_s_h_a1.html#a405de4baf54dcb38af5903e01221454e" title="RoR::CSHA1::UpdateHash" alt="" coords="487,5,668,35"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_c_s_h_a1.html#afbdaab3f2a2946d26a6144af3fec5fd8" title="RoR::CSHA1::Final" alt="" coords="277,57,416,87"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_c_s_h_a1.html#a22ddf4fbd88ea7a76638104a56bb7c30" title="RoR::CSHA1::ReportHash" alt="" coords="257,111,436,140"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_c_s_h_a1.html#a6f39460fa47c489724d2325cf071520b" title="RoR::CSHA1::Transform" alt="" coords="719,32,887,61"/>
-</map>

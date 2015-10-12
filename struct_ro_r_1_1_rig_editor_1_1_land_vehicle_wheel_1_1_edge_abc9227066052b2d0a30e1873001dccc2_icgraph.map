@@ -1,5 +1,0 @@
-<map id="RoR::RigEditor::LandVehicleWheel::Edge::GetColorValue" name="RoR::RigEditor::LandVehicleWheel::Edge::GetColorValue">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig_wheel_visuals.html#ae60f4ac66435cd80a1525111c144e6a8" title="Forces rebuild of dynamic mesh. " alt="" coords="252,5,455,69"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_rig_wheel_visuals.html#a06deb34b51ad8f6a9bba185608c42a20" title="Forces update of dynamic mesh. " alt="" coords="245,93,461,157"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_rig_wheel_visuals.html#a72f0b172bf0d0a1aa7adc552c0cc1f06" title="Updates or rebuilds dyn. mesh as needed. " alt="" coords="511,49,724,113"/>
-</map>

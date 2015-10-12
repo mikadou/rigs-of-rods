@@ -1,9 +1,0 @@
-<map id="libirc_dcc_request" name="libirc_dcc_request">
-<area shape="rect" id="node3" href="$dcc_8c_09_09.html#a10a2845d6bbfd6275ecc290a2077fe66" title="libirc_new_dcc_session" alt="" coords="181,139,341,168"/>
-<area shape="rect" id="node5" href="$portable_8c_09_09.html#adcd304402df12bda0cf93313b27227c3" title="libirc_mutex_init" alt="" coords="420,5,535,35"/>
-<area shape="rect" id="node7" href="$sockets_8c_09_09.html#a3052eb47d1ce0ca0508cc6b0fc7e1528" title="socket_create" alt="" coords="425,59,529,88"/>
-<area shape="rect" id="node9" href="$sockets_8c_09_09.html#a0953228b11ccd2ab912a0c6e2c68b95b" title="socket_make_nonblocking" alt="" coords="389,112,565,141"/>
-<area shape="rect" id="node11" href="$portable_8c_09_09.html#a9646a2024e4129ba4fbb30452f083e33" title="libirc_mutex_lock" alt="" coords="416,165,539,195"/>
-<area shape="rect" id="node13" href="$portable_8c_09_09.html#a214ac94a66d2c51f5c25f84aa3642699" title="libirc_mutex_unlock" alt="" coords="409,219,545,248"/>
-<area shape="rect" id="node15" href="$sockets_8c_09_09.html#ad13636246822f43abd7f3c351915435b" title="socket_close" alt="" coords="428,272,527,301"/>
-</map>

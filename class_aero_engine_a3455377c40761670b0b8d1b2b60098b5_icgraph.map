@@ -1,5 +1,0 @@
-<map id="AeroEngine::getThrottle" name="AeroEngine::getThrottle">
-<area shape="rect" id="node3" href="$struct_ro_r_1_1_aircraft_simulation.html#a3db164bd65ba10630912b8a76537f69f" title="RoR::AircraftSimulation\l::UpdateVehicle" alt="" coords="248,5,408,51"/>
-<area shape="rect" id="node5" href="$class_overlay_wrapper.html#a0932f42417c63edc77c8ed486efa66c1" title="OverlayWrapper::UpdateAerialHUD" alt="" coords="213,75,443,104"/>
-<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="492,75,705,104"/>
-</map>

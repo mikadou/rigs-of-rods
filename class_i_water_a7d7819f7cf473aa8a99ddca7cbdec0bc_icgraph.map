@@ -1,7 +1,0 @@
-<map id="IWater::setCamera" name="IWater::setCamera">
-<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="188,5,401,35"/>
-<area shape="rect" id="node5" href="$class_game_script.html#a7ae240958e42c6a02c3eab5cf1c0002f" title="GameScript::setWaterHeight" alt="" coords="200,59,389,88"/>
-<area shape="rect" id="node7" href="$class_survey_map_texture_creator.html#aeeb03c9272b7b29ff6d346a9f4611dc5" title="SurveyMapTextureCreator\l::preRenderTargetUpdate" alt="" coords="208,111,381,158"/>
-<area shape="rect" id="node11" href="$class_survey_map_texture_creator.html#aeee3a35731188515be6a257bab889a84" title="SurveyMapTextureCreator\l::postRenderTargetUpdate" alt="" coords="207,181,383,227"/>
-<area shape="rect" id="node9" href="$class_survey_map_texture_creator.html#a889f0dd0655063c8cb78116cee9e6b1d" title="SurveyMapTextureCreator\l::update" alt="" coords="452,146,625,193"/>
-</map>

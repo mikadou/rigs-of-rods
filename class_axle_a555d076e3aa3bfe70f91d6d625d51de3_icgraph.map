@@ -1,8 +1,0 @@
-<map id="Axle::calcOpenDiff" name="Axle::calcOpenDiff">
-<area shape="rect" id="node3" href="$class_beam.html#a7c5a8085b41f7422ba4bca24846e5eb0" title="Beam::calcWheels" alt="" coords="195,5,325,35"/>
-<area shape="rect" id="node5" href="$class_axle.html#a7ee763611feb62996e46ccf5e96f63d0" title="Axle::getDiffEquation" alt="" coords="187,59,333,88"/>
-<area shape="rect" id="node7" href="$class_axle.html#a586be91663e139cca504c12a4f98f104" title="Axle::addDiffType" alt="" coords="383,32,508,61"/>
-<area shape="rect" id="node13" href="$class_axle.html#a8538415ff906a056a1257a11f399700c" title="Axle::toggleDiff" alt="" coords="389,85,501,115"/>
-<area shape="rect" id="node9" href="$class_rig_spawner.html#a629bef5e7c13c56fde46472b3adaa8fa" title="RigSpawner::ProcessAxle" alt="" coords="559,32,732,61"/>
-<area shape="rect" id="node11" href="$class_rig_spawner.html#a67da85dd09bd864df9dc924f6f2a7d49" title="RigSpawner::SpawnRig" alt="" coords="783,32,943,61"/>
-</map>

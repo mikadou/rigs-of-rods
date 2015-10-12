@@ -1,6 +1,0 @@
-<map id="RigDef::Parser::ParseSoundsources2" name="RigDef::Parser::ParseSoundsources2">
-<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="RigDef::Parser::AddMessage" alt="" coords="556,33,748,62"/>
-<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#a38e4135df406da0cc2f0fc4afb34ddb3" title="RigDef::Parser::_ParseNodeRef" alt="" coords="296,94,507,124"/>
-<area shape="rect" id="node10" href="$class_rig_def_1_1_parser.html#ad0e49a337465aa5991a2266361a06838" title="RigDef::Parser::_CheckInvalid\lTrailingText" alt="" coords="301,24,501,71"/>
-<area shape="rect" id="node7" href="$class_rig_def_1_1_sequential_importer.html#a04d293d8b1f94b9a722e83715911e547" title="RigDef::SequentialImporter\l::IsEnabled" alt="" coords="563,86,741,132"/>
-</map>

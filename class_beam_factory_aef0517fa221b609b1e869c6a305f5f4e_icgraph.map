@@ -1,7 +1,0 @@
-<map id="BeamFactory::predictTruckIntersectionAABB" name="BeamFactory::predictTruckIntersectionAABB">
-<area shape="rect" id="node3" href="$class_beam_factory.html#a857d3d8b5a3ff2ff4da15d6e3e671350" title="BeamFactory::predictTruck\lIntersectionCollAABB" alt="" coords="236,23,415,70"/>
-<area shape="rect" id="node5" href="$class_beam_factory.html#a9603710eb18f67e33a41e42d4e685028" title="BeamFactory::checkForActive" alt="" coords="475,5,672,35"/>
-<area shape="rect" id="node11" href="$class_beam_factory.html#a71e00856377dc0d6e50e0a542b0c7f46" title="BeamFactory::recursiveActivation" alt="" coords="464,59,683,88"/>
-<area shape="rect" id="node7" href="$class_beam_factory.html#ac361e8d624c0fabf070d3b893329cca7" title="BeamFactory::checkSleeping\lState" alt="" coords="732,23,924,70"/>
-<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="975,32,1188,61"/>
-</map>

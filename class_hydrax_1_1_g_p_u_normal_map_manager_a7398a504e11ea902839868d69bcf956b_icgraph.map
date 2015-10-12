@@ -1,6 +1,0 @@
-<map id="Hydrax::GPUNormalMapManager::create" name="Hydrax::GPUNormalMapManager::create">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_noise_1_1_f_f_t.html#aa8e2b9d2b8307c07be2d2cd9cf115560" title="Hydrax::Noise::FFT\l::createGPUNormalMapResources" alt="" coords="273,5,497,51"/>
-<area shape="rect" id="node9" href="$class_hydrax_1_1_noise_1_1_perlin.html#adb347b98692bd7ce6ad7ce76c605d15a" title="Hydrax::Noise::Perlin\l::createGPUNormalMapResources" alt="" coords="273,74,497,121"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_noise_1_1_f_f_t.html#a1d7ec06eb11cda608cc8f73256c35be5" title="Hydrax::Noise::FFT\l::setOptions" alt="" coords="547,5,685,51"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_noise_1_1_f_f_t.html#a64245b9e56eeb8627ac3f5260dc203dd" title="Hydrax::Noise::FFT\l::loadCfg" alt="" coords="733,5,872,51"/>
-</map>

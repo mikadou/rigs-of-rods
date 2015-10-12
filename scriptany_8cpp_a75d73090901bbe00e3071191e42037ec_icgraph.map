@@ -1,6 +1,0 @@
-<map id="ScriptAny_Release_Generic" name="ScriptAny_Release_Generic">
-<area shape="rect" id="node3" href="$scriptany_8h.html#ade7875aa9250cb75598a7bfa20ca8c2d" title="RegisterScriptAny_Generic" alt="" coords="241,5,420,35"/>
-<area shape="rect" id="node5" href="$scriptany_8h.html#a13b8b1995d1ba5f1031f76ac76eea446" title="RegisterScriptAny" alt="" coords="469,5,597,35"/>
-<area shape="rect" id="node7" href="$class_script_engine.html#aec64d59067a79c9fe0b88c150c901147" title="ScriptEngine::init" alt="" coords="647,5,767,35"/>
-<area shape="rect" id="node9" href="$class_script_engine.html#a05631d095d3ed370791fb2e67344da32" title="ScriptEngine::ScriptEngine" alt="" coords="816,5,995,35"/>
-</map>

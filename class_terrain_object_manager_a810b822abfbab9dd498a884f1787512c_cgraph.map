@@ -1,8 +1,0 @@
-<map id="TerrainObjectManager::unloadObject" name="TerrainObjectManager::unloadObject">
-<area shape="rect" id="node3" href="$_terrain_object_manager_8cpp.html#a10b3ef92e6788c5d406f238715b3de93" title="removeCollisionTri" alt="" coords="209,5,340,35"/>
-<area shape="rect" id="node11" href="$_terrain_object_manager_8cpp.html#ab40142c48f4c5880d436b03abc7e6f26" title="removeCollisionBox" alt="" coords="205,59,344,88"/>
-<area shape="rect" id="node5" href="$class_collisions.html#ac9796300989b7f75868f6b4707f4dec0" title="Collisions::removeCollisionTri" alt="" coords="396,5,591,35"/>
-<area shape="rect" id="node7" href="$class_collisions.html#a5daaefbf4b30949f1d68ba5ae38d9b9b" title="Collisions::hash_free" alt="" coords="643,32,787,61"/>
-<area shape="rect" id="node9" href="$class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Collisions::hashfunc" alt="" coords="836,32,975,61"/>
-<area shape="rect" id="node13" href="$class_collisions.html#a2b717349889d16df812225582f8ac943" title="Collisions::removeCollisionBox" alt="" coords="392,59,595,88"/>
-</map>

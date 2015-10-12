@@ -1,5 +1,0 @@
-<map id="SlideNode::UpdatePosition" name="SlideNode::UpdatePosition">
-<area shape="rect" id="node3" href="$class_slide_node.html#a063d11397a4c3f276ffa060d8d391393" title="SlideNode::getClosestRail" alt="" coords="232,5,408,35"/>
-<area shape="rect" id="node5" href="$class_slide_node.html#ac5fd218cba138435059c5aec3ce59393" title="SlideNode::getLenTo" alt="" coords="456,5,600,35"/>
-<area shape="rect" id="node7" href="$class_rail_group.html#a6efe9a33efe24279e5bfc08f1b54ee40" title="RailGroup::getStartRail" alt="" coords="648,5,805,35"/>
-</map>

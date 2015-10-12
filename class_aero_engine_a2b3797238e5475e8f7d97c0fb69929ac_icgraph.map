@@ -1,6 +1,0 @@
-<map id="AeroEngine::flipStart" name="AeroEngine::flipStart">
-<area shape="rect" id="node3" href="$struct_ro_r_1_1_aircraft_simulation.html#a3db164bd65ba10630912b8a76537f69f" title="RoR::AircraftSimulation\l::UpdateVehicle" alt="" coords="219,5,379,51"/>
-<area shape="rect" id="node5" href="$class_overlay_wrapper.html#a7059a60d3d3e067be79c66247298b56b" title="OverlayWrapper::mouseMoved" alt="" coords="197,75,400,104"/>
-<area shape="rect" id="node7" href="$class_overlay_wrapper.html#aa0172aafc9f55e431f19a57a0f39da7b" title="OverlayWrapper::mousePressed" alt="" coords="452,48,663,77"/>
-<area shape="rect" id="node9" href="$class_overlay_wrapper.html#a813c49ce923d19067d0a656c0d79c610" title="OverlayWrapper::mouseReleased" alt="" coords="448,101,667,131"/>
-</map>

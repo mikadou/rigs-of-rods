@@ -1,8 +1,0 @@
-<map id="Water::update" name="Water::update">
-<area shape="rect" id="node3" href="$class_terrain_manager.html#a41fdd66a57990a5fb33d253213fd04e3" title="TerrainManager::getMaxTerrainSize" alt="" coords="397,13,627,43"/>
-<area shape="rect" id="node7" href="$class_water.html#a633f92602bfc1703ef295e9b74da8720" title="Water::showWave" alt="" coords="188,53,319,83"/>
-<area shape="rect" id="node14" href="$class_water.html#ae34d81740dfa630804c1285fdd6bc25b" title="Water::isCameraUnderWater" alt="" coords="159,107,348,136"/>
-<area shape="rect" id="node5" href="$class_terrain_geometry_manager.html#afead68b5ff7a0b77395065ab8ea855e3" title="TerrainGeometryManager\l::getMaxTerrainSize" alt="" coords="676,5,844,51"/>
-<area shape="rect" id="node10" href="$class_water.html#ae0ff5f204633423eb3d8f825940b0c94" title="Water::getHeightWaves" alt="" coords="431,85,593,115"/>
-<area shape="rect" id="node12" href="$class_water.html#a0e898659c77fb2358402d0cd669301c0" title="Water::getWaveHeight" alt="" coords="683,85,837,115"/>
-</map>

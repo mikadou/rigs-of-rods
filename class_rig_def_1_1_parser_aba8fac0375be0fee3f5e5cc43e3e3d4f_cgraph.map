@@ -1,6 +1,0 @@
-<map id="RigDef::Parser::ParseShock" name="RigDef::Parser::ParseShock">
-<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="RigDef::Parser::AddMessage" alt="" coords="503,34,695,63"/>
-<area shape="rect" id="node5" href="$class_rig_def_1_1_parser.html#a38e4135df406da0cc2f0fc4afb34ddb3" title="RigDef::Parser::_ParseNodeRef" alt="" coords="243,95,453,124"/>
-<area shape="rect" id="node10" href="$class_rig_def_1_1_parser.html#a14daba4d01498e6919d312d29223ad95" title="RigDef::Parser::ParseShock\lOptions" alt="" coords="255,25,441,72"/>
-<area shape="rect" id="node7" href="$class_rig_def_1_1_sequential_importer.html#a04d293d8b1f94b9a722e83715911e547" title="RigDef::SequentialImporter\l::IsEnabled" alt="" coords="509,86,688,133"/>
-</map>

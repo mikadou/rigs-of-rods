@@ -1,9 +1,0 @@
-<map id="Hydrax::GPUNormalMapManager::getNormalMapMaterial" name="Hydrax::GPUNormalMapManager::getNormalMapMaterial">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_noise_1_1_f_f_t.html#a1d7ec06eb11cda608cc8f73256c35be5" title="Hydrax::Noise::FFT\l::setOptions" alt="" coords="551,5,689,51"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_noise_1_1_f_f_t.html#aa8e2b9d2b8307c07be2d2cd9cf115560" title="Hydrax::Noise::FFT\l::createGPUNormalMapResources" alt="" coords="273,34,497,81"/>
-<area shape="rect" id="node10" href="$class_hydrax_1_1_noise_1_1_perlin.html#af32b1054557536eb5073e9ad1251a4cf" title="Hydrax::Noise::Perlin\l::setOptions" alt="" coords="312,103,459,150"/>
-<area shape="rect" id="node16" href="$class_hydrax_1_1_noise_1_1_perlin.html#adb347b98692bd7ce6ad7ce76c605d15a" title="Hydrax::Noise::Perlin\l::createGPUNormalMapResources" alt="" coords="273,173,497,219"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_noise_1_1_f_f_t.html#a64245b9e56eeb8627ac3f5260dc203dd" title="Hydrax::Noise::FFT\l::loadCfg" alt="" coords="741,5,880,51"/>
-<area shape="rect" id="node12" href="$class_hydrax_1_1_noise_1_1_perlin.html#a3a2dab14cfbda1ccf8fc5de4bb89f124" title="Hydrax::Noise::Perlin\l::loadCfg" alt="" coords="547,74,693,121"/>
-<area shape="rect" id="node14" href="$class_hydrax_1_1_noise_1_1_real.html#af858ae00b9af27b190ca5653b42bfc7f" title="Hydrax::Noise::Real\l::loadCfg" alt="" coords="549,143,691,190"/>
-</map>

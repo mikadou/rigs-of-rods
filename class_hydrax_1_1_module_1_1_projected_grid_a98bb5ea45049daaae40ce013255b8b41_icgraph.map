@@ -1,8 +1,0 @@
-<map id="Hydrax::Module::ProjectedGrid::_setDisplacementAmplitude" name="Hydrax::Module::ProjectedGrid::_setDisplacementAmplitude">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_module_1_1_projected_grid.html#a86e4648a741558934e664f7400082742" title="Hydrax::Module::Projected\lGrid::create" alt="" coords="273,39,449,86"/>
-<area shape="rect" id="node11" href="$class_hydrax_1_1_module_1_1_projected_grid.html#a985d7ed255ac6d289f12b07a50f12eac" title="Hydrax::Module::Projected\lGrid::_getMinMax" alt="" coords="273,109,449,155"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_module_1_1_projected_grid.html#a04d04b9cfc173538038a5f51094c1ffa" title="Hydrax::Module::Projected\lGrid::setOptions" alt="" coords="500,39,676,86"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_module_1_1_projected_grid.html#aa9308990b99866cbd09edd3600972443" title="Hydrax::Module::Projected\lGrid::ProjectedGrid" alt="" coords="727,5,903,51"/>
-<area shape="rect" id="node9" href="$class_hydrax_1_1_module_1_1_projected_grid.html#af951c58cc93cf75d57e69aa14a668d3e" title="Hydrax::Module::Projected\lGrid::loadCfg" alt="" coords="727,74,903,121"/>
-<area shape="rect" id="node13" href="$class_hydrax_1_1_module_1_1_projected_grid.html#a8d7a8efcd6b7fd0e4313c9114bd2c061" title="Hydrax::Module::Projected\lGrid::update" alt="" coords="500,109,676,155"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="RoR::RigEditor::Rig::FindNode" name="RoR::RigEditor::Rig::FindNode">
-<area shape="rect" id="node3" href="$class_rig_def_1_1_node_1_1_ref.html#a80f06d82da5ac28617eca47baa590821" title="RigDef::Node::Ref::Str" alt="" coords="208,5,363,35"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_rig_building_report.html#a39c7562120900835f3c11406c5dfd082" title="RoR::RigEditor::RigBuilding\lReport::AddMessage" alt="" coords="193,58,377,105"/>
-<area shape="rect" id="node7" href="$class_rig_def_1_1_node_1_1_ref.html#a141e4a4770a737736436a3746a31f3ea" title="RigDef::Node::Ref::\lToString" alt="" coords="216,127,355,174"/>
-</map>

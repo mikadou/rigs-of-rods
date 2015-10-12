@@ -1,6 +1,0 @@
-<map id="RoR::RigEditor::RigElementGuiPanelBase::GenericFieldSpec::SetSourceIsUniform" name="RoR::RigEditor::RigElementGuiPanelBase::GenericFieldSpec::SetSourceIsUniform">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#aa01b2bb64a54d61a6947f50a73569cb7" title="RoR::RigEditor::RigElement\lGuiPanelBase::EditboxCommitValue" alt="" coords="280,14,515,61"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#a777000e1c84a6750f6c8404e5d4a900a" title="RoR::RigEditor::RigElement\lGuiPanelBase::ComboboxCommitValue" alt="" coords="271,83,524,130"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#a70f4e50c90bab3156125d952d64fc08b" title="RoR::RigEditor::RigElement\lGuiPanelBase::CallbackKeyPress\l_EnterCommitsEscapeRestores" alt="" coords="573,5,795,69"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#ae33caa4c1e226b864b966993ca6c9060" title="RoR::RigEditor::RigElement\lGuiPanelBase::SetupEditboxField" alt="" coords="843,14,1061,61"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="RoR::FlexFactory" name="RoR::FlexFactory">
-<area shape="rect" id="node2" href="$structnode__t.html" title="node_t" alt="" coords="5,85,67,115"/>
-<area shape="rect" id="node4" href="$class_ro_r_1_1_flex_body_file_i_o.html" title="RoR::FlexBodyFileIO" alt="" coords="95,85,241,115"/>
-<area shape="rect" id="node6" href="$class_skin.html" title="Skin" alt="" coords="288,85,336,115"/>
-<area shape="rect" id="node10" href="$class_material_replacer.html" title="MaterialReplacer" alt="" coords="363,85,483,115"/>
-<area shape="rect" id="node12" href="$class_zeroed_memory_allocator.html" title="ZeroedMemoryAllocator" alt="" coords="421,5,581,35"/>
-<area shape="rect" id="node14" href="$class_material_function_mapper.html" title="MaterialFunctionMapper" alt="" coords="507,85,667,115"/>
-</map>

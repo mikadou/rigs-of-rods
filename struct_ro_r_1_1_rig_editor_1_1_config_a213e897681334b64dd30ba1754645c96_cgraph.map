@@ -1,8 +1,0 @@
-<map id="RoR::RigEditor::Config::Config" name="RoR::RigEditor::Config::Config">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_config_file.html#a6a468b815373d8c4e185c6cc0f74da57" title="RoR::ConfigFile::GetColour\lValue" alt="" coords="212,5,393,51"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_config_file.html#ae895cb90a1eaaf14ca8b11614da92f70" title="RoR::ConfigFile::GetInt" alt="" coords="223,75,383,104"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_config_file.html#a8f0891b0d96c8f37718f579362152de8" title="RoR::ConfigFile::GetBool" alt="" coords="217,128,388,157"/>
-<area shape="rect" id="node13" href="$class_ro_r_1_1_config_file.html#a4ce8e277ced7b4222f3583e2e95557bd" title="RoR::ConfigFile::GetFloat" alt="" coords="216,181,389,211"/>
-<area shape="rect" id="node7" href="$scriptstdstring_8cpp.html#ab33d705eee9afd65e8991f82d9c71fe3" title="parseInt" alt="" coords="443,75,512,104"/>
-<area shape="rect" id="node9" href="$_approx_math_8h.html#ad685178dbcfdd207c7306561512e1582" title="sign" alt="" coords="561,75,607,104"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="Hydrax::MaterialManager::~MaterialManager" name="Hydrax::MaterialManager::~MaterialManager">
-<area shape="rect" id="node3" href="$class_hydrax_1_1_material_manager.html#a93baa6272c91d1be5ec9bef054a9bb0d" title="Hydrax::MaterialManager\l::removeMaterials" alt="" coords="221,5,389,51"/>
-<area shape="rect" id="node5" href="$class_hydrax_1_1_material_manager.html#a160d27bd9ff0fac665ce5ce7c4e013e9" title="Hydrax::MaterialManager\l::removeCompositor" alt="" coords="437,5,605,51"/>
-<area shape="rect" id="node7" href="$class_hydrax_1_1_material_manager.html#a61bccef34841ce9c0ce6c53ff27f136b" title="Hydrax::MaterialManager\l::setCompositorEnable" alt="" coords="653,5,821,51"/>
-<area shape="rect" id="node9" href="$class_hydrax_1_1_hydrax.html#a969555d8f856a43c4ca6c92bb0958bf1" title="Hydrax::Hydrax::getViewport" alt="" coords="871,13,1060,43"/>
-</map>

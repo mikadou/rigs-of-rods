@@ -1,6 +1,0 @@
-<map id="BeamEngine::getPrimeMixture" name="BeamEngine::getPrimeMixture">
-<area shape="rect" id="node3" href="$class_beam_engine.html#af63778678531a54f46691842a1015e72" title="BeamEngine::update" alt="" coords="255,32,396,61"/>
-<area shape="rect" id="node5" href="$class_beam_factory.html#a6fa954b906b6dc808a34e69ac2d018d3" title="BeamFactory::calcPhysics" alt="" coords="445,32,624,61"/>
-<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="673,5,887,35"/>
-<area shape="rect" id="node9" href="$class_preview_renderer.html#a5ea6b4611b45965e072266211dc60ba8" title="PreviewRenderer::render" alt="" coords="697,59,863,88"/>
-</map>

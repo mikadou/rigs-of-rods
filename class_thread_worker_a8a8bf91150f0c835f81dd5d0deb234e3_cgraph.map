@@ -1,6 +1,0 @@
-<map id="ThreadWorker::ThreadWorker" name="ThreadWorker::ThreadWorker">
-<area shape="rect" id="node3" href="$class_thread_worker.html#ae29e0485c6cadb6fdf98ae4b0041c6a8" title="ThreadWorker::threadstart" alt="" coords="249,32,423,61"/>
-<area shape="rect" id="node9" href="$namespace_profiler.html#af79bb59414ef3ba134213bb6f2f2d292" title="Profiler::exit" alt="" coords="291,85,381,115"/>
-<area shape="rect" id="node5" href="$class_i_thread_task.html#a695ed13a9bc39a46ca0c7a889f6a2480" title="IThreadTask::run" alt="" coords="499,5,619,35"/>
-<area shape="rect" id="node7" href="$class_i_thread_task.html#a057baf1821d706facc4c4d6690cf7f68" title="IThreadTask::onComplete" alt="" coords="472,59,645,88"/>
-</map>

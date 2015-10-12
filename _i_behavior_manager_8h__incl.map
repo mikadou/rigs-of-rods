@@ -1,8 +1,0 @@
-<map id="source/main/utils/IBehaviorManager.h" name="source/main/utils/IBehaviorManager.h">
-<area shape="rect" id="node3" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1220,179,1356,208"/>
-<area shape="rect" id="node42" href="$_i_manager_8h.html" title="IManager.h" alt="" coords="1285,101,1371,131"/>
-<area shape="rect" id="node29" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1872,333,2024,363"/>
-<area shape="rect" id="node31" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1931,256,2072,285"/>
-<area shape="rect" id="node34" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="2096,256,2267,285"/>
-<area shape="rect" id="node36" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="2291,256,2437,285"/>
-</map>

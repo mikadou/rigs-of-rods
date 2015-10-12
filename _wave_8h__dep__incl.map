@@ -1,8 +1,0 @@
-<map id="source/main/gfx/hydrax/Wave.h" name="source/main/gfx/hydrax/Wave.h">
-<area shape="rect" id="node3" href="$_real_8h.html" title="source/main/gfx/hydrax\l/Real.h" alt="" coords="108,102,265,149"/>
-<area shape="rect" id="node13" href="$_wave_8cpp.html" title="source/main/gfx/hydrax\l/Wave.cpp" alt="" coords="289,102,447,149"/>
-<area shape="rect" id="node5" href="$_real_8cpp.html" title="source/main/gfx/hydrax\l/Real.cpp" alt="" coords="5,198,163,245"/>
-<area shape="rect" id="node7" href="$_hydrax_water_8h.html" title="source/main/gfx/HydraxWater.h" alt="" coords="187,207,392,236"/>
-<area shape="rect" id="node9" href="$_hydrax_water_8cpp.html" title="source/main/gfx/HydraxWater.cpp" alt="" coords="76,303,297,332"/>
-<area shape="rect" id="node11" href="$_terrain_manager_8cpp.html" title="source/main/terrain\l/TerrainManager.cpp" alt="" coords="321,294,463,341"/>
-</map>

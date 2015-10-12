@@ -1,8 +1,0 @@
-<map id="RoR::RigEditor::RigElementGuiPanelBase::UpdateFlagCheckbox" name="RoR::RigEditor::RigElementGuiPanelBase::UpdateFlagCheckbox">
-<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_beams_panel.html#acf990ad13a10ad888caf4ccf5d70d6f4" title="RoR::GUI::RigEditorBeams\lPanel::UpdatePlainBeamData" alt="" coords="305,5,500,51"/>
-<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_commands2_panel.html#ac81fcc6c27abd19991cd38304f72cb2e" title="RoR::GUI::RigEditorCommands2\lPanel::UpdateCommand2Data" alt="" coords="295,74,511,121"/>
-<area shape="rect" id="node7" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_hydros_panel.html#a91ea4ea54434620d5ffaa78b2be26ecc" title="RoR::GUI::RigEditorHydros\lPanel::UpdateHydrosData" alt="" coords="311,143,495,190"/>
-<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_node_panel.html#ab0d31f7f00a5f96d192e5d8ed2abcea4" title="RoR::GUI::RigEditorNodePanel\l::UpdateNodeData" alt="" coords="300,213,505,259"/>
-<area shape="rect" id="node11" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_shocks2_panel.html#ac0cfc7bc83531ec0337407b6fdba7cc5" title="RoR::GUI::RigEditorShocks2\lPanel::UpdateShock2Data" alt="" coords="305,282,500,329"/>
-<area shape="rect" id="node13" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_shocks_panel.html#ab6c78ea0ede6a6410a0b151fb6d85dd7" title="RoR::GUI::RigEditorShocks\lPanel::UpdateShockData" alt="" coords="309,351,496,398"/>
-</map>
