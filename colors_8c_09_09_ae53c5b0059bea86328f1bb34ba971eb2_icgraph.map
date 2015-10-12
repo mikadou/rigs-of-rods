@@ -1,0 +1,6 @@
+<map id="libirc_colorparser_applymask" name="libirc_colorparser_applymask">
+<area shape="rect" id="node3" href="$colors_8c_09_09.html#ab7a97ff431e37728d78b23eeafbbba2a" title="libirc_colorparser\l_closetags" alt="" coords="173,5,293,51"/>
+<area shape="rect" id="node5" href="$colors_8c_09_09.html#a27d1a11ad5032d2753ab8995b25a385b" title="libirc_colorparser\l_irc2code" alt="" coords="341,35,461,82"/>
+<area shape="rect" id="node7" href="$libircclient_8h.html#aa3c2628e7d6f574446b4fed861b1df4f" title="Removes all the color codes and format options. " alt="" coords="519,17,687,47"/>
+<area shape="rect" id="node9" href="$libircclient_8h.html#a5628715bfbd937bac5f16fc8f9e90c85" title="Converts all the color codes and format options to libircclient colors. " alt="" coords="509,71,696,100"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="CameraBehaviorVehicleCineCam::deactivate" name="CameraBehaviorVehicleCineCam::deactivate">
+<area shape="rect" id="node3" href="$class_beam.html#a39d38800d5ab3b85b305d94b2c8ea502" title="Beam::GetCameraContext" alt="" coords="264,5,440,35"/>
+<area shape="rect" id="node5" href="$class_beam.html#a3304824c3e7285047f007c956318de09" title="Beam::prepareInside" alt="" coords="281,59,423,88"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_application.html#a59a97190a3dea812d1f28504db82dc95" title="RoR::Application::GetOverlay\lWrapper" alt="" coords="255,111,449,158"/>
+<area shape="rect" id="node9" href="$class_overlay_wrapper.html#a086d876abbbac640d88b09b2bbfe7d0f" title="OverlayWrapper::showDashboard\lOverlays" alt="" coords="243,181,461,227"/>
+<area shape="rect" id="node11" href="$class_beam.html#a23fbbd95dce6d7440124a59ff905e4d5" title="Beam::changedCamera" alt="" coords="273,251,431,280"/>
+</map>

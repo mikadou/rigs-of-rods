@@ -1,0 +1,7 @@
+<map id="OverlayWrapper::UpdateMarineHUD" name="OverlayWrapper::UpdateMarineHUD">
+<area shape="rect" id="node3" href="$class_screwprop.html#ad146aa176584ee7129f688f46f2576fa" title="Screwprop::getThrottle" alt="" coords="300,5,455,35"/>
+<area shape="rect" id="node5" href="$class_beam.html#a66ee505c58a0966b5a1b6ec965992bc0" title="Beam::getLowestNode" alt="" coords="300,59,455,88"/>
+<area shape="rect" id="node7" href="$class_terrain_manager.html#ae63cfc0dda4ab62dc7f6d72eb7845628" title="TerrainManager::getHeight\lFinder" alt="" coords="289,111,465,158"/>
+<area shape="rect" id="node9" href="$class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="289,181,465,211"/>
+<area shape="rect" id="node11" href="$class_screwprop.html#abe3150642e1d7a565dd330bcd9c67653" title="Screwprop::getRudder" alt="" coords="301,235,453,264"/>
+</map>

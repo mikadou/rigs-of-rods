@@ -1,0 +1,8 @@
+<map id="RoR::RigEditor::Rig::DetachFromScene" name="RoR::RigEditor::Rig::DetachFromScene">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a58d9c0798f0d2114e736d04d780a080f" title="RoR::RigEditor::Main\l::~Main" alt="" coords="212,5,359,51"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a00aa0d6827d460587e6ebf2b84bca9a8" title="RoR::RigEditor::Main\l::CommandCloseCurrentRig" alt="" coords="192,74,379,121"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a0ae39993d636eacc5dfe567c5f5ac4b9" title="RoR::RigEditor::Main\l::LoadRigDefFile" alt="" coords="427,74,573,121"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a35a10d6c23920802442d32fab1a8d470" title="RoR::RigEditor::Main\l::NotifyFileSelectorEnded" alt="" coords="621,74,792,121"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a4f73e9dc5632524ca803864460b82bb5" title="RoR::RigEditor::Main\l::CommandShowDialogOpenRigFile" alt="" coords="848,39,1080,86"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_rig_editor_1_1_main.html#acb4af1361d9233f5ee2fa658536a7658" title="RoR::RigEditor::Main\l::CommandShowDialogSaveRigFileAs" alt="" coords="841,109,1087,155"/>
+</map>

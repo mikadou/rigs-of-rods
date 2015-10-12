@@ -1,0 +1,21 @@
+<map id="MyDialog::MyDialog" name="MyDialog::MyDialog">
+<area shape="rect" id="node3" href="$classwx_value_choice.html#a11c538b33449b38e2b78d0356a178dab" title="wxValueChoice::AppendValueItem" alt="" coords="679,14,903,43"/>
+<area shape="rect" id="node5" href="$class_my_dialog.html#a9a5c67128193b0be680fcafeb2aa5e80" title="MyDialog::addAboutTitle" alt="" coords="197,545,363,574"/>
+<area shape="rect" id="node7" href="$class_my_dialog.html#a729c3806e34abac1fa38302f554866c6" title="MyDialog::addAboutEntry" alt="" coords="195,598,365,627"/>
+<area shape="rect" id="node9" href="$class_my_dialog.html#a06f8e4181518a6c11e84c55e6f59eed8" title="MyDialog::OnScrollForceFeedback" alt="" coords="679,495,903,525"/>
+<area shape="rect" id="node11" href="$wxutils_8h.html#acea10d469893caac689206a073cc165e" title="conv" alt="" coords="765,93,816,122"/>
+<area shape="rect" id="node13" href="$class_my_dialog.html#a30829bbf050a53f6d5c0e1d6abcd29e8" title="MyDialog::SetDefaults" alt="" coords="203,317,357,346"/>
+<area shape="rect" id="node24" href="$class_my_dialog.html#a3a49421662fe7600e722c3ca32b48a4d" title="MyDialog::LoadConfig" alt="" coords="205,370,355,399"/>
+<area shape="rect" id="node40" href="$class_my_dialog.html#acd3952b4ebf8cc601045d3ba2f2946f1" title="MyDialog::loadOgre" alt="" coords="212,170,348,199"/>
+<area shape="rect" id="node16" href="$class_my_dialog.html#a9dda5ceed397209fea3b86bf17b183d1" title="MyDialog::getSettingsControls" alt="" coords="421,249,621,278"/>
+<area shape="rect" id="node19" href="$classwx_value_choice.html#a929749fefe92945893e8fc62107c770f" title="wxValueChoice::getSelected\lValueAsSTDString" alt="" coords="696,196,885,243"/>
+<area shape="rect" id="node21" href="$classwx_value_choice.html#a9193f92274299f15adefdb340ad58abe" title="wxValueChoice::getSelected\lValue" alt="" coords="953,167,1143,213"/>
+<area shape="rect" id="node26" href="$class_ogre_1_1_improved_config_file.html#a1bd08528976d0cb5d9cca130c9868039" title="Ogre::ImprovedConfigFile\l::load" alt="" coords="436,424,607,471"/>
+<area shape="rect" id="node28" href="$class_my_dialog.html#a008219b2fc5f082cc4fbbb46f87ac74f" title="MyDialog::updateSettings\lControls" alt="" coords="436,304,607,351"/>
+<area shape="rect" id="node30" href="$classwx_value_choice.html#a15cefdf22a40c016ae2474430cdde209" title="wxValueChoice::setSelected\lValue" alt="" coords="696,265,885,312"/>
+<area shape="rect" id="node34" href="$class_my_dialog.html#ad9f1ebe0db24ab553e8d54c13912b3b9" title="MyDialog::OnScrollSightRange" alt="" coords="689,335,892,365"/>
+<area shape="rect" id="node36" href="$class_my_dialog.html#ada3c5edc423258c55ac677f3de37cedc" title="MyDialog::OnScrollVolume" alt="" coords="701,389,880,418"/>
+<area shape="rect" id="node38" href="$class_my_dialog.html#aa8a51e501e6db082f2b1d7dc43a96d5e" title="MyDialog::OnScrollFPSLimiter" alt="" coords="691,442,891,471"/>
+<area shape="rect" id="node42" href="$class_my_dialog.html#aba6a7daf42cb713a175d666da8fb24ea" title="MyDialog::loadOgrePlugins" alt="" coords="432,195,611,225"/>
+<area shape="rect" id="node46" href="$class_my_dialog.html#a2db16bbab43a0aaf98ac4cf0787814be" title="MyDialog::updateRendersystems" alt="" coords="413,41,629,70"/>
+</map>

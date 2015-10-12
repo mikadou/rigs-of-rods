@@ -1,0 +1,13 @@
+<map id="RoR::GuiPanelBase::GetWidthPixels" name="RoR::GuiPanelBase::GetWidthPixels">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_gui_panel_base.html#a92f0be73cb302640d8eb291fd2d785df" title="RoR::GuiPanelBase::\lSetHeight" alt="" coords="229,109,376,155"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_gui_panel_base.html#affcdec6ec2970670cb411cd793d3393b" title="RoR::GuiPanelBase::\lCenterToScreen" alt="" coords="229,178,376,225"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#a812b3d695c48529c4ca8abb38d50dd84" title="RoR::RigEditor::RigElement\lGuiPanelBase::AlignToScreen" alt="" coords="204,247,401,294"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_beams_panel.html#a8594e2b9e741549b82c0c17c84b8d077" title="RoR::GUI::RigEditorBeams\lPanel::RigEditorBeamsPanel" alt="" coords="503,5,692,51"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_commands2_panel.html#afe151f6ba919eeba7c10fce59776e336" title="RoR::GUI::RigEditorCommands2\lPanel::RigEditorCommands2Panel" alt="" coords="485,74,709,121"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_flex_body_wheels_panel.html#a12d5b40c50686b1a6168c542675f7608" title="RoR::GUI::RigEditorFlexBody\lWheelsPanel::RigEditorFlexBodyWheelsPanel" alt="" coords="451,143,744,190"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_hydros_panel.html#a01e678a31d0a50891a3a5e0a74cbebb4" title="RoR::GUI::RigEditorHydros\lPanel::RigEditorHydrosPanel" alt="" coords="501,213,693,259"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_mesh_wheels2_panel.html#a6770ec2ab24e7d402882215c58cec284" title="RoR::GUI::RigEditorMeshWheels2\lPanel::RigEditorMeshWheels2Panel" alt="" coords="481,282,713,329"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_node_panel.html#ab79c2d110c56c2067bbc23a0e5f03647" title="RoR::GUI::RigEditorNodePanel\l::RigEditorNodePanel" alt="" coords="495,351,700,398"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_shocks2_panel.html#a33b83f1aba8a3cec5a15cf6f11089e29" title="RoR::GUI::RigEditorShocks2\lPanel::RigEditorShocks2Panel" alt="" coords="497,421,697,467"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_shocks_panel.html#a1d31987b03430102a9cc43a3d4900d4a" title="RoR::GUI::RigEditorShocks\lPanel::RigEditorShocksPanel" alt="" coords="500,490,695,537"/>
+</map>

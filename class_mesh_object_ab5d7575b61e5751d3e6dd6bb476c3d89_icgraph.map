@@ -1,0 +1,15 @@
+<map id="MeshObject::getEntity" name="MeshObject::getEntity">
+<area shape="rect" id="node3" href="$class_terrain_object_manager.html#a62a108ad201e16585ab3115befedae60" title="TerrainObjectManager\l::loadObject" alt="" coords="207,27,356,74"/>
+<area shape="rect" id="node5" href="$class_game_script.html#adc155d46516906fb9bfddde649c02ee6" title="GameScript::spawnObject" alt="" coords="407,5,580,35"/>
+<area shape="rect" id="node7" href="$class_terrain_object_manager.html#a45ccbf51f9c0ecac68927fed5e52eaa4" title="TerrainObjectManager\l::loadObjectConfigFile" alt="" coords="419,58,568,105"/>
+<area shape="rect" id="node9" href="$class_terrain_manager.html#a4ad87b973cb6af52daaf530a5feff167" title="TerrainManager::loadTerrain\lObjects" alt="" coords="629,58,813,105"/>
+<area shape="rect" id="node11" href="$class_terrain_manager.html#a9a04c837bf2ea6528c465b27ca62f730" title="TerrainManager::loadTerrain" alt="" coords="861,67,1045,96"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_main_thread.html#a60603be78a54ae5a24ca1c00509aca1f" title="RoR::MainThread::LoadTerrain" alt="" coords="1095,67,1295,96"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_main_thread.html#aa3feeebda7f3f4c31a6cb96ea60c09e0" title="RoR::MainThread::SetupGameplayLoop" alt="" coords="1345,40,1599,69"/>
+<area shape="rect" id="node27" href="$class_game_script.html#ac1cba3fc83facbad8281ff80d4ab0f0b" title="GameScript::loadTerrain" alt="" coords="1391,93,1553,123"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1649,40,1799,69"/>
+<area shape="rect" id="node19" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1915,9,1965,39"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="1849,62,2031,109"/>
+<area shape="rect" id="node21" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="2136,9,2208,39"/>
+<area shape="rect" id="node25" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="2081,71,2263,100"/>
+</map>

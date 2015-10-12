@@ -1,0 +1,6 @@
+<map id="Collisions::removeCollisionTri" name="Collisions::removeCollisionTri">
+<area shape="rect" id="node3" href="$class_road2.html#ac9acc1c075562fdf4f6078b4fc867858" title="Road2::~Road2" alt="" coords="256,5,371,35"/>
+<area shape="rect" id="node5" href="$_terrain_object_manager_8cpp.html#a10b3ef92e6788c5d406f238715b3de93" title="removeCollisionTri" alt="" coords="248,59,379,88"/>
+<area shape="rect" id="node7" href="$class_terrain_object_manager.html#a810b822abfbab9dd498a884f1787512c" title="TerrainObjectManager\l::unloadObject" alt="" coords="428,50,577,97"/>
+<area shape="rect" id="node9" href="$class_game_script.html#ac9ef8b95e5fd759b73ef414e9ae9a6a8" title="GameScript::destroyObject" alt="" coords="628,59,807,88"/>
+</map>

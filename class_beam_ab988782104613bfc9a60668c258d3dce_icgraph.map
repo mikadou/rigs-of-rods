@@ -1,0 +1,6 @@
+<map id="Beam::intraTruckCollisionsCompute" name="Beam::intraTruckCollisionsCompute">
+<area shape="rect" id="node3" href="$class_beam.html#ac5430b47f97dc513c9e8a0a3caa00cc2" title="Beam::frameStep" alt="" coords="233,32,356,61"/>
+<area shape="rect" id="node5" href="$class_beam_factory.html#a6fa954b906b6dc808a34e69ac2d018d3" title="BeamFactory::calcPhysics" alt="" coords="405,32,584,61"/>
+<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="633,5,847,35"/>
+<area shape="rect" id="node9" href="$class_preview_renderer.html#a5ea6b4611b45965e072266211dc60ba8" title="PreviewRenderer::render" alt="" coords="657,59,823,88"/>
+</map>

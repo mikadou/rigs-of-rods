@@ -1,0 +1,5 @@
+<map id="Beam::ropeToggle" name="Beam::ropeToggle">
+<area shape="rect" id="node3" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getSingleton" alt="" coords="200,5,357,69"/>
+<area shape="rect" id="node5" href="$class_beam_factory.html#aa7c42481b46a78459831fa0900ab8d67" title="BeamFactory::getTrucks" alt="" coords="196,93,361,123"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#a5f3755f8cd44e6972e463cc6aaa9f181" title="BeamFactory::getTruckCount" alt="" coords="181,147,376,176"/>
+</map>

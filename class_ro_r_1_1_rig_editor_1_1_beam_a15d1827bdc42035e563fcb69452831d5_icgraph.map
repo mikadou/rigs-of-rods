@@ -1,0 +1,26 @@
+<map id="RoR::RigEditor::Beam::GetType" name="RoR::RigEditor::Beam::GetType">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#ac15172c3a25da402883a2771edb39eeb" title="RoR::RigEditor::Beam\l::GetDefinitionPlainBeam" alt="" coords="211,78,379,124"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a764684782f54dfeffee4a7c6d112b15b" title="RoR::RigEditor::Rig\l::QuerySelectedBeamsData" alt="" coords="464,298,648,344"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#ab26eeed75a6c2d466b38dda6a6a33bf6" title="RoR::RigEditor::Rig\l::SelectedPlainBeamsUpdate\lAttributes" alt="" coords="460,49,652,113"/>
+<area shape="rect" id="node26" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a3ecc59a5f44f8b27ecc5f2bc66f21a38" title="RoR::RigEditor::Rig\l::SelectedMixedBeamsUpdate\lAttributes" alt="" coords="457,210,655,274"/>
+<area shape="rect" id="node29" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a76704c4437e3a462e9e5123e79acb80e" title="RoR::RigEditor::Beam\l::GetDefinitionHydro" alt="" coords="219,198,371,244"/>
+<area shape="rect" id="node33" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a793f76a955eb9502b4b27aa3a7518faa" title="RoR::RigEditor::Rig\l::SelectedHydrosUpdateAttributes" alt="" coords="445,140,667,187"/>
+<area shape="rect" id="node38" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#aab6f9ca4ccc28b1ffa27e264108f9a04" title="RoR::RigEditor::Beam\l::GetDefinitionCommand2" alt="" coords="208,267,381,314"/>
+<area shape="rect" id="node42" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#ab9b0d933fd613ade496b73b2bffb6a7c" title="RoR::RigEditor::Rig\l::SelectedCommands2UpdateAttributes" alt="" coords="429,367,683,414"/>
+<area shape="rect" id="node47" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#ab10c0ea6119bed1d699c4b749cb27993" title="RoR::RigEditor::Beam\l::GetDefinitionShock" alt="" coords="219,456,371,503"/>
+<area shape="rect" id="node51" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#ad9eaca4efbd4e8cd82068ec443930855" title="RoR::RigEditor::Rig\l::SelectedShocksUpdateAttributes" alt="" coords="445,528,667,575"/>
+<area shape="rect" id="node56" href="$class_ro_r_1_1_rig_editor_1_1_beam.html#a64a3e98387c4546ee40b0313489674c7" title="RoR::RigEditor::Beam\l::GetDefinitionShock2" alt="" coords="219,387,371,434"/>
+<area shape="rect" id="node60" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a27e7ce8036ce00f6f291430fe7501fd0" title="RoR::RigEditor::Rig\l::SelectedShocks2UpdateAttributes" alt="" coords="441,446,671,492"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_main.html#abe2179248ae5a8d9fc4a8ed136a18c46" title="RoR::RigEditor::Main\l::UpdateMainLoop" alt="" coords="781,283,928,330"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a8cd11f0150b5e247b6d9f00212d42b0d" title="RoR::RigEditor::Main\l::EnterMainLoop" alt="" coords="1027,283,1173,330"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1223,292,1372,321"/>
+<area shape="rect" id="node13" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1488,261,1539,290"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="1423,314,1604,360"/>
+<area shape="rect" id="node15" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1709,261,1781,290"/>
+<area shape="rect" id="node19" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1655,322,1836,352"/>
+<area shape="rect" id="node24" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a8256e56d78527a665598fc29a40b6469" title="RoR::RigEditor::Main\l::CommandRigSelectedPlainBeams\lUpdateAttributes" alt="" coords="740,46,969,110"/>
+<area shape="rect" id="node36" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a8f9e8541ceace4ad3f0ce8b74741aaf4" title="RoR::RigEditor::Main\l::CommandRigSelectedHydrosUpdate\lAttributes" alt="" coords="732,134,977,198"/>
+<area shape="rect" id="node45" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a1abd6df2d66916d21c59e0b41a27b8bf" title="RoR::RigEditor::Main\l::CommandRigSelectedCommands2\lUpdateAttributes" alt="" coords="737,353,972,417"/>
+<area shape="rect" id="node54" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a65bf3c0b56b01ea607f97bac4a7edd47" title="RoR::RigEditor::Main\l::CommandRigSelectedShocksUpdate\lAttributes" alt="" coords="732,529,977,593"/>
+<area shape="rect" id="node63" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a2b5781ac3dc16dea6aeace8abfc8824d" title="RoR::RigEditor::Main\l::CommandRigSelectedShocks2\lUpdateAttributes" alt="" coords="749,441,960,505"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Beam::reset" name="Beam::reset">
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::update\lEvents" alt="" coords="147,5,325,51"/>
+<area shape="rect" id="node7" href="$class_preview_renderer.html#a5ea6b4611b45965e072266211dc60ba8" title="PreviewRenderer::render" alt="" coords="153,75,319,104"/>
+<area shape="rect" id="node9" href="$class_beam_factory.html#a508cb7a834236ed7786f780bbe6f84f6" title="BeamFactory::repairTruck" alt="" coords="149,128,323,157"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="375,13,588,43"/>
+<area shape="rect" id="node11" href="$class_game_script.html#ae03ec6ab884db49101677f34621651b7" title="GameScript::repairVehicle" alt="" coords="395,128,568,157"/>
+</map>

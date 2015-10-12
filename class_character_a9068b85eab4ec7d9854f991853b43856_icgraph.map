@@ -1,0 +1,12 @@
+<map id="Character::getVisible" name="Character::getVisible">
+<area shape="rect" id="node3" href="$class_character.html#a529210827a59717cd3f7ab147a82dd94" title="Character::updateNetLabelSize" alt="" coords="199,36,401,65"/>
+<area shape="rect" id="node5" href="$class_character_factory.html#a5dda711f6e7b307295f4a0303d7e0911" title="CharacterFactory::update\lLabels" alt="" coords="451,27,621,74"/>
+<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="671,5,884,35"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_main_thread.html#ab48ab040ee463287f7953eef17ad4c62" title="RoR::MainThread::MainMenu\lLoopUpdate" alt="" coords="681,58,873,105"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_main_thread.html#a0be80b570e45a4de035b1f1b9684497c" title="RoR::MainThread::EnterMain\lMenuLoop" alt="" coords="933,58,1125,105"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1175,67,1324,96"/>
+<area shape="rect" id="node15" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1440,36,1491,65"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="1375,89,1556,135"/>
+<area shape="rect" id="node17" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1661,36,1733,65"/>
+<area shape="rect" id="node21" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1607,97,1788,127"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="source/main/gfx/camera/CameraManager.h" name="source/main/gfx/camera/CameraManager.h">
+<area shape="rect" id="node3" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1220,256,1356,285"/>
+<area shape="rect" id="node42" href="$_i_behavior_8h.html" title="IBehavior.h" alt="" coords="1191,101,1279,131"/>
+<area shape="rect" id="node47" href="$_i_behavior_manager_8h.html" title="IBehaviorManager.h" alt="" coords="1353,101,1492,131"/>
+<area shape="rect" id="node29" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1872,411,2024,440"/>
+<area shape="rect" id="node31" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1931,333,2072,363"/>
+<area shape="rect" id="node34" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="2096,333,2267,363"/>
+<area shape="rect" id="node36" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="2291,333,2437,363"/>
+<area shape="rect" id="node50" href="$_i_manager_8h.html" title="IManager.h" alt="" coords="1391,179,1476,208"/>
+</map>

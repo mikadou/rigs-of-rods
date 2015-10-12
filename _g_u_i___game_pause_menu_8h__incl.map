@@ -1,0 +1,17 @@
+<map id="source/main/gui/panels/GUI_GamePauseMenu.h" name="source/main/gui/panels/GUI_GamePauseMenu.h">
+<area shape="rect" id="node3" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1884,643,2036,672"/>
+<area shape="rect" id="node5" href="$_g_u_i___game_pause_menu_layout_8h.html" title="GUI_GamePauseMenuLayout.h" alt="" coords="5,179,211,208"/>
+<area shape="rect" id="node57" href="$_g_u_i___game_about_8h.html" title="GUI_GameAbout.h" alt="" coords="2644,101,2777,131"/>
+<area shape="rect" id="node64" href="$_g_u_i___game_settings_8h.html" title="GUI_GameSettings.h" alt="" coords="1907,101,2053,131"/>
+<area shape="rect" id="node8" href="$_base_layout_8h.html" title="BaseLayout.h" alt="" coords="1507,256,1608,285"/>
+<area shape="rect" id="node10" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1624,488,1760,517"/>
+<area shape="rect" id="node50" href="$_wraps_attribute_8h.html" title="WrapsAttribute.h" alt="" coords="1497,333,1617,363"/>
+<area shape="rect" id="node37" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1307,565,1448,595"/>
+<area shape="rect" id="node40" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1112,565,1283,595"/>
+<area shape="rect" id="node42" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="2600,565,2747,595"/>
+<area shape="rect" id="node54" href="$_attribute_8h.html" title="Attribute.h" alt="" coords="1572,411,1655,440"/>
+<area shape="rect" id="node60" href="$_g_u_i___game_about_layout_8h.html" title="GUI_GameAboutLayout.h" alt="" coords="2625,179,2796,208"/>
+<area shape="rect" id="node67" href="$_g_u_i___game_settings_layout_8h.html" title="GUI_GameSettingsLayout.h" alt="" coords="1464,179,1651,208"/>
+<area shape="rect" id="node72" href="$_input_engine_8h.html" title="Input logic. " alt="" coords="2213,333,2315,363"/>
+<area shape="rect" id="node75" href="$_ro_r_window_event_utilities_8h.html" title="RoRWindowEventUtilities.h" alt="" coords="1780,411,1964,440"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CameraManager::NotifyVehicleChanged" name="CameraManager::NotifyVehicleChanged">
+<area shape="rect" id="node3" href="$class_camera_manager.html#a6f50a61b22fd1193ec25c5c2dc8f3ae3" title="CameraManager::switchBehavior" alt="" coords="261,5,475,35"/>
+<area shape="rect" id="node5" href="$class_beam.html#a39d38800d5ab3b85b305d94b2c8ea502" title="Beam::GetCameraContext" alt="" coords="527,32,703,61"/>
+<area shape="rect" id="node8" href="$class_camera_manager.html#a522774afcf439b4e08bc364259d97062" title="CameraManager::SwitchBehavior\lOnVehicleChange" alt="" coords="260,109,476,155"/>
+</map>

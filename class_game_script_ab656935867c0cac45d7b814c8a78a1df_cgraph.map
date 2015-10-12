@@ -1,0 +1,6 @@
+<map id="GameScript::hideDirectionArrow" name="GameScript::hideDirectionArrow">
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#aeb797acb04a6e1b17e9b9a76eb2eb89f" title="RoRFrameListener::setDirection\lArrow" alt="" coords="229,74,440,121"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_application.html#a59a97190a3dea812d1f28504db82dc95" title="RoR::Application::GetOverlay\lWrapper" alt="" coords="496,5,691,51"/>
+<area shape="rect" id="node7" href="$class_overlay_wrapper.html#a581b30b171c031156c074e70d697ee20" title="OverlayWrapper::HideDirection\lOverlay" alt="" coords="492,74,695,121"/>
+<area shape="rect" id="node9" href="$class_overlay_wrapper.html#a35c215f8caaaf797303809ebab194c08" title="OverlayWrapper::ShowDirection\lOverlay" alt="" coords="489,143,697,190"/>
+</map>

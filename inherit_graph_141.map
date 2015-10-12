@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node3" href="$class_ogre_1_1_shader_particle_renderer_1_1_cmd_vertex_format_colour.html" title="Ogre::ShaderParticleRenderer\l::CmdVertexFormatColour" alt="" coords="188,5,383,51"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_shader_particle_renderer_1_1_cmd_vertex_format_direction.html" title="direction " alt="" coords="188,74,383,121"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_shader_particle_renderer_1_1_cmd_vertex_format_rotation.html" title="rotation " alt="" coords="188,143,383,190"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_shader_particle_renderer_1_1_cmd_vertex_format_rotation_speed.html" title="rotation speed (rad/s) " alt="" coords="175,213,396,259"/>
+<area shape="rect" id="node11" href="$class_ogre_1_1_shader_particle_renderer_1_1_cmd_vertex_format_size.html" title="particle size " alt="" coords="188,282,383,329"/>
+<area shape="rect" id="node13" href="$class_ogre_1_1_shader_particle_renderer_1_1_cmd_vertex_format_texture.html" title="general texture coord " alt="" coords="188,351,383,398"/>
+<area shape="rect" id="node15" href="$class_ogre_1_1_shader_particle_renderer_1_1_cmd_vertex_format_time_frag.html" title="TTL / total_TTL. " alt="" coords="188,421,383,467"/>
+<area shape="rect" id="node17" href="$class_ogre_1_1_shader_particle_renderer_1_1_cmd_vertex_format_time_frag_inv.html" title="1.0f &#45; TTL / total_TTL " alt="" coords="180,490,391,537"/>
+<area shape="rect" id="node19" href="$class_ogre_1_1_shader_particle_renderer_1_1_cmd_vertex_format_total_t_t_l.html" title="total time&#45;to&#45;live " alt="" coords="188,559,383,606"/>
+<area shape="rect" id="node21" href="$class_ogre_1_1_shader_particle_renderer_1_1_cmd_vertex_format_t_t_l.html" title="time&#45;to&#45;live " alt="" coords="188,629,383,675"/>
+</map>

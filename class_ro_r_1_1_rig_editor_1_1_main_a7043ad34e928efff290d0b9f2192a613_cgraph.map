@@ -1,0 +1,15 @@
+<map id="RoR::RigEditor::Main::OnNewRigCreatedOrLoaded" name="RoR::RigEditor::Main::OnNewRigCreatedOrLoaded">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a27c5ff7f160c89c4eb8bd62734922aa3" title="RoR::RigEditor::Rig\l::AttachToScene" alt="" coords="316,5,455,51"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a0a03055933371812797a04a1353479f1" title="RoR::RigEditor::Rig\l::RefreshAllNodesScreenPositions" alt="" coords="273,74,497,121"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a7903b41d8fc63f6d73a4834f19209914" title="RoR::RigEditor::Rig\l::RefreshMouseHoveredNode" alt="" coords="288,143,483,190"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_rig_editor_1_1_input_handler.html#a5bf85347042c691cc2dbb6240f79249c" title="RoR::RigEditor::InputHandler\l::GetMouseMotionEvent" alt="" coords="289,213,481,259"/>
+<area shape="rect" id="node21" href="$struct_ro_r_1_1_rig_editor_1_1_input_handler_1_1_mouse_motion_event.html#acc2ecfe055276ffcc2c6dd7c59f85bfa" title="RoR::RigEditor::InputHandler\l::MouseMotionEvent::GetAbsolutePosition" alt="" coords="251,282,520,329"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a717b168d21a24ac0338f2c6ae60c881b" title="RoR::RigEditor::Rig\l::RefreshNodesDynamicMeshes" alt="" coords="280,351,491,398"/>
+<area shape="rect" id="node28" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#ab31018673617622ae5a93340d2cfe1d5" title="RoR::RigEditor::Rig\l::GetWheels" alt="" coords="316,421,455,467"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#ae0f2af92699b413199c31438dd41b84b" title="RoR::RigEditor::Rig\l::RefreshNodeScreenPosition" alt="" coords="568,74,763,121"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_camera_handler.html#a7b05083877a82e1f236997822f650de5" title="RoR::RigEditor::CameraHandler\l::ConvertWorldToScreenPosition" alt="" coords="811,39,1024,86"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_rig_editor_1_1_node.html#aefebb9cd1a67bbb2afc980b0f8baab12" title="RoR::RigEditor::Node\l::GetPosition" alt="" coords="843,207,992,254"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_rig_editor_1_1_node.html#a767984547bdd6398423af057bf1346a2" title="RoR::RigEditor::Node\l::SetScreenPosition" alt="" coords="843,109,992,155"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_rig_editor_1_1_node.html#a89f1bbdcea5c29afd7da580591aa27ca" title="RoR::RigEditor::Node\l::GetScreenPosition" alt="" coords="591,143,740,190"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_rig_editor_1_1_node.html#a96df42eb7849b0a74a0332ca22b71993" title="RoR::RigEditor::Node\l::IsSelected" alt="" coords="591,351,740,398"/>
+</map>

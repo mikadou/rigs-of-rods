@@ -1,0 +1,8 @@
+<map id="Skidmark::updatePoint" name="Skidmark::updatePoint">
+<area shape="rect" id="node3" href="$class_ro_r_singleton.html#a18a797fc35bd8cfa8a2affdd197cbfee" title="RoRSingleton\&lt; SkidmarkManager\l \&gt;::getSingleton" alt="" coords="209,5,428,51"/>
+<area shape="rect" id="node5" href="$class_skidmark_manager.html#aa94393062ec7d78af1ca33437f72a6f0" title="SkidmarkManager::getTexture" alt="" coords="220,75,417,104"/>
+<area shape="rect" id="node7" href="$class_skidmark.html#ae621b6ee9954b1859b8c1afc12a82965" title="Skidmark::addObject" alt="" coords="247,128,391,157"/>
+<area shape="rect" id="node11" href="$class_skidmark.html#ae45b91d8a798d3c569d55d4e9752f263" title="Skidmark::addPoint" alt="" coords="251,181,387,211"/>
+<area shape="rect" id="node9" href="$class_skidmark.html#ac6679a898f1655be22b0d5494f0e1908" title="Skidmark::limitObjects" alt="" coords="477,128,632,157"/>
+<area shape="rect" id="node13" href="$class_skidmark.html#a0fe30c72c4159a18b144060e13c646c6" title="Skidmark::setPointInt" alt="" coords="481,181,628,211"/>
+</map>

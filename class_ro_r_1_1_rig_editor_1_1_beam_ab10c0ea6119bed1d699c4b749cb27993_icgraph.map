@@ -1,0 +1,13 @@
+<map id="RoR::RigEditor::Beam::GetDefinitionShock" name="RoR::RigEditor::Beam::GetDefinitionShock">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a764684782f54dfeffee4a7c6d112b15b" title="RoR::RigEditor::Rig\l::QuerySelectedBeamsData" alt="" coords="228,5,412,51"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a3ecc59a5f44f8b27ecc5f2bc66f21a38" title="RoR::RigEditor::Rig\l::SelectedMixedBeamsUpdate\lAttributes" alt="" coords="221,75,419,139"/>
+<area shape="rect" id="node22" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#ad9eaca4efbd4e8cd82068ec443930855" title="RoR::RigEditor::Rig\l::SelectedShocksUpdateAttributes" alt="" coords="209,162,431,209"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_main.html#abe2179248ae5a8d9fc4a8ed136a18c46" title="RoR::RigEditor::Main\l::UpdateMainLoop" alt="" coords="531,83,677,130"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a8cd11f0150b5e247b6d9f00212d42b0d" title="RoR::RigEditor::Main\l::EnterMainLoop" alt="" coords="776,83,923,130"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="972,92,1121,121"/>
+<area shape="rect" id="node11" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1237,61,1288,91"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="1172,114,1353,161"/>
+<area shape="rect" id="node13" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1459,61,1531,91"/>
+<area shape="rect" id="node17" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1404,123,1585,152"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a65bf3c0b56b01ea607f97bac4a7edd47" title="RoR::RigEditor::Main\l::CommandRigSelectedShocksUpdate\lAttributes" alt="" coords="481,153,727,217"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="RoR::RigEditor::LandVehicleWheel::GetAabbEdgesMin" name="RoR::RigEditor::LandVehicleWheel::GetAabbEdgesMin">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig_wheel_visuals.html#a3c3c8c714b4d029e1c49218c3d181c35" title="RoR::RigEditor::RigWheel\lVisuals::UpdateWheelsSelection\lHighlightBoxes" alt="" coords="256,5,469,69"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_rig_wheel_visuals.html#af5095ff3c72fd1057ac1e42c62657d06" title="RoR::RigEditor::RigWheel\lVisuals::UpdateWheelsMouseHover\lHighlightBoxes" alt="" coords="247,93,479,157"/>
+</map>

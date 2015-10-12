@@ -1,0 +1,12 @@
+<map id="RoR::FlexBodyFileIO::SaveFile" name="RoR::FlexBodyFileIO::SaveFile">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_flex_body_file_i_o.html#a0aef6c2ebcf56fe8c98d0dc9184b88dd" title="RoR::FlexBodyFileIO\l::OpenFile" alt="" coords="228,5,375,51"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_flex_body_file_i_o.html#a62fdad6745bd92d8bbef9ab2d92dffa5" title="RoR::FlexBodyFileIO\l::WriteSignature" alt="" coords="228,74,375,121"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_flex_body_file_i_o.html#ae6b4a0fdbf35ba2ddeaad753a214e6e4" title="RoR::FlexBodyFileIO\l::WriteMetadata" alt="" coords="228,143,375,190"/>
+<area shape="rect" id="node12" href="$class_ro_r_1_1_flex_body_file_i_o.html#a478a250ca9d210f567429b8675aedc14" title="RoR::FlexBodyFileIO\l::WriteFlexbodyHeader" alt="" coords="224,213,379,259"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_flex_body_file_i_o.html#a53428a2ad22823ee92d1db5869e30129" title="RoR::FlexBodyFileIO\l::WriteFlexbodyLocatorList" alt="" coords="212,282,391,329"/>
+<area shape="rect" id="node18" href="$class_ro_r_1_1_flex_body_file_i_o.html#aa6f408b01fa24e6cbda002e88ce46bcd" title="RoR::FlexBodyFileIO\l::WriteFlexbodyPositionsBuffer" alt="" coords="200,351,403,398"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_flex_body_file_i_o.html#a07b62047a96f0e90ac12703fa34c2562" title="RoR::FlexBodyFileIO\l::WriteFlexbodyNormalsBuffer" alt="" coords="203,421,400,467"/>
+<area shape="rect" id="node24" href="$class_ro_r_1_1_flex_body_file_i_o.html#a71e5319b6ecddf77518f9bc45e36dc37" title="RoR::FlexBodyFileIO\l::WriteFlexbodyColorsBuffer" alt="" coords="208,490,395,537"/>
+<area shape="rect" id="node27" href="$class_ro_r_1_1_flex_body_file_i_o.html#a035ffcc43e13e51e124730684a72a8a4" title="RoR::FlexBodyFileIO\l::CloseFile" alt="" coords="228,559,375,606"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_flex_body_file_i_o.html#a420be871b6c8432ad39bdcb919b76b32" title="RoR::FlexBodyFileIO\l::WriteToFile" alt="" coords="451,282,597,329"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CharacterFactory::updateLabels" name="CharacterFactory::updateLabels">
+<area shape="rect" id="node3" href="$class_character.html#a529210827a59717cd3f7ab147a82dd94" title="Character::updateNetLabelSize" alt="" coords="225,67,428,96"/>
+<area shape="rect" id="node5" href="$class_character.html#a9068b85eab4ec7d9854f991853b43856" title="Character::getVisible" alt="" coords="477,5,621,35"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_movable_text.html#a0562e7c4341e263ae6e9d55f91643ade" title="Ogre::MovableText::\lsetCharacterHeight" alt="" coords="479,58,620,105"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_movable_text.html#a9e93f2a29c44474bf8d3408ab6484f6c" title="Ogre::MovableText::\lsetCaption" alt="" coords="479,127,620,174"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="GameScript::useOnlineAPI" name="GameScript::useOnlineAPI">
+<area shape="rect" id="node3" href="$class_script_engine.html#a7095180117c3c139e609c3de96f67eb6" title="ScriptEngine::getEngine" alt="" coords="708,5,871,35"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_application.html#ad66b6a7000f93454d75f1150d6959141" title="RoR::Application::GetConsole" alt="" coords="691,59,888,88"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_application.html#a3db1b8c7dc6bf465f5ed653ef4a8ce9a" title="RoR::Application::GetGui\lManager" alt="" coords="704,111,875,158"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_g_u_i_manager.html#ae4edd69226416a7be139959fd71319ea" title="RoR::GUIManager::PushNotification" alt="" coords="672,181,907,211"/>
+<area shape="rect" id="node11" href="$_game_script_8cpp.html#aeecefe9a646e48846e0a7f4ee494b624" title="onlineAPIThread" alt="" coords="233,313,351,343"/>
+<area shape="rect" id="node13" href="$class_game_script.html#a8c02937795d82f6bc0de53d8e939993d" title="GameScript::useOnlineAPIDirectly" alt="" coords="400,368,624,397"/>
+<area shape="rect" id="node16" href="$class_script_engine.html#ab074fcb27b3f38fb2387ad1dc9404265" title="ScriptEngine::getScriptName" alt="" coords="695,288,884,317"/>
+<area shape="rect" id="node18" href="$class_script_engine.html#aada7e9826e25bf420e7630dd1739a099" title="ScriptEngine::getScriptHash" alt="" coords="696,341,883,371"/>
+<area shape="rect" id="node20" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getSingleton" alt="" coords="977,385,1135,449"/>
+<area shape="rect" id="node22" href="$class_game_script.html#a5dacaf9f6010aae206b2e723145f3f50" title="GameScript::getCurrentTruck" alt="" coords="693,445,885,475"/>
+<area shape="rect" id="node25" href="$class_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="BeamFactory::getCurrentTruck" alt="" coords="955,489,1157,519"/>
+<area shape="rect" id="node30" href="$class_beam.html#a0550cfe159057ed02364c9425f279265" title="Beam::getTruckName" alt="" coords="715,549,864,579"/>
+<area shape="rect" id="node32" href="$class_beam.html#a7c810f9fc80089c7d43bc799bccf182d" title="Beam::getTruckFileName" alt="" coords="704,603,875,632"/>
+<area shape="rect" id="node34" href="$class_beam.html#a3c6ce454e46f37e33b0e21ff70775af8" title="Beam::getTruckHash" alt="" coords="716,656,863,685"/>
+<area shape="rect" id="node36" href="$class_ro_r_1_1_application.html#a5082701abd55926b3c6eb4b0c933eca5" title="RoR::Application::GetOgre\lSubsystem" alt="" coords="700,709,879,755"/>
+<area shape="rect" id="node38" href="$class_ro_r_1_1_ogre_subsystem.html#aec5be99797f9add72578fb1fbfec582f" title="RoR::OgreSubsystem\l::GetRenderWindow" alt="" coords="715,778,864,825"/>
+<area shape="rect" id="node41" href="$_utils_8cpp.html#aebe76599ecdd7fc4db8b64cba0beb94e" title="ANSI_TO_UTF" alt="" coords="733,235,845,264"/>
+<area shape="rect" id="node27" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="1207,489,1364,519"/>
+<area shape="rect" id="node43" href="$_utils_8cpp.html#adfe147e59bb1923aba4e9a0f8b14796d" title="ANSI_TO_WCHAR" alt="" coords="987,235,1125,264"/>
+</map>

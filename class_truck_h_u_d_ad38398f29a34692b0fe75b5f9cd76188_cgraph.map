@@ -1,0 +1,22 @@
+<map id="TruckHUD::update" name="TruckHUD::update">
+<area shape="rect" id="node3" href="$class_beam.html#a0550cfe159057ed02364c9425f279265" title="Beam::getTruckName" alt="" coords="217,5,367,35"/>
+<area shape="rect" id="node5" href="$class_truck_h_u_d.html#a4009d72eeac92666a95425534350d830" title="TruckHUD::checkOverflow" alt="" coords="203,59,381,88"/>
+<area shape="rect" id="node7" href="$class_beam.html#aa0f67ee8909afb78fcc3a6d07d26e3bc" title="Beam::getAuthors" alt="" coords="229,112,355,141"/>
+<area shape="rect" id="node9" href="$class_beam.html#aad042d366cb5e8987dccb68df6bb2fba" title="Beam::getDescription" alt="" coords="219,165,365,195"/>
+<area shape="rect" id="node11" href="$_utils_8cpp.html#aebe76599ecdd7fc4db8b64cba0beb94e" title="ANSI_TO_UTF" alt="" coords="236,219,348,248"/>
+<area shape="rect" id="node15" href="$class_beam.html#a95c973a1d688c42658c608220d4ffd0e" title="Beam::getBeams" alt="" coords="231,272,353,301"/>
+<area shape="rect" id="node17" href="$class_beam.html#a0f3e32834815ae635f01fcf68e078b87" title="Beam::getTotalMass" alt="" coords="221,325,363,355"/>
+<area shape="rect" id="node19" href="$class_beam.html#a375b0b23c2cba28e2f4592e8a4df7020" title="Beam::getBeamCount" alt="" coords="217,379,367,408"/>
+<area shape="rect" id="node21" href="$_utils_8cpp.html#ac6cc78a7960a3357a51a37e74a35704a" title="Round" alt="" coords="263,432,321,461"/>
+<area shape="rect" id="node23" href="$class_beam.html#a12f92c4caab83d592fef2ab81094ba73" title="Beam::getNodeCount" alt="" coords="219,485,365,515"/>
+<area shape="rect" id="node25" href="$class_beam.html#a13abe5beee8d5ac9f1ad46c740878fd7" title="Beam::getWheelNodeCount" alt="" coords="200,539,384,568"/>
+<area shape="rect" id="node27" href="$class_beam.html#a0ccc5249a629e3c377c234fd67da9655" title="Beam::getGForces" alt="" coords="227,592,357,621"/>
+<area shape="rect" id="node31" href="$class_beam_engine.html#a871214fce37bde9b73e59494e2dc2bca" title="BeamEngine::getRPM" alt="" coords="216,645,368,675"/>
+<area shape="rect" id="node33" href="$class_beam_engine.html#a0da07abab36323b70d48fe5e9efe01fc" title="BeamEngine::getMaxRPM" alt="" coords="204,699,380,728"/>
+<area shape="rect" id="node35" href="$class_aero_engine.html#ada821d754a674b4b675e7de8688259e3" title="AeroEngine::getRPM" alt="" coords="220,752,364,781"/>
+<area shape="rect" id="node37" href="$class_ro_r_1_1_application.html#a608003a20ef939a79437a9da8fa76307" title="RoR::Application::GetInput\lEngine" alt="" coords="203,805,381,851"/>
+<area shape="rect" id="node39" href="$class_input_engine.html#a31686978ff9fe35d93d467ef33149b10" title="InputEngine::resolveEventName" alt="" coords="187,875,397,904"/>
+<area shape="rect" id="node41" href="$class_input_engine.html#acbc2cf4b1982fa0e19e60b735d0c8f6f" title="InputEngine::getEventCommand" alt="" coords="187,928,397,957"/>
+<area shape="rect" id="node13" href="$_utils_8cpp.html#adfe147e59bb1923aba4e9a0f8b14796d" title="ANSI_TO_WCHAR" alt="" coords="467,219,605,248"/>
+<area shape="rect" id="node29" href="$class_terrain_manager.html#a02de3af7287847607182da563f4bbf2f" title="TerrainManager::getGravity" alt="" coords="447,592,625,621"/>
+</map>

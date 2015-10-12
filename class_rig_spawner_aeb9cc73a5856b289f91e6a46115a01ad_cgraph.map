@@ -1,0 +1,16 @@
+<map id="RigSpawner::ProcessSlidenode" name="RigSpawner::ProcessSlidenode">
+<area shape="rect" id="node3" href="$class_slide_node.html#adcee5a4e21607e9f5a6ff1fb00603141" title="distance from a beam before corrective forces take effect " alt="" coords="280,5,445,35"/>
+<area shape="rect" id="node5" href="$class_slide_node.html#a858bcffba2de9eb8f79a424f852093b6" title="spring force used to calculate corrective forces " alt="" coords="276,59,449,88"/>
+<area shape="rect" id="node7" href="$class_slide_node.html#adafe888657c615c57d9a2639a1450136" title="how long it will take for springs to fully attach to the Rail " alt="" coords="261,112,464,141"/>
+<area shape="rect" id="node9" href="$class_slide_node.html#aa24c32635f4321d6b2c705e9f68390b3" title="Force required to break the Node from the Rail. " alt="" coords="276,165,449,195"/>
+<area shape="rect" id="node11" href="$class_slide_node.html#a7a772c740bf9fe5cb348cf9d7e3bb946" title="maximum distance this spring node is allowed to reach out for a Rail " alt="" coords="276,218,449,265"/>
+<area shape="rect" id="node13" href="$class_slide_node.html#a5db88b8bdb7a128da91a18514ceac2d3" title="SlideNode::setAttachRule" alt="" coords="276,288,449,317"/>
+<area shape="rect" id="node17" href="$class_slide_node.html#a1e7f3cdbbe2d0ae1085caa1207882355" title="SlideNode::setDefaultRail" alt="" coords="276,341,449,371"/>
+<area shape="rect" id="node15" href="$class_slide_node.html#a8f8725382b867c6ed9ddaf1e7a6d710a" title="SlideNode::setFlag" alt="" coords="535,288,668,317"/>
+<area shape="rect" id="node19" href="$class_slide_node.html#a3b6be868fa3b7becc403a3169d864a19" title="SlideNode::ResetPositions" alt="" coords="512,341,691,371"/>
+<area shape="rect" id="node21" href="$class_slide_node.html#ac667f76769572eb2a81925c8b62dad2b" title="SlideNode::getClosestRailAll" alt="" coords="967,313,1156,343"/>
+<area shape="rect" id="node28" href="$class_slide_node.html#a5e9c99e329a64b1233bd26cd2506c4ba" title="SlideNode::UpdatePosition" alt="" coords="739,367,917,396"/>
+<area shape="rect" id="node23" href="$class_rail_group.html#a6efe9a33efe24279e5bfc08f1b54ee40" title="RailGroup::getStartRail" alt="" coords="1397,340,1555,369"/>
+<area shape="rect" id="node25" href="$class_slide_node.html#ac5fd218cba138435059c5aec3ce59393" title="SlideNode::getLenTo" alt="" coords="1205,365,1349,395"/>
+<area shape="rect" id="node30" href="$class_slide_node.html#a063d11397a4c3f276ffa060d8d391393" title="SlideNode::getClosestRail" alt="" coords="973,367,1149,396"/>
+</map>

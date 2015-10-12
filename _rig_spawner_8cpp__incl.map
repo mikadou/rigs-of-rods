@@ -1,0 +1,41 @@
+<map id="source/main/physics/input_output/RigSpawner.cpp" name="source/main/physics/input_output/RigSpawner.cpp">
+<area shape="rect" id="node3" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1497,256,1633,285"/>
+<area shape="rect" id="node15" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="445,333,592,363"/>
+<area shape="rect" id="node17" href="$_rig_spawner_8h.html" title="Vehicle spawning logic. " alt="" coords="1678,179,1782,208"/>
+<area shape="rect" id="node20" href="$_air_brake_8h.html" title="AirBrake.h" alt="" coords="1806,179,1889,208"/>
+<area shape="rect" id="node23" href="$_airfoil_8h.html" title="Airfoil.h" alt="" coords="1913,179,1980,208"/>
+<area shape="rect" id="node26" href="$_application_8h.html" title="Central object manager and communications hub. " alt="" coords="2029,101,2125,131"/>
+<area shape="rect" id="node29" href="$_settings_8h.html" title="Settings.h" alt="" coords="2054,179,2134,208"/>
+<area shape="rect" id="node32" href="$_auto_pilot_8h.html" title="AutoPilot.h" alt="" coords="2158,179,2244,208"/>
+<area shape="rect" id="node35" href="$_beam_8h.html" title="Beam.h" alt="" coords="2268,179,2334,208"/>
+<area shape="rect" id="node38" href="$_beam_engine_8h.html" title="BeamEngine.h" alt="" coords="2358,179,2465,208"/>
+<area shape="rect" id="node42" href="$_buoyance_8h.html" title="Buoyance.h" alt="" coords="2489,179,2580,208"/>
+<area shape="rect" id="node45" href="$_cmd_key_inertia_8h.html" title="CmdKeyInertia.h" alt="" coords="2604,179,2724,208"/>
+<area shape="rect" id="node48" href="$_collisions_8h.html" title="Collisions.h" alt="" coords="221,179,312,208"/>
+<area shape="rect" id="node54" href="$_console_8h.html" title="Console.h" alt="" coords="930,101,1010,131"/>
+<area shape="rect" id="node56" href="$_dash_board_manager_8h.html" title="DashBoardManager.h" alt="" coords="1034,101,1181,131"/>
+<area shape="rect" id="node58" href="$_differentials_8h.html" title="Differentials.h" alt="" coords="2748,179,2849,208"/>
+<area shape="rect" id="node61" href="$_dust_manager_8h.html" title="DustManager.h" alt="" coords="2873,179,2982,208"/>
+<area shape="rect" id="node64" href="$_flex_airfoil_8h.html" title="FlexAirfoil.h" alt="" coords="3006,179,3097,208"/>
+<area shape="rect" id="node67" href="$_flex_body_8h.html" title="FlexBody.h" alt="" coords="3186,101,3274,131"/>
+<area shape="rect" id="node70" href="$_material_function_mapper_8h.html" title="MaterialFunctionMapper.h" alt="" coords="3121,179,3292,208"/>
+<area shape="rect" id="node74" href="$_flex_mesh_8h.html" title="FlexMesh.h" alt="" coords="54,179,145,208"/>
+<area shape="rect" id="node78" href="$_flex_mesh_wheel_8h.html" title="FlexMeshWheel.h" alt="" coords="104,101,229,131"/>
+<area shape="rect" id="node83" href="$_flex_obj_8h.html" title="FlexObj.h" alt="" coords="386,179,464,208"/>
+<area shape="rect" id="node86" href="$_input_engine_8h.html" title="Input logic. " alt="" coords="488,179,589,208"/>
+<area shape="rect" id="node90" href="$_material_replacer_8h.html" title="MaterialReplacer.h" alt="" coords="613,179,744,208"/>
+<area shape="rect" id="node93" href="$_mesh_object_8h.html" title="MeshObject.h" alt="" coords="768,179,869,208"/>
+<area shape="rect" id="node96" href="$_point_col_detector_8h.html" title="PointColDetector.h" alt="" coords="893,179,1026,208"/>
+<area shape="rect" id="node99" href="$_rig_loading_profiler_control_8h.html" title="Allows configuration of various profiling mechanisms. " alt="" coords="2250,101,2432,131"/>
+<area shape="rect" id="node101" href="$_screw_prop_8h.html" title="ScrewProp.h" alt="" coords="1052,179,1148,208"/>
+<area shape="rect" id="node105" href="$_skin_8h.html" title="Skin.h" alt="" coords="608,101,666,131"/>
+<area shape="rect" id="node108" href="$_slide_node_8h.html" title="SlideNode.h" alt="" coords="690,101,784,131"/>
+<area shape="rect" id="node111" href="$_sound_script_manager_8h.html" title="SoundScriptManager.h" alt="" coords="2608,101,2762,131"/>
+<area shape="rect" id="node113" href="$_terrain_manager_8h.html" title="TerrainManager.h" alt="" coords="2786,101,2909,131"/>
+<area shape="rect" id="node115" href="$_thread_pool_8h.html" title="ThreadPool.h" alt="" coords="808,101,906,131"/>
+<area shape="rect" id="node118" href="$_torque_curve_8h.html" title="torquecurve loader. " alt="" coords="1205,101,1312,131"/>
+<area shape="rect" id="node121" href="$_turbo_jet_8h.html" title="TurboJet.h" alt="" coords="1336,101,1418,131"/>
+<area shape="rect" id="node124" href="$_turbo_prop_8h.html" title="TurboProp.h" alt="" coords="1442,101,1536,131"/>
+<area shape="rect" id="node127" href="$_video_camera_8h.html" title="VideoCamera.h" alt="" coords="1560,101,1672,131"/>
+<area shape="rect" id="node130" href="$_g_u_i_manager_8h.html" title="GUIManager.h" alt="" coords="1696,101,1802,131"/>
+</map>

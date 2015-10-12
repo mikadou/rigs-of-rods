@@ -1,0 +1,51 @@
+<map id="PreviewRenderer::render" name="PreviewRenderer::render">
+<area shape="rect" id="node3" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getSingleton" alt="" coords="737,709,895,773"/>
+<area shape="rect" id="node5" href="$class_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="BeamFactory::getCurrentTruck" alt="" coords="221,897,424,927"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_application.html#a5082701abd55926b3c6eb4b0c933eca5" title="RoR::Application::GetOgre\lSubsystem" alt="" coords="233,707,412,754"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_ogre_subsystem.html#a6620196f431b09d0096516d214563fc7" title="RoR::OgreSubsystem\l::GetViewport" alt="" coords="248,777,397,823"/>
+<area shape="rect" id="node13" href="$class_beam_factory.html#ac70a8aa131a6709ebf05dc3c0f6dab10" title="BeamFactory::setCurrentTruck" alt="" coords="221,419,424,448"/>
+<area shape="rect" id="node23" href="$class_beam.html#a1294bf3dfa3848211b06a82020c53e72" title="Beam::getPosition" alt="" coords="752,656,880,685"/>
+<area shape="rect" id="node47" href="$class_beam.html#a078999d6e513dd4830721a9b373d6925" title="Beam::reset" alt="" coords="276,951,369,980"/>
+<area shape="rect" id="node49" href="$class_beam_factory.html#a6fa954b906b6dc808a34e69ac2d018d3" title="BeamFactory::calcPhysics" alt="" coords="233,1043,412,1072"/>
+<area shape="rect" id="node92" href="$class_beam_factory.html#aa51137347e36bdae6315a62534ddc9f1" title="BeamFactory::updateVisual" alt="" coords="232,1284,413,1313"/>
+<area shape="rect" id="node106" href="$_utils_8cpp.html#aaa97db28b0d77f26db450c2f119a5eb0" title="getWorldAABB" alt="" coords="268,1337,377,1367"/>
+<area shape="rect" id="node108" href="$class_beam.html#a6a0a8e34b307d33f8e33b7d5c3aeb2fd" title="Beam::getSceneNode" alt="" coords="248,1391,397,1420"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="737,797,895,827"/>
+<area shape="rect" id="node15" href="$class_beam.html#af9b4ba90d62be6ca00cdd101a7db6314" title="Beam::desactivate" alt="" coords="751,5,881,35"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_main_thread.html#af7d1f53cf02660323c9dfe6cc5a1e7e1" title="RoR::MainThread::Changed\lCurrentVehicle" alt="" coords="473,410,657,457"/>
+<area shape="rect" id="node19" href="$class_character.html#aa761e344c2aa6df9205bfa6bf1d3ea13" title="Character::setBeamCoupling" alt="" coords="721,304,911,333"/>
+<area shape="rect" id="node21" href="$class_character.html#a1884d7f3e305d9b23164fdbf208f1cc6" title="Character::setPosition" alt="" coords="740,357,892,387"/>
+<area shape="rect" id="node25" href="$class_character.html#acfb1f4e5d1cb5da7d438466ff398bf93" title="Character::updateCharacter\lRotation" alt="" coords="725,410,907,457"/>
+<area shape="rect" id="node27" href="$class_force_feedback.html#ac80c88ae853f3df8b7b1613a70545647" title="ForceFeedback::setEnabled" alt="" coords="724,480,908,509"/>
+<area shape="rect" id="node29" href="$class_ro_r_1_1_application.html#a59a97190a3dea812d1f28504db82dc95" title="RoR::Application::GetOverlay\lWrapper" alt="" coords="719,533,913,579"/>
+<area shape="rect" id="node31" href="$class_truck_h_u_d.html#abfc37f8d68c2f2b589138b31028eef31" title="TruckHUD::show" alt="" coords="755,603,877,632"/>
+<area shape="rect" id="node33" href="$class_beam.html#a3304824c3e7285047f007c956318de09" title="Beam::prepareInside" alt="" coords="745,59,887,88"/>
+<area shape="rect" id="node35" href="$class_overlay_wrapper.html#a086d876abbbac640d88b09b2bbfe7d0f" title="OverlayWrapper::showDashboard\lOverlays" alt="" coords="707,111,925,158"/>
+<area shape="rect" id="node38" href="$class_beam_factory.html#a5f3755f8cd44e6972e463cc6aaa9f181" title="BeamFactory::getTruckCount" alt="" coords="719,851,913,880"/>
+<area shape="rect" id="node40" href="$class_beam_factory.html#aa7c42481b46a78459831fa0900ab8d67" title="BeamFactory::getTrucks" alt="" coords="733,904,899,933"/>
+<area shape="rect" id="node43" href="$class_beam.html#ab8f22ee06cd65bb94d4bacda1de7c35b" title="Beam::activate" alt="" coords="761,181,871,211"/>
+<area shape="rect" id="node45" href="$class_camera_manager.html#a737fe1d8d82faf6d9a3981eb713ec82c" title="CameraManager::NotifyVehicle\lChanged" alt="" coords="715,234,917,281"/>
+<area shape="rect" id="node51" href="$class_beam.html#ac5430b47f97dc513c9e8a0a3caa00cc2" title="Beam::frameStep" alt="" coords="504,1151,627,1180"/>
+<area shape="rect" id="node82" href="$class_two_d_replay.html#abceb8a16da69e16f581128ae0e111a12" title="TwoDReplay::update" alt="" coords="493,1016,637,1045"/>
+<area shape="rect" id="node84" href="$class_beam.html#a1f4fdf0a0c05b001b17456e645c1d644" title="Beam::calcNetwork" alt="" coords="497,1069,633,1099"/>
+<area shape="rect" id="node86" href="$class_beam_engine.html#af63778678531a54f46691842a1015e72" title="BeamEngine::update" alt="" coords="495,948,636,977"/>
+<area shape="rect" id="node90" href="$class_beam.html#a5775838873dc77ae441c167114e058df" title="Beam::sendStreamData" alt="" coords="484,1204,647,1233"/>
+<area shape="rect" id="node53" href="$class_ro_r_singleton_no_creation.html#a5e7a47f4b2d6d0abaa3a1ea5ca1f216a" title="RoRSingletonNoCreation\l\&lt; ScriptEngine \&gt;::getSingleton" alt="" coords="716,1693,916,1739"/>
+<area shape="rect" id="node55" href="$class_script_engine.html#aa965aba73cdaaa20d3ce2f5d112027a3" title="ScriptEngine::triggerEvent" alt="" coords="729,1464,903,1493"/>
+<area shape="rect" id="node60" href="$class_beam.html#a6c440445640a12a8bf52fa0127365708" title="Beam::calcForcesEulerCompute" alt="" coords="711,1517,921,1547"/>
+<area shape="rect" id="node62" href="$class_beam.html#a0ec96a72537e15007db1ca57898c4ed5" title="Beam::calcForcesEulerFinal" alt="" coords="723,1571,909,1600"/>
+<area shape="rect" id="node64" href="$class_beam.html#af254958b8dc3d3083e1af237297eedb4" title="Beam::intraTruckCollisions\lPrepare" alt="" coords="727,1623,905,1670"/>
+<area shape="rect" id="node66" href="$class_beam.html#ab988782104613bfc9a60668c258d3dce" title="Beam::intraTruckCollisions\lCompute" alt="" coords="727,957,905,1003"/>
+<area shape="rect" id="node68" href="$class_beam.html#ac748e4439aae8303fabd401dbaacbc0a" title="Beam::intraTruckCollisions\lFinal" alt="" coords="727,1026,905,1073"/>
+<area shape="rect" id="node70" href="$class_beam_factory.html#aba95d975d7ec4c7c61249852f7a80990" title="BeamFactory::_WorkerWait\lForSync" alt="" coords="724,1095,908,1142"/>
+<area shape="rect" id="node72" href="$class_beam.html#a305ac27eb231b889a058575508f3d626" title="Beam::SyncReset" alt="" coords="752,1165,880,1195"/>
+<area shape="rect" id="node74" href="$class_beam.html#a9e6b7ce9cec6a4741cbaa060754a48c8" title="Beam::updateTruckPosition" alt="" coords="725,1219,907,1248"/>
+<area shape="rect" id="node76" href="$class_beam.html#a1ce3e20865aff805981b609c6131de07" title="Beam::moveOrigin" alt="" coords="751,1272,881,1301"/>
+<area shape="rect" id="node78" href="$class_beam_factory.html#a2ffa237fe036236ef848a54bc881f027" title="BeamFactory::_WorkerPrepare\lStart" alt="" coords="715,1325,917,1371"/>
+<area shape="rect" id="node80" href="$class_beam_factory.html#a78d42aefb9949c9dc9b282e665790753" title="BeamFactory::_WorkerSignal\lStart" alt="" coords="720,1394,912,1441"/>
+<area shape="rect" id="node94" href="$class_beam.html#a95902b9d8200d3742caf4564cb6fcfdc" title="Beam::updateVisualPrepare" alt="" coords="473,1257,657,1287"/>
+<area shape="rect" id="node97" href="$class_beam.html#a4b831f16e858e2df6131f84d8e0b593e" title="Beam::updateLabels" alt="" coords="495,1311,636,1340"/>
+<area shape="rect" id="node99" href="$class_beam.html#ab7bdf2289e7446a21b74bb4283781cae" title="Beam::updateSkidmarks" alt="" coords="483,1364,648,1393"/>
+<area shape="rect" id="node101" href="$class_beam.html#a896d4c6db3a6a630353cfef781f04b10" title="Beam::updateFlares" alt="" coords="496,1417,635,1447"/>
+<area shape="rect" id="node103" href="$class_beam.html#a0263514c59475be296ab2db3ba124123" title="Beam::updateVisualFinal" alt="" coords="483,1471,648,1500"/>
+</map>

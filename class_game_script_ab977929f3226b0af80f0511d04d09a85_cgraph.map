@@ -1,0 +1,4 @@
+<map id="GameScript::getWaterHeight" name="GameScript::getWaterHeight">
+<area shape="rect" id="node3" href="$class_terrain_manager.html#a1d0227a71a4e114099797646ff6756b7" title="TerrainManager::getWater" alt="" coords="245,5,419,35"/>
+<area shape="rect" id="node5" href="$class_i_water.html#ad2499255884025d55a940eb24ecd8e4d" title="IWater::getHeight" alt="" coords="269,59,395,88"/>
+</map>

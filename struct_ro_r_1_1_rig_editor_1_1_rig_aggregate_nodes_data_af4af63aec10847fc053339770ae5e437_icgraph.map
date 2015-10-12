@@ -1,0 +1,9 @@
+<map id="RoR::RigEditor::RigAggregateNodesData::Reset" name="RoR::RigEditor::RigAggregateNodesData::Reset">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_node_panel.html#a2ef0a4e37e554d83dc3f9ef77880586a" title="RoR::GUI::RigEditorNodePanel\l::HideAndReset" alt="" coords="308,5,513,51"/>
+<area shape="rect" id="node5" href="$struct_ro_r_1_1_rig_editor_1_1_rig_aggregate_nodes_data.html#a34657bb2e8e96a899b36214f1057a2e7" title="RoR::RigEditor::RigAggregate\lNodesData::RigAggregateNodesData" alt="" coords="291,74,531,121"/>
+<area shape="rect" id="node7" href="$struct_ro_r_1_1_rig_editor_1_1_rig_aggregate_plain_beams_data.html#a6510e884508a604a73a7efbde8fa3956" title="RoR::RigEditor::RigAggregate\lPlainBeamsData::RigAggregatePlain\lBeamsData" alt="" coords="293,144,528,208"/>
+<area shape="rect" id="node9" href="$struct_ro_r_1_1_rig_editor_1_1_rig_aggregate_hydros_data.html#a772ad71cea82b567e13dde16656de34c" title="RoR::RigEditor::RigAggregate\lHydrosData::RigAggregateHydrosData" alt="" coords="287,231,535,278"/>
+<area shape="rect" id="node11" href="$struct_ro_r_1_1_rig_editor_1_1_rig_aggregate_shocks_data.html#a0c70df0b8e89267ac738e382011b4ec0" title="RoR::RigEditor::RigAggregate\lShocksData::RigAggregateShocksData" alt="" coords="284,301,537,347"/>
+<area shape="rect" id="node13" href="$struct_ro_r_1_1_rig_editor_1_1_rig_aggregate_shocks2_data.html#aa619c06506ba963982a63a2d6354781c" title="RoR::RigEditor::RigAggregate\lShocks2Data::RigAggregateShocks2Data" alt="" coords="277,370,544,417"/>
+<area shape="rect" id="node15" href="$struct_ro_r_1_1_rig_editor_1_1_rig_aggregate_commands2_data.html#a0bc4842c3df28c85e57310fa77aeae72" title="RoR::RigEditor::RigAggregate\lCommands2Data::RigAggregateCommands2Data" alt="" coords="255,439,567,486"/>
+</map>

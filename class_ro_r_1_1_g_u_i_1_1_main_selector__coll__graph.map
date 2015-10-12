@@ -1,0 +1,7 @@
+<map id="RoR::GUI::MainSelector" name="RoR::GUI::MainSelector">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_main_selector_layout.html" title="RoR::GUI::MainSelectorLayout" alt="" coords="5,85,208,115"/>
+<area shape="rect" id="node4" href="$classwraps_1_1_base_layout.html" title="wraps::BaseLayout" alt="" coords="40,5,173,35"/>
+<area shape="rect" id="node6" href="$class_skin.html" title="Skin" alt="" coords="232,85,280,115"/>
+<area shape="rect" id="node10" href="$class_cache_entry.html" title="CacheEntry" alt="" coords="324,85,415,115"/>
+<area shape="rect" id="node12" href="$class_ro_r_1_1_skin_manager.html" title="RoR::SkinManager" alt="" coords="441,85,575,115"/>
+</map>

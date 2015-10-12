@@ -1,0 +1,11 @@
+<map id="CameraBehaviorVehicleCineCam::activate" name="CameraBehaviorVehicleCineCam::activate">
+<area shape="rect" id="node3" href="$class_camera_manager.html#acc8ca4bea6750e8ce6ce1f3710a0ce78" title="CameraManager::switchToNext\lBehavior" alt="" coords="249,5,455,51"/>
+<area shape="rect" id="node7" href="$class_beam.html#a39d38800d5ab3b85b305d94b2c8ea502" title="Beam::GetCameraContext" alt="" coords="775,45,951,75"/>
+<area shape="rect" id="node10" href="$class_camera_behavior_vehicle_cine_cam.html#a5c9031c9c97c476353f3798484f37fe7" title="CameraBehaviorVehicleCine\lCam::reset" alt="" coords="257,125,447,171"/>
+<area shape="rect" id="node14" href="$class_beam.html#a3304824c3e7285047f007c956318de09" title="Beam::prepareInside" alt="" coords="281,195,423,224"/>
+<area shape="rect" id="node16" href="$class_ro_r_1_1_application.html#a59a97190a3dea812d1f28504db82dc95" title="RoR::Application::GetOverlay\lWrapper" alt="" coords="255,247,449,294"/>
+<area shape="rect" id="node18" href="$class_overlay_wrapper.html#a086d876abbbac640d88b09b2bbfe7d0f" title="OverlayWrapper::showDashboard\lOverlays" alt="" coords="243,317,461,363"/>
+<area shape="rect" id="node20" href="$class_beam.html#a23fbbd95dce6d7440124a59ff905e4d5" title="Beam::changedCamera" alt="" coords="273,387,431,416"/>
+<area shape="rect" id="node5" href="$class_camera_manager.html#a6f50a61b22fd1193ec25c5c2dc8f3ae3" title="CameraManager::switchBehavior" alt="" coords="511,17,724,47"/>
+<area shape="rect" id="node12" href="$class_camera_behavior_orbit.html#ac2c38d7776bb50ffb4a0d267c11acb2c" title="CameraBehaviorOrbit\l::reset" alt="" coords="544,125,691,171"/>
+</map>

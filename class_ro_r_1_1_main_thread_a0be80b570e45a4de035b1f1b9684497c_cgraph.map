@@ -1,0 +1,39 @@
+<map id="RoR::MainThread::EnterMainMenuLoop" name="RoR::MainThread::EnterMainMenuLoop">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_application.html#a5082701abd55926b3c6eb4b0c933eca5" title="RoR::Application::GetOgre\lSubsystem" alt="" coords="499,194,677,241"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_ogre_subsystem.html#a41157fb92ca44184f55fd5fefc6a7e02" title="RoR::OgreSubsystem\l::GetTimer" alt="" coords="268,510,417,557"/>
+<area shape="rect" id="node7" href="$_utils_8h.html#adf01f31d14c27678973fd6603dae2feb" title="sleepMilliSeconds" alt="" coords="280,580,405,609"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_main_thread.html#ab48ab040ee463287f7953eef17ad4c62" title="RoR::MainThread::MainMenu\lLoopUpdate" alt="" coords="247,633,439,679"/>
+<area shape="rect" id="node12" href="$class_ro_r_1_1_main_thread.html#abaada327351034aa2c1dce8100a43b53" title="RoR::MainThread::Request\lExitCurrentLoop" alt="" coords="752,834,933,881"/>
+<area shape="rect" id="node14" href="$class_ro_r_1_1_main_thread.html#acafb56bf2181a19e00f4b66244b519c9" title="RoR::MainThread::Request\lShutdown" alt="" coords="752,903,933,950"/>
+<area shape="rect" id="node73" href="$class_ro_r_1_1_application.html#a3db1b8c7dc6bf465f5ed653ef4a8ce9a" title="RoR::Application::GetGui\lManager" alt="" coords="257,1011,428,1058"/>
+<area shape="rect" id="node75" href="$class_ro_r_1_1_g_u_i_manager.html#a811ed5322cfb842c8fca91d5aa82644e" title="RoR::GUIManager::getMain\lSelector" alt="" coords="251,1081,435,1127"/>
+<area shape="rect" id="node77" href="$class_ro_r_1_1_main_thread.html#a3ef55c04b40996d3344b54ccdfa0c3e7" title="RoR::MainThread::SetNext\lApplicationState" alt="" coords="252,1150,433,1197"/>
+<area shape="rect" id="node80" href="$class_ro_r_1_1_ogre_subsystem.html#aec5be99797f9add72578fb1fbfec582f" title="RoR::OgreSubsystem\l::GetRenderWindow" alt="" coords="268,1219,417,1266"/>
+<area shape="rect" id="node83" href="$class_ro_r_1_1_ogre_subsystem.html#a2f68e736be01d118cae03e831b38a9df" title="RoR::OgreSubsystem\l::GetOgreRoot" alt="" coords="268,1289,417,1335"/>
+<area shape="rect" id="node16" href="$class_ro_r_1_1_application.html#a608003a20ef939a79437a9da8fa76307" title="RoR::Application::GetInput\lEngine" alt="" coords="753,589,932,635"/>
+<area shape="rect" id="node18" href="$class_input_engine.html#a7e30f2d1d86a20caba80ead350269431" title="InputEngine::Capture" alt="" coords="516,703,660,732"/>
+<area shape="rect" id="node20" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getSingleton" alt="" coords="764,501,921,565"/>
+<area shape="rect" id="node22" href="$class_character.html#a2c056adebe0e35330a3eae862667f1d4" title="Character::getPosition" alt="" coords="512,756,664,785"/>
+<area shape="rect" id="node24" href="$class_ro_r_1_1_main_thread.html#a74fc7727056db97d2e0fb789343babd2" title="RoR::MainThread::MainMenu\lLoopUpdateEvents" alt="" coords="492,633,684,679"/>
+<area shape="rect" id="node35" href="$class_ro_r_singleton_no_creation.html#a5e7a47f4b2d6d0abaa3a1ea5ca1f216a" title="RoRSingletonNoCreation\l\&lt; ScriptEngine \&gt;::getSingleton" alt="" coords="488,263,688,310"/>
+<area shape="rect" id="node37" href="$class_script_engine.html#ac79b7d03f5db2696ed1894f8b37ce267" title="ScriptEngine::framestep" alt="" coords="507,333,669,363"/>
+<area shape="rect" id="node63" href="$class_character_factory.html#a5dda711f6e7b307295f4a0303d7e0911" title="CharacterFactory::update\lLabels" alt="" coords="503,438,673,485"/>
+<area shape="rect" id="node27" href="$class_input_engine.html#a930f4e5ec74b788a6eb5f6eecc38198d" title="InputEngine::updateKeyBounces" alt="" coords="737,781,948,811"/>
+<area shape="rect" id="node29" href="$class_ro_r_1_1_application.html#a59a97190a3dea812d1f28504db82dc95" title="RoR::Application::GetOverlay\lWrapper" alt="" coords="745,658,940,705"/>
+<area shape="rect" id="node31" href="$class_overlay_wrapper.html#a92785274e3dea2492c613a66e1f56672" title="OverlayWrapper::update" alt="" coords="761,728,924,757"/>
+<area shape="rect" id="node40" href="$class_beam_factory.html#aa7c42481b46a78459831fa0900ab8d67" title="BeamFactory::getTrucks" alt="" coords="760,5,925,35"/>
+<area shape="rect" id="node42" href="$class_beam_factory.html#a5f3755f8cd44e6972e463cc6aaa9f181" title="BeamFactory::getTruckCount" alt="" coords="745,59,940,88"/>
+<area shape="rect" id="node44" href="$class_collisions.html#a1fa156bf0bab59802a6f1724d8801151" title="Collisions::getEvent" alt="" coords="773,112,912,141"/>
+<area shape="rect" id="node46" href="$class_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="BeamFactory::getCurrentTruck" alt="" coords="741,165,944,195"/>
+<area shape="rect" id="node50" href="$class_collisions.html#a1d36e847666bf0e04f58b0c0ec0453c5" title="Collisions::isTruckInEventBox" alt="" coords="744,219,941,248"/>
+<area shape="rect" id="node54" href="$class_script_engine.html#a05146d6180ce645ad6d812169b0d2ae8" title="ScriptEngine::envokeCallback" alt="" coords="744,272,941,301"/>
+<area shape="rect" id="node56" href="$class_inter_thread_store_vector.html#a69b4cf0a78a4b0bb43cfb2d172b50af2" title="InterThreadStoreVector\l::pull" alt="" coords="764,325,921,371"/>
+<area shape="rect" id="node58" href="$class_script_engine.html#a8208ceb93c9d021505595ebec32b8167" title="ScriptEngine::executeString" alt="" coords="751,395,935,424"/>
+<area shape="rect" id="node48" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="999,165,1156,195"/>
+<area shape="rect" id="node52" href="$class_collisions.html#af4afe6b0f900dcf87cb6bd70e98be890" title="Collisions::isInside" alt="" coords="1012,219,1143,248"/>
+<area shape="rect" id="node60" href="$scripthelper_8cpp.html#a0d707b943e0a064671c86a95435a627d" title="ExecuteString" alt="" coords="1025,364,1129,393"/>
+<area shape="rect" id="node65" href="$class_character.html#a529210827a59717cd3f7ab147a82dd94" title="Character::updateNetLabelSize" alt="" coords="741,448,944,477"/>
+<area shape="rect" id="node67" href="$class_character.html#a9068b85eab4ec7d9854f991853b43856" title="Character::getVisible" alt="" coords="1005,417,1149,447"/>
+<area shape="rect" id="node69" href="$class_ogre_1_1_movable_text.html#a0562e7c4341e263ae6e9d55f91643ade" title="Ogre::MovableText::\lsetCharacterHeight" alt="" coords="1007,470,1148,517"/>
+<area shape="rect" id="node71" href="$class_ogre_1_1_movable_text.html#a9e93f2a29c44474bf8d3408ab6484f6c" title="Ogre::MovableText::\lsetCaption" alt="" coords="1007,539,1148,586"/>
+</map>

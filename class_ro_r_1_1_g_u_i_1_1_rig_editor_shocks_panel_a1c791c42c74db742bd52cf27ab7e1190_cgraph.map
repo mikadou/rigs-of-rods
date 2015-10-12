@@ -1,0 +1,4 @@
+<map id="RoR::GUI::RigEditorShocksPanel::HideAndReset" name="RoR::GUI::RigEditorShocksPanel::HideAndReset">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_shocks_panel.html#a5a73262f8a87a999a84096053e7a607e" title="RoR::GUI::RigEditorShocks\lPanel::Hide" alt="" coords="240,5,427,51"/>
+<area shape="rect" id="node5" href="$struct_ro_r_1_1_rig_editor_1_1_rig_aggregate_shocks_data.html#ad1deadd45c75f5025db5de91534f2706" title="RoR::RigEditor::RigAggregate\lShocksData::Reset" alt="" coords="476,35,673,82"/>
+</map>

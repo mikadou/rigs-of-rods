@@ -1,0 +1,10 @@
+<map id="OverlayWrapper::init" name="OverlayWrapper::init">
+<area shape="rect" id="node3" href="$class_overlay_wrapper.html#a1efa678e12875b4b84ab42dbb184edd4" title="OverlayWrapper::loadOverlay" alt="" coords="200,5,392,35"/>
+<area shape="rect" id="node7" href="$class_overlay_wrapper.html#aa751cd9eecb3717a754cf91c6be2ce4d" title="OverlayWrapper::loadOverlay\lElement" alt="" coords="200,58,392,105"/>
+<area shape="rect" id="node9" href="$struct_error_utils.html#a5877046712b57723ec40772afd980378" title="ErrorUtils::ShowOgreWebError" alt="" coords="196,128,396,157"/>
+<area shape="rect" id="node13" href="$class_overlay_wrapper.html#af04680c7e12a731fef2db00e3dcd8143" title="OverlayWrapper::resizePanel" alt="" coords="200,181,392,211"/>
+<area shape="rect" id="node15" href="$class_overlay_wrapper.html#adbd14cda6b9c56d4cb3e136ea6447d63" title="OverlayWrapper::reposPanel" alt="" coords="201,235,391,264"/>
+<area shape="rect" id="node17" href="$class_truck_h_u_d.html#abfc37f8d68c2f2b589138b31028eef31" title="TruckHUD::show" alt="" coords="235,288,357,317"/>
+<area shape="rect" id="node5" href="$class_overlay_wrapper.html#a10e6c145bc3e376b6cc2159929898b1d" title="OverlayWrapper::resizeOverlay" alt="" coords="447,5,649,35"/>
+<area shape="rect" id="node11" href="$struct_error_utils.html#a03b1f233c5e57c4a7418b1d1ca072343" title="ErrorUtils::ShowWebError" alt="" coords="461,128,635,157"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Hydrax::Noise::Noise::saveCfg" name="Hydrax::Noise::Noise::saveCfg">
+<area shape="rect" id="node3" href="$class_hydrax_1_1_cfg_file_manager.html#a5bdea43e50f5a1662e2dc80e68e0d8a6" title="Hydrax::CfgFileManager\l::save" alt="" coords="204,5,367,51"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_noise_1_1_f_f_t.html#a6e045d4c71f1005305445dbae8701736" title="Hydrax::Noise::FFT\l::saveCfg" alt="" coords="216,74,355,121"/>
+<area shape="rect" id="node7" href="$class_hydrax_1_1_noise_1_1_perlin.html#a4f1f70a3375ac2b2f5e09011e7cc7ef3" title="Hydrax::Noise::Perlin\l::saveCfg" alt="" coords="212,143,359,190"/>
+<area shape="rect" id="node9" href="$class_hydrax_1_1_noise_1_1_real.html#a5b0429565efea4eee87b65316c188465" title="Hydrax::Noise::Real\l::saveCfg" alt="" coords="416,143,557,190"/>
+</map>

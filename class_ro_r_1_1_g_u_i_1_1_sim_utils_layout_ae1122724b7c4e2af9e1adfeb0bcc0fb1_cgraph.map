@@ -1,0 +1,6 @@
+<map id="RoR::GUI::SimUtilsLayout::SimUtilsLayout" name="RoR::GUI::SimUtilsLayout::SimUtilsLayout">
+<area shape="rect" id="node3" href="$classwraps_1_1_base_layout.html#aa6f806c099807cf01b238dff74538f7b" title="wraps::BaseLayout::\linitialiseByAttributes" alt="" coords="233,39,375,86"/>
+<area shape="rect" id="node5" href="$classwraps_1_1_base_layout.html#a259ffe59370c08268229022e9ff0e1b0" title="wraps::BaseLayout::\linitialise" alt="" coords="425,5,567,51"/>
+<area shape="rect" id="node9" href="$classwraps_1_1_base_layout.html#a2dbd783151c111ebba363adf2cb53622" title="wraps::BaseLayout::\lassignWidget" alt="" coords="425,74,567,121"/>
+<area shape="rect" id="node7" href="$classwraps_1_1_base_layout.html#a1fcf2ea81000efa2c14828cc67d4aeb6" title="wraps::BaseLayout::\lsnapToParent" alt="" coords="617,5,759,51"/>
+</map>

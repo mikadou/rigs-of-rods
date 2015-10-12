@@ -1,0 +1,8 @@
+<map id="Hydrax::Noise::Perlin::_readTexelLinearDual" name="Hydrax::Noise::Perlin::_readTexelLinearDual">
+<area shape="rect" id="node3" href="$class_hydrax_1_1_noise_1_1_perlin.html#a65e29d30bc42e215b8bf7d86ecd98f0d" title="Hydrax::Noise::Perlin\l::_getHeigthDual" alt="" coords="211,39,357,86"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_noise_1_1_perlin.html#a64bbe19643e0a87c08c62d0e73d7aac6" title="Hydrax::Noise::Perlin\l::getValue" alt="" coords="405,39,552,86"/>
+<area shape="rect" id="node7" href="$class_hydrax_1_1_god_rays_manager.html#a59aa2f30eefcf8cfb9495cf73c809e98" title="Hydrax::GodRaysManager\l::_calculateRayPosition" alt="" coords="601,5,777,51"/>
+<area shape="rect" id="node13" href="$class_hydrax_1_1_noise_1_1_real.html#aba9f7e726fd0c1e1df1fb420e8edf704" title="Hydrax::Noise::Real\l::getValue" alt="" coords="619,74,760,121"/>
+<area shape="rect" id="node9" href="$class_hydrax_1_1_god_rays_manager.html#a646602d433c524fb776660e7a5ab1987" title="Hydrax::GodRaysManager\l::_updateRays" alt="" coords="828,5,1004,51"/>
+<area shape="rect" id="node11" href="$class_hydrax_1_1_god_rays_manager.html#a90ec2ead8e869ab4388641de1edeba11" title="Hydrax::GodRaysManager\l::update" alt="" coords="1055,5,1231,51"/>
+</map>

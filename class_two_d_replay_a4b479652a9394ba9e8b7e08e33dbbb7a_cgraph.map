@@ -1,0 +1,15 @@
+<map id="TwoDReplay::recordFrame" name="TwoDReplay::recordFrame">
+<area shape="rect" id="node3" href="$class_two_d_replay.html#aa649099f489cb49888c053700dac1464" title="TwoDReplay::start" alt="" coords="268,173,399,203"/>
+<area shape="rect" id="node5" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getSingleton" alt="" coords="501,5,659,69"/>
+<area shape="rect" id="node18" href="$class_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="BeamFactory::getCurrentTruck" alt="" coords="232,227,435,256"/>
+<area shape="rect" id="node21" href="$class_beam_factory.html#af6019a65ff8a7ed9ea139dc5ab178c68" title="BeamFactory::getPhysFrame" alt="" coords="237,280,429,309"/>
+<area shape="rect" id="node23" href="$class_beam_engine.html#a2a9f0148195ac8b87fd92456743f2c01" title="BeamEngine::getAcc" alt="" coords="261,333,405,363"/>
+<area shape="rect" id="node25" href="$class_beam_engine.html#ab734ee4c4bc73ed000c10ac3aba196eb" title="BeamEngine::getClutch" alt="" coords="253,387,413,416"/>
+<area shape="rect" id="node27" href="$class_beam_engine.html#ae5f87426f9dc96c4f4bf377b53e9936a" title="BeamEngine::getGear" alt="" coords="259,440,408,469"/>
+<area shape="rect" id="node29" href="$class_beam_engine.html#af61666b68be34475314aa68b06af40c0" title="BeamEngine::getAutoMode" alt="" coords="243,493,424,523"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#a5f3755f8cd44e6972e463cc6aaa9f181" title="BeamFactory::getTruckCount" alt="" coords="483,93,677,123"/>
+<area shape="rect" id="node9" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="501,307,659,336"/>
+<area shape="rect" id="node11" href="$class_beam.html#a0550cfe159057ed02364c9425f279265" title="Beam::getTruckName" alt="" coords="505,147,655,176"/>
+<area shape="rect" id="node13" href="$class_beam.html#a7c810f9fc80089c7d43bc799bccf182d" title="Beam::getTruckFileName" alt="" coords="495,200,665,229"/>
+<area shape="rect" id="node15" href="$class_beam.html#a3c6ce454e46f37e33b0e21ff70775af8" title="Beam::getTruckHash" alt="" coords="507,253,653,283"/>
+</map>

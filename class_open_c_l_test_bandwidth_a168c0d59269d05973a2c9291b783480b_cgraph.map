@@ -1,0 +1,13 @@
+<map id="OpenCLTestBandwidth::OpenCLTestBandwidth" name="OpenCLTestBandwidth::OpenCLTestBandwidth">
+<area shape="rect" id="node3" href="$class_open_c_l_test_bandwidth.html#a7550fd57c70be3686619a613d557f985" title="OpenCLTestBandwidth\l::runTest" alt="" coords="219,291,376,338"/>
+<area shape="rect" id="node5" href="$class_open_c_l_test_bandwidth.html#a9f830c655ad570bd6fd0e3256bd38e18" title="OpenCLTestBandwidth\l::ownCheckError" alt="" coords="1285,178,1443,225"/>
+<area shape="rect" id="node7" href="$class_open_c_l_test_bandwidth.html#a78c9160164beb1100c2d3d06829cb933" title="OpenCLTestBandwidth\l::testBandwidth" alt="" coords="424,239,581,286"/>
+<area shape="rect" id="node9" href="$class_open_c_l_test_bandwidth.html#a45afd5c5834f81ea695d11fad965192e" title="OpenCLTestBandwidth\l::testBandwidthQuick" alt="" coords="629,209,787,255"/>
+<area shape="rect" id="node11" href="$class_open_c_l_test_bandwidth.html#a9921496dfd7b9bad364e29724bec7510" title="OpenCLTestBandwidth\l::testBandwidthRange" alt="" coords="835,213,992,259"/>
+<area shape="rect" id="node27" href="$class_open_c_l_test_bandwidth.html#a89628442d42754cd11e99ea971f1e0a0" title="OpenCLTestBandwidth\l::testBandwidthShmoo" alt="" coords="835,143,992,190"/>
+<area shape="rect" id="node13" href="$class_open_c_l_test_bandwidth.html#ab4d61c6e3c251f76ec1dae50b63e783d" title="OpenCLTestBandwidth\l::createQueue" alt="" coords="1060,74,1217,121"/>
+<area shape="rect" id="node15" href="$class_open_c_l_test_bandwidth.html#ac8a21d2f7943c75d050c6a4f15f442d8" title="OpenCLTestBandwidth\l::testDeviceToHostTransfer" alt="" coords="1047,143,1231,190"/>
+<area shape="rect" id="node18" href="$class_open_c_l_test_bandwidth.html#ae22962730e3c3c0006807695e9d2e57b" title="OpenCLTestBandwidth\l::testHostToDeviceTransfer" alt="" coords="1047,213,1231,259"/>
+<area shape="rect" id="node21" href="$class_open_c_l_test_bandwidth.html#a09ae3ce5e820edd21fe9a167206c3726" title="OpenCLTestBandwidth\l::testDeviceToDeviceTransfer" alt="" coords="1040,5,1237,51"/>
+<area shape="rect" id="node24" href="$class_open_c_l_test_bandwidth.html#ab10b817ca0fab5c1255ce286eb87101e" title="OpenCLTestBandwidth\l::printResultsReadable" alt="" coords="1060,282,1217,329"/>
+</map>

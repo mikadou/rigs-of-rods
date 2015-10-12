@@ -1,0 +1,12 @@
+<map id="RoR::RigEditor::Rig::BuildFromModule" name="RoR::RigEditor::Rig::BuildFromModule">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig_building_report.html#afe05a3e8007fb87e055d731c8d58dbd7" title="RoR::RigEditor::RigBuilding\lReport::SetCurrentSectionName" alt="" coords="199,73,409,120"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a17da4731c9ac80ccae4a1f275173d611" title="RoR::RigEditor::Rig\l::GetWheelDefinitionNodes" alt="" coords="213,142,395,189"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_rig_editor_1_1_rig_building_report.html#a7567344d56b867dca08cb0dbad8dbd4e" title="RoR::RigEditor::RigBuilding\lReport::ClearCurrentSectionName" alt="" coords="193,212,415,258"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a7ddf6f38d4e9a8c4f36a8bc7c859538d" title="RoR::RigEditor::Rig\l::GetWheelAxisNodes" alt="" coords="464,77,616,124"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a2b9836af34cbc69b9822f190abdf2bed" title="RoR::RigEditor::Rig\l::FindNode" alt="" coords="671,142,809,189"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_rig_editor_1_1_rig_building_report.html#a39c7562120900835f3c11406c5dfd082" title="RoR::RigEditor::RigBuilding\lReport::AddMessage" alt="" coords="865,13,1049,60"/>
+<area shape="rect" id="node15" href="$class_rig_def_1_1_node_1_1_ref.html#a141e4a4770a737736436a3746a31f3ea" title="RigDef::Node::Ref::\lToString" alt="" coords="888,202,1027,249"/>
+<area shape="rect" id="node20" href="$class_rig_def_1_1_node_1_1_ref.html#a5912183c0dfa018a32190a5bc89b53c8" title="RigDef::Node::Ref::\lIsValidAnyState" alt="" coords="471,262,609,309"/>
+<area shape="rect" id="node18" href="$class_ro_r_1_1_rig_editor_1_1_node.html#aefebb9cd1a67bbb2afc980b0f8baab12" title="RoR::RigEditor::Node\l::GetPosition" alt="" coords="665,73,815,120"/>
+<area shape="rect" id="node11" href="$class_rig_def_1_1_node_1_1_ref.html#a80f06d82da5ac28617eca47baa590821" title="RigDef::Node::Ref::Str" alt="" coords="880,150,1035,179"/>
+</map>

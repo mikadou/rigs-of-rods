@@ -1,0 +1,9 @@
+<map id="MeshObject::loadMesh" name="MeshObject::loadMesh">
+<area shape="rect" id="node3" href="$class_mesh_object.html#a02f1d3412dfdec5ab09967f8ab86486c" title="MeshObject::postProcess" alt="" coords="211,75,384,104"/>
+<area shape="rect" id="node5" href="$class_material_function_mapper.html#abee8fd1cc0b52699d3babb4b5e84b477" title="MaterialFunctionMapper\l::replaceSimpleMeshMaterials" alt="" coords="432,5,629,51"/>
+<area shape="rect" id="node7" href="$class_skin.html#a71fc9fb4b831906e7ee3c4bce8e6a541" title="Skin::replaceMeshMaterials" alt="" coords="440,75,621,104"/>
+<area shape="rect" id="node15" href="$class_material_function_mapper.html#aab97adc6de3c318a5243a777adeaed62" title="MaterialFunctionMapper\l::replaceMeshMaterials" alt="" coords="451,127,611,174"/>
+<area shape="rect" id="node9" href="$class_skin.html#acfb65fd10c0a5b1745257b68d6bf41d4" title="Skin::uniquifyMeshMaterials" alt="" coords="701,21,888,51"/>
+<area shape="rect" id="node11" href="$class_skin.html#a5fe437e01b688302b2c3417f0c9c3502" title="Skin::stripMaterialNameUniqueNess" alt="" coords="677,75,912,104"/>
+<area shape="rect" id="node13" href="$class_skin.html#ab424d671c22c485a040e9b43fbc46376" title="Skin::replaceMaterialTextures" alt="" coords="697,128,892,157"/>
+</map>

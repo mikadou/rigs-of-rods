@@ -1,0 +1,7 @@
+<map id="Beam::calcWheels" name="Beam::calcWheels">
+<area shape="rect" id="node3" href="$class_axle.html#a555d076e3aa3bfe70f91d6d625d51de3" title="more power goes to the faster spining wheel " alt="" coords="193,5,324,35"/>
+<area shape="rect" id="node5" href="$class_axle.html#a3053f4ee933712559c5306f6077b2d1b" title="ensures both wheels rotate at the the same speed " alt="" coords="188,59,329,88"/>
+<area shape="rect" id="node7" href="$_approx_math_8h.html#a88cab057c9c3a7a5cbaa1aebb06bf864" title="fast_normalise" alt="" coords="205,112,312,141"/>
+<area shape="rect" id="node9" href="$_approx_math_8h.html#a08e9e14c091640464aae072f3823b855" title="fast_invSqrt" alt="" coords="380,139,471,168"/>
+<area shape="rect" id="node12" href="$struct_vector3.html#a30db3d517cb422cb78a4be0cf52bc89e" title="Vector3::length" alt="" coords="204,216,313,245"/>
+</map>

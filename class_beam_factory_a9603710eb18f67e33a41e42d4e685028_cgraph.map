@@ -1,0 +1,4 @@
+<map id="BeamFactory::checkForActive" name="BeamFactory::checkForActive">
+<area shape="rect" id="node3" href="$class_beam_factory.html#a857d3d8b5a3ff2ff4da15d6e3e671350" title="BeamFactory::predictTruck\lIntersectionCollAABB" alt="" coords="255,5,433,51"/>
+<area shape="rect" id="node5" href="$class_beam_factory.html#aef0517fa221b609b1e869c6a305f5f4e" title="BeamFactory::predictTruck\lIntersectionAABB" alt="" coords="484,5,663,51"/>
+</map>

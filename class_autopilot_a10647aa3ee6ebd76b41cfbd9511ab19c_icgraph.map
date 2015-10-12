@@ -1,0 +1,5 @@
+<map id="Autopilot::adjALT" name="Autopilot::adjALT">
+<area shape="rect" id="node3" href="$class_overlay_wrapper.html#a7059a60d3d3e067be79c66247298b56b" title="OverlayWrapper::mouseMoved" alt="" coords="176,32,379,61"/>
+<area shape="rect" id="node5" href="$class_overlay_wrapper.html#aa0172aafc9f55e431f19a57a0f39da7b" title="OverlayWrapper::mousePressed" alt="" coords="431,5,641,35"/>
+<area shape="rect" id="node7" href="$class_overlay_wrapper.html#a813c49ce923d19067d0a656c0d79c610" title="OverlayWrapper::mouseReleased" alt="" coords="427,59,645,88"/>
+</map>

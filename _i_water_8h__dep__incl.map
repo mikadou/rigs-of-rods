@@ -1,0 +1,17 @@
+<map id="source/main/gfx/IWater.h" name="source/main/gfx/IWater.h">
+<area shape="rect" id="node3" href="$_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="5,179,165,226"/>
+<area shape="rect" id="node5" href="$_water_8h.html" title="source/main/gfx/Water.h" alt="" coords="843,92,1008,121"/>
+<area shape="rect" id="node14" href="$_hydrax_water_8h.html" title="source/main/gfx/HydraxWater.h" alt="" coords="189,188,395,217"/>
+<area shape="rect" id="node34" href="$_survey_map_texture_creator_8cpp.html" title="source/main/terrain\l/map/SurveyMapTextureCreator.cpp" alt="" coords="1032,83,1264,130"/>
+<area shape="rect" id="node7" href="$_auto_pilot_8cpp.html" title="source/main/gameplay\l/AutoPilot.cpp" alt="" coords="1109,179,1261,226"/>
+<area shape="rect" id="node9" href="$_character_8cpp.html" title="source/main/gameplay\l/Character.cpp" alt="" coords="1285,179,1437,226"/>
+<area shape="rect" id="node12" href="$_dust_pool_8cpp.html" title="source/main/gfx/DustPool.cpp" alt="" coords="1461,188,1659,217"/>
+<area shape="rect" id="node18" href="$_terrain_manager_8cpp.html" title="source/main/terrain\l/TerrainManager.cpp" alt="" coords="1025,275,1167,322"/>
+<area shape="rect" id="node20" href="$_water_8cpp.html" title="source/main/gfx/Water.cpp" alt="" coords="1733,188,1912,217"/>
+<area shape="rect" id="node22" href="$_beam_8cpp.html" title="source/main/physics\l/Beam.cpp" alt="" coords="1936,179,2077,226"/>
+<area shape="rect" id="node24" href="$_beam_forces_euler_8cpp.html" title="source/main/physics\l/BeamForcesEuler.cpp" alt="" coords="419,179,573,226"/>
+<area shape="rect" id="node26" href="$_buoyance_8cpp.html" title="source/main/physics\l/water/Buoyance.cpp" alt="" coords="597,179,741,226"/>
+<area shape="rect" id="node28" href="$_screw_prop_8cpp.html" title="source/main/physics\l/water/ScrewProp.cpp" alt="" coords="765,179,915,226"/>
+<area shape="rect" id="node30" href="$_game_script_8cpp.html" title="source/main/scripting\l/GameScript.cpp" alt="" coords="939,179,1085,226"/>
+<area shape="rect" id="node16" href="$_hydrax_water_8cpp.html" title="source/main/gfx/HydraxWater.cpp" alt="" coords="181,284,403,313"/>
+</map>
