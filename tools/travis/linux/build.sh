@@ -11,4 +11,6 @@ cmake -DROR_USE_MYGUI="TRUE" \
 -DBUILD_DOC_DOXYGEN="TRUE"
 ..
 
+make -j2
+
 cd ..
