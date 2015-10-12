@@ -127,7 +127,7 @@ endif(WIN32)
 ################################################################################
 # Check for dependencies
 ################################################################################
-include(CMakeDependenciesConfig.txt)
+#include(CMakeDependenciesConfig.txt)
 
 if(BUILD_DOC_DOXYGEN)
   find_package(Doxygen REQUIRED)
@@ -137,5 +137,5 @@ endif()
 ################################################################################
 # Recurse into subdirectories
 ################################################################################
-add_subdirectory(source)
+#add_subdirectory(source)
 add_subdirectory(doc)
