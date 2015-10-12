@@ -8,7 +8,7 @@ libgl1-mesa-dev libglu1-mesa-dev libopenal-dev  \
 libx11-dev libxt-dev libxaw7-dev libxrandr-dev \
 libssl-dev libcurl4-openssl-dev libgtk2.0-dev libwxgtk3.0-dev
 
-sudo apt-get install doxygen=1.8.7~precise1 graphviz
+sudo apt-get install doxygen=1.8.7-2~precise1 graphviz
 
 doxygen --version
 exit
