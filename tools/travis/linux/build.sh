@@ -11,14 +11,13 @@ cmake -DROR_USE_MYGUI="TRUE" \
 make doc-doxygen 
 
 
-cd doc/doxygen/html
-git init
+git clone --single-branch -b gh-pages "https://${GH_TOKEN}@github.com/${GH_USERNAME}/rigs-of-rods.git" gh-pages-git
 git config user.name "${GH_USERNAME}"
 git config user.email "${GH_EMAILADDRESS}"
 
-git remote add upstream "https://${GH_TOKEN}@github.com/${GH_USERNAME}/rigs-of-rods.git"
-git fetch upstream
-git reset upstream/gh-pages
+cd gh-pages-git
+rm -rf ./*
+cp -R ../doc/doxygen/html/* .
 
 git add -A
 git commit -m "[AUTO] Update documentation."
