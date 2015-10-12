@@ -28,5 +28,5 @@ git status
 git commit -m "[AUTO] Update documentation."
 
 echo "Pushing updated documentation to remote gh-pages branch."
-git push "https://${GH_TOKEN}@github.com/$GH_USERNAME}/rigs-of-rods.git" gh-pages
+git push "https://${GH_TOKEN}@github.com/${GH_USERNAME}/rigs-of-rods.git" gh-pages
 cd ..
