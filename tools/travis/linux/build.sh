@@ -10,12 +10,14 @@ cmake -DROR_USE_MYGUI="TRUE" \
 
 make doc-doxygen 
 
+echo "Cloning single branch gh-pages."
+git clone --single-branch -b gh-pages "git://github.com/${GH_USERNAME}/rigs-of-rods.git" gh-pages-git
 
-git clone --single-branch -b gh-pages "https://${GH_TOKEN}@github.com/${GH_USERNAME}/rigs-of-rods.git" gh-pages-git
+cd gh-pages-git
 git config user.name "${GH_USERNAME}"
 git config user.email "${GH_EMAILADDRESS}"
 
-cd gh-pages-git
+echo "Copying new generated documentation."
 rm -rf ./*
 cp -R ../doc/doxygen/html/* .
 
@@ -23,4 +25,5 @@ git add -A
 git commit -m "[AUTO] Update documentation."
 
 echo "Pushing updated documentation to remote gh-pages branch."
-git push gh-pages
+git push "https://${GH_TOKEN}@github.com/$GH_USERNAME}/rigs-of-rods.git" gh-pages
+cd ..
