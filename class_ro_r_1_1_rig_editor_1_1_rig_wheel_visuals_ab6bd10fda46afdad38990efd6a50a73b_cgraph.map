@@ -1,0 +1,5 @@
+<map id="RoR::RigEditor::RigWheelVisuals::Init" name="RoR::RigEditor::RigWheelVisuals::Init">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_highlight_boxes_dynamic_mesh.html#adcd7dcdc9671b2bef8acde1cda53152c" title="RoR::RigEditor::Highlight\lBoxesDynamicMesh::Initialize" alt="" coords="231,33,428,79"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a76ac08cd1a12eff3e7bdac2fa4701e8f" title="RoR::RigEditor::Main\l::GetOgreSceneManager" alt="" coords="520,93,685,139"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_highlight_boxes_dynamic_mesh.html#a88e20726e939847ab599035631cc38e7" title="RoR::RigEditor::Highlight\lBoxesDynamicMesh::CheckAndCreate\lMaterial" alt="" coords="477,5,728,69"/>
+</map>

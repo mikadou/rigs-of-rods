@@ -1,0 +1,6 @@
+<map id="Screwprop::Screwprop" name="Screwprop::Screwprop">
+<area shape="rect" id="node3" href="$class_ro_r_singleton_no_creation.html#a5e7a47f4b2d6d0abaa3a1ea5ca1f216a" title="RoRSingletonNoCreation\l\&lt; DustManager \&gt;::getSingleton" alt="" coords="209,5,412,51"/>
+<area shape="rect" id="node5" href="$class_dust_manager.html#a01145e464e1e5fb0fd2d90b115504640" title="DustManager::getDustPool" alt="" coords="221,75,400,104"/>
+<area shape="rect" id="node7" href="$class_screwprop.html#ac01b2113dead1f9ca6278ebdaa4606e6" title="Screwprop::reset" alt="" coords="251,128,371,157"/>
+<area shape="rect" id="node9" href="$class_screwprop.html#afa9775809712b41f1d8389db15f1e257" title="Screwprop::setThrottle" alt="" coords="461,128,616,157"/>
+</map>

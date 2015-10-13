@@ -1,0 +1,13 @@
+<map id="irc_dcc_chat" name="irc_dcc_chat">
+<area shape="rect" id="node3" href="$dcc_8c_09_09.html#a10a2845d6bbfd6275ecc290a2077fe66" title="libirc_new_dcc_session" alt="" coords="159,165,319,195"/>
+<area shape="rect" id="node17" href="$dcc_8c_09_09.html#a5a042a68b4b0da7ea96bf018b9858bff" title="libirc_remove_dcc_session" alt="" coords="149,219,328,248"/>
+<area shape="rect" id="node24" href="$libircclient_8h.html#af537698d7ec582701fa3473a2dd6775f" title="Sends the notice to the nick or to the channel. " alt="" coords="184,272,293,301"/>
+<area shape="rect" id="node26" href="$libircclient_8h.html#ad3eb9e56b5988f157e6f4a9b73145382" title="Generates a CTCP request. " alt="" coords="164,325,313,355"/>
+<area shape="rect" id="node5" href="$portable_8c_09_09.html#adcd304402df12bda0cf93313b27227c3" title="libirc_mutex_init" alt="" coords="407,5,521,35"/>
+<area shape="rect" id="node7" href="$sockets_8c_09_09.html#a3052eb47d1ce0ca0508cc6b0fc7e1528" title="socket_create" alt="" coords="412,59,516,88"/>
+<area shape="rect" id="node9" href="$sockets_8c_09_09.html#a0953228b11ccd2ab912a0c6e2c68b95b" title="socket_make_nonblocking" alt="" coords="376,112,552,141"/>
+<area shape="rect" id="node11" href="$portable_8c_09_09.html#a9646a2024e4129ba4fbb30452f083e33" title="libirc_mutex_lock" alt="" coords="403,165,525,195"/>
+<area shape="rect" id="node13" href="$portable_8c_09_09.html#a214ac94a66d2c51f5c25f84aa3642699" title="libirc_mutex_unlock" alt="" coords="396,219,532,248"/>
+<area shape="rect" id="node15" href="$sockets_8c_09_09.html#ad13636246822f43abd7f3c351915435b" title="socket_close" alt="" coords="415,272,513,301"/>
+<area shape="rect" id="node20" href="$portable_8c_09_09.html#a1c4552df59c8eeeefa857155b9255197" title="libirc_mutex_destroy" alt="" coords="393,325,535,355"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="source/main/rig_editor/RigEditor_Types.h" name="source/main/rig_editor/RigEditor_Types.h">
+<area shape="rect" id="node3" href="$_rig_editor___node_8h.html" title="source/main/rig_editor\l/rig_data/RigEditor_Node.h" alt="" coords="955,110,1133,157"/>
+<area shape="rect" id="node5" href="$_rig_editor___land_vehicle_wheel_8h.html" title="source/main/rig_editor\l/rig_data/RigEditor_LandVehicle\lWheel.h" alt="" coords="559,213,767,277"/>
+<area shape="rect" id="node7" href="$_rig_editor___flex_body_wheel_8h.html" title="source/main/rig_editor\l/rig_data/RigEditor_FlexBody\lWheel.h" alt="" coords="5,325,197,389"/>
+<area shape="rect" id="node38" href="$_rig_editor___rig_8h.html" title="source/main/rig_editor\l/rig_data/RigEditor_Rig.h" alt="" coords="1479,222,1647,269"/>
+<area shape="rect" id="node48" href="$_rig_editor___camera_handler_8h.html" title="source/main/rig_editor\l/RigEditor_CameraHandler.h" alt="" coords="1215,222,1404,269"/>
+<area shape="rect" id="node54" href="$_rig_editor___input_handler_8h.html" title="source/main/rig_editor\l/RigEditor_InputHandler.h" alt="" coords="1679,110,1849,157"/>
+<area shape="rect" id="node59" href="$_rig_editor___rig_elements_aggregate_data_8h.html" title="source/main/rig_editor\l/RigEditor_RigElementsAggregate\lData.h" alt="" coords="2859,101,3080,165"/>
+<area shape="rect" id="node11" href="$_rig_editor___rig_8cpp.html" title="source/main/rig_editor\l/rig_data/RigEditor_Rig.cpp" alt="" coords="1175,446,1356,493"/>
+<area shape="rect" id="node17" href="$_rig_editor___mesh_wheel_8h.html" title="source/main/rig_editor\l/rig_data/RigEditor_MeshWheel.h" alt="" coords="739,334,955,381"/>
+<area shape="rect" id="node25" href="$_rig_editor___mesh_wheel2_8h.html" title="source/main/rig_editor\l/rig_data/RigEditor_MeshWheel2.h" alt="" coords="979,334,1203,381"/>
+<area shape="rect" id="node36" href="$_rig_editor___node_8cpp.html" title="source/main/rig_editor\l/rig_data/RigEditor_Node.cpp" alt="" coords="948,222,1140,269"/>
+<area shape="rect" id="node41" href="$_rig_editor___main_8cpp.html" title="source/main/rig_editor\l/RigEditor_Main.cpp" alt="" coords="2193,334,2343,381"/>
+<area shape="rect" id="node13" href="$_rig_editor___rig_wheels_aggregate_data_8cpp.html" title="source/main/rig_editor\l/RigEditor_RigWheelsAggregate\lData.cpp" alt="" coords="395,437,605,501"/>
+<area shape="rect" id="node15" href="$_rig_editor___land_vehicle_wheel_8cpp.html" title="source/main/rig_editor\l/rig_data/RigEditor_LandVehicle\lWheel.cpp" alt="" coords="507,325,715,389"/>
+<area shape="rect" id="node31" href="$_rig_editor___rig_wheel_visuals_8cpp.html" title="source/main/rig_editor\l/RigEditor_RigWheelVisuals.cpp" alt="" coords="221,334,432,381"/>
+<area shape="rect" id="node9" href="$_rig_editor___flex_body_wheel_8cpp.html" title="source/main/rig_editor\l/rig_data/RigEditor_FlexBody\lWheel.cpp" alt="" coords="5,437,197,501"/>
+<area shape="rect" id="node19" href="$_rig_editor___mesh_wheel_8cpp.html" title="source/main/rig_editor\l/rig_data/RigEditor_MeshWheel.cpp" alt="" coords="660,446,889,493"/>
+<area shape="rect" id="node21" href="$_rig_editor___mesh_wheel2_8cpp.html" title="source/main/rig_editor\l/rig_data/RigEditor_MeshWheel2.cpp" alt="" coords="913,446,1151,493"/>
+<area shape="rect" id="node51" href="$_rig_editor___camera_handler_8cpp.html" title="source/main/rig_editor\l/RigEditor_CameraHandler.cpp" alt="" coords="1328,334,1531,381"/>
+<area shape="rect" id="node56" href="$_rig_editor___input_handler_8cpp.html" title="source/main/rig_editor\l/RigEditor_InputHandler.cpp" alt="" coords="1671,222,1857,269"/>
+<area shape="rect" id="node61" href="$_g_u_i___rig_editor_beams_panel_8h.html" title="source/main/gui/panels\l/GUI_RigEditorBeamsPanel.h" alt="" coords="2305,222,2500,269"/>
+<area shape="rect" id="node63" href="$_g_u_i___rig_editor_beams_panel_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorBeamsPanel.cpp" alt="" coords="2616,334,2827,381"/>
+<area shape="rect" id="node67" href="$_g_u_i___rig_editor_commands2_panel_8h.html" title="source/main/gui/panels\l/GUI_RigEditorCommands2Panel.h" alt="" coords="3007,222,3236,269"/>
+<area shape="rect" id="node69" href="$_g_u_i___rig_editor_commands2_panel_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorCommands2Panel.cpp" alt="" coords="3675,334,3917,381"/>
+<area shape="rect" id="node73" href="$_g_u_i___rig_editor_flex_body_wheels_panel_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorFlexBodyWheels\lPanel.cpp" alt="" coords="3260,213,3471,277"/>
+<area shape="rect" id="node75" href="$_g_u_i___rig_editor_hydros_panel_8h.html" title="source/main/gui/panels\l/GUI_RigEditorHydrosPanel.h" alt="" coords="2524,222,2721,269"/>
+<area shape="rect" id="node77" href="$_g_u_i___rig_editor_hydros_panel_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorHydrosPanel.cpp" alt="" coords="2963,334,3173,381"/>
+<area shape="rect" id="node81" href="$_g_u_i___rig_editor_mesh_wheels2_panel_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorMeshWheels2Panel.cpp" alt="" coords="3495,222,3745,269"/>
+<area shape="rect" id="node83" href="$_g_u_i___rig_editor_node_panel_8h.html" title="source/main/gui/panels\l/GUI_RigEditorNodePanel.h" alt="" coords="2745,222,2932,269"/>
+<area shape="rect" id="node85" href="$_g_u_i___rig_editor_node_panel_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorNodePanel.cpp" alt="" coords="3367,334,3567,381"/>
+<area shape="rect" id="node89" href="$_g_u_i___rig_editor_shocks2_panel_8h.html" title="source/main/gui/panels\l/GUI_RigEditorShocks2Panel.h" alt="" coords="3921,222,4127,269"/>
+<area shape="rect" id="node91" href="$_g_u_i___rig_editor_shocks2_panel_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorShocks2Panel.cpp" alt="" coords="3984,334,4203,381"/>
+<area shape="rect" id="node95" href="$_g_u_i___rig_editor_shocks_panel_8h.html" title="source/main/gui/panels\l/GUI_RigEditorShocksPanel.h" alt="" coords="2033,222,2231,269"/>
+<area shape="rect" id="node97" href="$_g_u_i___rig_editor_shocks_panel_8cpp.html" title="source/main/gui/panels\l/GUI_RigEditorShocksPanel.cpp" alt="" coords="1944,334,2157,381"/>
+</map>

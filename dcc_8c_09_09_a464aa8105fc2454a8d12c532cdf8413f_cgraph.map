@@ -1,0 +1,6 @@
+<map id="libirc_dcc_destroy_nolock" name="libirc_dcc_destroy_nolock">
+<area shape="rect" id="node3" href="$dcc_8c_09_09.html#aa2d9c696dcb8b122fa25a031f3a72ca9" title="libirc_find_dcc_session" alt="" coords="181,32,339,61"/>
+<area shape="rect" id="node9" href="$sockets_8c_09_09.html#ad13636246822f43abd7f3c351915435b" title="socket_close" alt="" coords="211,85,309,115"/>
+<area shape="rect" id="node5" href="$portable_8c_09_09.html#a9646a2024e4129ba4fbb30452f083e33" title="libirc_mutex_lock" alt="" coords="395,5,517,35"/>
+<area shape="rect" id="node7" href="$portable_8c_09_09.html#a214ac94a66d2c51f5c25f84aa3642699" title="libirc_mutex_unlock" alt="" coords="388,59,524,88"/>
+</map>

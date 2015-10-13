@@ -1,0 +1,5 @@
+<map id="CameraBehaviorCharacter::mouseMoved" name="CameraBehaviorCharacter::mouseMoved">
+<area shape="rect" id="node3" href="$class_character.html#a7e18e6ea7965b2e32946a06256ec8984" title="Character::getRotation" alt="" coords="229,5,384,35"/>
+<area shape="rect" id="node5" href="$class_character.html#a305f94b58e7e8b61cc6829e4aba7a060" title="Character::setRotation" alt="" coords="229,59,384,88"/>
+<area shape="rect" id="node7" href="$class_camera_behavior_orbit.html#ae3a8adebed6a9bc24029c30328d5ecce" title="CameraBehaviorOrbit\l::mouseMoved" alt="" coords="233,111,380,158"/>
+</map>

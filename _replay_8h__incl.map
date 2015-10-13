@@ -1,0 +1,21 @@
+<map id="source/main/gameplay/Replay.h" name="source/main/gameplay/Replay.h">
+<area shape="rect" id="node5" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1411,411,1547,440"/>
+<area shape="rect" id="node43" href="$_beam_8h.html" title="Beam.h" alt="" coords="1825,101,1892,131"/>
+<area shape="rect" id="node30" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1637,565,1789,595"/>
+<area shape="rect" id="node32" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1589,488,1731,517"/>
+<area shape="rect" id="node35" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="1805,488,1976,517"/>
+<area shape="rect" id="node37" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="2000,488,2147,517"/>
+<area shape="rect" id="node53" href="$_per_vehicle_camera_context_8h.html" title="PerVehicleCameraContext.h" alt="" coords="2188,179,2375,208"/>
+<area shape="rect" id="node55" href="$_rig_def___prerequisites_8h.html" title="RigDef_Prerequisites.h" alt="" coords="2399,179,2556,208"/>
+<area shape="rect" id="node57" href="$_beam_data_8h.html" title="Core data structures for simulation. " alt="" coords="2071,179,2164,208"/>
+<area shape="rect" id="node90" href="$_i_thread_task_8h.html" title="IThreadTask.h" alt="" coords="1425,333,1532,363"/>
+<area shape="rect" id="node93" href="$_streamable_8h.html" title="Streamable.h" alt="" coords="1412,179,1511,208"/>
+<area shape="rect" id="node60" href="$rornet_8h.html" title="rornet.h" alt="" coords="1585,256,1652,285"/>
+<area shape="rect" id="node64" href="$_slide_node_8h.html" title="SlideNode.h" alt="" coords="1928,256,2021,285"/>
+<area shape="rect" id="node71" href="$node__t_8h.html" title="datatypes/node_t.h" alt="" coords="2456,411,2589,440"/>
+<area shape="rect" id="node74" href="$shock__t_8h.html" title="datatypes/shock_t.h" alt="" coords="2451,256,2589,285"/>
+<area shape="rect" id="node76" href="$beam__t_8h.html" title="datatypes/beam_t.h" alt="" coords="2188,333,2324,363"/>
+<area shape="rect" id="node80" href="$wheel__t_8h.html" title="datatypes/wheel_t.h" alt="" coords="2348,333,2487,363"/>
+<area shape="rect" id="node84" href="$rig__t_8h.html" title="datatypes/rig_t.h" alt="" coords="2059,256,2176,285"/>
+<area shape="rect" id="node66" href="$_approx_math_8h.html" title="ApproxMath.h" alt="" coords="1911,333,2012,363"/>
+</map>

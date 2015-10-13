@@ -1,0 +1,6 @@
+<map id="socket_create" name="socket_create">
+<area shape="rect" id="node3" href="$dcc_8c_09_09.html#a10a2845d6bbfd6275ecc290a2077fe66" title="libirc_new_dcc_session" alt="" coords="157,59,317,88"/>
+<area shape="rect" id="node5" href="$libircclient_8h.html#ad6958aac6d67f595966949d1ec5ae4a0" title="Initiates a DCC CHAT. " alt="" coords="381,5,477,35"/>
+<area shape="rect" id="node7" href="$dcc_8c_09_09.html#a6a8177b1b447379f2ac6371edee71a0b" title="libirc_dcc_request" alt="" coords="367,59,492,88"/>
+<area shape="rect" id="node9" href="$libircclient_8h.html#af9e8a307113cd27d08e082fda6264262" title="Sends a file via DCC. " alt="" coords="372,112,487,141"/>
+</map>

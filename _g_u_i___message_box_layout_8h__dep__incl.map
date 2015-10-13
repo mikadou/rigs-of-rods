@@ -1,0 +1,32 @@
+<map id="source/main/gui/panels/GUI_MessageBoxLayout.h" name="source/main/gui/panels/GUI_MessageBoxLayout.h">
+<area shape="rect" id="node3" href="$_g_u_i___message_box_8h.html" title="source/main/gui/panels\l/GUI_MessageBox.h" alt="" coords="3407,102,3561,149"/>
+<area shape="rect" id="node62" href="$_g_u_i___message_box_layout_8cpp.html" title="source/main/gui/panels\l/GUI_MessageBoxLayout.cpp" alt="" coords="3585,102,3783,149"/>
+<area shape="rect" id="node5" href="$_g_u_i_manager_8h.html" title="source/main/gui/GUIManager.h" alt="" coords="2724,197,2927,227"/>
+<area shape="rect" id="node37" href="$_g_u_i___message_box_8cpp.html" title="source/main/gui/panels\l/GUI_MessageBox.cpp" alt="" coords="5155,275,5312,322"/>
+<area shape="rect" id="node7" href="$_application_8cpp.html" title="source/main/Application.cpp" alt="" coords="5,284,192,313"/>
+<area shape="rect" id="node9" href="$_chat_system_8cpp.html" title="source/main/gameplay\l/ChatSystem.cpp" alt="" coords="216,275,368,322"/>
+<area shape="rect" id="node11" href="$_land_vehicle_simulation_8cpp.html" title="source/main/gameplay\l/LandVehicleSimulation.cpp" alt="" coords="392,275,573,322"/>
+<area shape="rect" id="node13" href="$_scene_mouse_8cpp.html" title="source/main/gameplay\l/SceneMouse.cpp" alt="" coords="597,275,749,322"/>
+<area shape="rect" id="node15" href="$_camera_behavior_free_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorFree.cpp" alt="" coords="773,275,947,322"/>
+<area shape="rect" id="node17" href="$_camera_behavior_isometric_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorIsometric.cpp" alt="" coords="971,275,1173,322"/>
+<area shape="rect" id="node19" href="$_camera_manager_8cpp.html" title="source/main/gfx/camera\l/CameraManager.cpp" alt="" coords="1197,275,1360,322"/>
+<area shape="rect" id="node21" href="$_video_camera_8cpp.html" title="source/main/gfx/VideoCamera.cpp" alt="" coords="1384,284,1605,313"/>
+<area shape="rect" id="node23" href="$_g_u_i_manager_8cpp.html" title="source/main/gui/GUIManager.cpp" alt="" coords="1629,284,1845,313"/>
+<area shape="rect" id="node25" href="$_g_u_i___game_about_8cpp.html" title="source/main/gui/panels\l/GUI_GameAbout.cpp" alt="" coords="1869,275,2024,322"/>
+<area shape="rect" id="node27" href="$_g_u_i___game_chat_box_8cpp.html" title="source/main/gui/panels\l/GUI_GameChatBox.cpp" alt="" coords="2048,275,2216,322"/>
+<area shape="rect" id="node29" href="$_g_u_i___game_main_menu_8cpp.html" title="source/main/gui/panels\l/GUI_GameMainMenu.cpp" alt="" coords="2240,275,2416,322"/>
+<area shape="rect" id="node31" href="$_g_u_i___game_pause_menu_8cpp.html" title="source/main/gui/panels\l/GUI_GamePauseMenu.cpp" alt="" coords="2440,275,2627,322"/>
+<area shape="rect" id="node33" href="$_g_u_i___game_settings_8cpp.html" title="source/main/gui/panels\l/GUI_GameSettings.cpp" alt="" coords="2651,275,2816,322"/>
+<area shape="rect" id="node35" href="$_g_u_i___main_selector_8cpp.html" title="source/main/gui/panels\l/GUI_MainSelector.cpp" alt="" coords="2840,275,2997,322"/>
+<area shape="rect" id="node39" href="$_g_u_i___multiplayer_selector_8cpp.html" title="source/main/gui/panels\l/GUI_MultiplayerSelector.cpp" alt="" coords="3021,275,3213,322"/>
+<area shape="rect" id="node41" href="$_g_u_i___sim_utils_8cpp.html" title="source/main/gui/panels\l/GUI_SimUtils.cpp" alt="" coords="3237,275,3392,322"/>
+<area shape="rect" id="node43" href="$_g_u_i___vehicle_description_8cpp.html" title="source/main/gui/panels\l/GUI_VehicleDescription.cpp" alt="" coords="3416,275,3605,322"/>
+<area shape="rect" id="node45" href="$_main_thread_8cpp.html" title="source/main/main_sim\l/MainThread.cpp" alt="" coords="3629,275,3781,322"/>
+<area shape="rect" id="node47" href="$_beam_8cpp.html" title="source/main/physics\l/Beam.cpp" alt="" coords="3805,275,3947,322"/>
+<area shape="rect" id="node49" href="$_beam_factory_8cpp.html" title="source/main/physics\l/BeamFactory.cpp" alt="" coords="3971,275,4112,322"/>
+<area shape="rect" id="node51" href="$_rig_spawner_8cpp.html" title="Vehicle spawning logic. " alt="" coords="4136,275,4333,322"/>
+<area shape="rect" id="node53" href="$_rig_editor___input_handler_8cpp.html" title="source/main/rig_editor\l/RigEditor_InputHandler.cpp" alt="" coords="4357,275,4544,322"/>
+<area shape="rect" id="node55" href="$_rig_editor___main_8cpp.html" title="source/main/rig_editor\l/RigEditor_Main.cpp" alt="" coords="4568,275,4717,322"/>
+<area shape="rect" id="node57" href="$_game_script_8cpp.html" title="source/main/scripting\l/GameScript.cpp" alt="" coords="4741,275,4888,322"/>
+<area shape="rect" id="node59" href="$_input_engine_8cpp.html" title="source/main/utils/InputEngine.cpp" alt="" coords="4912,284,5131,313"/>
+</map>

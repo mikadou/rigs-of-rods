@@ -1,0 +1,12 @@
+<map id="ChatSystem::ChatSystem" name="ChatSystem::ChatSystem">
+<area shape="rect" id="node3" href="$class_chat_system.html#ae40cb749a8c233c6e7de1016f4cb4bdc" title="ChatSystem::sendStreamSetup" alt="" coords="244,21,449,50"/>
+<area shape="rect" id="node18" href="$class_chat_system.html#a849cc6c4dfafbabeb7ab79547f4e1331" title="ChatSystem::getColouredName" alt="" coords="243,74,451,104"/>
+<area shape="rect" id="node20" href="$class_ro_r_1_1_application.html#a3db1b8c7dc6bf465f5ed653ef4a8ce9a" title="RoR::Application::GetGui\lManager" alt="" coords="261,127,432,174"/>
+<area shape="rect" id="node22" href="$class_ro_r_1_1_g_u_i_manager.html#ae4edd69226416a7be139959fd71319ea" title="RoR::GUIManager::PushNotification" alt="" coords="229,197,464,226"/>
+<area shape="rect" id="node5" href="$class_ro_r_singleton.html#a18a797fc35bd8cfa8a2affdd197cbfee" title="RoRSingleton\&lt; NetworkStream\lManager \&gt;::getSingleton" alt="" coords="943,6,1148,52"/>
+<area shape="rect" id="node7" href="$class_network_stream_manager.html#a207f01cb8d1f1e1114e66d6f4215f6a8" title="NetworkStreamManager\l::addLocalStream" alt="" coords="512,43,675,90"/>
+<area shape="rect" id="node9" href="$class_streamable.html#a81648886f431e81940e48b698974b577" title="Streamable::setSourceID" alt="" coords="724,21,892,50"/>
+<area shape="rect" id="node11" href="$class_streamable.html#acc7ac6e8f91db534af9bdc4a3e8d7245" title="Streamable::setStreamID" alt="" coords="723,74,893,104"/>
+<area shape="rect" id="node13" href="$class_streamable.html#ad3380f9c932381bb9a862f40177aa58c" title="Streamable::addPacket" alt="" coords="729,128,887,157"/>
+<area shape="rect" id="node16" href="$class_network_stream_manager.html#a35a0f97374d09e9269ac1650932a1e07" title="NetworkStreamManager\l::triggerSend" alt="" coords="964,119,1127,166"/>
+</map>

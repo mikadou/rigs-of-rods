@@ -1,0 +1,14 @@
+<map id="RigSpawner::ProcessVideoCamera" name="RigSpawner::ProcessVideoCamera">
+<area shape="rect" id="node3" href="$class_video_camera.html#a8268fb8cb1546ba2f78a2179c6a763c2" title="VideoCamera::Setup" alt="" coords="239,204,380,233"/>
+<area shape="rect" id="node5" href="$class_rig_spawner.html#a6bfcada82322e490117f4f5441665830" title="RigSpawner::AddMessage" alt="" coords="439,5,615,35"/>
+<area shape="rect" id="node9" href="$class_rig_spawner.html#a2e5c6d067c56ba916d1dd943b482810c" title="RigSpawner::GetRig" alt="" coords="456,59,597,88"/>
+<area shape="rect" id="node11" href="$class_rig_spawner.html#a80e47a0d12c49486ef6b9056383fa38d" title="RigSpawner::CloneMaterial" alt="" coords="436,112,617,141"/>
+<area shape="rect" id="node13" href="$class_material_replacer.html#a59323a89e94d1cc0f602034b7a56b511" title="MaterialReplacer::addMaterial\lReplace" alt="" coords="429,165,624,211"/>
+<area shape="rect" id="node15" href="$class_video_camera.html#ad1fcaf9e93e4dd30e4e5e0bd3d8ab6fb" title="VideoCamera::VideoCamera" alt="" coords="433,235,620,264"/>
+<area shape="rect" id="node17" href="$class_rig_spawner.html#aa7136aa4d9840d6a90269d6147fc0e32" title="RigSpawner::GetNodeIndex\lOrThrow" alt="" coords="435,287,619,334"/>
+<area shape="rect" id="node21" href="$class_rig_def_1_1_node_1_1_ref.html#a5912183c0dfa018a32190a5bc89b53c8" title="RigDef::Node::Ref::\lIsValidAnyState" alt="" coords="457,357,596,403"/>
+<area shape="rect" id="node23" href="$class_video_camera.html#aacd8901bb3d47b1960f057d61ce2dc5f" title="VideoCamera::init" alt="" coords="464,427,589,456"/>
+<area shape="rect" id="node7" href="$struct_rig_def_1_1_file.html#aecfdfd70221c860aebb6edf3f40d78d2" title="RigDef::File::KeywordToString" alt="" coords="672,5,872,35"/>
+<area shape="rect" id="node19" href="$class_rig_def_1_1_node_1_1_ref.html#a141e4a4770a737736436a3746a31f3ea" title="RigDef::Node::Ref::\lToString" alt="" coords="703,287,841,334"/>
+<area shape="rect" id="node25" href="$_utils_8cpp.html#a6219796a02effcab384e7c356aa6bc3d" title="fixRenderWindowIcon" alt="" coords="697,427,847,456"/>
+</map>

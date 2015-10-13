@@ -1,0 +1,20 @@
+<map id="RigDef::Node::Id::SetStr" name="RigDef::Node::Id::SetStr">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a313a85e2e173bd3d0ea38e5135f68e1b" title="RoR::RigEditor::Rig\l::Build" alt="" coords="271,5,409,51"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_rig_editor_1_1_main.html#ad136bb804b1accbfed00705895f86362" title="RoR::RigEditor::Main\l::CommandCreateNewEmptyRig" alt="" coords="511,59,724,106"/>
+<area shape="rect" id="node16" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#aa01b2bb64a54d61a6947f50a73569cb7" title="RoR::RigEditor::RigElement\lGuiPanelBase::EditboxCommitValue" alt="" coords="223,125,457,171"/>
+<area shape="rect" id="node22" href="$class_rig_def_1_1_node_1_1_id.html#a7af79980a7bb86af7b723d2b43f75704" title="RigDef::Node::Id::Id" alt="" coords="271,195,409,224"/>
+<area shape="rect" id="node24" href="$class_rig_def_1_1_parser.html#a38b8cabf035e978b04373b9c6f872803" title="RigDef::Parser::_ParseNodes\lLegacyMethod" alt="" coords="243,247,437,294"/>
+<area shape="rect" id="node26" href="$class_rig_def_1_1_parser.html#ab6e296b5791583caf31e42493a116cf2" title="RigDef::Parser::_ParseSections\lNodesNodes2" alt="" coords="513,249,721,295"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a0ae39993d636eacc5dfe567c5f5ac4b9" title="RoR::RigEditor::Main\l::LoadRigDefFile" alt="" coords="1301,55,1448,102"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a35a10d6c23920802442d32fab1a8d470" title="RoR::RigEditor::Main\l::NotifyFileSelectorEnded" alt="" coords="1531,55,1701,102"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a4f73e9dc5632524ca803864460b82bb5" title="RoR::RigEditor::Main\l::CommandShowDialogOpenRigFile" alt="" coords="1757,21,1989,67"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_rig_editor_1_1_main.html#acb4af1361d9233f5ee2fa658536a7658" title="RoR::RigEditor::Main\l::CommandShowDialogSaveRigFileAs" alt="" coords="1751,90,1996,137"/>
+<area shape="rect" id="node18" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#a70f4e50c90bab3156125d952d64fc08b" title="RoR::RigEditor::RigElement\lGuiPanelBase::CallbackKeyPress\l_EnterCommitsEscapeRestores" alt="" coords="507,129,728,193"/>
+<area shape="rect" id="node20" href="$class_ro_r_1_1_rig_editor_1_1_rig_element_gui_panel_base.html#ae33caa4c1e226b864b966993ca6c9060" title="RoR::RigEditor::RigElement\lGuiPanelBase::SetupEditboxField" alt="" coords="776,137,995,183"/>
+<area shape="rect" id="node28" href="$class_rig_def_1_1_parser.html#aeef236d9824cfd26d4637fd01d0d8721" title="RigDef::Parser::ParseNode" alt="" coords="795,207,976,236"/>
+<area shape="rect" id="node39" href="$class_rig_def_1_1_parser.html#a70c0c03437114386dcbf0ea1daa4412d" title="RigDef::Parser::ParseNode2" alt="" coords="791,260,980,289"/>
+<area shape="rect" id="node30" href="$class_rig_def_1_1_parser.html#a572673469cf88cdebbd30e04df5629ff" title="RigDef::Parser::ParseLine" alt="" coords="1044,207,1217,236"/>
+<area shape="rect" id="node32" href="$class_beam.html#a866f7eb5e93d6c476fa1bd0a4b7dcdf5" title="Beam::LoadTruck" alt="" coords="1312,180,1437,209"/>
+<area shape="rect" id="node36" href="$class_cache_system.html#ad640fd28c3075eb6310d8d8f3475cefb" title="CacheSystem::fillTruckDetailInfo" alt="" coords="1268,233,1481,263"/>
+<area shape="rect" id="node34" href="$class_beam.html#ac3b331240d6084f4a5116f6c862b65ad" title="Beam::Beam" alt="" coords="1567,180,1665,209"/>
+</map>

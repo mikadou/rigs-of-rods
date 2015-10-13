@@ -1,0 +1,20 @@
+<map id="ForceFeedback::setEnabled" name="ForceFeedback::setEnabled">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_main_thread.html#af7d1f53cf02660323c9dfe6cc5a1e7e1" title="RoR::MainThread::Changed\lCurrentVehicle" alt="" coords="241,151,425,198"/>
+<area shape="rect" id="node5" href="$class_beam_factory.html#ac70a8aa131a6709ebf05dc3c0f6dab10" title="BeamFactory::setCurrentTruck" alt="" coords="475,160,677,189"/>
+<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::update\lEvents" alt="" coords="988,37,1167,83"/>
+<area shape="rect" id="node11" href="$class_ro_r_frame_listener.html#abbab3f9d2773790f0d8567ee4434a739" title="RoRFrameListener::InitTrucks" alt="" coords="727,107,924,136"/>
+<area shape="rect" id="node26" href="$class_ro_r_frame_listener.html#accf1a2895ee6b67789cfaa570bfa01cb" title="RoRFrameListener::reload\lCurrentTruck" alt="" coords="739,37,912,83"/>
+<area shape="rect" id="node29" href="$class_preview_renderer.html#a5ea6b4611b45965e072266211dc60ba8" title="PreviewRenderer::render" alt="" coords="743,160,908,189"/>
+<area shape="rect" id="node31" href="$class_beam_factory.html#a49a4ee797005fff135d8f88a085986a0" title="BeamFactory::removeTruck" alt="" coords="733,213,917,243"/>
+<area shape="rect" id="node33" href="$class_beam_factory.html#a59b66e06ec1f1d1f9adb0d299da15265" title="BeamFactory::p_removeAll\lTrucks" alt="" coords="736,266,915,313"/>
+<area shape="rect" id="node40" href="$class_beam_factory.html#a297cce523629edad68ff2c05bcaa44ac" title="BeamFactory::enterRescue\lTruck" alt="" coords="735,335,916,382"/>
+<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1251,45,1464,75"/>
+<area shape="rect" id="node14" href="$class_ro_r_1_1_main_thread.html#aa3feeebda7f3f4c31a6cb96ea60c09e0" title="RoR::MainThread::SetupGameplayLoop" alt="" coords="1231,128,1484,157"/>
+<area shape="rect" id="node16" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1535,184,1684,213"/>
+<area shape="rect" id="node18" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1800,153,1851,183"/>
+<area shape="rect" id="node22" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="1735,206,1916,253"/>
+<area shape="rect" id="node20" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="2021,153,2093,183"/>
+<area shape="rect" id="node24" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1967,215,2148,244"/>
+<area shape="rect" id="node35" href="$class_beam_factory.html#a089236a1b1ee4dc3b6efa157a784d69c" title="BeamFactory::removeAllTrucks" alt="" coords="975,247,1180,276"/>
+<area shape="rect" id="node37" href="$class_ro_r_1_1_main_thread.html#a19637f726d0913e26e0d0548448d8c91" title="RoR::MainThread::UnloadTerrain" alt="" coords="1251,239,1464,268"/>
+</map>

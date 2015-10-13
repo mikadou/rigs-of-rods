@@ -1,0 +1,6 @@
+<map id="PreviewRenderer::render3dpreview" name="PreviewRenderer::render3dpreview">
+<area shape="rect" id="node3" href="$class_beam.html#aefca621d041ef9113a7f30fad3247f7d" title="Beam::hideSkeleton" alt="" coords="308,5,447,35"/>
+<area shape="rect" id="node5" href="$class_beam.html#a94dadc78248c90fb718d16cd6883f67a" title="Beam::showSkeleton" alt="" coords="304,59,451,88"/>
+<area shape="rect" id="node7" href="$class_beam.html#a0a3ed80ac1b833948bc7d703b5aea11f" title="Beam::updateSimpleSkeleton" alt="" coords="280,112,475,141"/>
+<area shape="rect" id="node9" href="$struct_ro_r_1_1_platform_utils.html#abe6e72a87d2b2fc77153bbee1c48c41e" title="RoR::PlatformUtils\l::FileExists" alt="" coords="311,165,444,211"/>
+</map>

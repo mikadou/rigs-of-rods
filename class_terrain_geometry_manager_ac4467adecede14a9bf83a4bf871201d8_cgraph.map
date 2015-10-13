@@ -1,0 +1,30 @@
+<map id="TerrainGeometryManager::loadOgreTerrainConfig" name="TerrainGeometryManager::loadOgreTerrainConfig">
+<area shape="rect" id="node3" href="$class_terrain_geometry_manager.html#a90f17846a1ed604e3198f7e496e85fe6" title="TerrainGeometryManager\l::loadTerrainConfig" alt="" coords="225,5,393,51"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_config_file.html#a8f0891b0d96c8f37718f579362152de8" title="RoR::ConfigFile::GetBool" alt="" coords="921,224,1092,253"/>
+<area shape="rect" id="node7" href="$class_terrain_geometry_manager.html#a3433648af8303236ea2d3435ab2b279b" title="TerrainGeometryManager\l::initTerrain" alt="" coords="225,245,393,291"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_config_file.html#ae895cb90a1eaaf14ca8b11614da92f70" title="RoR::ConfigFile::GetInt" alt="" coords="927,277,1087,307"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_config_file.html#a7c379f6efdd7487f46c45ce1e73f1a0e" title="RoR::ConfigFile::GetString" alt="" coords="443,176,621,205"/>
+<area shape="rect" id="node18" href="$class_terrain_geometry_manager.html#a10e78d511f72ed2ba109ff691cdc0ffb" title="TerrainGeometryManager\l::configureTerrainDefaults" alt="" coords="671,675,841,722"/>
+<area shape="rect" id="node50" href="$class_terrain_geometry_manager.html#ad130c4517d56ebd061d7c2d17d4308bb" title="TerrainGeometryManager\l::loadLayers" alt="" coords="923,399,1091,446"/>
+<area shape="rect" id="node56" href="$class_terrain_geometry_manager.html#a36142923aede3b529a30a33fda09e6e9" title="TerrainGeometryManager\l::defineTerrain" alt="" coords="448,330,616,377"/>
+<area shape="rect" id="node66" href="$class_terrain_geometry_manager.html#a7c13fa72a6e26f4bc2ae460e4c662035" title="TerrainGeometryManager\l::initBlendMaps" alt="" coords="672,142,840,189"/>
+<area shape="rect" id="node11" href="$scriptstdstring_8cpp.html#ab33d705eee9afd65e8991f82d9c71fe3" title="parseInt" alt="" coords="1257,277,1327,307"/>
+<area shape="rect" id="node13" href="$_approx_math_8h.html#ad685178dbcfdd207c7306561512e1582" title="sign" alt="" coords="1524,277,1569,307"/>
+<area shape="rect" id="node20" href="$class_terrain_manager.html#a967b0ddb6dfc23f993faa3bc2adb84f8" title="TerrainManager::getMainLight" alt="" coords="909,715,1104,744"/>
+<area shape="rect" id="node23" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a8c22548270433a277218f68d4fff0540" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lsetLightmapEnabled" alt="" coords="1201,804,1383,868"/>
+<area shape="rect" id="node26" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a65fc0fcb0552dda3165055982f589243" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lsetLayerNormalMappingEnabled" alt="" coords="901,957,1112,1021"/>
+<area shape="rect" id="node28" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a9924a1959ebf5948d49ba38f1e8e0c2b" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lsetLayerSpecularMappingEnabled" alt="" coords="897,1045,1116,1109"/>
+<area shape="rect" id="node30" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#af559c86c442834b3a8ef7528bcef5ed3" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lsetLayerParallaxMappingEnabled" alt="" coords="900,469,1113,533"/>
+<area shape="rect" id="node32" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#abad196e105879b545c71937693ec7aba" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lsetGlobalColourMapEnabled" alt="" coords="913,557,1100,621"/>
+<area shape="rect" id="node34" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a64393b0dea5d6369bffe54eb64b2402b" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lsetReceiveDynamicShadowsDepth" alt="" coords="1177,920,1407,984"/>
+<area shape="rect" id="node36" href="$class_terrain_manager.html#a41c27348887fdfa7c767bcbf0a2b907e" title="TerrainManager::getShadow\lManager" alt="" coords="915,645,1099,691"/>
+<area shape="rect" id="node38" href="$class_shadow_manager.html#aaebfcba335db80b37e75fdac3518e5eb" title="ShadowManager::updateTerrain\lMaterial" alt="" coords="904,1133,1109,1179"/>
+<area shape="rect" id="node48" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a7b5bdaf8f4589a465b2d2d8a9df9634d" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lgetReceiveDynamicShadowsPSSM" alt="" coords="891,869,1123,933"/>
+<area shape="rect" id="node41" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a38ace1660cd14278384f1b8d8ffb20d6" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lsetReceiveDynamicShadowsLowLod" alt="" coords="1173,1036,1411,1100"/>
+<area shape="rect" id="node43" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a5ee5ddc009e4cb01c7a1fb02386edb12" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lsetReceiveDynamicShadowsEnabled" alt="" coords="1172,1124,1412,1188"/>
+<area shape="rect" id="node45" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#ab5bc01c8574779a1073f60ff7c15a45f" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lsetReceiveDynamicShadowsPSSM" alt="" coords="1176,1212,1408,1276"/>
+<area shape="rect" id="node52" href="$class_terrain_geometry_manager.html#a8ba9a7f3dd580bca8f77a3367f9a1043" title="TerrainGeometryManager\l::getPageConfig" alt="" coords="1208,365,1376,411"/>
+<area shape="rect" id="node54" href="$class_terrain_geometry_manager.html#ac070ae8f0fec5d49d0942a576ad2c726" title="TerrainGeometryManager\l::getPageConfigFilename" alt="" coords="1463,365,1631,411"/>
+<area shape="rect" id="node58" href="$class_terrain_geometry_manager.html#a2b69c5f50a8c619b28a0f9d2ccb8eb84" title="TerrainGeometryManager\l::getTerrainImage" alt="" coords="672,330,840,377"/>
+<area shape="rect" id="node60" href="$class_terrain_geometry_manager.html#a5d955662dda8b746d97fe586997f2471" title="TerrainGeometryManager\l::getPageHeightmap" alt="" coords="923,330,1091,377"/>
+</map>

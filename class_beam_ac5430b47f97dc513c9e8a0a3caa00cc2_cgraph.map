@@ -1,0 +1,24 @@
+<map id="Beam::frameStep" name="Beam::frameStep">
+<area shape="rect" id="node3" href="$class_ro_r_singleton_no_creation.html#a5e7a47f4b2d6d0abaa3a1ea5ca1f216a" title="RoRSingletonNoCreation\l\&lt; ScriptEngine \&gt;::getSingleton" alt="" coords="184,5,384,51"/>
+<area shape="rect" id="node5" href="$class_script_engine.html#aa965aba73cdaaa20d3ce2f5d112027a3" title="ScriptEngine::triggerEvent" alt="" coords="197,75,371,104"/>
+<area shape="rect" id="node7" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getSingleton" alt="" coords="205,128,363,192"/>
+<area shape="rect" id="node9" href="$class_beam_factory.html#aa7c42481b46a78459831fa0900ab8d67" title="BeamFactory::getTrucks" alt="" coords="201,216,367,245"/>
+<area shape="rect" id="node11" href="$class_beam_factory.html#a5f3755f8cd44e6972e463cc6aaa9f181" title="BeamFactory::getTruckCount" alt="" coords="187,269,381,299"/>
+<area shape="rect" id="node13" href="$class_beam.html#a6c440445640a12a8bf52fa0127365708" title="Beam::calcForcesEulerCompute" alt="" coords="179,323,389,352"/>
+<area shape="rect" id="node15" href="$class_beam.html#a0ec96a72537e15007db1ca57898c4ed5" title="Beam::calcForcesEulerFinal" alt="" coords="191,376,377,405"/>
+<area shape="rect" id="node17" href="$class_beam.html#af254958b8dc3d3083e1af237297eedb4" title="Beam::intraTruckCollisions\lPrepare" alt="" coords="195,429,373,475"/>
+<area shape="rect" id="node19" href="$class_beam.html#ab988782104613bfc9a60668c258d3dce" title="Beam::intraTruckCollisions\lCompute" alt="" coords="195,498,373,545"/>
+<area shape="rect" id="node32" href="$class_beam.html#ac748e4439aae8303fabd401dbaacbc0a" title="Beam::intraTruckCollisions\lFinal" alt="" coords="195,567,373,614"/>
+<area shape="rect" id="node34" href="$class_beam_factory.html#aba95d975d7ec4c7c61249852f7a80990" title="BeamFactory::_WorkerWait\lForSync" alt="" coords="192,637,376,683"/>
+<area shape="rect" id="node36" href="$class_beam.html#a305ac27eb231b889a058575508f3d626" title="Beam::SyncReset" alt="" coords="220,707,348,736"/>
+<area shape="rect" id="node40" href="$class_beam.html#a9e6b7ce9cec6a4741cbaa060754a48c8" title="Beam::updateTruckPosition" alt="" coords="193,760,375,789"/>
+<area shape="rect" id="node42" href="$class_beam.html#a1ce3e20865aff805981b609c6131de07" title="Beam::moveOrigin" alt="" coords="219,813,349,843"/>
+<area shape="rect" id="node44" href="$class_beam_factory.html#a2ffa237fe036236ef848a54bc881f027" title="BeamFactory::_WorkerPrepare\lStart" alt="" coords="183,866,385,913"/>
+<area shape="rect" id="node46" href="$class_beam_factory.html#a78d42aefb9949c9dc9b282e665790753" title="BeamFactory::_WorkerSignal\lStart" alt="" coords="188,935,380,982"/>
+<area shape="rect" id="node21" href="$_approx_math_8h.html#a88cab057c9c3a7a5cbaa1aebb06bf864" title="fast_normalise" alt="" coords="477,480,584,509"/>
+<area shape="rect" id="node25" href="$class_collisions.html#a37fe3226d0a0ad6497c97555f1aa4b31" title="Collisions::primitiveCollision" alt="" coords="437,533,624,563"/>
+<area shape="rect" id="node23" href="$_approx_math_8h.html#a08e9e14c091640464aae072f3823b855" title="fast_invSqrt" alt="" coords="673,480,764,509"/>
+<area shape="rect" id="node27" href="$_approx_math_8h.html#aa827078e74a2a2b87a97a834d2359e88" title="approx_pow" alt="" coords="673,533,764,563"/>
+<area shape="rect" id="node30" href="$_approx_math_8h.html#a9f32a288dbece202a4eaa1808aad5506" title="approx_exp" alt="" coords="675,587,763,616"/>
+<area shape="rect" id="node38" href="$namespace_profiler.html#a1f2fdbd66925222007a1461ecd4d01f9" title="Profiler::reset" alt="" coords="481,707,580,736"/>
+</map>

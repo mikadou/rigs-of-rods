@@ -1,0 +1,5 @@
+<map id="BeamFactory::netUserAttributesChanged" name="BeamFactory::netUserAttributesChanged">
+<area shape="rect" id="node3" href="$class_streamable_factory.html#ae48eb0007578a22c2c857f72d1471a84" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::lockStreams" alt="" coords="265,5,423,69"/>
+<area shape="rect" id="node5" href="$class_streamable_factory.html#a144cbd4edd29595ee5c36bf9aa3b461c" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getStreams" alt="" coords="265,93,423,157"/>
+<area shape="rect" id="node7" href="$class_streamable_factory.html#a903fef78ba76e72a0536ff615c5952d4" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::unlockStreams" alt="" coords="265,181,423,245"/>
+</map>

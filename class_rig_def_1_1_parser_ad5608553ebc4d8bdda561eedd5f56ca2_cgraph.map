@@ -1,0 +1,8 @@
+<map id="RigDef::Parser::ParseShockUnsafe" name="RigDef::Parser::ParseShockUnsafe">
+<area shape="rect" id="node3" href="$class_rig_def_1_1_parser.html#a38e4135df406da0cc2f0fc4afb34ddb3" title="RigDef::Parser::_ParseNodeRef" alt="" coords="243,13,453,43"/>
+<area shape="rect" id="node9" href="$class_rig_def_1_1_parser.html#a14daba4d01498e6919d312d29223ad95" title="RigDef::Parser::ParseShock\lOptions" alt="" coords="255,66,441,113"/>
+<area shape="rect" id="node12" href="$class_rig_def_1_1_parser.html#a72e7f6c03ff681c776eb5d507ccdf917" title="RigDef::Parser::LogParsed\lShockDataForChecking" alt="" coords="259,135,437,182"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_sequential_importer.html#a04d293d8b1f94b9a722e83715911e547" title="RigDef::SequentialImporter\l::IsEnabled" alt="" coords="509,5,688,51"/>
+<area shape="rect" id="node7" href="$class_rig_def_1_1_parser.html#a7da949423835fe3241f2ac4c5ac8ebb1" title="RigDef::Parser::AddMessage" alt="" coords="503,75,695,104"/>
+<area shape="rect" id="node14" href="$class_rig_def_1_1_node_1_1_ref.html#a141e4a4770a737736436a3746a31f3ea" title="RigDef::Node::Ref::\lToString" alt="" coords="529,135,668,182"/>
+</map>

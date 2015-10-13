@@ -1,0 +1,17 @@
+<map id="SlideNode::getRailID" name="SlideNode::getRailID">
+<area shape="rect" id="node3" href="$class_beam.html#a99d7bd308fca5408d36a597e4463a6ef" title="Beam::getClosestRailOnTruck" alt="" coords="200,51,400,80"/>
+<area shape="rect" id="node5" href="$class_beam.html#a7f17e89ec7dfd80a13382d1df2155bdb" title="Beam::toggleSlideNodeLock" alt="" coords="448,51,635,80"/>
+<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::update\lEvents" alt="" coords="1647,67,1825,114"/>
+<area shape="rect" id="node11" href="$class_beam_factory.html#a6eb09f405c2dc496a687caf0014800b0" title="BeamFactory::CreateLocal\lRigInstance" alt="" coords="683,102,861,149"/>
+<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1913,76,2127,105"/>
+<area shape="rect" id="node14" href="$class_ro_r_frame_listener.html#abbab3f9d2773790f0d8567ee4434a739" title="RoRFrameListener::InitTrucks" alt="" coords="1361,163,1559,192"/>
+<area shape="rect" id="node29" href="$class_ro_r_frame_listener.html#accf1a2895ee6b67789cfaa570bfa01cb" title="RoRFrameListener::reload\lCurrentTruck" alt="" coords="1124,42,1297,89"/>
+<area shape="rect" id="node32" href="$class_terrain_object_manager.html#a202d577cb222f42c46e5b6600c9626a4" title="TerrainObjectManager\l::loadPreloadedTrucks" alt="" coords="909,213,1061,259"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_main_thread.html#aa3feeebda7f3f4c31a6cb96ea60c09e0" title="RoR::MainThread::SetupGameplayLoop" alt="" coords="1609,163,1863,192"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1945,163,2095,192"/>
+<area shape="rect" id="node21" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="2243,132,2293,161"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="2177,185,2359,231"/>
+<area shape="rect" id="node23" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="2464,132,2536,161"/>
+<area shape="rect" id="node27" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="2409,193,2591,223"/>
+<area shape="rect" id="node34" href="$class_terrain_manager.html#ac666fc0221c16001186b83cd6df66691" title="TerrainManager::loadPreloaded\lTrucks" alt="" coords="1109,213,1312,259"/>
+</map>

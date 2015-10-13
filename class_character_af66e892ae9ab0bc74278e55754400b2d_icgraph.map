@@ -1,0 +1,5 @@
+<map id="Character::updateNetLabel" name="Character::updateNetLabel">
+<area shape="rect" id="node3" href="$class_character.html#a2b381f85738c4ede878be18925e1ce81" title="Character::Character" alt="" coords="253,5,397,35"/>
+<area shape="rect" id="node5" href="$class_character_factory.html#aba10150e9cffe503714dca7faaa9b780" title="CharacterFactory::localUser\lAttributesChanged" alt="" coords="232,58,419,105"/>
+<area shape="rect" id="node7" href="$class_character_factory.html#a4c9df69b8d726f031d75479ea7bdd326" title="CharacterFactory::netUser\lAttributesChanged" alt="" coords="237,127,413,174"/>
+</map>

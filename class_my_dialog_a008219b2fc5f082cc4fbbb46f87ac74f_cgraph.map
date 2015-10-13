@@ -1,0 +1,8 @@
+<map id="MyDialog::updateSettingsControls" name="MyDialog::updateSettingsControls">
+<area shape="rect" id="node3" href="$classwx_value_choice.html#a15cefdf22a40c016ae2474430cdde209" title="wxValueChoice::setSelected\lValue" alt="" coords="245,5,435,51"/>
+<area shape="rect" id="node5" href="$wxutils_8h.html#acea10d469893caac689206a073cc165e" title="conv" alt="" coords="315,75,365,104"/>
+<area shape="rect" id="node7" href="$class_my_dialog.html#a06f8e4181518a6c11e84c55e6f59eed8" title="MyDialog::OnScrollForceFeedback" alt="" coords="228,128,452,157"/>
+<area shape="rect" id="node9" href="$class_my_dialog.html#ad9f1ebe0db24ab553e8d54c13912b3b9" title="MyDialog::OnScrollSightRange" alt="" coords="239,181,441,211"/>
+<area shape="rect" id="node11" href="$class_my_dialog.html#ada3c5edc423258c55ac677f3de37cedc" title="MyDialog::OnScrollVolume" alt="" coords="251,235,429,264"/>
+<area shape="rect" id="node13" href="$class_my_dialog.html#aa8a51e501e6db082f2b1d7dc43a96d5e" title="MyDialog::OnScrollFPSLimiter" alt="" coords="240,288,440,317"/>
+</map>

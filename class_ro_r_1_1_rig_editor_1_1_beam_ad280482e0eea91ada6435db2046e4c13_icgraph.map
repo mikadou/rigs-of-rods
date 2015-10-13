@@ -1,0 +1,18 @@
+<map id="RoR::RigEditor::Beam::GetColor" name="RoR::RigEditor::Beam::GetColor">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a313a85e2e173bd3d0ea38e5135f68e1b" title="RoR::RigEditor::Rig\l::Build" alt="" coords="240,109,379,155"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a13ddf0660af7c1c101915c9b1efd2c90" title="RoR::RigEditor::Rig\l::RefreshBeamsDynamicMesh" alt="" coords="209,219,409,266"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a0ae39993d636eacc5dfe567c5f5ac4b9" title="RoR::RigEditor::Main\l::LoadRigDefFile" alt="" coords="507,39,653,86"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_rig_editor_1_1_main.html#ad136bb804b1accbfed00705895f86362" title="RoR::RigEditor::Main\l::CommandCreateNewEmptyRig" alt="" coords="473,109,687,155"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a35a10d6c23920802442d32fab1a8d470" title="RoR::RigEditor::Main\l::NotifyFileSelectorEnded" alt="" coords="749,39,920,86"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a4f73e9dc5632524ca803864460b82bb5" title="RoR::RigEditor::Main\l::CommandShowDialogOpenRigFile" alt="" coords="976,5,1208,51"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_rig_editor_1_1_main.html#acb4af1361d9233f5ee2fa658536a7658" title="RoR::RigEditor::Main\l::CommandShowDialogSaveRigFileAs" alt="" coords="969,74,1215,121"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_rig_editor_1_1_main.html#abe2179248ae5a8d9fc4a8ed136a18c46" title="RoR::RigEditor::Main\l::UpdateMainLoop" alt="" coords="507,178,653,225"/>
+<area shape="rect" id="node31" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a1c1f2d324278f4ba5e485881cdb384f1" title="RoR::RigEditor::Main\l::CommandCurrentRigDeleteSelected\lNodes" alt="" coords="459,248,701,312"/>
+<area shape="rect" id="node33" href="$class_ro_r_1_1_rig_editor_1_1_main.html#ae35ae0a10dd9ccbe9f6aa3270d61c2fb" title="RoR::RigEditor::Main\l::CommandCurrentRigDeleteSelected\lBeams" alt="" coords="459,336,701,400"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a8cd11f0150b5e247b6d9f00212d42b0d" title="RoR::RigEditor::Main\l::EnterMainLoop" alt="" coords="761,178,908,225"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1017,187,1167,216"/>
+<area shape="rect" id="node23" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1331,156,1381,185"/>
+<area shape="rect" id="node27" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="1265,209,1447,255"/>
+<area shape="rect" id="node25" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1552,156,1624,185"/>
+<area shape="rect" id="node29" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1497,217,1679,247"/>
+</map>

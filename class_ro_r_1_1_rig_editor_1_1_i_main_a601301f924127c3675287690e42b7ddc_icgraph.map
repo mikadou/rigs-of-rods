@@ -1,0 +1,4 @@
+<map id="RoR::RigEditor::IMain::CommandScheduleSetAllWheelsSelected" name="RoR::RigEditor::IMain::CommandScheduleSetAllWheelsSelected">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_gui_popup_wheels_list.html#a1eb4d4d22022aa89fdc39c28ac1d6a10" title="RoR::RigEditor::GuiPopup\lWheelsList::OnSelectAllMouse\lClicked" alt="" coords="285,5,488,69"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_gui_popup_wheels_list.html#a7841c63d6c10d18619f38a0f89dbdb76" title="RoR::RigEditor::GuiPopup\lWheelsList::OnDeselectAllMouse\lClicked" alt="" coords="277,93,496,157"/>
+</map>

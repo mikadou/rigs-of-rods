@@ -1,0 +1,17 @@
+<map id="RoRFrameListener::shutdown_final" name="RoRFrameListener::shutdown_final">
+<area shape="rect" id="node3" href="$class_terrain_manager.html#a1d0227a71a4e114099797646ff6756b7" title="TerrainManager::getWater" alt="" coords="269,5,443,35"/>
+<area shape="rect" id="node5" href="$class_i_water.html#af7b58245dcebff2a504cbee9e116777a" title="IWater::prepareShutdown" alt="" coords="271,59,441,88"/>
+<area shape="rect" id="node7" href="$class_terrain_manager.html#a0f88e2d3c666f8700505cdbf919f90e1" title="TerrainManager::getEnvmap" alt="" coords="263,112,449,141"/>
+<area shape="rect" id="node9" href="$class_envmap.html#ac6ce399c1e4fe177a334833ad785dda3" title="Envmap::prepareShutdown" alt="" coords="267,165,445,195"/>
+<area shape="rect" id="node11" href="$class_dashboard.html#a48fd32e15c1d950ab789f5abc9b5a7b6" title="Dashboard::prepareShutdown" alt="" coords="259,219,453,248"/>
+<area shape="rect" id="node13" href="$class_heat_haze.html#a691c35a05cb024ac3827f539087e6248" title="HeatHaze::prepareShutdown" alt="" coords="261,272,451,301"/>
+<area shape="rect" id="node15" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getSingleton" alt="" coords="277,325,435,389"/>
+<area shape="rect" id="node17" href="$class_beam_factory.html#a8894c65da5b17c25706e9c635cdb318d" title="BeamFactory::prepareShutdown" alt="" coords="252,413,460,443"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_application.html#a608003a20ef939a79437a9da8fa76307" title="RoR::Application::GetInput\lEngine" alt="" coords="267,466,445,513"/>
+<area shape="rect" id="node23" href="$class_input_engine.html#adf91ae75cf504b37fe4dd21758b0ca74" title="InputEngine::prepareShutdown" alt="" coords="256,536,456,565"/>
+<area shape="rect" id="node27" href="$class_ro_r_1_1_application.html#ac5b228d074e3252101179a88c21fcb92" title="RoR::Application::GetMain\lThreadLogic" alt="" coords="267,589,445,635"/>
+<area shape="rect" id="node29" href="$class_ro_r_1_1_main_thread.html#acafb56bf2181a19e00f4b66244b519c9" title="RoR::MainThread::Request\lShutdown" alt="" coords="265,658,447,705"/>
+<area shape="rect" id="node31" href="$class_ro_r_1_1_main_thread.html#abaada327351034aa2c1dce8100a43b53" title="RoR::MainThread::Request\lExitCurrentLoop" alt="" coords="265,727,447,774"/>
+<area shape="rect" id="node19" href="$class_beam_factory.html#aba95d975d7ec4c7c61249852f7a80990" title="BeamFactory::_WorkerWait\lForSync" alt="" coords="509,405,693,451"/>
+<area shape="rect" id="node25" href="$class_input_engine.html#ad69848c63434a63e34ef8341eb9e3119" title="InputEngine::destroy" alt="" coords="531,536,672,565"/>
+</map>

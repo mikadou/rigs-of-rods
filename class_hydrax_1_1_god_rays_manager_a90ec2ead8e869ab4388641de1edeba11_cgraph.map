@@ -1,0 +1,21 @@
+<map id="Hydrax::GodRaysManager::update" name="Hydrax::GodRaysManager::update">
+<area shape="rect" id="node3" href="$class_hydrax_1_1_hydrax.html#a1532419b2859aed22a63d913c527ce21" title="Hydrax::Hydrax::_isCurrent\lFrameUnderwater" alt="" coords="240,74,421,121"/>
+<area shape="rect" id="node5" href="$class_hydrax_1_1_noise_1_1_perlin.html#a2037c02fa7d577eb72487a1b778b62dd" title="Hydrax::Noise::Perlin\l::update" alt="" coords="257,143,404,190"/>
+<area shape="rect" id="node17" href="$class_hydrax_1_1_god_rays_manager.html#a646602d433c524fb776660e7a5ab1987" title="Hydrax::GodRaysManager\l::_updateRays" alt="" coords="243,213,419,259"/>
+<area shape="rect" id="node27" href="$class_hydrax_1_1_god_rays_manager.html#a64d3fbe4df90db1846265fa04c797a63" title="Hydrax::GodRaysManager\l::_updateProjector" alt="" coords="243,327,419,374"/>
+<area shape="rect" id="node37" href="$class_hydrax_1_1_god_rays_manager.html#a6de2a0263d7b3b5907c893e921a9e655" title="Hydrax::GodRaysManager\l::_updateMaterialsParameters" alt="" coords="233,446,428,493"/>
+<area shape="rect" id="node7" href="$class_hydrax_1_1_noise_1_1_perlin.html#af5fa944d06781f1a900d590822c65860" title="Hydrax::Noise::Perlin\l::_calculeNoise" alt="" coords="559,5,705,51"/>
+<area shape="rect" id="node11" href="$class_hydrax_1_1_noise_1_1_noise.html#ae2260556005e5a5eaebae94d936b60c0" title="Hydrax::Noise::Noise\l::areGPUNormalMapResourcesCreated" alt="" coords="505,74,759,121"/>
+<area shape="rect" id="node13" href="$class_hydrax_1_1_noise_1_1_perlin.html#a225baecfe2444d488568fb373f279322" title="Hydrax::Noise::Perlin\l::_updateGPUNormalMapResources" alt="" coords="515,143,749,190"/>
+<area shape="rect" id="node9" href="$class_hydrax_1_1_noise_1_1_perlin.html#a3981deca31b1a17e4fd770f677b84c00" title="Hydrax::Noise::Perlin\l::_mapSample" alt="" coords="871,5,1017,51"/>
+<area shape="rect" id="node15" href="$class_hydrax_1_1_g_p_u_normal_map_manager.html#ab37c3778df109d139c6136fbda3abe80" title="Hydrax::GPUNormalMapManager\l::getTexture" alt="" coords="835,143,1053,190"/>
+<area shape="rect" id="node19" href="$class_hydrax_1_1_god_rays_manager.html#a59aa2f30eefcf8cfb9495cf73c809e98" title="Hydrax::GodRaysManager\l::_calculateRayPosition" alt="" coords="544,213,720,259"/>
+<area shape="rect" id="node21" href="$class_hydrax_1_1_noise_1_1_perlin.html#a64bbe19643e0a87c08c62d0e73d7aac6" title="Hydrax::Noise::Perlin\l::getValue" alt="" coords="871,213,1017,259"/>
+<area shape="rect" id="node23" href="$class_hydrax_1_1_noise_1_1_perlin.html#a65e29d30bc42e215b8bf7d86ecd98f0d" title="Hydrax::Noise::Perlin\l::_getHeigthDual" alt="" coords="1101,213,1248,259"/>
+<area shape="rect" id="node25" href="$class_hydrax_1_1_noise_1_1_perlin.html#a9fc3b4c42fc8bcc104f3e480ee0bf967" title="Hydrax::Noise::Perlin\l::_readTexelLinearDual" alt="" coords="1297,213,1452,259"/>
+<area shape="rect" id="node29" href="$class_hydrax_1_1_hydrax.html#a6391180e70faf46ee681466620a85f4d" title="Hydrax::Hydrax::getSunPosition" alt="" coords="527,283,737,312"/>
+<area shape="rect" id="node31" href="$class_hydrax_1_1_hydrax.html#aef185c906434b6dfb7c67a425d678287" title="Hydrax::Hydrax::getCamera" alt="" coords="539,336,725,365"/>
+<area shape="rect" id="node33" href="$class_hydrax_1_1_hydrax.html#a011da649ae072cce9c6db28620b67a42" title="Hydrax::Hydrax::getPosition" alt="" coords="539,389,725,419"/>
+<area shape="rect" id="node35" href="$class_hydrax_1_1_hydrax.html#abbfe63c58bc4f56ad625872b19b51a60" title="Hydrax::Hydrax::getHeigth" alt="" coords="543,443,721,472"/>
+<area shape="rect" id="node39" href="$_god_rays_manager_8cpp.html#afbf3adf4f7626f9e4dd3e294bf4fb718" title="PROJECTIONCLIPSPACE2DTOIMAGESPACE\l_PERSPECTIVE" alt="" coords="477,495,787,542"/>
+</map>

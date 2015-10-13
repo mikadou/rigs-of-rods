@@ -1,0 +1,4 @@
+<map id="RoR::GUI::GameChatBox" name="RoR::GUI::GameChatBox">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_game_chat_box_layout.html" title="RoR::GUI::GameChatBoxLayout" alt="" coords="5,83,219,112"/>
+<area shape="rect" id="node4" href="$classwraps_1_1_base_layout.html" title="wraps::BaseLayout" alt="" coords="45,5,179,35"/>
+</map>

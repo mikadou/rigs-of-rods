@@ -1,0 +1,4 @@
+<map id="RigSpawner::ProcessWing" name="RigSpawner::ProcessWing">
+<area shape="rect" id="node3" href="$class_material_function_mapper.html#abee8fd1cc0b52699d3babb4b5e84b477" title="MaterialFunctionMapper\l::replaceSimpleMeshMaterials" alt="" coords="233,5,431,51"/>
+<area shape="rect" id="node5" href="$class_flex_airfoil.html#a5de78c556113cc59c793837dba1c8afd" title="FlexAirfoil::enableInducedDrag" alt="" coords="232,75,432,104"/>
+</map>

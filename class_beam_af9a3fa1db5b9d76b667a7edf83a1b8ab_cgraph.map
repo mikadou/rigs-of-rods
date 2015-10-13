@@ -1,0 +1,18 @@
+<map id="Beam::resetPosition" name="Beam::resetPosition">
+<area shape="rect" id="node3" href="$class_terrain_manager.html#ae63cfc0dda4ab62dc7f6d72eb7845628" title="TerrainManager::getHeight\lFinder" alt="" coords="196,22,372,69"/>
+<area shape="rect" id="node5" href="$class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="196,92,372,121"/>
+<area shape="rect" id="node7" href="$class_collisions.html#a76f3fda7383ac14c38f2f31f3ba9e691" title="Collisions::collisionCorrect" alt="" coords="196,145,372,175"/>
+<area shape="rect" id="node31" href="$class_terrain_manager.html#a1d0227a71a4e114099797646ff6756b7" title="TerrainManager::getWater" alt="" coords="197,199,371,228"/>
+<area shape="rect" id="node33" href="$class_i_water.html#ad2499255884025d55a940eb24ecd8e4d" title="IWater::getHeight" alt="" coords="221,252,347,281"/>
+<area shape="rect" id="node9" href="$class_terrain_manager.html#a41fdd66a57990a5fb33d253213fd04e3" title="TerrainManager::getMaxTerrainSize" alt="" coords="421,23,651,52"/>
+<area shape="rect" id="node13" href="$class_collisions.html#a4d438eb211fe0953343dc39f478e14e0" title="Collisions::hash_find" alt="" coords="465,84,607,113"/>
+<area shape="rect" id="node17" href="$class_collisions.html#a169c711864e32721fb5daab7d7d01df4" title="Collisions::permitEvent" alt="" coords="457,145,615,175"/>
+<area shape="rect" id="node25" href="$class_collisions.html#afab554d00436aa9157c93a4eaecf8d74" title="Collisions::envokeScript\lCallback" alt="" coords="455,198,617,245"/>
+<area shape="rect" id="node29" href="$class_collisions.html#accb10540c3aa849f57b7fd3b9da2e1c6" title="Collisions::calcCollidedSide" alt="" coords="444,268,628,297"/>
+<area shape="rect" id="node11" href="$class_terrain_geometry_manager.html#afead68b5ff7a0b77395065ab8ea855e3" title="TerrainGeometryManager\l::getMaxTerrainSize" alt="" coords="716,5,884,51"/>
+<area shape="rect" id="node15" href="$class_collisions.html#a7e21c069d16d661d211d0cb896577edf" title="Collisions::hashfunc" alt="" coords="731,75,869,104"/>
+<area shape="rect" id="node19" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getSingleton" alt="" coords="721,128,879,192"/>
+<area shape="rect" id="node21" href="$class_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="BeamFactory::getCurrentTruck" alt="" coords="699,216,901,245"/>
+<area shape="rect" id="node23" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="951,216,1108,245"/>
+<area shape="rect" id="node27" href="$class_ro_r_singleton_no_creation.html#a5e7a47f4b2d6d0abaa3a1ea5ca1f216a" title="RoRSingletonNoCreation\l\&lt; ScriptEngine \&gt;::getSingleton" alt="" coords="700,269,900,315"/>
+</map>

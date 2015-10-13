@@ -1,0 +1,6 @@
+<map id="RoR::RigEditor::InputHandler" name="RoR::RigEditor::InputHandler">
+<area shape="rect" id="node6" href="$struct_ro_r_1_1_rig_editor_1_1_input_handler_1_1_mouse_button_event.html" title="RoR::RigEditor::InputHandler\l::MouseButtonEvent" alt="" coords="9,111,201,158"/>
+<area shape="rect" id="node8" href="$struct_ro_r_1_1_rig_editor_1_1_input_handler_1_1_mouse_motion_event.html" title="RoR::RigEditor::InputHandler\l::MouseMotionEvent" alt="" coords="9,181,201,227"/>
+<area shape="rect" id="node10" href="$struct_ro_r_1_1_rig_editor_1_1_input_handler_1_1_event.html" title="RoR::RigEditor::InputHandler\l::Event" alt="" coords="9,465,201,511"/>
+<area shape="rect" id="node13" href="$struct_ro_r_1_1_rig_editor_1_1_input_handler_1_1_mode.html" title="RoR::RigEditor::InputHandler\l::Mode" alt="" coords="9,610,201,657"/>
+</map>

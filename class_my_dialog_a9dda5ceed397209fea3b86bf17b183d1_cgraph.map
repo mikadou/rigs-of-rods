@@ -1,0 +1,5 @@
+<map id="MyDialog::getSettingsControls" name="MyDialog::getSettingsControls">
+<area shape="rect" id="node3" href="$wxutils_8h.html#acea10d469893caac689206a073cc165e" title="conv" alt="" coords="324,5,375,35"/>
+<area shape="rect" id="node5" href="$classwx_value_choice.html#a929749fefe92945893e8fc62107c770f" title="wxValueChoice::getSelected\lValueAsSTDString" alt="" coords="255,58,444,105"/>
+<area shape="rect" id="node7" href="$classwx_value_choice.html#a9193f92274299f15adefdb340ad58abe" title="wxValueChoice::getSelected\lValue" alt="" coords="495,89,684,135"/>
+</map>

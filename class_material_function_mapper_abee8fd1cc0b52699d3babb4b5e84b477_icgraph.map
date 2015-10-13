@@ -1,0 +1,17 @@
+<map id="MaterialFunctionMapper::replaceSimpleMeshMaterials" name="MaterialFunctionMapper::replaceSimpleMeshMaterials">
+<area shape="rect" id="node3" href="$class_turbojet.html#a6d7c3d2e2e6458b9fe76b9ba0e372d80" title="Turbojet::Turbojet" alt="" coords="300,5,423,35"/>
+<area shape="rect" id="node5" href="$class_flex_body.html#a590bcdb5dedad3d0cd1ed7206f50a4f9" title="FlexBody::FlexBody" alt="" coords="292,59,431,88"/>
+<area shape="rect" id="node7" href="$class_flex_mesh_wheel.html#a68533fd453ab44574afe883ab4f53080" title="FlexMeshWheel::FlexMeshWheel" alt="" coords="252,112,471,141"/>
+<area shape="rect" id="node9" href="$class_rig_spawner.html#a5396849b5b3d28cdd02a408803e14851" title="RigSpawner::FinalizeRig" alt="" coords="545,164,711,193"/>
+<area shape="rect" id="node13" href="$class_rig_spawner.html#a7f344c61c37b326481901ce0035e5e2d" title="RigSpawner::ProcessWing" alt="" coords="539,217,717,247"/>
+<area shape="rect" id="node16" href="$class_rig_spawner.html#a5967e3e6fae63a547d6b51c07d80e4da" title="RigSpawner::BuildMeshWheel\lVisuals" alt="" coords="263,266,460,313"/>
+<area shape="rect" id="node18" href="$class_rig_spawner.html#ae83a5403e44fcc6fefc45cc427862f7f" title="RigSpawner::CreateWheelVisuals" alt="" coords="252,336,471,365"/>
+<area shape="rect" id="node20" href="$class_mesh_object.html#a0130316d08afecdfeccb99b7e166b9ae" title="MeshObject::setSimpleMaterial\lColour" alt="" coords="260,389,463,435"/>
+<area shape="rect" id="node25" href="$class_mesh_object.html#a02f1d3412dfdec5ab09967f8ab86486c" title="MeshObject::postProcess" alt="" coords="275,459,448,488"/>
+<area shape="rect" id="node11" href="$class_rig_spawner.html#a67da85dd09bd864df9dc924f6f2a7d49" title="RigSpawner::SpawnRig" alt="" coords="789,217,949,247"/>
+<area shape="rect" id="node22" href="$class_rig_spawner.html#a3111af9b13e45b26f7942a7707e6a57e" title="RigSpawner::ProcessProp" alt="" coords="540,311,716,340"/>
+<area shape="rect" id="node27" href="$class_mesh_object.html#a2ecf1021e258cb843eecd7c0484dbe6d" title="MeshObject::loadMesh" alt="" coords="551,405,705,435"/>
+<area shape="rect" id="node31" href="$class_mesh_object.html#adafd2452c6d82739b9a4d569dfb9bffd" title="MeshObject::operationCompleted" alt="" coords="520,459,736,488"/>
+<area shape="rect" id="node33" href="$class_mesh_object.html#a97794c4557396380be2a6aea5b8d9f16" title="MeshObject::loadingComplete" alt="" coords="529,512,727,541"/>
+<area shape="rect" id="node29" href="$class_mesh_object.html#a871620a2562475355049b17748674571" title="MeshObject::MeshObject" alt="" coords="784,405,955,435"/>
+</map>

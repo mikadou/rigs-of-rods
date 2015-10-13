@@ -1,0 +1,27 @@
+<map id="Hydrax::GodRaysManager" name="Hydrax::GodRaysManager">
+<area shape="rect" id="node10" href="$class_hydrax_1_1_hydrax.html" title="Hydrax::Hydrax" alt="" coords="939,500,1053,529"/>
+<area shape="rect" id="node83" href="$class_hydrax_1_1_god_rays_manager_1_1_depth_map_listener.html" title="Hydrax::GodRaysManager\l::DepthMapListener" alt="" coords="1728,1195,1904,1242"/>
+<area shape="rect" id="node2" href="$class_hydrax_1_1_noise_1_1_perlin.html" title="Hydrax::Noise::Perlin" alt="" coords="2144,81,2291,111"/>
+<area shape="rect" id="node4" href="$class_hydrax_1_1_noise_1_1_noise.html" title="Hydrax::Noise::Noise" alt="" coords="221,9,368,39"/>
+<area shape="rect" id="node70" href="$class_hydrax_1_1_module_1_1_module.html" title="Hydrax::Module::Module" alt="" coords="571,220,733,249"/>
+<area shape="rect" id="node6" href="$struct_hydrax_1_1_noise_1_1_perlin_1_1_options.html" title="Hydrax::Noise::Perlin\l::Options" alt="" coords="1743,42,1889,89"/>
+<area shape="rect" id="node8" href="$class_hydrax_1_1_g_p_u_normal_map_manager.html" title="Hydrax::GPUNormalMapManager" alt="" coords="1707,244,1925,273"/>
+<area shape="rect" id="node12" href="$class_hydrax_1_1_mesh.html" title="Hydrax::Mesh" alt="" coords="1304,357,1408,387"/>
+<area shape="rect" id="node19" href="$class_hydrax_1_1_material_manager.html" title="Hydrax::MaterialManager" alt="" coords="1272,1071,1440,1100"/>
+<area shape="rect" id="node29" href="$class_hydrax_1_1_decals_manager.html" title="Hydrax::DecalsManager" alt="" coords="1275,697,1437,727"/>
+<area shape="rect" id="node32" href="$class_hydrax_1_1_rtt_manager.html" title="Hydrax::RttManager" alt="" coords="1287,572,1425,601"/>
+<area shape="rect" id="node65" href="$class_hydrax_1_1_hydrax_1_1_device_listener.html" title="Hydrax::Hydrax::DeviceListener" alt="" coords="1252,847,1460,876"/>
+<area shape="rect" id="node75" href="$class_hydrax_1_1_cfg_file_manager.html" title="Hydrax::CfgFileManager" alt="" coords="1275,419,1437,448"/>
+<area shape="rect" id="node79" href="$class_hydrax_1_1_texture_manager.html" title="Hydrax::TextureManager" alt="" coords="1273,173,1439,203"/>
+<area shape="rect" id="node15" href="$struct_hydrax_1_1_mesh_1_1_options.html" title="Hydrax::Mesh::Options" alt="" coords="216,220,373,249"/>
+<area shape="rect" id="node17" href="$struct_hydrax_1_1_size.html" title="Hydrax::Size" alt="" coords="5,320,104,349"/>
+<area shape="rect" id="node34" href="$struct_hydrax_1_1_rtt_manager_1_1_rtt_options.html" title="Hydrax::RttManager\l::RttOptions" alt="" coords="399,459,537,506"/>
+<area shape="rect" id="node22" href="$class_hydrax_1_1_material_manager_1_1_underwater_compositor_listener.html" title="Hydrax::MaterialManager\l::UnderwaterCompositorListener" alt="" coords="1711,1118,1921,1165"/>
+<area shape="rect" id="node27" href="$struct_hydrax_1_1_material_manager_1_1_options.html" title="Hydrax::MaterialManager\l::Options" alt="" coords="912,1062,1080,1109"/>
+<area shape="rect" id="node37" href="$class_hydrax_1_1_rtt_manager_1_1_c_reflection_listener.html" title="Hydrax::RttManager\l::CReflectionListener" alt="" coords="2145,913,2289,959"/>
+<area shape="rect" id="node42" href="$class_hydrax_1_1_rtt_manager_1_1_c_reflection_listener_1_1_c_reflection_queue_listener.html" title="Hydrax::RttManager\l::CReflectionListener\l::CReflectionQueueListener" alt="" coords="1725,955,1907,1019"/>
+<area shape="rect" id="node47" href="$class_hydrax_1_1_rtt_manager_1_1_c_refraction_listener.html" title="Hydrax::RttManager\l::CRefractionListener" alt="" coords="1743,645,1889,691"/>
+<area shape="rect" id="node52" href="$class_hydrax_1_1_rtt_manager_1_1_c_g_p_u_normal_map_listener.html" title="Hydrax::RttManager\l::CGPUNormalMapListener" alt="" coords="1725,754,1907,801"/>
+<area shape="rect" id="node56" href="$class_hydrax_1_1_rtt_manager_1_1_c_depth_listener.html" title="Hydrax::RttManager\l::CDepthListener" alt="" coords="1747,371,1885,418"/>
+<area shape="rect" id="node61" href="$class_hydrax_1_1_rtt_manager_1_1_c_depth_reflection_listener.html" title="Hydrax::RttManager\l::CDepthReflectionListener" alt="" coords="1727,515,1905,562"/>
+</map>

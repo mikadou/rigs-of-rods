@@ -1,0 +1,11 @@
+<map id="Ogre::Canvas::Context::drawImage" name="Ogre::Canvas::Context::drawImage">
+<area shape="rect" id="node3" href="$class_ogre_1_1_canvas_1_1_context.html#a9aed24cef6da01d1188a7b3a78704081" title="Ogre::Canvas::Context\l::drawImage" alt="" coords="211,213,368,259"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_canvas_1_1_context.html#a2edd1ac82fe9da543745dd2ed3d5c7ff" title="Ogre::Canvas::Context\l::createPattern" alt="" coords="416,5,573,51"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_canvas_1_1_context.html#ae8e77428b0783171f61450862d066dff" title="Ogre::Canvas::Context\l::save" alt="" coords="416,74,573,121"/>
+<area shape="rect" id="node11" href="$class_ogre_1_1_canvas_1_1_context.html#aa89bcf7189c5d64e5aa44acbf2ea6616" title="Ogre::Canvas::Context\l::translate" alt="" coords="416,143,573,190"/>
+<area shape="rect" id="node13" href="$class_ogre_1_1_canvas_1_1_context.html#ae7c4bb5074c01bc2a17923897827ed76" title="Ogre::Canvas::Context\l::fillStyle" alt="" coords="416,213,573,259"/>
+<area shape="rect" id="node16" href="$class_ogre_1_1_canvas_1_1_context.html#a9e9e34999d54e2eee82b26ea55fd001f" title="Ogre::Canvas::Context\l::scale" alt="" coords="416,282,573,329"/>
+<area shape="rect" id="node18" href="$class_ogre_1_1_canvas_1_1_context.html#aa938fc4e0062dd4ad7684a996e78a5b5" title="Ogre::Canvas::Context\l::fillRect" alt="" coords="416,351,573,398"/>
+<area shape="rect" id="node20" href="$class_ogre_1_1_canvas_1_1_context.html#aedd6cb09a586bec9c9e1431cdc0bc45d" title="Ogre::Canvas::Context\l::restore" alt="" coords="416,421,573,467"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_canvas_1_1_context.html#a082ff2e97331fd49e6e98bf1f192d223" title="Ogre::Canvas::Context\l::getCurrentState" alt="" coords="621,143,779,190"/>
+</map>

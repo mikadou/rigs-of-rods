@@ -1,0 +1,4 @@
+<map id="RoR::RigEditor::Main::InitializeOrRestoreGui" name="RoR::RigEditor::Main::InitializeOrRestoreGui">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_application.html#a3db1b8c7dc6bf465f5ed653ef4a8ce9a" title="RoR::Application::GetGui\lManager" alt="" coords="227,5,397,51"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_g_u_i_manager.html#aed1b258a401a3e2dda25bb22494d7f2a" title="RoR::GUIManager::SetScene\lManager" alt="" coords="215,74,409,121"/>
+</map>

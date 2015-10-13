@@ -1,0 +1,4 @@
+<map id="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::isLayerSpecularMappingEnabled" name="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::isLayerSpecularMappingEnabled">
+<area shape="rect" id="node3" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile_1_1_shader_helper_cg.html#aed5c4e365ffd55d08a815d445b2fe484" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lShaderHelperCg::generateFpLayer" alt="" coords="268,5,489,69"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile_1_1_shader_helper_cg.html#a02b18b595fa75ef580b8f03cac726279" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lShaderHelperCg::generateFpFooter" alt="" coords="265,93,492,157"/>
+</map>

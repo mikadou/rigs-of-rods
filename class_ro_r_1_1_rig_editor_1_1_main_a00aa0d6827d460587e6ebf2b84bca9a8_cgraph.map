@@ -1,0 +1,4 @@
+<map id="RoR::RigEditor::Main::CommandCloseCurrentRig" name="RoR::RigEditor::Main::CommandCloseCurrentRig">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a0c8298efe94e90610d03cfb403614701" title="RoR::RigEditor::Rig\l::DetachFromScene" alt="" coords="269,5,408,51"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a4e9ceeb031f661d90ee6220ffc994377" title="RoR::RigEditor::Main\l::HideAllNodeBeamGuiPanels" alt="" coords="240,74,437,121"/>
+</map>

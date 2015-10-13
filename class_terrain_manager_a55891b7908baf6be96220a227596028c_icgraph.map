@@ -1,0 +1,4 @@
+<map id="TerrainManager::getObjectManager" name="TerrainManager::getObjectManager">
+<area shape="rect" id="node3" href="$class_game_script.html#ac9ef8b95e5fd759b73ef414e9ae9a6a8" title="GameScript::destroyObject" alt="" coords="231,5,409,35"/>
+<area shape="rect" id="node5" href="$class_game_script.html#adc155d46516906fb9bfddde649c02ee6" title="GameScript::spawnObject" alt="" coords="233,59,407,88"/>
+</map>

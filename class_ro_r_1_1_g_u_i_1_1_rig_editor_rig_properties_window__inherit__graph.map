@@ -1,0 +1,5 @@
+<map id="RoR::GUI::RigEditorRigPropertiesWindow" name="RoR::GUI::RigEditorRigPropertiesWindow">
+<area shape="rect" id="node2" href="$class_ro_r_1_1_g_u_i_1_1_rig_editor_rig_properties_window_layout.html" title="RoR::GUI::RigEditorRigProperties\lWindowLayout" alt="" coords="5,83,227,130"/>
+<area shape="rect" id="node4" href="$classwraps_1_1_base_layout.html" title="wraps::BaseLayout" alt="" coords="49,5,183,35"/>
+<area shape="rect" id="node6" href="$class_ro_r_1_1_gui_panel_base.html" title="RoR::GuiPanelBase" alt="" coords="251,92,389,121"/>
+</map>

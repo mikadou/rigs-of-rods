@@ -1,0 +1,5 @@
+<map id="Character::move" name="Character::move">
+<area shape="rect" id="node3" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::update\lEvents" alt="" coords="173,5,352,51"/>
+<area shape="rect" id="node7" href="$class_game_script.html#a192de8fb4f34efda8c64768e1503ad4f" title="GameScript::movePerson" alt="" coords="177,75,348,104"/>
+<area shape="rect" id="node5" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="401,13,615,43"/>
+</map>

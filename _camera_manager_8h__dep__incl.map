@@ -1,0 +1,27 @@
+<map id="source/main/gfx/camera/CameraManager.h" name="source/main/gfx/camera/CameraManager.h">
+<area shape="rect" id="node3" href="$_character_8cpp.html" title="source/main/gameplay\l/Character.cpp" alt="" coords="67,102,219,149"/>
+<area shape="rect" id="node5" href="$_ro_r_frame_listener_8cpp.html" title="source/main/gameplay\l/RoRFrameListener.cpp" alt="" coords="243,102,403,149"/>
+<area shape="rect" id="node7" href="$_scene_mouse_8cpp.html" title="source/main/gameplay\l/SceneMouse.cpp" alt="" coords="427,102,579,149"/>
+<area shape="rect" id="node9" href="$_camera_behavior_orbit_8h.html" title="source/main/gfx/camera\l/CameraBehaviorOrbit.h" alt="" coords="863,102,1025,149"/>
+<area shape="rect" id="node15" href="$_camera_manager_8cpp.html" title="source/main/gfx/camera\l/CameraManager.cpp" alt="" coords="1013,390,1176,437"/>
+<area shape="rect" id="node23" href="$_camera_behavior_vehicle_cine_cam_8h.html" title="source/main/gfx/camera\l/CameraBehaviorVehicleCineCam.h" alt="" coords="19,294,251,341"/>
+<area shape="rect" id="node35" href="$_camera_behavior_fixed_8h.html" title="source/main/gfx/camera\l/CameraBehaviorFixed.h" alt="" coords="1813,102,1979,149"/>
+<area shape="rect" id="node40" href="$_camera_behavior_free_8h.html" title="source/main/gfx/camera\l/CameraBehaviorFree.h" alt="" coords="1627,102,1789,149"/>
+<area shape="rect" id="node45" href="$_camera_behavior_isometric_8h.html" title="source/main/gfx/camera\l/CameraBehaviorIsometric.h" alt="" coords="1165,102,1352,149"/>
+<area shape="rect" id="node50" href="$_camera_behavior_static_8h.html" title="source/main/gfx/camera\l/CameraBehaviorStatic.h" alt="" coords="1435,102,1603,149"/>
+<area shape="rect" id="node57" href="$_g_u_i___game_pause_menu_8cpp.html" title="source/main/gui/panels\l/GUI_GamePauseMenu.cpp" alt="" coords="2003,102,2189,149"/>
+<area shape="rect" id="node59" href="$_main_thread_8cpp.html" title="source/main/main_sim\l/MainThread.cpp" alt="" coords="2213,102,2365,149"/>
+<area shape="rect" id="node61" href="$_beam_8cpp.html" title="source/main/physics\l/Beam.cpp" alt="" coords="2389,102,2531,149"/>
+<area shape="rect" id="node11" href="$_camera_behavior_character_8h.html" title="source/main/gfx/camera\l/CameraBehaviorCharacter.h" alt="" coords="643,198,832,245"/>
+<area shape="rect" id="node17" href="$_camera_behavior_orbit_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorOrbit.cpp" alt="" coords="856,198,1032,245"/>
+<area shape="rect" id="node19" href="$_camera_behavior_vehicle_8h.html" title="source/main/gfx/camera\l/CameraBehaviorVehicle.h" alt="" coords="443,198,619,245"/>
+<area shape="rect" id="node13" href="$_camera_behavior_character_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorCharacter.cpp" alt="" coords="776,294,981,341"/>
+<area shape="rect" id="node21" href="$_camera_behavior_vehicle_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorVehicle.cpp" alt="" coords="512,294,701,341"/>
+<area shape="rect" id="node28" href="$_camera_behavior_vehicle_spline_8h.html" title="source/main/gfx/camera\l/CameraBehaviorVehicleSpline.h" alt="" coords="275,294,488,341"/>
+<area shape="rect" id="node25" href="$_camera_behavior_vehicle_cine_cam_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorVehicleCineCam.cpp" alt="" coords="5,390,251,437"/>
+<area shape="rect" id="node30" href="$_camera_behavior_vehicle_spline_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorVehicleSpline.cpp" alt="" coords="275,390,501,437"/>
+<area shape="rect" id="node37" href="$_camera_behavior_fixed_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorFixed.cpp" alt="" coords="1989,198,2168,245"/>
+<area shape="rect" id="node42" href="$_camera_behavior_free_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorFree.cpp" alt="" coords="1691,198,1864,245"/>
+<area shape="rect" id="node47" href="$_camera_behavior_isometric_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorIsometric.cpp" alt="" coords="1157,198,1360,245"/>
+<area shape="rect" id="node52" href="$_camera_behavior_static_8cpp.html" title="source/main/gfx/camera\l/CameraBehaviorStatic.cpp" alt="" coords="1485,198,1667,245"/>
+</map>

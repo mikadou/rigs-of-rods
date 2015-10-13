@@ -1,0 +1,13 @@
+<map id="source/main/gameplay/ChatSystem.h" name="source/main/gameplay/ChatSystem.h">
+<area shape="rect" id="node3" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1220,333,1356,363"/>
+<area shape="rect" id="node42" href="$_streamable_8h.html" title="Streamable.h" alt="" coords="1304,179,1403,208"/>
+<area shape="rect" id="node51" href="$_streamable_factory_8h.html" title="StreamableFactory.h" alt="" coords="1185,101,1327,131"/>
+<area shape="rect" id="node29" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="1929,488,2081,517"/>
+<area shape="rect" id="node31" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="1880,411,2021,440"/>
+<area shape="rect" id="node34" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="2096,411,2267,440"/>
+<area shape="rect" id="node36" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="2291,411,2437,440"/>
+<area shape="rect" id="node45" href="$rornet_8h.html" title="rornet.h" alt="" coords="1008,256,1075,285"/>
+<area shape="rect" id="node54" href="$_network_stream_manager_8h.html" title="NetworkStreamManager.h" alt="" coords="1056,179,1229,208"/>
+<area shape="rect" id="node62" href="$_streamable_factory_interface_8h.html" title="StreamableFactoryInterface.h" alt="" coords="837,179,1032,208"/>
+<area shape="rect" id="node59" href="$_singleton_8h.html" title="Singleton.h" alt="" coords="1149,256,1235,285"/>
+</map>

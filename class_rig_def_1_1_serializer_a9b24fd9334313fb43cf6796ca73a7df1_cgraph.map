@@ -1,0 +1,5 @@
+<map id="RigDef::Serializer::ProcessBeams" name="RigDef::Serializer::ProcessBeams">
+<area shape="rect" id="node3" href="$class_rig_def_1_1_serializer.html#a519f37109858367465b34df585a91ed1" title="RigDef::Serializer\l::ProcessBeamDefaults" alt="" coords="180,5,340,51"/>
+<area shape="rect" id="node5" href="$class_rig_def_1_1_serializer.html#a46c7c34fd115d7a242ccbd7a799b27c3" title="RigDef::Serializer\l::ProcessBeam" alt="" coords="197,74,323,121"/>
+<area shape="rect" id="node7" href="$class_rig_def_1_1_node_1_1_ref.html#a141e4a4770a737736436a3746a31f3ea" title="RigDef::Node::Ref::\lToString" alt="" coords="389,74,528,121"/>
+</map>

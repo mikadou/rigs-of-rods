@@ -1,0 +1,6 @@
+<map id="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::ShaderHelperCg::generateFpFooter" name="Ogre::TerrainPSSMMaterialGenerator::SM2Profile::ShaderHelperCg::generateFpFooter">
+<area shape="rect" id="node3" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a25745a6fc559c46e191937eb9247dbc9" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lisShadowingEnabled" alt="" coords="297,5,479,69"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a51d6870df02f3d56e045c983620567f8" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lisGlobalColourMapEnabled" alt="" coords="297,93,479,157"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a48974d5847d0359eaaa2ef05f20f6f53" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lisLightmapEnabled" alt="" coords="297,181,479,245"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_terrain_p_s_s_m_material_generator_1_1_s_m2_profile.html#a1366b54a08b204a6023c9a5d76f921e1" title="Ogre::TerrainPSSMMaterial\lGenerator::SM2Profile::\lisLayerSpecularMappingEnabled" alt="" coords="283,269,493,333"/>
+</map>

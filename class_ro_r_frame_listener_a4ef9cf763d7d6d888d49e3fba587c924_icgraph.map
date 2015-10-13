@@ -1,0 +1,4 @@
+<map id="RoRFrameListener::showspray" name="RoRFrameListener::showspray">
+<area shape="rect" id="node3" href="$class_refraction_texture_listener.html#a7424b44da59f28489adc4c56bec66dd2" title="RefractionTextureListener\l::preRenderTargetUpdate" alt="" coords="259,5,429,51"/>
+<area shape="rect" id="node5" href="$class_refraction_texture_listener.html#a38f98566a769cc191a9484c287d692a8" title="RefractionTextureListener\l::postRenderTargetUpdate" alt="" coords="256,74,432,121"/>
+</map>

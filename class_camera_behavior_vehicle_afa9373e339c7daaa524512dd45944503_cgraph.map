@@ -1,0 +1,8 @@
+<map id="CameraBehaviorVehicle::activate" name="CameraBehaviorVehicle::activate">
+<area shape="rect" id="node3" href="$class_camera_manager.html#acc8ca4bea6750e8ce6ce1f3710a0ce78" title="CameraManager::switchToNext\lBehavior" alt="" coords="217,5,423,51"/>
+<area shape="rect" id="node7" href="$class_beam.html#a39d38800d5ab3b85b305d94b2c8ea502" title="Beam::GetCameraContext" alt="" coords="737,45,913,75"/>
+<area shape="rect" id="node9" href="$class_camera_behavior_vehicle.html#ae7d045ecadf875c717d7318980228b57" title="CameraBehaviorVehicle\l::reset" alt="" coords="239,125,401,171"/>
+<area shape="rect" id="node5" href="$class_camera_manager.html#a6f50a61b22fd1193ec25c5c2dc8f3ae3" title="CameraManager::switchBehavior" alt="" coords="473,17,687,47"/>
+<area shape="rect" id="node11" href="$class_camera_behavior_orbit.html#ac2c38d7776bb50ffb4a0d267c11acb2c" title="CameraBehaviorOrbit\l::reset" alt="" coords="507,125,653,171"/>
+<area shape="rect" id="node13" href="$class_beam.html#a304819ff3ad7dafc09f7f64e0c908d2e" title="Beam::getMinimalCameraRadius" alt="" coords="473,195,687,224"/>
+</map>

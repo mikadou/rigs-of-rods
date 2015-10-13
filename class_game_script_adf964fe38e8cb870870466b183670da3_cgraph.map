@@ -1,0 +1,7 @@
+<map id="GameScript::boostCurrentTruck" name="GameScript::boostCurrentTruck">
+<area shape="rect" id="node3" href="$class_streamable_factory.html#a233cafcf6f87f5779b1a26a5a48d8f6d" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getSingleton" alt="" coords="252,5,409,69"/>
+<area shape="rect" id="node5" href="$class_beam_factory.html#aeb17b3a10c961e56770f7dc87a16625c" title="BeamFactory::getCurrentTruck" alt="" coords="229,93,432,123"/>
+<area shape="rect" id="node9" href="$class_beam_engine.html#a871214fce37bde9b73e59494e2dc2bca" title="BeamEngine::getRPM" alt="" coords="255,147,407,176"/>
+<area shape="rect" id="node11" href="$class_beam_engine.html#a6aea2602f49dbab7bc980ebc92e83587" title="BeamEngine::setRPM" alt="" coords="255,200,407,229"/>
+<area shape="rect" id="node7" href="$class_beam_factory.html#aadb09a68dc35fad593189242429df218" title="BeamFactory::getTruck" alt="" coords="481,93,639,123"/>
+</map>

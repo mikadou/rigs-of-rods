@@ -1,0 +1,8 @@
+<map id="NetworkStreamManager::addLocalStream" name="NetworkStreamManager::addLocalStream">
+<area shape="rect" id="node3" href="$class_character.html#ad3ae7449830cf1a9ba8c991b650ee0c2" title="Character::sendStreamSetup" alt="" coords="225,5,415,35"/>
+<area shape="rect" id="node7" href="$class_chat_system.html#ae40cb749a8c233c6e7de1016f4cb4bdc" title="ChatSystem::sendStreamSetup" alt="" coords="217,59,423,88"/>
+<area shape="rect" id="node11" href="$class_beam.html#ab360c65fab0802d8bc2074d7278217da" title="Beam::sendStreamSetup" alt="" coords="236,112,404,141"/>
+<area shape="rect" id="node5" href="$class_character.html#a2b381f85738c4ede878be18925e1ce81" title="Character::Character" alt="" coords="488,5,632,35"/>
+<area shape="rect" id="node9" href="$class_chat_system.html#add474b3d3185ca352a7cba42df56e87f" title="ChatSystem::ChatSystem" alt="" coords="472,59,648,88"/>
+<area shape="rect" id="node13" href="$class_beam.html#ac3b331240d6084f4a5116f6c862b65ad" title="Beam::Beam" alt="" coords="511,112,609,141"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="BeamFactory::removeBeam" name="BeamFactory::removeBeam">
+<area shape="rect" id="node3" href="$class_streamable_factory.html#ae48eb0007578a22c2c857f72d1471a84" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::lockStreams" alt="" coords="265,5,423,69"/>
+<area shape="rect" id="node5" href="$class_streamable_factory.html#a144cbd4edd29595ee5c36bf9aa3b461c" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::getStreams" alt="" coords="265,93,423,157"/>
+<area shape="rect" id="node7" href="$class_ro_r_singleton.html#a18a797fc35bd8cfa8a2affdd197cbfee" title="RoRSingleton\&lt; NetworkStream\lManager \&gt;::getSingleton" alt="" coords="241,181,447,227"/>
+<area shape="rect" id="node9" href="$class_network_stream_manager.html#a94019d2a87c1f8346f6adb0e76b4b5a2" title="NetworkStreamManager\l::removeStream" alt="" coords="263,250,425,297"/>
+<area shape="rect" id="node11" href="$class_beam_factory.html#a86a2ef18fac92980cba91aece61dc928" title="BeamFactory::_deleteTruck" alt="" coords="253,320,435,349"/>
+<area shape="rect" id="node15" href="$class_streamable_factory.html#a903fef78ba76e72a0536ff615c5952d4" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;\l::unlockStreams" alt="" coords="265,373,423,437"/>
+<area shape="rect" id="node13" href="$class_beam_factory.html#aba95d975d7ec4c7c61249852f7a80990" title="BeamFactory::_WorkerWait\lForSync" alt="" coords="496,311,680,358"/>
+</map>

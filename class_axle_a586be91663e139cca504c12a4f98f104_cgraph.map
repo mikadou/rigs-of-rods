@@ -1,0 +1,7 @@
+<map id="Axle::addDiffType" name="Axle::addDiffType">
+<area shape="rect" id="node3" href="$class_axle.html#a7ee763611feb62996e46ccf5e96f63d0" title="Axle::getDiffEquation" alt="" coords="181,85,328,115"/>
+<area shape="rect" id="node5" href="$class_axle.html#a11508356c463452848fda048dbb6d350" title="a differential that always splits the torque evenly, this is the original method " alt="" coords="376,5,536,35"/>
+<area shape="rect" id="node7" href="$class_axle.html#a3aa3e493320a279e3bd1828655e6966f" title="viscous coupler, the greater the difference in speed the more torque is transfered ..." alt="" coords="383,59,529,88"/>
+<area shape="rect" id="node9" href="$class_axle.html#a555d076e3aa3bfe70f91d6d625d51de3" title="more power goes to the faster spining wheel " alt="" coords="391,112,521,141"/>
+<area shape="rect" id="node11" href="$class_axle.html#a3053f4ee933712559c5306f6077b2d1b" title="ensures both wheels rotate at the the same speed " alt="" coords="385,165,527,195"/>
+</map>

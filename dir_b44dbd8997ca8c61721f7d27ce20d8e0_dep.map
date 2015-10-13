@@ -1,0 +1,41 @@
+<map id="source/main/rig_editor" name="source/main/rig_editor">
+<area shape="rect" id="node4" href="dir_faff61911cdc4b386f46328cbffeffb0.html" title="rig_data" alt="" coords="37,161,109,209"/>
+<area shape="rect" id="edge8" href="dir_000047_000048.html" title="8" alt="" coords="78,134,86,151"/>
+<area shape="rect" id="node5" href="dir_cb20f6a18609867d8953e052a37ad3a1.html" title="gui" alt="" coords="427,65,499,113"/>
+<area shape="rect" id="edge4" href="dir_000047_000031.html" title="19" alt="" coords="401,72,416,90"/>
+<area shape="rect" id="node6" href="dir_55e282c4b137049156e0cd9b92d17609.html" title="resources" alt="" coords="184,257,261,305"/>
+<area shape="rect" id="edge6" href="dir_000047_000046.html" title="1" alt="" coords="212,228,220,246"/>
+<area shape="rect" id="node7" href="dir_f0f7d06cdd3afa32db540a94ff15e354.html" title="utils" alt="" coords="387,353,459,401"/>
+<area shape="rect" id="edge10" href="dir_000047_000053.html" title="7" alt="" coords="431,327,439,344"/>
+<area shape="rect" id="node8" href="dir_0bd5307e14ef78d30f1665dd8a71b0d5.html" title="gfx" alt="" coords="349,449,421,497"/>
+<area shape="rect" id="edge12" href="dir_000047_000026.html" title="1" alt="" coords="333,429,341,447"/>
+<area shape="rect" id="node9" href="dir_4da7c40c31a8ca7522cf41d20cf16f9f.html" title="main_sim" alt="" coords="285,161,363,209"/>
+<area shape="rect" id="edge14" href="dir_000047_000022.html" title="1" alt="" coords="266,155,274,172"/>
+<area shape="rect" id="node10" href="dir_30087b5439e04c85304dbcf15650710b.html" title="common" alt="" coords="108,641,180,689"/>
+<area shape="rect" id="edge36" href="dir_000048_000019.html" title="2" alt="" coords="113,613,121,631"/>
+<area shape="rect" id="node11" href="dir_9054b8aa4d90a0bb654e291150ddca3e.html" title="rig_file_input_output" alt="" coords="181,545,320,593"/>
+<area shape="rect" id="edge38" href="dir_000048_000056.html" title="25" alt="" coords="215,517,230,535"/>
+<area shape="rect" id="edge18" href="dir_000031_000048.html" title="2" alt="" coords="125,156,133,174"/>
+<area shape="rect" id="edge16" href="dir_000031_000046.html" title="2" alt="" coords="236,233,244,250"/>
+<area shape="rect" id="edge20" href="dir_000031_000053.html" title="40" alt="" coords="423,327,438,344"/>
+<area shape="rect" id="edge22" href="dir_000031_000026.html" title="6" alt="" coords="431,435,439,453"/>
+<area shape="rect" id="edge24" href="dir_000031_000022.html" title="4" alt="" coords="367,149,375,166"/>
+<area shape="rect" id="edge26" href="dir_000031_000056.html" title="8" alt="" coords="335,559,343,577"/>
+<area shape="rect" id="edge28" href="dir_000046_000053.html" title="12" alt="" coords="366,336,381,353"/>
+<area shape="rect" id="edge30" href="dir_000046_000026.html" title="2" alt="" coords="356,421,364,439"/>
+<area shape="rect" id="edge32" href="dir_000046_000019.html" title="1" alt="" coords="157,617,165,634"/>
+<area shape="rect" id="edge34" href="dir_000046_000056.html" title="1" alt="" coords="251,518,259,535"/>
+<area shape="rect" id="edge40" href="dir_000053_000031.html" title="2" alt="" coords="451,122,459,140"/>
+<area shape="rect" id="edge42" href="dir_000053_000026.html" title="2" alt="" coords="397,425,405,443"/>
+<area shape="rect" id="edge44" href="dir_000026_000031.html" title="12" alt="" coords="468,125,483,142"/>
+<area shape="rect" id="edge46" href="dir_000026_000053.html" title="43" alt="" coords="400,408,415,425"/>
+<area shape="rect" id="edge48" href="dir_000026_000056.html" title="2" alt="" coords="300,533,308,550"/>
+<area shape="rect" id="edge50" href="dir_000022_000047.html" title="3" alt="" coords="121,112,129,129"/>
+<area shape="rect" id="edge52" href="dir_000022_000031.html" title="9" alt="" coords="412,109,420,126"/>
+<area shape="rect" id="edge54" href="dir_000022_000046.html" title="2" alt="" coords="263,242,271,259"/>
+<area shape="rect" id="edge56" href="dir_000022_000053.html" title="11" alt="" coords="399,324,414,342"/>
+<area shape="rect" id="edge58" href="dir_000022_000026.html" title="6" alt="" coords="381,421,389,438"/>
+<area shape="rect" id="edge60" href="dir_000056_000019.html" title="3" alt="" coords="186,627,194,644"/>
+<area shape="rect" id="graph3" href="dir_b44dbd8997ca8c61721f7d27ce20d8e0.html" alt="" coords="27,55,123,220"/>
+<area shape="rect" id="graph2" href="dir_3c915b6e49908d72cc0f58ba3fde1e4d.html" title="main" alt="" coords="16,16,133,231"/>
+</map>

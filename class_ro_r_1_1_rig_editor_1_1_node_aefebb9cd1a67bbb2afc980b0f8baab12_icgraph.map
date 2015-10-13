@@ -1,0 +1,33 @@
+<map id="RoR::RigEditor::Node::GetPosition" name="RoR::RigEditor::Node::GetPosition">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_flex_body_wheel.html#ab1ff2e879ea0279ea16c53041df1e1c7" title="RoR::RigEditor::FlexBody\lWheel::ReGenerateMeshData" alt="" coords="236,5,433,51"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_land_vehicle_wheel.html#aa8e456fc63971b8ebdd6ca8ff247f4d5" title="Find out where to connect rigidity node. " alt="" coords="207,74,463,121"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_rig_editor_1_1_mesh_wheel.html#a8509201ad50e022bde0f880dad07be07" title="RoR::RigEditor::MeshWheel\l::ReGenerateMeshData" alt="" coords="241,143,428,190"/>
+<area shape="rect" id="node11" href="$class_ro_r_1_1_rig_editor_1_1_mesh_wheel2.html#a044057d8983e99182097c3a6d06a3fc0" title="RoR::RigEditor::MeshWheel2\l::ReGenerateMeshData" alt="" coords="237,213,432,259"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a313a85e2e173bd3d0ea38e5135f68e1b" title="RoR::RigEditor::Rig\l::Build" alt="" coords="1104,323,1243,370"/>
+<area shape="rect" id="node25" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a7ddf6f38d4e9a8c4f36a8bc7c859538d" title="RoR::RigEditor::Rig\l::GetWheelAxisNodes" alt="" coords="259,282,411,329"/>
+<area shape="rect" id="node32" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#ae0f2af92699b413199c31438dd41b84b" title="RoR::RigEditor::Rig\l::RefreshNodeScreenPosition" alt="" coords="237,431,432,478"/>
+<area shape="rect" id="node58" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a717b168d21a24ac0338f2c6ae60c881b" title="RoR::RigEditor::Rig\l::RefreshNodesDynamicMeshes" alt="" coords="519,695,729,742"/>
+<area shape="rect" id="node66" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a13ddf0660af7c1c101915c9b1efd2c90" title="RoR::RigEditor::Rig\l::RefreshBeamsDynamicMesh" alt="" coords="524,765,724,811"/>
+<area shape="rect" id="node71" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a3c57ce426944230414c3b6bc6afad637" title="RoR::RigEditor::Rig\l::ExtrudeSelectedNodes" alt="" coords="543,575,705,622"/>
+<area shape="rect" id="node74" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a4d3922eb1fb33cc1e653d863f241c04c" title="RoR::RigEditor::Rig\l::SelectedNodesCommitPosition\lUpdates" alt="" coords="229,599,440,663"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_rig_editor_1_1_land_vehicle_wheel.html#a309cc93304ae431b131da52627900ba4" title="RoR::RigEditor::LandVehicle\lWheel::SetRigidityNode" alt="" coords="529,74,719,121"/>
+<area shape="rect" id="node15" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a0ae39993d636eacc5dfe567c5f5ac4b9" title="RoR::RigEditor::Main\l::LoadRigDefFile" alt="" coords="1355,393,1501,439"/>
+<area shape="rect" id="node23" href="$class_ro_r_1_1_rig_editor_1_1_main.html#ad136bb804b1accbfed00705895f86362" title="RoR::RigEditor::Main\l::CommandCreateNewEmptyRig" alt="" coords="1321,323,1535,370"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a35a10d6c23920802442d32fab1a8d470" title="RoR::RigEditor::Main\l::NotifyFileSelectorEnded" alt="" coords="1591,393,1761,439"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a4f73e9dc5632524ca803864460b82bb5" title="RoR::RigEditor::Main\l::CommandShowDialogOpenRigFile" alt="" coords="1824,354,2056,401"/>
+<area shape="rect" id="node21" href="$class_ro_r_1_1_rig_editor_1_1_main.html#acb4af1361d9233f5ee2fa658536a7658" title="RoR::RigEditor::Main\l::CommandShowDialogSaveRigFileAs" alt="" coords="1817,423,2063,470"/>
+<area shape="rect" id="node27" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a17da4731c9ac80ccae4a1f275173d611" title="RoR::RigEditor::Rig\l::GetWheelDefinitionNodes" alt="" coords="533,266,715,313"/>
+<area shape="rect" id="node29" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#af6175dd6ee639e86fa8784742819ef1e" title="RoR::RigEditor::Rig\l::BuildFromModule" alt="" coords="836,266,975,313"/>
+<area shape="rect" id="node34" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a0a03055933371812797a04a1353479f1" title="RoR::RigEditor::Rig\l::RefreshAllNodesScreenPositions" alt="" coords="512,386,736,433"/>
+<area shape="rect" id="node36" href="$class_ro_r_1_1_rig_editor_1_1_main.html#abe2179248ae5a8d9fc4a8ed136a18c46" title="RoR::RigEditor::Main\l::UpdateMainLoop" alt="" coords="832,566,979,613"/>
+<area shape="rect" id="node54" href="$class_ro_r_1_1_rig_editor_1_1_rig.html#a62c070427e93976b8fc5a11b09b6076d" title="RoR::RigEditor::Rig\l::TranslateSelectedNodes" alt="" coords="537,506,711,553"/>
+<area shape="rect" id="node50" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a7043ad34e928efff290d0b9f2192a613" title="RoR::RigEditor::Main\l::OnNewRigCreatedOrLoaded" alt="" coords="1076,393,1271,439"/>
+<area shape="rect" id="node38" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a8cd11f0150b5e247b6d9f00212d42b0d" title="RoR::RigEditor::Main\l::EnterMainLoop" alt="" coords="1100,566,1247,613"/>
+<area shape="rect" id="node40" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="1353,575,1503,604"/>
+<area shape="rect" id="node42" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1651,584,1701,613"/>
+<area shape="rect" id="node46" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="1585,514,1767,561"/>
+<area shape="rect" id="node44" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1904,584,1976,613"/>
+<area shape="rect" id="node48" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1849,523,2031,552"/>
+<area shape="rect" id="node62" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a1c1f2d324278f4ba5e485881cdb384f1" title="RoR::RigEditor::Main\l::CommandCurrentRigDeleteSelected\lNodes" alt="" coords="784,775,1027,839"/>
+<area shape="rect" id="node64" href="$class_ro_r_1_1_rig_editor_1_1_main.html#ae35ae0a10dd9ccbe9f6aa3270d61c2fb" title="RoR::RigEditor::Main\l::CommandCurrentRigDeleteSelected\lBeams" alt="" coords="784,687,1027,751"/>
+</map>

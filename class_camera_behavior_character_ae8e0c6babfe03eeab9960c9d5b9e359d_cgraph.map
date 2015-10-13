@@ -1,0 +1,7 @@
+<map id="CameraBehaviorCharacter::activate" name="CameraBehaviorCharacter::activate">
+<area shape="rect" id="node3" href="$class_camera_manager.html#acc8ca4bea6750e8ce6ce1f3710a0ce78" title="CameraManager::switchToNext\lBehavior" alt="" coords="231,5,436,51"/>
+<area shape="rect" id="node9" href="$class_camera_behavior_character.html#a28853736d8673066e6b30b03bd6a0973" title="CameraBehaviorCharacter\l::reset" alt="" coords="245,74,421,121"/>
+<area shape="rect" id="node5" href="$class_camera_manager.html#a6f50a61b22fd1193ec25c5c2dc8f3ae3" title="CameraManager::switchBehavior" alt="" coords="487,13,700,43"/>
+<area shape="rect" id="node7" href="$class_beam.html#a39d38800d5ab3b85b305d94b2c8ea502" title="Beam::GetCameraContext" alt="" coords="751,13,927,43"/>
+<area shape="rect" id="node11" href="$class_camera_behavior_orbit.html#ac2c38d7776bb50ffb4a0d267c11acb2c" title="CameraBehaviorOrbit\l::reset" alt="" coords="520,74,667,121"/>
+</map>

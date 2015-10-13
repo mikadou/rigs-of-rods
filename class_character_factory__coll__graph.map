@@ -1,0 +1,5 @@
+<map id="CharacterFactory" name="CharacterFactory">
+<area shape="rect" id="node2" href="$class_streamable_factory.html" title="StreamableFactory\&lt;\l CharacterFactory, Character \&gt;" alt="" coords="89,182,292,229"/>
+<area shape="rect" id="node4" href="$class_streamable_factory_interface.html" title="StreamableFactoryInterface" alt="" coords="5,85,187,115"/>
+<area shape="rect" id="node7" href="$class_zeroed_memory_allocator.html" title="ZeroedMemoryAllocator" alt="" coords="192,5,352,35"/>
+</map>

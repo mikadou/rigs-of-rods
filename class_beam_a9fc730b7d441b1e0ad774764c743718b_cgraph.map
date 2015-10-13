@@ -1,0 +1,7 @@
+<map id="Beam::setDebugOverlayState" name="Beam::setDebugOverlayState">
+<area shape="rect" id="node3" href="$class_ogre_1_1_movable_text.html#aed27a49ecadb3905afb7b5de4409d799" title="Ogre::MovableText::\lsetFontName" alt="" coords="251,5,392,51"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_movable_text.html#a8fc0b2d13ba89695e53152ad1c435306" title="Ogre::MovableText::\lsetTextAlignment" alt="" coords="251,74,392,121"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_movable_text.html#a88bb2321dd352795dfeff306928e48bc" title="Ogre::MovableText::\lshowOnTop" alt="" coords="251,143,392,190"/>
+<area shape="rect" id="node9" href="$class_ogre_1_1_movable_text.html#a0562e7c4341e263ae6e9d55f91643ade" title="Ogre::MovableText::\lsetCharacterHeight" alt="" coords="251,213,392,259"/>
+<area shape="rect" id="node11" href="$class_ogre_1_1_movable_text.html#a7ed5e440d32fee6180e6eaa7094b3f5c" title="Ogre::MovableText::\lsetColor" alt="" coords="251,282,392,329"/>
+</map>

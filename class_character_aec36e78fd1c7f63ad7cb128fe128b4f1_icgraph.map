@@ -1,0 +1,6 @@
+<map id="Character::updateMapIcon" name="Character::updateMapIcon">
+<area shape="rect" id="node3" href="$class_character.html#a4806a9150eb30673bab3d0b47e05d135" title="Character::update" alt="" coords="231,44,356,73"/>
+<area shape="rect" id="node5" href="$class_character_factory.html#a70f849028ea8a2372700fe92b44dba7b" title="CharacterFactory::update\lCharacters" alt="" coords="405,5,576,51"/>
+<area shape="rect" id="node7" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::update\lEvents" alt="" coords="624,35,803,82"/>
+<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="852,44,1065,73"/>
+</map>

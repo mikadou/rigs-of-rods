@@ -1,0 +1,6 @@
+<map id="Water::isCameraUnderWater" name="Water::isCameraUnderWater">
+<area shape="rect" id="node3" href="$class_water.html#a18fce2c0b2c45ee4ea8e413fcb4bdafa" title="Water::update" alt="" coords="292,5,396,35"/>
+<area shape="rect" id="node7" href="$class_water.html#a9a733ea131931c7625bbbcfb6c10d939" title="Water::updateReflectionPlane" alt="" coords="247,59,441,88"/>
+<area shape="rect" id="node5" href="$class_water.html#ab3c688bc459bf677f8a235cd42c9daae" title="Water::framestep" alt="" coords="491,5,613,35"/>
+<area shape="rect" id="node9" href="$class_water.html#a13622d0f0f5a4c2c0504d4df580f1aa8" title="Water::moveTo" alt="" coords="496,59,608,88"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="RoR::LandVehicleSimulation::UpdateCruiseControl" name="RoR::LandVehicleSimulation::UpdateCruiseControl">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_application.html#a608003a20ef939a79437a9da8fa76307" title="RoR::Application::GetInput\lEngine" alt="" coords="243,5,421,51"/>
+<area shape="rect" id="node5" href="$class_beam_engine.html#ae5f87426f9dc96c4f4bf377b53e9936a" title="BeamEngine::getGear" alt="" coords="257,75,407,104"/>
+<area shape="rect" id="node7" href="$class_beam_engine.html#abb3f5e80a52e013b8510d4ff4bc171f5" title="BeamEngine::isRunning" alt="" coords="251,128,413,157"/>
+<area shape="rect" id="node9" href="$class_beam_engine.html#acb984f668e093b13ca9fad182831763e" title="BeamEngine::hasContact" alt="" coords="247,181,417,211"/>
+<area shape="rect" id="node11" href="$class_beam.html#aa436790ce4151954491218752b325a1d" title="Beam::cruisecontrolToggle" alt="" coords="244,235,420,264"/>
+<area shape="rect" id="node13" href="$class_beam_engine.html#a2a9f0148195ac8b87fd92456743f2c01" title="BeamEngine::getAcc" alt="" coords="260,288,404,317"/>
+<area shape="rect" id="node15" href="$class_beam_engine.html#a74010b85a774cb7e3bd4c494bd29e315" title="BeamEngine::setAcc" alt="" coords="260,341,404,371"/>
+<area shape="rect" id="node17" href="$class_beam_engine.html#a871214fce37bde9b73e59494e2dc2bca" title="BeamEngine::getRPM" alt="" coords="256,395,408,424"/>
+<area shape="rect" id="node19" href="$class_beam_engine.html#a0da07abab36323b70d48fe5e9efe01fc" title="BeamEngine::getMaxRPM" alt="" coords="244,448,420,477"/>
+<area shape="rect" id="node21" href="$class_input_engine.html#a72145988ab99faec6f618c2a4011d236" title="InputEngine::getEventBool\lValue" alt="" coords="244,501,420,547"/>
+<area shape="rect" id="node23" href="$class_input_engine.html#a251be92f16fe445542e240fc121354d8" title="InputEngine::getEventValue" alt="" coords="469,540,653,569"/>
+<area shape="rect" id="node29" href="$class_beam_engine.html#a46fac8fa7e732ae12edd43017a3e5fc8" title="BeamEngine::getMinRPM" alt="" coords="245,621,419,651"/>
+<area shape="rect" id="node25" href="$class_input_engine.html#a3e63861375a5873297281b885c8aa8f9" title="InputEngine::axisLinearity" alt="" coords="703,513,873,543"/>
+<area shape="rect" id="node27" href="$class_input_engine.html#aaa9f701b9f4420b8e97cf4ae775038c1" title="InputEngine::deadZone" alt="" coords="711,567,865,596"/>
+</map>

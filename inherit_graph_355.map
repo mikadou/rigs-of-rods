@@ -1,0 +1,142 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_aero_engine.html" title="AeroEngine" alt="" coords="309,1620,397,1649"/>
+<area shape="rect" id="node3" href="$class_turbojet.html" title="Turbojet" alt="" coords="588,1608,657,1637"/>
+<area shape="rect" id="node5" href="$class_turboprop.html" title="Turboprop" alt="" coords="583,1661,663,1691"/>
+<area shape="rect" id="node8" href="$class_ogre_script_builder.html" title="OgreScriptBuilder" alt="" coords="561,1715,684,1744"/>
+<area shape="rect" id="node11" href="$class_d_o_f_manager.html" title="DOFManager" alt="" coords="573,165,672,195"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_g_u_i_manager.html" title="RoR::GUIManager" alt="" coords="557,59,688,88"/>
+<area shape="rect" id="node15" href="$class_ro_r_frame_listener.html" title="RoRFrameListener" alt="" coords="557,112,688,141"/>
+<area shape="rect" id="node18" href="$class_ro_r_1_1_gui_manager_interface.html" title="RoR::GuiManagerInterface" alt="" coords="264,5,443,35"/>
+<area shape="rect" id="node20" href="$class_i_height_finder.html" title="IHeightFinder" alt="" coords="573,5037,672,5067"/>
+<area shape="rect" id="node22" href="$class_terrain_geometry_manager.html" title="TerrainGeometryManager" alt="" coords="779,4344,947,4373"/>
+<area shape="rect" id="node23" href="$class_i_water.html" title="IWater" alt="" coords="323,413,384,443"/>
+<area shape="rect" id="node25" href="$class_hydrax_water.html" title="HydraxWater" alt="" coords="573,325,672,355"/>
+<area shape="rect" id="node27" href="$class_water.html" title="Water" alt="" coords="595,448,651,477"/>
+<area shape="rect" id="node30" href="$class_input_engine.html" title="InputEngine" alt="" coords="577,272,668,301"/>
+<area shape="rect" id="node34" href="$class_ro_r_1_1_rig_editor_1_1_input_handler.html" title="RoR::RigEditor::InputHandler" alt="" coords="527,219,719,248"/>
+<area shape="rect" id="node37" href="$class_depth_of_field_effect.html" title="DepthOfFieldEffect" alt="" coords="556,501,689,531"/>
+<area shape="rect" id="node39" href="$class_h_d_r_listener.html" title="HDRListener" alt="" coords="573,971,672,1000"/>
+<area shape="rect" id="node41" href="$class_hydrax_1_1_material_manager_1_1_underwater_compositor_listener.html" title="Hydrax::MaterialManager\l::UnderwaterCompositorListener" alt="" coords="517,378,728,425"/>
+<area shape="rect" id="node44" href="$class_glow_material_listener.html" title="GlowMaterialListener" alt="" coords="551,1768,695,1797"/>
+<area shape="rect" id="node47" href="$class_mesh_object.html" title="MeshObject" alt="" coords="577,1291,668,1320"/>
+<area shape="rect" id="node52" href="$class_scope_log.html" title=": this class will change the default log with the scope of its creation. Upon scope leaving..." alt="" coords="583,1397,663,1427"/>
+<area shape="rect" id="node54" href="$class_script_engine.html" title="This class represents the angelscript scripting interface. It can load and execute scripts..." alt="" coords="575,1344,671,1373"/>
+<area shape="rect" id="node57" href="$class_dynamic_texture.html" title="DynamicTexture" alt="" coords="564,1451,681,1480"/>
+<area shape="rect" id="node61" href="$class_resource_buffer.html" title="ResourceBuffer" alt="" coords="567,1555,679,1584"/>
+<area shape="rect" id="node59" href="$class_ogre_1_1_canvas_1_1_texture.html" title="Ogre::Canvas::Texture" alt="" coords="785,1451,940,1480"/>
+<area shape="rect" id="node69" href="$class_dashboard_listener.html" title="DashboardListener" alt="" coords="557,1237,688,1267"/>
+<area shape="rect" id="node72" href="$class_heat_haze_listener.html" title="HeatHazeListener" alt="" coords="560,1024,685,1053"/>
+<area shape="rect" id="node74" href="$class_hydrax_1_1_god_rays_manager_1_1_depth_map_listener.html" title="Hydrax::GodRaysManager\l::DepthMapListener" alt="" coords="535,693,711,739"/>
+<area shape="rect" id="node76" href="$class_hydrax_1_1_rtt_manager_1_1_c_depth_listener.html" title="Hydrax::RttManager\l::CDepthListener" alt="" coords="553,762,692,809"/>
+<area shape="rect" id="node78" href="$class_hydrax_1_1_rtt_manager_1_1_c_depth_reflection_listener.html" title="Hydrax::RttManager\l::CDepthReflectionListener" alt="" coords="533,831,712,878"/>
+<area shape="rect" id="node80" href="$class_hydrax_1_1_rtt_manager_1_1_c_g_p_u_normal_map_listener.html" title="Hydrax::RttManager\l::CGPUNormalMapListener" alt="" coords="532,901,713,947"/>
+<area shape="rect" id="node82" href="$class_hydrax_1_1_rtt_manager_1_1_c_reflection_listener.html" title="Hydrax::RttManager\l::CReflectionListener" alt="" coords="551,554,695,601"/>
+<area shape="rect" id="node84" href="$class_hydrax_1_1_rtt_manager_1_1_c_refraction_listener.html" title="Hydrax::RttManager\l::CRefractionListener" alt="" coords="549,623,696,670"/>
+<area shape="rect" id="node86" href="$class_reflection_texture_listener.html" title="ReflectionTextureListener" alt="" coords="537,1077,708,1107"/>
+<area shape="rect" id="node88" href="$class_refraction_texture_listener.html" title="RefractionTextureListener" alt="" coords="537,1131,708,1160"/>
+<area shape="rect" id="node90" href="$class_survey_map_texture_creator.html" title="SurveyMapTextureCreator" alt="" coords="536,1184,709,1213"/>
+<area shape="rect" id="node93" href="$class_ro_r_1_1_content_manager.html" title="RoR::ContentManager" alt="" coords="547,1821,699,1851"/>
+<area shape="rect" id="node94" href="$structrig__t.html" title="rig_t" alt="" coords="600,2195,645,2224"/>
+<area shape="rect" id="node96" href="$class_beam.html" title="Beam" alt="" coords="835,2195,891,2224"/>
+<area shape="rect" id="node97" href="$class_ro_r_singleton.html" title="RoRSingleton\&lt; LanguageEngine \&gt;" alt="" coords="243,1867,464,1896"/>
+<area shape="rect" id="node99" href="$class_language_engine.html" title="LanguageEngine" alt="" coords="564,1875,681,1904"/>
+<area shape="rect" id="node100" href="$class_ro_r_singleton.html" title="RoRSingleton\&lt; NetworkStream\lManager \&gt;" alt="" coords="251,1919,456,1966"/>
+<area shape="rect" id="node102" href="$class_network_stream_manager.html" title="NetworkStreamManager" alt="" coords="541,1928,704,1957"/>
+<area shape="rect" id="node103" href="$class_ro_r_singleton.html" title="RoRSingleton\&lt; OutProtocol \&gt;" alt="" coords="256,1989,451,2019"/>
+<area shape="rect" id="node105" href="$class_out_protocol.html" title="OutProtocol" alt="" coords="577,1981,668,2011"/>
+<area shape="rect" id="node106" href="$class_ro_r_singleton.html" title="RoRSingleton\&lt; PlayerColours \&gt;" alt="" coords="249,2043,457,2072"/>
+<area shape="rect" id="node108" href="$class_player_colours.html" title="PlayerColours" alt="" coords="571,2035,675,2064"/>
+<area shape="rect" id="node109" href="$class_ro_r_singleton.html" title="RoRSingleton\&lt; Settings \&gt;" alt="" coords="267,2096,440,2125"/>
+<area shape="rect" id="node111" href="$class_settings.html" title="Settings" alt="" coords="588,2088,657,2117"/>
+<area shape="rect" id="node112" href="$class_ro_r_singleton.html" title="RoRSingleton\&lt; SkidmarkManager \&gt;" alt="" coords="237,2149,469,2179"/>
+<area shape="rect" id="node114" href="$class_skidmark_manager.html" title="SkidmarkManager" alt="" coords="560,2141,685,2171"/>
+<area shape="rect" id="node115" href="$class_ro_r_singleton_no_creation.html" title="RoRSingletonNoCreation\l\&lt; DustManager \&gt;" alt="" coords="269,2235,437,2282"/>
+<area shape="rect" id="node117" href="$class_dust_manager.html" title="DustManager" alt="" coords="573,2248,672,2277"/>
+<area shape="rect" id="node118" href="$class_ro_r_singleton_no_creation.html" title="RoRSingletonNoCreation\l\&lt; ScriptEngine \&gt;" alt="" coords="269,1335,437,1382"/>
+<area shape="rect" id="node120" href="$class_streamable.html" title="Streamable" alt="" coords="309,2305,397,2335"/>
+<area shape="rect" id="node123" href="$class_character.html" title="Character" alt="" coords="584,2355,661,2384"/>
+<area shape="rect" id="node125" href="$class_chat_system.html" title="ChatSystem" alt="" coords="576,2301,669,2331"/>
+<area shape="rect" id="node126" href="$class_streamable_factory_interface.html" title="StreamableFactoryInterface" alt="" coords="7,5479,188,5508"/>
+<area shape="rect" id="node128" href="$class_streamable_factory.html" title="StreamableFactory\&lt;\l T, X \&gt;" alt="" coords="284,5578,423,5625"/>
+<area shape="rect" id="node130" href="$class_streamable_factory.html" title="StreamableFactory\&lt;\l BeamFactory, Beam \&gt;" alt="" coords="275,5509,432,5555"/>
+<area shape="rect" id="node134" href="$class_streamable_factory.html" title="StreamableFactory\&lt;\l CharacterFactory, Character \&gt;" alt="" coords="252,5351,455,5398"/>
+<area shape="rect" id="node138" href="$class_streamable_factory.html" title="StreamableFactory\&lt;\l ChatSystemFactory,\l ChatSystem \&gt;" alt="" coords="280,5421,427,5485"/>
+<area shape="rect" id="node132" href="$class_beam_factory.html" title="BeamFactory" alt="" coords="573,5517,672,5547"/>
+<area shape="rect" id="node136" href="$class_character_factory.html" title="CharacterFactory" alt="" coords="561,5411,684,5440"/>
+<area shape="rect" id="node140" href="$class_chat_system_factory.html" title="ChatSystemFactory" alt="" coords="553,5464,692,5493"/>
+<area shape="rect" id="node143" href="$class_forests_1_1_random_tree_loader.html" title="Forests::RandomTreeLoader" alt="" coords="529,5591,716,5620"/>
+<area shape="rect" id="node149" href="$class_ro_r_window_event_utilities.html" title="RoRWindowEventUtilities" alt="" coords="536,5683,709,5712"/>
+<area shape="rect" id="node150" href="$class_zeroed_memory_allocator.html" title="ZeroedMemoryAllocator" alt="" coords="273,3197,433,3227"/>
+<area shape="rect" id="node152" href="$class_advanced_screen.html" title="AdvancedScreen" alt="" coords="563,4664,683,4693"/>
+<area shape="rect" id="node154" href="$class_airbrake.html" title="Airbrake" alt="" coords="588,4717,657,4747"/>
+<area shape="rect" id="node156" href="$class_airfoil.html" title="Airfoil" alt="" coords="596,4771,649,4800"/>
+<area shape="rect" id="node158" href="$class_autopilot.html" title="Autopilot" alt="" coords="587,4824,659,4853"/>
+<area shape="rect" id="node160" href="$class_axle.html" title="class created from a struct will be ugly for a while. " alt="" coords="599,4877,647,4907"/>
+<area shape="rect" id="node162" href="$class_beam_engine.html" title="BeamEngine" alt="" coords="575,4931,671,4960"/>
+<area shape="rect" id="node165" href="$class_buoyance.html" title="Buoyance" alt="" coords="583,4984,663,5013"/>
+<area shape="rect" id="node167" href="$class_cache_system.html" title="CacheSystem" alt="" coords="571,5091,675,5120"/>
+<area shape="rect" id="node173" href="$class_cmd_key_inertia.html" title="CmdKeyInertia" alt="" coords="568,5144,677,5173"/>
+<area shape="rect" id="node175" href="$class_collisions.html" title="Collisions" alt="" coords="584,5197,661,5227"/>
+<area shape="rect" id="node177" href="$class_dashboard.html" title="Dashboard" alt="" coords="580,5251,665,5280"/>
+<area shape="rect" id="node180" href="$class_decal_manager.html" title="DecalManager" alt="" coords="569,5304,676,5333"/>
+<area shape="rect" id="node182" href="$class_decal_spline.html" title="DecalSpline" alt="" coords="577,5357,668,5387"/>
+<area shape="rect" id="node187" href="$class_dust_pool.html" title="DustPool" alt="" coords="585,2408,660,2437"/>
+<area shape="rect" id="node189" href="$class_envmap.html" title="Envmap" alt="" coords="588,2461,657,2491"/>
+<area shape="rect" id="node191" href="$class_flex_airfoil.html" title="FlexAirfoil" alt="" coords="583,2515,663,2544"/>
+<area shape="rect" id="node193" href="$class_flex_obj.html" title="FlexObj" alt="" coords="589,2568,656,2597"/>
+<area shape="rect" id="node195" href="$class_force_feedback.html" title="ForceFeedback" alt="" coords="567,2621,679,2651"/>
+<area shape="rect" id="node198" href="$class_game_script.html" title="Proxy class that can be called by script functions. " alt="" coords="577,2675,668,2704"/>
+<area shape="rect" id="node202" href="$class_heat_haze.html" title="HeatHaze" alt="" coords="583,2728,663,2757"/>
+<area shape="rect" id="node205" href="$class_i_behavior.html" title="IBehavior\&lt; context \&gt;" alt="" coords="551,2781,695,2811"/>
+<area shape="rect" id="node207" href="$class_i_behavior.html" title="IBehavior\&lt; CameraManager\l::CameraContext \&gt;" alt="" coords="531,2887,715,2934"/>
+<area shape="rect" id="node227" href="$class_i_manager.html" title="IManager" alt="" coords="585,3544,660,3573"/>
+<area shape="rect" id="node239" href="$class_i_thread_task.html" title="IThreadTask" alt="" coords="576,2835,669,2864"/>
+<area shape="rect" id="node250" href="$class_landusemap.html" title="Landusemap" alt="" coords="575,2957,671,2987"/>
+<area shape="rect" id="node253" href="$class_lens.html" title="Lens" alt="" coords="597,3011,648,3040"/>
+<area shape="rect" id="node255" href="$class_material_function_mapper.html" title="MaterialFunctionMapper" alt="" coords="543,3064,703,3093"/>
+<area shape="rect" id="node257" href="$class_material_replacer.html" title="MaterialReplacer" alt="" coords="563,3117,683,3147"/>
+<area shape="rect" id="node260" href="$class_m_o_c_1_1_collision_tools.html" title="MOC::CollisionTools" alt="" coords="552,3171,693,3200"/>
+<area shape="rect" id="node265" href="$class_overlay_wrapper.html" title="OverlayWrapper" alt="" coords="565,3224,680,3253"/>
+<area shape="rect" id="node268" href="$class_point_col_detector.html" title="PointColDetector" alt="" coords="561,3277,684,3307"/>
+<area shape="rect" id="node270" href="$class_position_storage.html" title="PositionStorage" alt="" coords="565,3331,680,3360"/>
+<area shape="rect" id="node272" href="$class_precision_timer.html" title="PrecisionTimer" alt="" coords="568,3384,677,3413"/>
+<area shape="rect" id="node274" href="$class_preview_renderer.html" title="PreviewRenderer" alt="" coords="561,3437,684,3467"/>
+<area shape="rect" id="node276" href="$class_procedural_manager.html" title="ProceduralManager" alt="" coords="556,3491,689,3520"/>
+<area shape="rect" id="node278" href="$class_procedural_object.html" title="ProceduralObject" alt="" coords="561,3597,684,3627"/>
+<area shape="rect" id="node280" href="$class_procedural_point.html" title="ProceduralPoint" alt="" coords="565,3651,680,3680"/>
+<area shape="rect" id="node282" href="$class_rail.html" title="Rail" alt="" coords="600,3704,645,3733"/>
+<area shape="rect" id="node284" href="$class_rail_builder.html" title="RailBuilder" alt="" coords="580,3757,665,3787"/>
+<area shape="rect" id="node286" href="$class_rail_group.html" title="RailGroup" alt="" coords="583,3811,663,3840"/>
+<area shape="rect" id="node290" href="$class_replay.html" title="Replay" alt="" coords="592,3864,653,3893"/>
+<area shape="rect" id="node293" href="$class_road.html" title="Road" alt="" coords="596,3917,649,3947"/>
+<area shape="rect" id="node295" href="$class_road2.html" title="Road2" alt="" coords="593,3971,652,4000"/>
+<area shape="rect" id="node298" href="$class_ro_r_1_1_c_s_h_a1.html" title="RoR::CSHA1" alt="" coords="572,4024,673,4053"/>
+<area shape="rect" id="node301" href="$class_ro_r_1_1_ogre_subsystem.html" title="RoR::OgreSubsystem" alt="" coords="548,4077,697,4107"/>
+<area shape="rect" id="node303" href="$class_ro_r_1_1_scene_mouse.html" title="RoR::SceneMouse" alt="" coords="556,4131,689,4160"/>
+<area shape="rect" id="node308" href="$class_screwprop.html" title="Screwprop" alt="" coords="581,4184,664,4213"/>
+<area shape="rect" id="node312" href="$class_shadow_manager.html" title="ShadowManager" alt="" coords="564,4237,681,4267"/>
+<area shape="rect" id="node314" href="$class_skidmark.html" title="Skidmark" alt="" coords="584,4291,661,4320"/>
+<area shape="rect" id="node317" href="$class_slide_node.html" title="SlideNode" alt="" coords="581,4344,664,4373"/>
+<area shape="rect" id="node320" href="$class_thread_pool.html" title="ThreadPool" alt="" coords="579,4397,667,4427"/>
+<area shape="rect" id="node322" href="$class_thread_worker.html" title="ThreadWorker" alt="" coords="571,4451,675,4480"/>
+<area shape="rect" id="node324" href="$class_torque_curve.html" title="This class loads and processes a torque curve for a truck. " alt="" coords="575,4504,671,4533"/>
+<area shape="rect" id="node326" href="$class_truck_h_u_d.html" title="TruckHUD" alt="" coords="580,4557,665,4587"/>
+<area shape="rect" id="node330" href="$class_video_camera.html" title="VideoCamera" alt="" coords="572,4611,673,4640"/>
+<area shape="rect" id="node209" href="$class_camera_behavior_fixed.html" title="CameraBehaviorFixed" alt="" coords="788,3029,937,3059"/>
+<area shape="rect" id="node211" href="$class_camera_behavior_free.html" title="CameraBehaviorFree" alt="" coords="791,2816,935,2845"/>
+<area shape="rect" id="node213" href="$class_camera_behavior_isometric.html" title="CameraBehaviorIsometric" alt="" coords="776,2923,949,2952"/>
+<area shape="rect" id="node215" href="$class_camera_behavior_orbit.html" title="CameraBehaviorOrbit" alt="" coords="789,2869,936,2899"/>
+<area shape="rect" id="node225" href="$class_camera_behavior_static.html" title="CameraBehaviorStatic" alt="" coords="787,2976,939,3005"/>
+<area shape="rect" id="node217" href="$class_camera_behavior_character.html" title="CameraBehaviorCharacter" alt="" coords="997,2923,1173,2952"/>
+<area shape="rect" id="node219" href="$class_camera_behavior_vehicle.html" title="CameraBehaviorVehicle" alt="" coords="1004,2869,1167,2899"/>
+<area shape="rect" id="node221" href="$class_camera_behavior_vehicle_cine_cam.html" title="CameraBehaviorVehicleCineCam" alt="" coords="1223,2843,1439,2872"/>
+<area shape="rect" id="node223" href="$class_camera_behavior_vehicle_spline.html" title="CameraBehaviorVehicleSpline" alt="" coords="1232,2896,1429,2925"/>
+<area shape="rect" id="node229" href="$class_i_behavior_manager.html" title="IBehaviorManager" alt="" coords="800,3491,925,3520"/>
+<area shape="rect" id="node234" href="$class_terrain_manager.html" title="TerrainManager" alt="" coords="807,3544,919,3573"/>
+<area shape="rect" id="node236" href="$class_terrain_object_manager.html" title="TerrainObjectManager" alt="" coords="788,3597,937,3627"/>
+<area shape="rect" id="node231" href="$class_camera_manager.html" title="CameraManager" alt="" coords="1027,3491,1144,3520"/>
+<area shape="rect" id="node242" href="$class_flexable.html" title="Flexable" alt="" coords="828,2763,897,2792"/>
+<area shape="rect" id="node244" href="$class_flex_body.html" title="FlexBody" alt="" coords="1047,2709,1124,2739"/>
+<area shape="rect" id="node246" href="$class_flex_mesh.html" title="FlexMesh" alt="" coords="1047,2763,1124,2792"/>
+<area shape="rect" id="node248" href="$class_flex_mesh_wheel.html" title="FlexMeshWheel" alt="" coords="1028,2816,1143,2845"/>
+</map>

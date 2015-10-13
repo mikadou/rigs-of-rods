@@ -1,0 +1,5 @@
+<map id="Ogre::MovableText::MovableText" name="Ogre::MovableText::MovableText">
+<area shape="rect" id="node3" href="$class_ogre_1_1_movable_text.html#aed27a49ecadb3905afb7b5de4409d799" title="Ogre::MovableText::\lsetFontName" alt="" coords="195,5,336,51"/>
+<area shape="rect" id="node5" href="$class_ogre_1_1_movable_text.html#a1414bbe8133feca96a3a425c94e6f063" title="Ogre::MovableText::\l_setupGeometry" alt="" coords="195,74,336,121"/>
+<area shape="rect" id="node7" href="$class_ogre_1_1_movable_text.html#af39ecbbae96d642b5e4a1a2889d3cb87" title="Ogre::MovableText::\l_updateColors" alt="" coords="384,74,525,121"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="TorqueCurve::setTorqueModel" name="TorqueCurve::setTorqueModel">
+<area shape="rect" id="node3" href="$class_torque_curve.html#a326a84416643c9745752cc99bacd5211" title="Constructor. " alt="" coords="748,13,927,42"/>
+<area shape="rect" id="node5" href="$class_torque_curve.html#a90167faf4bdf85e8cfb461c24bb00be0" title="TorqueCurve::processLine" alt="" coords="271,38,444,67"/>
+<area shape="rect" id="node10" href="$class_torque_curve.html#aee98faa6b93b58a0ba7b4a76a32e2700" title="TorqueCurve::CreateNewCurve" alt="" coords="255,91,460,121"/>
+<area shape="rect" id="node12" href="$class_rig_spawner.html#a8b8a48940590458417c9ceb088590f92" title="RigSpawner::ProcessTorque\lCurve" alt="" coords="509,119,699,165"/>
+<area shape="rect" id="node7" href="$class_torque_curve.html#a68e95142e6044ef86a4b0509fcecc1d3" title="TorqueCurve::loadDefault\lTorqueModels" alt="" coords="519,33,689,80"/>
+<area shape="rect" id="node14" href="$class_rig_spawner.html#a67da85dd09bd864df9dc924f6f2a7d49" title="RigSpawner::SpawnRig" alt="" coords="757,127,917,157"/>
+</map>

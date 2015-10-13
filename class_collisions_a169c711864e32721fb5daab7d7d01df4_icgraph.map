@@ -1,0 +1,10 @@
+<map id="Collisions::permitEvent" name="Collisions::permitEvent">
+<area shape="rect" id="node3" href="$class_collisions.html#a76f3fda7383ac14c38f2f31f3ba9e691" title="Collisions::collisionCorrect" alt="" coords="212,96,388,125"/>
+<area shape="rect" id="node16" href="$class_collisions.html#a7d672022c769ed5db3ea6aaf08117212" title="Collisions::nodeCollision" alt="" coords="217,149,383,179"/>
+<area shape="rect" id="node5" href="$class_character.html#a4806a9150eb30673bab3d0b47e05d135" title="Character::update" alt="" coords="445,43,571,72"/>
+<area shape="rect" id="node14" href="$class_beam.html#af9a3fa1db5b9d76b667a7edf83a1b8ab" title="Beam::resetPosition" alt="" coords="439,96,577,125"/>
+<area shape="rect" id="node7" href="$class_character_factory.html#a70f849028ea8a2372700fe92b44dba7b" title="CharacterFactory::update\lCharacters" alt="" coords="627,5,797,51"/>
+<area shape="rect" id="node9" href="$class_ro_r_frame_listener.html#a6b384193b130f7c1fff95d2e740a370e" title="RoRFrameListener::update\lEvents" alt="" coords="845,35,1024,82"/>
+<area shape="rect" id="node11" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1073,44,1287,73"/>
+<area shape="rect" id="node18" href="$class_beam.html#a406010888acacc4e279c04312d386d2c" title="Beam::calcNodes" alt="" coords="445,149,571,179"/>
+</map>

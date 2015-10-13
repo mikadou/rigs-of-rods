@@ -1,0 +1,7 @@
+<map id="RoR::MainThread::EnterGameplayLoop" name="RoR::MainThread::EnterGameplayLoop">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="305,36,455,65"/>
+<area shape="rect" id="node5" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="571,5,621,35"/>
+<area shape="rect" id="node9" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="505,58,687,105"/>
+<area shape="rect" id="node7" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="792,5,864,35"/>
+<area shape="rect" id="node11" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="737,67,919,96"/>
+</map>

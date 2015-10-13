@@ -1,0 +1,12 @@
+<map id="approx_exp" name="approx_exp">
+<area shape="rect" id="node3" href="$class_collisions.html#a37fe3226d0a0ad6497c97555f1aa4b31" title="Collisions::primitiveCollision" alt="" coords="144,113,331,143"/>
+<area shape="rect" id="node5" href="$class_beam.html#a71308b58566cb3c98e2aa3bb5661d3ab" title="Beam::interTruckCollisions\lCompute" alt="" coords="379,5,557,51"/>
+<area shape="rect" id="node7" href="$class_beam.html#ab988782104613bfc9a60668c258d3dce" title="Beam::intraTruckCollisions\lCompute" alt="" coords="379,74,557,121"/>
+<area shape="rect" id="node17" href="$class_collisions.html#a7d672022c769ed5db3ea6aaf08117212" title="Collisions::nodeCollision" alt="" coords="385,144,551,173"/>
+<area shape="rect" id="node21" href="$class_collisions.html#af1028e2b9de09140265d02b66654f78f" title="Collisions::groundCollision" alt="" coords="380,197,556,227"/>
+<area shape="rect" id="node9" href="$class_beam.html#ac5430b47f97dc513c9e8a0a3caa00cc2" title="Beam::frameStep" alt="" coords="608,83,731,112"/>
+<area shape="rect" id="node11" href="$class_beam_factory.html#a6fa954b906b6dc808a34e69ac2d018d3" title="BeamFactory::calcPhysics" alt="" coords="781,83,960,112"/>
+<area shape="rect" id="node13" href="$class_ro_r_frame_listener.html#acd8647e188fb8e838689492965b86faf" title="RoRFrameListener::frameStarted" alt="" coords="1009,56,1223,85"/>
+<area shape="rect" id="node15" href="$class_preview_renderer.html#a5ea6b4611b45965e072266211dc60ba8" title="PreviewRenderer::render" alt="" coords="1033,109,1199,139"/>
+<area shape="rect" id="node19" href="$class_beam.html#a406010888acacc4e279c04312d386d2c" title="Beam::calcNodes" alt="" coords="607,171,732,200"/>
+</map>

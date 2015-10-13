@@ -1,0 +1,7 @@
+<map id="RoR::RigEditor::RigProperties" name="RoR::RigEditor::RigProperties">
+<area shape="rect" id="node2" href="$struct_rig_def_1_1_skeleton_settings.html" title="RigDef::SkeletonSettings" alt="" coords="5,101,176,131"/>
+<area shape="rect" id="node4" href="$struct_rig_def_1_1_fileinfo.html" title="RigDef::Fileinfo" alt="" coords="200,101,312,131"/>
+<area shape="rect" id="node6" href="$struct_rig_def_1_1_gui_settings.html" title="RigDef::GuiSettings" alt="" coords="336,101,475,131"/>
+<area shape="rect" id="node8" href="$struct_rig_def_1_1_ext_camera.html" title="RigDef::ExtCamera" alt="" coords="499,101,635,131"/>
+<area shape="rect" id="node10" href="$class_rig_def_1_1_node_1_1_ref.html" title="RigDef::Node::Ref" alt="" coords="501,5,632,35"/>
+</map>

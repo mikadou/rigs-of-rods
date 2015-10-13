@@ -1,0 +1,11 @@
+<map id="RoR::RigEditor::Rig::RefreshBeamsDynamicMesh" name="RoR::RigEditor::Rig::RefreshBeamsDynamicMesh">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_editor_1_1_main.html#abe2179248ae5a8d9fc4a8ed136a18c46" title="RoR::RigEditor::Main\l::UpdateMainLoop" alt="" coords="304,27,451,74"/>
+<area shape="rect" id="node17" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a1c1f2d324278f4ba5e485881cdb384f1" title="RoR::RigEditor::Main\l::CommandCurrentRigDeleteSelected\lNodes" alt="" coords="256,97,499,161"/>
+<area shape="rect" id="node19" href="$class_ro_r_1_1_rig_editor_1_1_main.html#ae35ae0a10dd9ccbe9f6aa3270d61c2fb" title="RoR::RigEditor::Main\l::CommandCurrentRigDeleteSelected\lBeams" alt="" coords="256,185,499,249"/>
+<area shape="rect" id="node5" href="$class_ro_r_1_1_rig_editor_1_1_main.html#a8cd11f0150b5e247b6d9f00212d42b0d" title="RoR::RigEditor::Main\l::EnterMainLoop" alt="" coords="547,27,693,74"/>
+<area shape="rect" id="node7" href="$class_ro_r_1_1_main_thread.html#a7e4d0bd23a40e509892883af75ea0dbf" title="RoR::MainThread::Go" alt="" coords="743,36,892,65"/>
+<area shape="rect" id="node9" href="$main_2main__sim_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1008,5,1059,35"/>
+<area shape="rect" id="node13" href="$class_ro_r_1_1_main_thread.html#a7a2db954fd2f35d63982d8603d2b9614" title="RoR::MainThread::Request\lRestart" alt="" coords="943,58,1124,105"/>
+<area shape="rect" id="node11" href="$main_2main__sim_2main_8cpp.html#a2922bc5d5c2d77a3020cfbf9df12aab0" title="WinMain" alt="" coords="1229,5,1301,35"/>
+<area shape="rect" id="node15" href="$class_ro_r_frame_listener.html#af2779b96aa0f91920bd100bc30261402" title="RoRFrameListener::Restart" alt="" coords="1175,67,1356,96"/>
+</map>

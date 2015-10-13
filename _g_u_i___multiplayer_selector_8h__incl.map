@@ -1,0 +1,11 @@
+<map id="source/main/gui/panels/GUI_MultiplayerSelector.h" name="source/main/gui/panels/GUI_MultiplayerSelector.h">
+<area shape="rect" id="node3" href="$_forward_declarations_8h.html" title="Global forward declarations. " alt="" coords="23,565,175,595"/>
+<area shape="rect" id="node5" href="$_g_u_i___multiplayer_selector_layout_8h.html" title="GUI_MultiplayerSelectorLayout.h" alt="" coords="60,101,273,131"/>
+<area shape="rect" id="node8" href="$_base_layout_8h.html" title="BaseLayout.h" alt="" coords="1013,179,1115,208"/>
+<area shape="rect" id="node10" href="$_ro_r_prerequisites_8h.html" title="RoRPrerequisites.h" alt="" coords="1159,411,1295,440"/>
+<area shape="rect" id="node50" href="$_wraps_attribute_8h.html" title="WrapsAttribute.h" alt="" coords="1127,256,1247,285"/>
+<area shape="rect" id="node37" href="$_global_environment_8h.html" title="GlobalEnvironment.h" alt="" coords="2036,488,2177,517"/>
+<area shape="rect" id="node40" href="$_zeroed_memory_allocator_8h.html" title="ZeroedMemoryAllocator.h" alt="" coords="2201,488,2372,517"/>
+<area shape="rect" id="node42" href="$_bit_flags_8h.html" title="../common/BitFlags.h" alt="" coords="2396,488,2543,517"/>
+<area shape="rect" id="node54" href="$_attribute_8h.html" title="Attribute.h" alt="" coords="1225,333,1308,363"/>
+</map>

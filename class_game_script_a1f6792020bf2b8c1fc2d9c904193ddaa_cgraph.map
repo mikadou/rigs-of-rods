@@ -1,0 +1,4 @@
+<map id="GameScript::getGroundHeight" name="GameScript::getGroundHeight">
+<area shape="rect" id="node3" href="$class_terrain_manager.html#ae63cfc0dda4ab62dc7f6d72eb7845628" title="TerrainManager::getHeight\lFinder" alt="" coords="252,5,428,51"/>
+<area shape="rect" id="node5" href="$class_i_height_finder.html#a5757ec3d639bcffc834540067ec8db2e" title="IHeightFinder::getHeightAt" alt="" coords="252,75,428,104"/>
+</map>

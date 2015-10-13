@@ -1,0 +1,5 @@
+<map id="RoR::RigLoadingProfiler::Report" name="RoR::RigLoadingProfiler::Report">
+<area shape="rect" id="node3" href="$class_ro_r_1_1_rig_loading_profiler.html#aa5a5a24ce3478c2ec971d610f2881b43" title="RoR::RigLoadingProfiler\l::Restart" alt="" coords="216,5,379,51"/>
+<area shape="rect" id="node7" href="$class_precision_timer.html#a99fcefcc051dacc2e47236323b7e0311" title="PrecisionTimer::elapsed" alt="" coords="216,75,379,104"/>
+<area shape="rect" id="node5" href="$class_precision_timer.html#a8433a3ba0af62a025d512c09f2eade3d" title="PrecisionTimer::restart" alt="" coords="427,13,581,43"/>
+</map>
