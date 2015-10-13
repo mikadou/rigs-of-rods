@@ -6,7 +6,7 @@ set -o nounset
 # Build Doxygen documentation
 # (requires CMake option BUILD_DOC_DOXYGEN=TRUE)
 cd ./build
-make doc-doxygen
+make doc-doxygen > /dev/null
 
 
 # Clone branch where generated documentation resides (i.e. gh-pages branch).
@@ -22,8 +22,8 @@ git config user.email "${GH_EMAILADDRESS}"
 # Delete existing documentation and replace it with the newly generated documentation.
 git rm -r ./*
 cp -R ../doc/doxygen/html/* .
-git add -A
-git commit -m "[AUTO] Updated documentation."
+git add -A > /dev/null
+git commit -m "[AUTO] Updated documentation." > /dev/null
 
 
 # Deploy the resulting changes by pushing them to the remote gh-pages branch.
