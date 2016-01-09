@@ -27,14 +27,11 @@
 
 #include "MainThread.h"
 
-#include "Application.h"
 #include "Beam.h"
 #include "BeamFactory.h"
 #include "CacheSystem.h"
 #include "CameraManager.h"
 #include "Character.h"
-#include "CharacterFactory.h"
-#include "ChatSystem.h"
 #include "Console.h"
 #include "ContentManager.h"
 #include "DashBoardManager.h"
@@ -42,27 +39,23 @@
 #include "DustManager.h"
 #include "ErrorUtils.h"
 #include "ForceFeedback.h"
-#include "GlobalEnvironment.h"
 #include "GUIFriction.h"
 #include "GUIManager.h"
 #include "GUIMenu.h"
 #include "GUIMp.h"
 #include "Heathaze.h"
-#include "InputEngine.h"
 #include "Language.h"
 #include "LoadingWindow.h"
 #include "MumbleIntegration.h"
 #include "Network.h"
 #include "OgreSubsystem.h"
 #include "OverlayWrapper.h"
-#include "OutProtocol.h"
 #include "PlayerColours.h"
 #include "RigEditor_Config.h"
 #include "RigEditor_Main.h"
 #include "RoRFrameListener.h"
 #include "ScriptEngine.h"
 #include "Scripting.h"
-#include "Settings.h"
 #include "Skin.h"
 #include "SoundScriptManager.h"
 #include "SurveyMapManager.h"
@@ -70,9 +63,6 @@
 #include "TruckHUD.h"
 #include "Utils.h"
 #include "SkyManager.h"
-
-#include <OgreRoot.h>
-#include <OgreString.h>
 
 // Global instance of GlobalEnvironment used throughout the game.
 GlobalEnvironment *gEnv; 

@@ -27,13 +27,10 @@
 
 #include "Application.h"
 
-#include <OgreException.h>
-
 #include "CacheSystem.h"
 #include "Console.h"
 #include "ContentManager.h"
 #include "GUIManager.h"
-#include "InputEngine.h"
 #include "OgreSubsystem.h"
 #include "OverlayWrapper.h"
 #include "SceneMouse.h"
