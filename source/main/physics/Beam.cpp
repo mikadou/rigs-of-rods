@@ -1583,7 +1583,7 @@ bool Beam::frameStep(int steps)
 					BES_STOP(BES_CORE_Contacters);
 				}
 			}
-		} else if (!BeamFactory::getSingleton().asynchronousPhysics())
+		} else
 		{
 			BeamFactory::getSingleton()._WorkerWaitForSync();
 		}
