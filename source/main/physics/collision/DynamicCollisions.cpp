@@ -165,6 +165,8 @@ void interTruckCollisions(const float dt, PointColDetector &interPointCD,
                 , na->AbsPosition
                 , nb->AbsPosition, collrange);
 
+        bool collision = false;
+
         if (interPointCD.hit_count > 0)
         {
             // setup transformation of points to triangle local coordinates
@@ -185,7 +187,7 @@ void interTruckCollisions(const float dt, PointColDetector &interPointCD,
                 const bool is_colliding = InsideTriangleTest(local_point, collrange);
                 if (is_colliding)
                 {
-                    inter_collcabrate[i].rate = 0;
+                    collision = true;
 
                     const auto coord = local_point.barycentric;
                     auto distance   = local_point.distance;
@@ -206,8 +208,12 @@ void interTruckCollisions(const float dt, PointColDetector &interPointCD,
                             coord.beta, coord.gamma, normal, dt, submesh_ground_model);
                 }
             }
-        } else
+        }
+
+        if (collision)
         {
+            inter_collcabrate[i].rate = 0;
+        } else {
             inter_collcabrate[i].rate++;
         }
     }
