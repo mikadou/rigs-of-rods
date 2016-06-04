@@ -1,4 +1,7 @@
-cmake_minimum_required( VERSION 3.0.2 )
+cmake_minimum_required( VERSION 2.8.12 )
+
+# Backwardscompatibility - don't complain about manually setting version variables
+cmake_policy( SET CMP0048 OLD )
 
 
 set( CMAKE_MODULE_PATH ${CMAKE_SOURCE_DIR}/cmake )
@@ -16,8 +19,13 @@ endif()
 set(PROJECT_NAME_SHORT "RoR")
 set(PROJECT_NAME_LONG  "Rigs of Rods")
 
-project( ${PROJECT_NAME_SHORT} VERSION 0.4.6.0 )
+project( ${PROJECT_NAME_SHORT} )
 
+set( PROJECT_VRESION_MAJOR 0 )
+set( PROJECT_VRESION_MINOR 4 )
+set( PROJECT_VRESION_PATCH 6 )
+set( PROJECT_VRESION_TWEAK 0 )
+set( PROJECT_VERSION ${PROJECT_VRESION_MAJOR}.${PROJECT_VRESION_MINOR}.${PROJECT_VRESION_PATCH}.${PROJECT_VRESION_TWEAK} )
 
 ################################################################################
 # Available build options
